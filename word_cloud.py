@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+    Created by: Andrés Segura-Tinoco
+    Version: 0.1
+    Created on: Nov 21, 2023
+    Updated on: Nov 22, 2023
+    Description: Main class.
+"""
 import util_libs as ul
 from wordcloud import WordCloud
 import spacy
@@ -38,7 +46,7 @@ def main():
 
     for prop_name, prop_data in proposal_list.items():
         # Concatenate the extracted 'text' fields
-        prop_text = ul.concatenate_texts_from_jsonl(prop_data)
+        prop_text = ul.concatenate_texts_from_jsonl(prop_data, "text")
 
         # Remove spanish stopwords
         spanish_stopwords = ul.load_stopwords(solution_path, "spanish")
@@ -57,4 +65,11 @@ def main():
     ul.save_list_to_csv(output_path, columns, entity_list)
 
 
-main()
+#####################
+### START PROGRAM ###
+#####################
+if __name__ == "__main__":
+    main()
+#####################
+#### END PROGRAM ####
+#####################

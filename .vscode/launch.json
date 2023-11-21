@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "main",
             "env": {
-                "PYTHONPATH": "C:/Dev Projects/dgov-visual-analytics"
+                "PYTHONPATH": "${workspaceFolder}"
             }
         }
     ]

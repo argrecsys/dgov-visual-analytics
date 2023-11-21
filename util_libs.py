@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+    Created by: Andrés Segura-Tinoco
+    Version: 0.1
+    Created on: Nov 21, 2023
+    Updated on: Nov 22, 2023
+    Description: Library of utility functions.
+"""
 import json
 import os
 import csv
@@ -39,11 +47,10 @@ def read_jsonl_data(folder_path: str):
     return jsonl_data
 
 
-def concatenate_texts_from_jsonl(json_data):
-    # Variable to store concatenated texts
+def concatenate_texts_from_jsonl(json_data, field_name):
     concatenated_text = ""
     if json_data:
-        texts = [line["text"] for line in json_data]
+        texts = [line[field_name] for line in json_data]
         concatenated_text = " ".join(texts)
     return concatenated_text
 
@@ -67,7 +74,8 @@ def load_stopwords(solution_path: str, lang: str):
 
 # Using csv.writer method from CSV package
 def save_list_to_csv(file_path: str, columns: list, data: list):
-    with open(file_path, "w", newline="") as f:
-        write = csv.writer(f)
-        write.writerow(columns)
-        write.writerows(data)
+    if len(columns) and len(data):
+        with open(file_path, "w", newline="") as f:
+            write = csv.writer(f)
+            write.writerow(columns)
+            write.writerows(data)
