@@ -3,7 +3,7 @@
     Created by: Andrés Segura-Tinoco
     Version: 0.1
     Created on: Nov 21, 2023
-    Updated on: Nov 22, 2023
+    Updated on: Nov 23, 2023
     Description: Main class.
 """
 import util_libs as ul
@@ -38,7 +38,7 @@ def generate_and_save_wordcloud(text, output_path):
 
 def main():
     solution_path = "C:/Dev Projects/dgov-visual-analytics"
-    input_path = f"{solution_path}/data"
+    input_path = f"{solution_path}/data/raw_data"
     proposal_list = ul.read_jsonl_data(input_path)
     print(f"Number of files: {len(proposal_list)}")
 
@@ -50,7 +50,7 @@ def main():
 
         # Remove spanish stopwords
         spanish_stopwords = ul.load_stopwords(solution_path, "spanish")
-        filtered_words = ul.remove_stopwords(prop_text, spanish_stopwords)
+        filtered_words = ul.remove_stopwords(prop_text, spanish_stopwords, 3)
 
         # Extract entities from the text
         entities = extract_entities(filtered_words)
