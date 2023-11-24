@@ -1,0 +1,157 @@
+{
+  "name": "879",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "25540",
+              "value": 100,
+              "text": "[25540] El sistema que dec\u00eds que existe en otros pa\u00edses es el llamado SDDR Sistema de Dep\u00f3sito, Devoluci\u00f3n y Retorno En Espa\u00f1a la Fundaci\u00f3n Retorna, que lo impulsa, agrupa a representantes de los distintos sectores implicados: industria del reciclado, ONG ambientales, sindicatos y asociaciones de consumidores. No est\u00e1 basado en que nos paguen a los consumidores, si no en establecer un peque\u00f1o pago previo con cada envase de pl\u00e1stico como se hac\u00eda antiguamente con las botellas de vidrio que es retornado al consumidor al depositar el envase usado en una m\u00e1quina que lo recoge y prepara para su traslado y reciclado. Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases, evitando que estos acaben en basureros, en el campo, la playa o el mar. Aqu\u00ed en Espa\u00f1a Retorna ha llevado a cabo experiencias piloto exitosas en los municipios de Cadaqu\u00e9s Girona y Almonacid del Marquesado Cuenca.",
+              "short_text": "[25540] El sistema que dec\u00eds que existe en otros pa\u00edses es el llamado SDDR Sistema de Dep\u00f3sito, Devoluci\u00f3n y Retorno En Espa\u00f1a la Fundaci\u00f3n Retorna, que lo impulsa, agrupa a representantes de los dist..."
+            }
+          ],
+          "text": "[SUPPORT] Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases.",
+          "short_text": "[SUPPORT] Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "37325",
+              "value": 100,
+              "text": "[37325] No entiendo como este sistema no puede estar ya normalizado aqu\u00ed, en Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico.",
+              "short_text": "[37325] No entiendo como este sistema no puede estar ya normalizado aqu\u00ed, en Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por bo..."
+            }
+          ],
+          "text": "[SUPPORT] En Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico.",
+          "short_text": "[SUPPORT] En Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "65308",
+              "value": 100,
+              "text": "[65308] En Alemania por ejemplo, es una practica habitual en los supermercados. Solo veo ventajas la verdad, ganan las empresas reutilizando los envases, gana el medio ambiente por supuesto, disminuyendo el consumo de pl\u00e1stico y evitando tragedias como las inmensas acumulaciones de pl\u00e1stico en los mares o residuos en bosques, los consumidores, aunque yo me conformo con la satisfacci\u00f3n de cuidar nuestro entorno, para los que no posean esa inmensa fuerza de voluntad que se necesita para cruzar la calle hasta el contenedor y reciclar, se les recompensa monetariamente por lo que al perecer vale m\u00e1s la pena esforzarse.",
+              "short_text": "[65308] En Alemania por ejemplo, es una practica habitual en los supermercados. Solo veo ventajas la verdad, ganan las empresas reutilizando los envases, gana el medio ambiente por supuesto, disminuye..."
+            }
+          ],
+          "text": "[SUPPORT] Las empresas ganan reutilizando los envases, gana el medio ambiente disminuyendo el consumo de pl\u00e1stico y evitando tragedias como las inmensas acumulaciones de pl\u00e1stico en los mares.",
+          "short_text": "[SUPPORT] Las empresas ganan reutilizando los envases, gana el medio ambiente disminuyendo el consumo de pl\u00e1stico y evitando tragedias como las inmensas acumulaciones de pl\u00e1stico en los mares."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "29418",
+              "value": 100,
+              "text": "[29418] Y yo tengo una duda. De d\u00f3nde saldr\u00eda ese dinero? No estoy deacuerdo con los premios por civismo. Es un deber de todos como ciudadano. Os dir\u00e9 que en la actualidad hay una serie de establecimientos que recogen materiales como papel cart\u00f3n y aluminio por eso hay gente que lo recoge en los contenedores Quien quiera reciclar a cambio de dinero acuda a ellos, pero que no pretenda hacer del reciclaje una forma de obtener dinero sin tributar por ello.",
+              "short_text": "[29418] Y yo tengo una duda. De d\u00f3nde saldr\u00eda ese dinero? No estoy deacuerdo con los premios por civismo. Es un deber de todos como ciudadano. Os dir\u00e9 que en la actualidad hay una serie de establecimi..."
+            }
+          ],
+          "text": "[ATTACK] No estoy de acuerdo con los premios por civismo. Es un deber de todos como ciudadano.",
+          "short_text": "[ATTACK] No estoy de acuerdo con los premios por civismo. Es un deber de todos como ciudadano."
+        },
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "36226",
+              "value": 100,
+              "text": "[36226] Con lo f\u00e1cil que es echar la botella en el contenedor. Este metodo implica que: -Nadie te va a pagar por reciclar -Pagas el dinero que luego te van a devolver al comprarlo. -Si se te rompe el envase o la etiqueta te has quedado sin dinero. -Tienes que ir con la supercesta de los cristales hasta el supermercado -Si llegas de trabajar tarde no hay tiendas abiertas - Tienes que comprar obligatoriamente en el supermercado d\u00f3nde canjeas las botellas para que te devuelvan el dinero - Si eres una persona mayor y pides para que te lo traigan a casa, tienes que ir con la supercesta del vidrio con 80 a\u00f1os cada vez por suerte envasan m\u00e1s con vidrio que te deja el hombro hecho polvo. \u00bfTodo esto por la vaguer\u00eda de no ir al contenedor? Los Alemanes parece que s\u00f3lo saben hacer cosas a cambio de dinero, algo positivo que ten\u00edamos esque nosotros sabemos hacer cosas de manera altru\u00edsta, si no es as\u00ed, mal vamos. No es mejor seguir gastando en campa\u00f1as de fomento de reciclaje en lugar de en esto?.",
+              "short_text": "[36226] Con lo f\u00e1cil que es echar la botella en el contenedor. Este metodo implica que: -Nadie te va a pagar por reciclar -Pagas el dinero que luego te van a devolver al comprarlo. -Si se te rompe el..."
+            }
+          ],
+          "text": "[ATTACK] Este metodo implica que nadie te va a pagar por reciclar - Pagas el dinero que luego te van a devolver al comprarlo.",
+          "short_text": "[ATTACK] Este metodo implica que nadie te va a pagar por reciclar - Pagas el dinero que luego te van a devolver al comprarlo."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "36226",
+              "value": 100,
+              "text": "[36226] Con lo f\u00e1cil que es echar la botella en el contenedor. Este metodo implica que: -Nadie te va a pagar por reciclar -Pagas el dinero que luego te van a devolver al comprarlo. -Si se te rompe el envase o la etiqueta te has quedado sin dinero. -Tienes que ir con la supercesta de los cristales hasta el supermercado -Si llegas de trabajar tarde no hay tiendas abiertas - Tienes que comprar obligatoriamente en el supermercado d\u00f3nde canjeas las botellas para que te devuelvan el dinero - Si eres una persona mayor y pides para que te lo traigan a casa, tienes que ir con la supercesta del vidrio con 80 a\u00f1os cada vez por suerte envasan m\u00e1s con vidrio que te deja el hombro hecho polvo. \u00bfTodo esto por la vaguer\u00eda de no ir al contenedor? Los Alemanes parece que s\u00f3lo saben hacer cosas a cambio de dinero, algo positivo que ten\u00edamos esque nosotros sabemos hacer cosas de manera altru\u00edsta, si no es as\u00ed, mal vamos. No es mejor seguir gastando en campa\u00f1as de fomento de reciclaje en lugar de en esto?.",
+              "short_text": "[36226] Con lo f\u00e1cil que es echar la botella en el contenedor. Este metodo implica que: -Nadie te va a pagar por reciclar -Pagas el dinero que luego te van a devolver al comprarlo. -Si se te rompe el..."
+            }
+          ],
+          "text": "[ATTACK] Si se te rompe el envase o la etiqueta te has quedado sin dinero.",
+          "short_text": "[ATTACK] Si se te rompe el envase o la etiqueta te has quedado sin dinero."
+        }
+      ],
+      "text": "Sistema de Retorno",
+      "short_text": "Sistema de Retorno"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "77805",
+              "value": 100,
+              "text": "[77805] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos. Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente. Por ello, plantee hace unos d\u00edas, una propuesta mucho m\u00e1s completa y ambiciosa que esta que propones y para la que pido el voto de la gente: .",
+              "short_text": "[77805] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos. Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la g..."
+            }
+          ],
+          "text": "[SUPPORT] Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente.",
+          "short_text": "[SUPPORT] Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente."
+        },
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "77805",
+              "value": 100,
+              "text": "[77805] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos. Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente. Por ello, plantee hace unos d\u00edas, una propuesta mucho m\u00e1s completa y ambiciosa que esta que propones y para la que pido el voto de la gente: .",
+              "short_text": "[77805] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos. Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la g..."
+            }
+          ],
+          "text": "[ATTACK] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos.",
+          "short_text": "[ATTACK] La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos."
+        }
+      ],
+      "text": "Gesti\u00f3n Municipal de Alimentos Sobrantes",
+      "short_text": "Gesti\u00f3n Municipal de Alimentos Sobrantes"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "9",
+          "children": [],
+          "text": "[SUPPORT] Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador.",
+          "short_text": "[SUPPORT] Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador."
+        },
+        {
+          "name": "10",
+          "children": [],
+          "text": "[SUPPORT] Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s.",
+          "short_text": "[SUPPORT] Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s."
+        },
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "51176",
+              "value": 100,
+              "text": "[51176] De esta manera no se tienen que fabricar nuevas botellas, sino que siempre estamos utilizando los mismos envases. Solo se reciclar\u00edan los que ya est\u00e1n deteriorados. Esto yo lo utilizaria para todos los envases y penalizaria a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc. Etc.",
+              "short_text": "[51176] De esta manera no se tienen que fabricar nuevas botellas, sino que siempre estamos utilizando los mismos envases. Solo se reciclar\u00edan los que ya est\u00e1n deteriorados. Esto yo lo utilizaria para..."
+            }
+          ],
+          "text": "[ATTACK] penalizar\u00eda a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc.",
+          "short_text": "[ATTACK] penalizar\u00eda a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc."
+        }
+      ],
+      "text": "Reutilizaci\u00f3n de Envases",
+      "short_text": "Reutilizaci\u00f3n de Envases"
+    }
+  ],
+  "text": "Si reciclas. Te pagamos. Implantar m\u00e1quinas de recogida de envases en los supermercados, centros comerciales. Cada vez que reciclas recibe una cantidad de dinero por haber depositado vidrio/envases en el contenedor. La idea es Implantar m\u00e1quinas de recogida de envases en los supermercados, centros comerciales. Cada vez que reciclas recibes una cantidad de dinero por haber depositado vidrio/envases en el contenedor.",
+  "short_text": "Si reciclas. Te pagamos. Implantar m\u00e1quinas de recogida de envases en los supermercados, centros comerciales. Cada vez que reciclas recibe una cantidad de dinero por haber depositado vidrio/envases en..."
+}
