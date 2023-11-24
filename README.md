@@ -1,7 +1,15 @@
-# Digital Government - DM Visual Analytics with ChatGPT/3
-![version](https://img.shields.io/badge/version-0.1.0-blue)
-![last-update](https://img.shields.io/badge/last_update-11/23/2023-orange)
+# Digital Government - DM Visual Analytics with ChatGPT
+![version](https://img.shields.io/badge/version-0.2.0-blue)
+![last-update](https://img.shields.io/badge/last_update-11/24/2023-orange)
 ![license](https://img.shields.io/badge/license-Apache_2.0-brightgreen)
+
+## Dependencies
+The implemented solutions depend on or make use of the following libraries:
+- ETLs:
+  - python v3.11.6
+  - spaCy v3.7.2
+- DataViz:
+  - d3.js v7.8.5
 
 ## Authors
 Created on Nov 21, 2023  
