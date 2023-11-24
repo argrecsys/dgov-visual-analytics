@@ -1,0 +1,270 @@
+{
+  "name": "89",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "31995",
+              "value": 100,
+              "text": "[31995] El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito. Lo us\u00e9 hace unos meses y es perfecto. Lo que hace falta es conocerlo y que antes de depositar nadir nada en la calle haga esta gesti\u00f3n.",
+              "short_text": "[31995] El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito. Lo us\u00e9 hace unos meses y es perfecto. Lo que hace falta es conocerlo y que antes de depositar nadir nada en la..."
+            }
+          ],
+          "text": "[SUPPORT] El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito.",
+          "short_text": "[SUPPORT] El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "18480",
+              "value": 100,
+              "text": "[18480] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes? He utilizado este servicio y me ha parecido eficiente.",
+              "short_text": "[18480] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes? He utilizado este servicio y me..."
+            }
+          ],
+          "text": "[SUPPORT] He utilizado este servicio y me ha parecido eficiente.",
+          "short_text": "[SUPPORT] He utilizado este servicio y me ha parecido eficiente."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "42993",
+              "value": 100,
+              "text": "[42993] Hola, Eva. Soy la autora de la propuesta. Ayer, despu\u00e9s de meses, vi pasar por mi calle un cami\u00f3n para recoger un mueble grande que hab\u00eda en mi calle. Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento. Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar. Est\u00e1 claro que ahora funciona de otra forma pero sigue sin ser eficiente.",
+              "short_text": "[42993] Hola, Eva. Soy la autora de la propuesta. Ayer, despu\u00e9s de meses, vi pasar por mi calle un cami\u00f3n para recoger un mueble grande que hab\u00eda en mi calle. Claro que s\u00e9 que el servicio existe pero..."
+            }
+          ],
+          "text": "[ATTACK] Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento.",
+          "short_text": "[ATTACK] Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "17834",
+              "value": 100,
+              "text": "[17834] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan. Y adem\u00e1s el 010 es de pago.",
+              "short_text": "[17834] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan. Y adem\u00e1s el 010 es de pago."
+            }
+          ],
+          "text": "[ATTACK] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan.",
+          "short_text": "[ATTACK] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan."
+        }
+      ],
+      "text": "Eficiencia del servicio",
+      "short_text": "Eficiencia del servicio"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "19324",
+              "value": 100,
+              "text": "[19324] Puedes llamar al 91 529 82 10 que es el equivalente al 010 Yo les llam\u00e9 para dar el aviso y el dpto. Me devolvi\u00f3 ese mismo d\u00eda para acordar la recogida.",
+              "short_text": "[19324] Puedes llamar al 91 529 82 10 que es el equivalente al 010 Yo les llam\u00e9 para dar el aviso y el dpto. Me devolvi\u00f3 ese mismo d\u00eda para acordar la recogida."
+            }
+          ],
+          "text": "[SUPPORT] Puedes llamar al 91 529 82 10 que es el equivalente al 010.",
+          "short_text": "[SUPPORT] Puedes llamar al 91 529 82 10 que es el equivalente al 010."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "18483",
+              "value": 100,
+              "text": "[18483] Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis.",
+              "short_text": "[18483] Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis."
+            }
+          ],
+          "text": "[SUPPORT] Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis.",
+          "short_text": "[SUPPORT] Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis."
+        },
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "17834",
+              "value": 100,
+              "text": "[17834] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan. Y adem\u00e1s el 010 es de pago.",
+              "short_text": "[17834] Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan. Y adem\u00e1s el 010 es de pago."
+            }
+          ],
+          "text": "[ATTACK] Y adem\u00e1s el 010 es de pago.",
+          "short_text": "[ATTACK] Y adem\u00e1s el 010 es de pago."
+        },
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "80455",
+              "value": 100,
+              "text": "[80455] Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir. Que tampoco tiene que ser todo gratis. De hecho, si no lo es, el que lo utiliza lo paga, en vez de disolverse el coste entre todos. Porque recuerdo que, en vez de dejar los muebles en la calle y ensuciar temporalmente la ciudad, se pueden llevar a un punto limpio.",
+              "short_text": "[80455] Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir. Que tampoco tiene que ser..."
+            }
+          ],
+          "text": "[ATTACK] Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir.",
+          "short_text": "[ATTACK] Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir."
+        }
+      ],
+      "text": "Accesibilidad y coste",
+      "short_text": "Accesibilidad y coste"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "78258",
+              "value": 100,
+              "text": "[78258] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos. Os recuerdo que Espa\u00f1a es el pa\u00eds de la OCDE donde m\u00e1s avanz\u00f3 la desigualdad durante la crisis. La desigualdad en Espa\u00f1a avanza a un ritmo que supera hasta 14 veces a Grecia. La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os, con 134 millones de personas en riesgo de exclusi\u00f3n en el a\u00f1o 2014 292 de la poblaci\u00f3n espa\u00f1ola seg\u00fan concluye el informe Una econom\u00eda al servicio del 1 hecha p\u00fablica en 2016 por Oxfam Intermon. Por otra lado, estamos a la espera de que nos apliquen 10000 millones de euros en recortes desde Europa. Podemos seguir obviando este tema, pensar que no pasa nada pero ahora es el momento de plantear acciones contra la pobreza: .",
+              "short_text": "[78258] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos. Os recuerdo q..."
+            }
+          ],
+          "text": "[ATTACK] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.",
+          "short_text": "[ATTACK] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos."
+        },
+        {
+          "name": "10",
+          "children": [
+            {
+              "name": "78258",
+              "value": 100,
+              "text": "[78258] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos. Os recuerdo que Espa\u00f1a es el pa\u00eds de la OCDE donde m\u00e1s avanz\u00f3 la desigualdad durante la crisis. La desigualdad en Espa\u00f1a avanza a un ritmo que supera hasta 14 veces a Grecia. La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os, con 134 millones de personas en riesgo de exclusi\u00f3n en el a\u00f1o 2014 292 de la poblaci\u00f3n espa\u00f1ola seg\u00fan concluye el informe Una econom\u00eda al servicio del 1 hecha p\u00fablica en 2016 por Oxfam Intermon. Por otra lado, estamos a la espera de que nos apliquen 10000 millones de euros en recortes desde Europa. Podemos seguir obviando este tema, pensar que no pasa nada pero ahora es el momento de plantear acciones contra la pobreza: .",
+              "short_text": "[78258] La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos. Os recuerdo q..."
+            }
+          ],
+          "text": "[ATTACK] La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os.",
+          "short_text": "[ATTACK] La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os."
+        }
+      ],
+      "text": "Impacto social",
+      "short_text": "Impacto social"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "36657",
+              "value": 100,
+              "text": "[36657] En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica en este art\u00edculohttp: //elpais. Com/m/diario/2010/09/04/Madrid/1283599465_850215. Html.",
+              "short_text": "[36657] En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica en este art\u00edculohttp: //elpais. Com/m/diario/2010/09/04/Madrid/1283599465_850215. Html..."
+            }
+          ],
+          "text": "[SUPPORT] En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica.",
+          "short_text": "[SUPPORT] En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica."
+        },
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "18154",
+              "value": 100,
+              "text": "[18154] Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo. La p\u00e1gina puede ayudaros avaluar lo que os supone un trasto. 3.",
+              "short_text": "[18154] Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo. La p\u00e1gina puede ayudaros avaluar lo que os supone un trasto. 3."
+            }
+          ],
+          "text": "[SUPPORT] Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo.",
+          "short_text": "[SUPPORT] Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo."
+        }
+      ],
+      "text": "Reciclaje y medio ambiente",
+      "short_text": "Reciclaje y medio ambiente"
+    },
+    {
+      "name": "5",
+      "children": [
+        {
+          "name": "13",
+          "children": [
+            {
+              "name": "42993",
+              "value": 100,
+              "text": "[42993] Hola, Eva. Soy la autora de la propuesta. Ayer, despu\u00e9s de meses, vi pasar por mi calle un cami\u00f3n para recoger un mueble grande que hab\u00eda en mi calle. Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento. Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar. Est\u00e1 claro que ahora funciona de otra forma pero sigue sin ser eficiente.",
+              "short_text": "[42993] Hola, Eva. Soy la autora de la propuesta. Ayer, despu\u00e9s de meses, vi pasar por mi calle un cami\u00f3n para recoger un mueble grande que hab\u00eda en mi calle. Claro que s\u00e9 que el servicio existe pero..."
+            }
+          ],
+          "text": "[ATTACK] Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar.",
+          "short_text": "[ATTACK] Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar."
+        }
+      ],
+      "text": "Conocimiento y uso del servicio",
+      "short_text": "Conocimiento y uso del servicio"
+    },
+    {
+      "name": "6",
+      "children": [
+        {
+          "name": "14",
+          "children": [
+            {
+              "name": "20463",
+              "value": 100,
+              "text": "[20463] Puntos m\u00f3viles de recogida de enseres en todos los distritos.",
+              "short_text": "[20463] Puntos m\u00f3viles de recogida de enseres en todos los distritos."
+            }
+          ],
+          "text": "[SUPPORT] Puntos m\u00f3viles de recogida de enseres en todos los distritos.",
+          "short_text": "[SUPPORT] Puntos m\u00f3viles de recogida de enseres en todos los distritos."
+        },
+        {
+          "name": "15",
+          "children": [
+            {
+              "name": "23536",
+              "value": 100,
+              "text": "[23536] Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio para guardar todos los que se les pueda dar un segundo uso para gente que lo necesite. En fin como una recogida para donaciones sin que nadie de por medio se lucre Os dejo el enlace para que me apoy\u00e9is si lo cre\u00e9is conveniente. Gracias.",
+              "short_text": "[23536] Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio pa..."
+            }
+          ],
+          "text": "[SUPPORT] Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio para guardar todos los que se les pueda dar un segundo uso para gente que lo necesite.",
+          "short_text": "[SUPPORT] Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio..."
+        },
+        {
+          "name": "16",
+          "children": [
+            {
+              "name": "18480",
+              "value": 100,
+              "text": "[18480] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes? He utilizado este servicio y me ha parecido eficiente.",
+              "short_text": "[18480] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes? He utilizado este servicio y me..."
+            }
+          ],
+          "text": "[ATTACK] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes?",
+          "short_text": "[ATTACK] A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes?"
+        },
+        {
+          "name": "17",
+          "children": [
+            {
+              "name": "43782",
+              "value": 100,
+              "text": "[43782] Es la web para solicitarlo online.",
+              "short_text": "[43782] Es la web para solicitarlo online."
+            }
+          ],
+          "text": "[ATTACK] Es la web para solicitarlo online.",
+          "short_text": "[ATTACK] Es la web para solicitarlo online."
+        }
+      ],
+      "text": "Propuestas alternativas",
+      "short_text": "Propuestas alternativas"
+    }
+  ],
+  "text": "Servicio de recogida de muebles y electrodom\u00e9sticos. Pedimos la vuelta del servicio de recogida de muebles y electrodom\u00e9sticos que exist\u00eda antes para evitar suciedad y m\u00e1s basura.",
+  "short_text": "Servicio de recogida de muebles y electrodom\u00e9sticos. Pedimos la vuelta del servicio de recogida de muebles y electrodom\u00e9sticos que exist\u00eda antes para evitar suciedad y m\u00e1s basura."
+}

@@ -1,0 +1,257 @@
+{
+  "name": "1937",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "25066",
+              "value": 100,
+              "text": "[25066] La ordenanza ya existe y establece los l\u00edmites. Habr\u00e1 que proponer en base a lo que ya hay.",
+              "short_text": "[25066] La ordenanza ya existe y establece los l\u00edmites. Habr\u00e1 que proponer en base a lo que ya hay."
+            }
+          ],
+          "text": "[SUPPORT] La ordenanza ya existe y establece los l\u00edmites.",
+          "short_text": "[SUPPORT] La ordenanza ya existe y establece los l\u00edmites."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "29587",
+              "value": 100,
+              "text": "[29587] Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas.",
+              "short_text": "[29587] Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas."
+            }
+          ],
+          "text": "[SUPPORT] Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas.",
+          "short_text": "[SUPPORT] Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "28121",
+              "value": 100,
+              "text": "[28121] No existe ning\u00fana obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?.",
+              "short_text": "[28121] No existe ning\u00fana obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?."
+            }
+          ],
+          "text": "[ATTACK] No existe ninguna obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?",
+          "short_text": "[ATTACK] No existe ninguna obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?"
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "31676",
+              "value": 100,
+              "text": "[31676] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92 de los casos. De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima.",
+              "short_text": "[31676] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92 de los casos. De todas maneras deber\u00edan hacer algo con los perros gra..."
+            }
+          ],
+          "text": "[ATTACK] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92% de los casos.",
+          "short_text": "[ATTACK] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92% de los casos."
+        }
+      ],
+      "text": "Ordenanzas existentes",
+      "short_text": "Ordenanzas existentes"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "25086",
+              "value": 100,
+              "text": "[25086] El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas.",
+              "short_text": "[25086] El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas."
+            }
+          ],
+          "text": "[SUPPORT] El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas.",
+          "short_text": "[SUPPORT] El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "25031",
+              "value": 100,
+              "text": "[25031] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas. L\u00f3gicamente no es lo mismo un caniche u otro perro peque\u00f1o y tranquilo. Pero el se\u00f1or que compre un animal que pueda ser peligroso como mascota debe ser consciente de ello y hacerse responsable. Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real. Lo normal es que el due\u00f1o de una mascota sea sensato, como lo son la mayor\u00eda, y entienda que en un piso de Madrid capital no cabe un perro grande y agresivo. Por respeto a los dem\u00e1s y por el bien del propio perro, que va a estar mejor en el campo o en un chalet.",
+              "short_text": "[25031] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas. L\u00f3gicamente no es lo mismo un caniche u otr..."
+            }
+          ],
+          "text": "[SUPPORT] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas.",
+          "short_text": "[SUPPORT] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas."
+        },
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "25220",
+              "value": 100,
+              "text": "[25220] Falso. Las hay.",
+              "short_text": "[25220] Falso. Las hay."
+            }
+          ],
+          "text": "[ATTACK] Falso. Las hay [razas potencialmente peligrosas].",
+          "short_text": "[ATTACK] Falso. Las hay [razas potencialmente peligrosas]."
+        },
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "31676",
+              "value": 100,
+              "text": "[31676] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92 de los casos. De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima.",
+              "short_text": "[31676] Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92 de los casos. De todas maneras deber\u00edan hacer algo con los perros gra..."
+            }
+          ],
+          "text": "[ATTACK] De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima.",
+          "short_text": "[ATTACK] De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima."
+        }
+      ],
+      "text": "Responsabilidad del due\u00f1o",
+      "short_text": "Responsabilidad del due\u00f1o"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "25064",
+              "value": 100,
+              "text": "[25064] Efectivamente hay ordenanza, que establece horarios para llevar a los perros sueltos en determinadas zonas, y establece que razas son declaradas peligrosas. Empieza leyendo la ordenanza, y proponer en funci\u00f3n de lo que ya existe, que poner a todos los perros bozal, o llevarlos siempre atados, no es la soluci\u00f3n. La opci\u00f3n de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opci\u00f3n para reducir estos problemas que planteas, sin necesidad de que se criminalice a due\u00f1os y mascotas.",
+              "short_text": "[25064] Efectivamente hay ordenanza, que establece horarios para llevar a los perros sueltos en determinadas zonas, y establece que razas son declaradas peligrosas. Empieza leyendo la ordenanza, y pro..."
+            }
+          ],
+          "text": "[SUPPORT] La opci\u00f3n de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opci\u00f3n para reducir estos problemas.",
+          "short_text": "[SUPPORT] La opci\u00f3n de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opci\u00f3n para reducir estos problemas."
+        },
+        {
+          "name": "10",
+          "children": [
+            {
+              "name": "24758",
+              "value": 100,
+              "text": "[24758] Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+              "short_text": "[24758] Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad."
+            }
+          ],
+          "text": "[SUPPORT] Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+          "short_text": "[SUPPORT] Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad."
+        }
+      ],
+      "text": "Espacios para perros",
+      "short_text": "Espacios para perros"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "43634",
+              "value": 100,
+              "text": "[43634] Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias: .",
+              "short_text": "[43634] Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias: ."
+            }
+          ],
+          "text": "[SUPPORT] Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias.",
+          "short_text": "[SUPPORT] Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias."
+        },
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "36535",
+              "value": 100,
+              "text": "[36535] He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que evitar\u00eda muchas confrontaciones. Si est\u00e1n de acuerdo, pueden votar aqu\u00ed: .",
+              "short_text": "[36535] He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que evit..."
+            }
+          ],
+          "text": "[SUPPORT] He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que evitar\u00eda muchas confrontaciones.",
+          "short_text": "[SUPPORT] He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que ev..."
+        }
+      ],
+      "text": "Educaci\u00f3n canina",
+      "short_text": "Educaci\u00f3n canina"
+    },
+    {
+      "name": "5",
+      "children": [
+        {
+          "name": "13",
+          "children": [
+            {
+              "name": "27125",
+              "value": 100,
+              "text": "[27125] \u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con camisa de fuerza, para prevenir. A ver si los que ten\u00e9is fobia a los animales os enter\u00e1is de una vez de que los que ten\u00e9is el problema sois vosotros, como el que es agoraf\u00f3bico o claustrof\u00f3bico y no va por ah\u00ed pidiendo que no se cierren las puertas porque \u00e9l se agobia. Trataos de vuestras fobias, ser\u00e9is m\u00e1s felices, y dejad a los perros en paz.",
+              "short_text": "[27125] \u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con camisa..."
+            }
+          ],
+          "text": "[SUPPORT] \u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con camisa de fuerza, para prevenir.",
+          "short_text": "[SUPPORT] \u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con cami..."
+        },
+        {
+          "name": "14",
+          "children": [
+            {
+              "name": "25031",
+              "value": 100,
+              "text": "[25031] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas. L\u00f3gicamente no es lo mismo un caniche u otro perro peque\u00f1o y tranquilo. Pero el se\u00f1or que compre un animal que pueda ser peligroso como mascota debe ser consciente de ello y hacerse responsable. Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real. Lo normal es que el due\u00f1o de una mascota sea sensato, como lo son la mayor\u00eda, y entienda que en un piso de Madrid capital no cabe un perro grande y agresivo. Por respeto a los dem\u00e1s y por el bien del propio perro, que va a estar mejor en el campo o en un chalet.",
+              "short_text": "[25031] Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas. L\u00f3gicamente no es lo mismo un caniche u otr..."
+            }
+          ],
+          "text": "[ATTACK] Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real.",
+          "short_text": "[ATTACK] Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real."
+        }
+      ],
+      "text": "Percepci\u00f3n de peligro",
+      "short_text": "Percepci\u00f3n de peligro"
+    },
+    {
+      "name": "6",
+      "children": [
+        {
+          "name": "15",
+          "children": [
+            {
+              "name": "24733",
+              "value": 100,
+              "text": "[24733] Basta ya de acoso! Hay 80 peticiones iguales, y no ha prosperado ni una. Unas de las cacas y otras de los perros sueltos. Los perros deben aprender a ir sueltos, y las cacas deben recogerse. Si un perro muerde o un due\u00f1o no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva.",
+              "short_text": "[24733] Basta ya de acoso! Hay 80 peticiones iguales, y no ha prosperado ni una. Unas de las cacas y otras de los perros sueltos. Los perros deben aprender a ir sueltos, y las cacas deben recogerse. S..."
+            }
+          ],
+          "text": "[SUPPORT] Si un perro muerde o un due\u00f1o no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva.",
+          "short_text": "[SUPPORT] Si un perro muerde o un due\u00f1o no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva."
+        },
+        {
+          "name": "16",
+          "children": [
+            {
+              "name": "28423",
+              "value": 100,
+              "text": "[28423] Me ha encantado lo de castigo duro.",
+              "short_text": "[28423] Me ha encantado lo de castigo duro."
+            }
+          ],
+          "text": "[SUPPORT] Me ha encantado lo de castigo duro.",
+          "short_text": "[SUPPORT] Me ha encantado lo de castigo duro."
+        }
+      ],
+      "text": "Sanciones y medidas preventivas",
+      "short_text": "Sanciones y medidas preventivas"
+    }
+  ],
+  "text": "Castigo duro a perros sueltos y/o sin bozal. Creo ya existe Ordenanza, pero los due\u00f1os llevan impunemente los perros sueltos y/o sin bozal, ya que no se aplica habitualmente el castigo. Son peligrosos, aunque el due\u00f1o te dice. Si no muerde.",
+  "short_text": "Castigo duro a perros sueltos y/o sin bozal. Creo ya existe Ordenanza, pero los due\u00f1os llevan impunemente los perros sueltos y/o sin bozal, ya que no se aplica habitualmente el castigo. Son peligrosos..."
+}

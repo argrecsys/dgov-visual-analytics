@@ -1,0 +1,295 @@
+{
+  "name": "109",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "65815",
+              "value": 100,
+              "text": "[65815] Yo por mi parte, lo siento, pero grafittis, ning\u00fano. A mi no tiene por que gustarme ver mi fachada pintada con algo que no he elegido. Prefiero ver las calles con fachadas limpias tal y como se concibieron al construirlas.",
+              "short_text": "[65815] Yo por mi parte, lo siento, pero grafittis, ning\u00fano. A mi no tiene por que gustarme ver mi fachada pintada con algo que no he elegido. Prefiero ver las calles con fachadas limpias tal y como s..."
+            }
+          ],
+          "text": "[SUPPORT] Yo por mi parte, lo siento, pero graffitis, ninguno. A mi no tiene por qu\u00e9 gustarme ver mi fachada pintada con algo que no he elegido.",
+          "short_text": "[SUPPORT] Yo por mi parte, lo siento, pero graffitis, ninguno. A mi no tiene por qu\u00e9 gustarme ver mi fachada pintada con algo que no he elegido."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "75866",
+              "value": 100,
+              "text": "[75866] En Madrid arte urbano poco y vandalismo mucho. Date una vuelta por el centro de Madrid. Vomitivo, edificios historicos, mobiliario urbano, puertas de portales, escaparates con pintadas de acido. Tolerancia cero al graffity.",
+              "short_text": "[75866] En Madrid arte urbano poco y vandalismo mucho. Date una vuelta por el centro de Madrid. Vomitivo, edificios historicos, mobiliario urbano, puertas de portales, escaparates con pintadas de acid..."
+            }
+          ],
+          "text": "[SUPPORT] En Madrid arte urbano poco y vandalismo mucho. Tolerancia cero al graffity.",
+          "short_text": "[SUPPORT] En Madrid arte urbano poco y vandalismo mucho. Tolerancia cero al graffity."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "75867",
+              "value": 100,
+              "text": "[75867] Si te gustan que los hagan en tu casa en tu portal y en tu coche. Pero basta ya de tener Madrid echo una mierda por estos ni\u00f1atos.",
+              "short_text": "[75867] Si te gustan que los hagan en tu casa en tu portal y en tu coche. Pero basta ya de tener Madrid echo una mierda por estos ni\u00f1atos."
+            }
+          ],
+          "text": "[SUPPORT] Pero basta ya de tener Madrid hecho una por estos ni\u00f1atos.",
+          "short_text": "[SUPPORT] Pero basta ya de tener Madrid hecho una por estos ni\u00f1atos."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "52744",
+              "value": 100,
+              "text": "[52744] Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello.",
+              "short_text": "[52744] Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello."
+            }
+          ],
+          "text": "[ATTACK] Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello.",
+          "short_text": "[ATTACK] Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello."
+        },
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "53173",
+              "value": 100,
+              "text": "[53173] Efectivamente, no estamos en contra de los graffittis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no.",
+              "short_text": "[53173] Efectivamente, no estamos en contra de los graffittis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no."
+            }
+          ],
+          "text": "[ATTACK] Efectivamente, no estamos en contra de los graffitis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no.",
+          "short_text": "[ATTACK] Efectivamente, no estamos en contra de los graffitis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "58117",
+              "value": 100,
+              "text": "[58117] Votado. M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza. A limpiar cacas de perro, chicles y colillas en paradas de autob\u00fas y estaciones! As\u00ed toman un poquito de conciencia. Y para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad.",
+              "short_text": "[58117] Votado. M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza. A limpiar cacas de perro, chicles y colillas en paradas de autob\u00fas y estaciones! As\u00ed toman un..."
+            }
+          ],
+          "text": "[ATTACK] Para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad.",
+          "short_text": "[ATTACK] Para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad."
+        }
+      ],
+      "text": "Limpieza de Graffitis",
+      "short_text": "Limpieza de Graffitis"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "66775",
+              "value": 100,
+              "text": "[66775] Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas, con el pago de la misma entregar\u00eda un plano con las zonas reservadas a los perros, un extracto de la normativa cursos, cuidados b\u00e1sicos etc. Ello implica m\u00e1s responsabilidad para el due\u00f1o y aumentar\u00eda la formaci\u00f3n y conocimiento de la normativa tan desconocida por los actuales due\u00f1os y paseadores ya no ser\u00eda un juguete gratuito como hasta ahora. Lo que no cuesta no se valora. Yo pagar\u00eda 10\u20ac al mes por esa mascota que cuido y me da cari\u00f1o sin dudarlo.",
+              "short_text": "[66775] Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas, con el pago de la misma entregar\u00eda un plano con las zonas reservadas a los perros, un extract..."
+            }
+          ],
+          "text": "[SUPPORT] Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas.",
+          "short_text": "[SUPPORT] Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas."
+        },
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "41619",
+              "value": 100,
+              "text": "[41619] Estoy de acuerdo, es deplorable como se encuentra el barrio.",
+              "short_text": "[41619] Estoy de acuerdo, es deplorable como se encuentra el barrio."
+            }
+          ],
+          "text": "[SUPPORT] Estoy de acuerdo, es deplorable como se encuentra el barrio.",
+          "short_text": "[SUPPORT] Estoy de acuerdo, es deplorable como se encuentra el barrio."
+        },
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "70625",
+              "value": 100,
+              "text": "[70625] Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda.",
+              "short_text": "[70625] Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda."
+            }
+          ],
+          "text": "[SUPPORT] Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda.",
+          "short_text": "[SUPPORT] Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda."
+        }
+      ],
+      "text": "Remodelaci\u00f3n de Aluche",
+      "short_text": "Remodelaci\u00f3n de Aluche"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "10",
+          "children": [
+            {
+              "name": "65822",
+              "value": 100,
+              "text": "[65822] Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos. Limpieza, no ruido, y lo que este en nuestras manos.",
+              "short_text": "[65822] Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos. Limpieza, no rui..."
+            }
+          ],
+          "text": "[SUPPORT] Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos.",
+          "short_text": "[SUPPORT] Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos."
+        },
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "78101",
+              "value": 100,
+              "text": "[78101] Estoy de acuerdo con vosotros, pero tenemos que tener en cuenta que toda la labor no es del Ayuntamiento, tambi\u00e9n con concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros y por ese motivo debemos cuidarla y respetarla. La libertad de los dem\u00e1s termina donde empieza la m\u00eda. Y si no se consigue por las buenas, que ser\u00eda, lo mejor, pues multa al canto.",
+              "short_text": "[78101] Estoy de acuerdo con vosotros, pero tenemos que tener en cuenta que toda la labor no es del Ayuntamiento, tambi\u00e9n con concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda..."
+            }
+          ],
+          "text": "[SUPPORT] Tambi\u00e9n nos concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros.",
+          "short_text": "[SUPPORT] Tambi\u00e9n nos concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros."
+        }
+      ],
+      "text": "Concienciaci\u00f3n Ciudadana",
+      "short_text": "Concienciaci\u00f3n Ciudadana"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "89897",
+              "value": 100,
+              "text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc. En cualquier lugar, sin que page por ello hasta que aprenda que la ciudad es patrimonio de todos y como ciudadanos merecemos un respeto. Que se aplique la normativa y que se multe al infractor.",
+              "short_text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acaba..."
+            }
+          ],
+          "text": "[SUPPORT] La falta de civismo que esta sociedad ha creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle.",
+          "short_text": "[SUPPORT] La falta de civismo que esta sociedad ha creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle."
+        },
+        {
+          "name": "13",
+          "children": [
+            {
+              "name": "89897",
+              "value": 100,
+              "text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc. En cualquier lugar, sin que page por ello hasta que aprenda que la ciudad es patrimonio de todos y como ciudadanos merecemos un respeto. Que se aplique la normativa y que se multe al infractor.",
+              "short_text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acaba..."
+            }
+          ],
+          "text": "[SUPPORT] Hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc.",
+          "short_text": "[SUPPORT] Hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc."
+        },
+        {
+          "name": "14",
+          "children": [],
+          "text": "[SUPPORT] Mismo contrato, mayor suciedad. No es excusa.",
+          "short_text": "[SUPPORT] Mismo contrato, mayor suciedad. No es excusa."
+        }
+      ],
+      "text": "Civismo y Respeto",
+      "short_text": "Civismo y Respeto"
+    },
+    {
+      "name": "5",
+      "children": [
+        {
+          "name": "15",
+          "children": [
+            {
+              "name": "89897",
+              "value": 100,
+              "text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc. En cualquier lugar, sin que page por ello hasta que aprenda que la ciudad es patrimonio de todos y como ciudadanos merecemos un respeto. Que se aplique la normativa y que se multe al infractor.",
+              "short_text": "[89897] La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle, hay que limpiar de acuerdo, pero hay que acaba..."
+            }
+          ],
+          "text": "[SUPPORT] Que se aplique la normativa y que se multe al infractor.",
+          "short_text": "[SUPPORT] Que se aplique la normativa y que se multe al infractor."
+        },
+        {
+          "name": "16",
+          "children": [
+            {
+              "name": "58117",
+              "value": 100,
+              "text": "[58117] Votado. M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza. A limpiar cacas de perro, chicles y colillas en paradas de autob\u00fas y estaciones! As\u00ed toman un poquito de conciencia. Y para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad.",
+              "short_text": "[58117] Votado. M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza. A limpiar cacas de perro, chicles y colillas en paradas de autob\u00fas y estaciones! As\u00ed toman un..."
+            }
+          ],
+          "text": "[SUPPORT] M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza.",
+          "short_text": "[SUPPORT] M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza."
+        },
+        {
+          "name": "17",
+          "children": [
+            {
+              "name": "78101",
+              "value": 100,
+              "text": "[78101] Estoy de acuerdo con vosotros, pero tenemos que tener en cuenta que toda la labor no es del Ayuntamiento, tambi\u00e9n con concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros y por ese motivo debemos cuidarla y respetarla. La libertad de los dem\u00e1s termina donde empieza la m\u00eda. Y si no se consigue por las buenas, que ser\u00eda, lo mejor, pues multa al canto.",
+              "short_text": "[78101] Estoy de acuerdo con vosotros, pero tenemos que tener en cuenta que toda la labor no es del Ayuntamiento, tambi\u00e9n con concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda..."
+            }
+          ],
+          "text": "[SUPPORT] Y si no se consigue por las buenas, que ser\u00eda lo mejor, pues multa al canto.",
+          "short_text": "[SUPPORT] Y si no se consigue por las buenas, que ser\u00eda lo mejor, pues multa al canto."
+        }
+      ],
+      "text": "Control y Sanciones",
+      "short_text": "Control y Sanciones"
+    },
+    {
+      "name": "6",
+      "children": [
+        {
+          "name": "18",
+          "children": [],
+          "text": "[SUPPORT] Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras.",
+          "short_text": "[SUPPORT] Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras."
+        },
+        {
+          "name": "19",
+          "children": [
+            {
+              "name": "51873",
+              "value": 100,
+              "text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las personas, si tenemos insalubridad en una ciudad corremos mucho riesgo en todos los aspectos, os env\u00edo un enlace para que entr\u00e9is a leerlo si os parece correcto votarlo, los puntos a tratar sobre la limpieza son bastante interesantes, no hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona, votar la idea si os parece bien para conseguir el m\u00e1ximo posible de votos para poder reaccionar frente a la limpieza de Madrid.",
+              "short_text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las person..."
+            }
+          ],
+          "text": "[SUPPORT] Buenos d\u00edas a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepci\u00f3n.",
+          "short_text": "[SUPPORT] Buenos d\u00edas a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepci\u00f3n."
+        },
+        {
+          "name": "20",
+          "children": [
+            {
+              "name": "51873",
+              "value": 100,
+              "text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las personas, si tenemos insalubridad en una ciudad corremos mucho riesgo en todos los aspectos, os env\u00edo un enlace para que entr\u00e9is a leerlo si os parece correcto votarlo, los puntos a tratar sobre la limpieza son bastante interesantes, no hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona, votar la idea si os parece bien para conseguir el m\u00e1ximo posible de votos para poder reaccionar frente a la limpieza de Madrid.",
+              "short_text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las person..."
+            }
+          ],
+          "text": "[SUPPORT] No hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona.",
+          "short_text": "[SUPPORT] No hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona."
+        }
+      ],
+      "text": "Inversi\u00f3n en Limpieza",
+      "short_text": "Inversi\u00f3n en Limpieza"
+    }
+  ],
+  "text": "Limpieza de graffitis y remodelaci\u00f3n de aluche. Los vecinos de Aluche vemos d\u00eda tras d\u00eda como nuestro querido barrio est\u00e1 cada vez m\u00e1s sucio y descuidado. Los vecinos de Aluche vemos d\u00eda tras d\u00eda como nuestro querido barrio est\u00e1 cada vez m\u00e1s sucio y descuidado. Graffitis y basura por todas partes, aceras rotas, baches en la carretera, zonas de jardines destrozadas.",
+  "short_text": "Limpieza de graffitis y remodelaci\u00f3n de aluche. Los vecinos de Aluche vemos d\u00eda tras d\u00eda como nuestro querido barrio est\u00e1 cada vez m\u00e1s sucio y descuidado. Los vecinos de Aluche vemos d\u00eda tras d\u00eda como..."
+}
