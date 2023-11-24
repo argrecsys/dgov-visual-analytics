@@ -1,0 +1,298 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 507",
+      "group": 0
+    },
+    {
+      "id": "Desigualdad Econ\u00f3mica",
+      "group": -3
+    },
+    {
+      "id": "Desigualdad Econ\u00f3mica_support",
+      "group": -1
+    },
+    {
+      "id": "Desigualdad Econ\u00f3mica_attack",
+      "group": -2
+    },
+    {
+      "id": "Totalmente de acuerdo con la propuesta. Si bien es cierto que construir una zona de oficinas y grandes edificios no es la soluci\u00f3n m\u00e1gica, si es el primer paso para reequilibrar la ciudad y conseguir que, con medidas adicionales adecuadamente planificadas y coordinadas, las caracter\u00edsticas de la ciudad en el norte y en el sur no sigan separ\u00e1ndose m\u00e1s sino que puedan aproximarse un poco.",
+      "group": -1
+    },
+    {
+      "id": "Por mucho que hagas rascacielos y apartamentos de lujo en el sur, seguir\u00e1 habiendo desequilibrio econ\u00f3mico ya que el entorno no lo cambias, al igual que no cambias la delincuencia y la gente con la que convives.",
+      "group": -2
+    },
+    {
+      "id": "Tr\u00e1fico y Contaminaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Tr\u00e1fico y Contaminaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Tr\u00e1fico y Contaminaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Si la zona sur esta mucho m\u00e1s poblada y los grandes centros de trabajo y oficinas se construyen en el norte, se produce un ineficiente trasvase diario de personas hacia el norte que lo \u00fanico que hace es aumentar el tr\u00e1fico, la contaminaci\u00f3n y reducir calidad de vida.",
+      "group": -1
+    },
+    {
+      "id": "No estoy de acuerdo porque traer a nuestros barrios esos grandes edificios de oficinas ser\u00eda transformar un barrio donde se puede m\u00e1s o menos respirar y pasear a convertirse en un lugar lleno coches contaminaci\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Gentrificaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Gentrificaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Gentrificaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Esta claro que si la zona mejora el nivel de vida subir\u00e1 pegado a esa zona, pero tambi\u00e9n se mejorar\u00e1 el nivel econ\u00f3mico de la gente, mejorando la prosperidad de los negocios de la zona y se mejorar\u00e1 la cantidad de trabajo.",
+      "group": -1
+    },
+    {
+      "id": "Creo que lo que propones resultar\u00eda echar a la gente que vive en la zona sur de alquiler a una zona m\u00e1s barata y que s\u00f3lo pervivir\u00edan los que ya son propietarios. Justamente eso ha pasado en M\u00e9ndez alvaro en muchos casos.",
+      "group": -2
+    },
+    {
+      "id": "Mejora de Infraestructuras",
+      "group": -3
+    },
+    {
+      "id": "Mejora de Infraestructuras_support",
+      "group": -1
+    },
+    {
+      "id": "Mejora de Infraestructuras_attack",
+      "group": -2
+    },
+    {
+      "id": "Una gran propuesta. A ver si el actual equipo de gobierno hace algo con contundencia con los barrios marginados del sur.",
+      "group": -1
+    },
+    {
+      "id": "Basta de propuestas como la de la Operaci\u00f3n Chamart\u00edn, cuando en el sur hay desastres como las v\u00edas del tren, la M40 y otras carreteras que dividen y destrozan barrios y nadie ha dicho ni p\u00edo porque no hay intereses creados. Que se solucione primero el sur de Madrid antes de volver a dejar precioso el norte a costa de machacar a los de siempre.",
+      "group": -2
+    },
+    {
+      "id": "Inversi\u00f3n en Ocio y Cultura",
+      "group": -3
+    },
+    {
+      "id": "Inversi\u00f3n en Ocio y Cultura_support",
+      "group": -1
+    },
+    {
+      "id": "Inversi\u00f3n en Ocio y Cultura_attack",
+      "group": -2
+    },
+    {
+      "id": "Para que este barrio impulse la inversi\u00f3n hay que fomentar lugares de ocio educativo, teatros, cines, museos, eso si ser\u00eda una buena inversi\u00f3n porque tenemos espacio para aparcar sin atascos, es una zona amplia y podemos llegar a hacer un barrio que promueva la cultura, y a su vez el consumo en restaurantes, terrazas, hacer incluso alguna terraza mirador en el parque la Gavia.",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad y Transporte P\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad y Transporte P\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad y Transporte P\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "Si adem\u00e1s les permites desplazarse en transporte p\u00fablico con una gran oferta de l\u00edneas de autob\u00fas, metro, cercan\u00edas, etc., el tr\u00e1fico mejorar\u00eda en la zona sur y en todo Madrid.",
+      "group": -1
+    },
+    {
+      "id": "Equidad en la Distribuci\u00f3n de Servicios",
+      "group": -3
+    },
+    {
+      "id": "Equidad en la Distribuci\u00f3n de Servicios_support",
+      "group": -1
+    },
+    {
+      "id": "Equidad en la Distribuci\u00f3n de Servicios_attack",
+      "group": -2
+    },
+    {
+      "id": "Es hora de que el ayuntamiento garantice el cumplimiento de este derecho fundamental cuando las personas no son capaces por falta de recursos. Al igual que estamos reclamando la remunicipalizaci\u00f3n de determinados servicios p\u00fablicos, demandamos tambi\u00e9n la remunicipalizaci\u00f3n de un derecho b\u00e1sico como es el comer que muchas personas en nuestra ciudad no pueden ejercer por falta de medios econ\u00f3micos.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 507",
+      "target": "Desigualdad Econ\u00f3mica",
+      "value": 1
+    },
+    {
+      "source": "Desigualdad Econ\u00f3mica",
+      "target": "Desigualdad Econ\u00f3mica_support",
+      "value": 2
+    },
+    {
+      "source": "Desigualdad Econ\u00f3mica",
+      "target": "Desigualdad Econ\u00f3mica_attack",
+      "value": 2
+    },
+    {
+      "source": "Desigualdad Econ\u00f3mica_support",
+      "target": "Totalmente de acuerdo con la propuesta. Si bien es cierto que construir una zona de oficinas y grandes edificios no es la soluci\u00f3n m\u00e1gica, si es el primer paso para reequilibrar la ciudad y conseguir que, con medidas adicionales adecuadamente planificadas y coordinadas, las caracter\u00edsticas de la ciudad en el norte y en el sur no sigan separ\u00e1ndose m\u00e1s sino que puedan aproximarse un poco.",
+      "value": 3
+    },
+    {
+      "source": "Desigualdad Econ\u00f3mica_attack",
+      "target": "Por mucho que hagas rascacielos y apartamentos de lujo en el sur, seguir\u00e1 habiendo desequilibrio econ\u00f3mico ya que el entorno no lo cambias, al igual que no cambias la delincuencia y la gente con la que convives.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Tr\u00e1fico y Contaminaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Tr\u00e1fico y Contaminaci\u00f3n",
+      "target": "Tr\u00e1fico y Contaminaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Tr\u00e1fico y Contaminaci\u00f3n",
+      "target": "Tr\u00e1fico y Contaminaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Tr\u00e1fico y Contaminaci\u00f3n_support",
+      "target": "Si la zona sur esta mucho m\u00e1s poblada y los grandes centros de trabajo y oficinas se construyen en el norte, se produce un ineficiente trasvase diario de personas hacia el norte que lo \u00fanico que hace es aumentar el tr\u00e1fico, la contaminaci\u00f3n y reducir calidad de vida.",
+      "value": 3
+    },
+    {
+      "source": "Tr\u00e1fico y Contaminaci\u00f3n_attack",
+      "target": "No estoy de acuerdo porque traer a nuestros barrios esos grandes edificios de oficinas ser\u00eda transformar un barrio donde se puede m\u00e1s o menos respirar y pasear a convertirse en un lugar lleno coches contaminaci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Gentrificaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Gentrificaci\u00f3n",
+      "target": "Gentrificaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Gentrificaci\u00f3n",
+      "target": "Gentrificaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Gentrificaci\u00f3n_support",
+      "target": "Esta claro que si la zona mejora el nivel de vida subir\u00e1 pegado a esa zona, pero tambi\u00e9n se mejorar\u00e1 el nivel econ\u00f3mico de la gente, mejorando la prosperidad de los negocios de la zona y se mejorar\u00e1 la cantidad de trabajo.",
+      "value": 3
+    },
+    {
+      "source": "Gentrificaci\u00f3n_attack",
+      "target": "Creo que lo que propones resultar\u00eda echar a la gente que vive en la zona sur de alquiler a una zona m\u00e1s barata y que s\u00f3lo pervivir\u00edan los que ya son propietarios. Justamente eso ha pasado en M\u00e9ndez alvaro en muchos casos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Mejora de Infraestructuras",
+      "value": 1
+    },
+    {
+      "source": "Mejora de Infraestructuras",
+      "target": "Mejora de Infraestructuras_support",
+      "value": 2
+    },
+    {
+      "source": "Mejora de Infraestructuras",
+      "target": "Mejora de Infraestructuras_attack",
+      "value": 2
+    },
+    {
+      "source": "Mejora de Infraestructuras_support",
+      "target": "Una gran propuesta. A ver si el actual equipo de gobierno hace algo con contundencia con los barrios marginados del sur.",
+      "value": 3
+    },
+    {
+      "source": "Mejora de Infraestructuras_attack",
+      "target": "Basta de propuestas como la de la Operaci\u00f3n Chamart\u00edn, cuando en el sur hay desastres como las v\u00edas del tren, la M40 y otras carreteras que dividen y destrozan barrios y nadie ha dicho ni p\u00edo porque no hay intereses creados. Que se solucione primero el sur de Madrid antes de volver a dejar precioso el norte a costa de machacar a los de siempre.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Inversi\u00f3n en Ocio y Cultura",
+      "value": 1
+    },
+    {
+      "source": "Inversi\u00f3n en Ocio y Cultura",
+      "target": "Inversi\u00f3n en Ocio y Cultura_support",
+      "value": 2
+    },
+    {
+      "source": "Inversi\u00f3n en Ocio y Cultura",
+      "target": "Inversi\u00f3n en Ocio y Cultura_attack",
+      "value": 2
+    },
+    {
+      "source": "Inversi\u00f3n en Ocio y Cultura_support",
+      "target": "Para que este barrio impulse la inversi\u00f3n hay que fomentar lugares de ocio educativo, teatros, cines, museos, eso si ser\u00eda una buena inversi\u00f3n porque tenemos espacio para aparcar sin atascos, es una zona amplia y podemos llegar a hacer un barrio que promueva la cultura, y a su vez el consumo en restaurantes, terrazas, hacer incluso alguna terraza mirador en el parque la Gavia.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Accesibilidad y Transporte P\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad y Transporte P\u00fablico",
+      "target": "Accesibilidad y Transporte P\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y Transporte P\u00fablico",
+      "target": "Accesibilidad y Transporte P\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y Transporte P\u00fablico_support",
+      "target": "Si adem\u00e1s les permites desplazarse en transporte p\u00fablico con una gran oferta de l\u00edneas de autob\u00fas, metro, cercan\u00edas, etc., el tr\u00e1fico mejorar\u00eda en la zona sur y en todo Madrid.",
+      "value": 3
+    },
+    {
+      "source": "proposal 507",
+      "target": "Equidad en la Distribuci\u00f3n de Servicios",
+      "value": 1
+    },
+    {
+      "source": "Equidad en la Distribuci\u00f3n de Servicios",
+      "target": "Equidad en la Distribuci\u00f3n de Servicios_support",
+      "value": 2
+    },
+    {
+      "source": "Equidad en la Distribuci\u00f3n de Servicios",
+      "target": "Equidad en la Distribuci\u00f3n de Servicios_attack",
+      "value": 2
+    },
+    {
+      "source": "Equidad en la Distribuci\u00f3n de Servicios_support",
+      "target": "Es hora de que el ayuntamiento garantice el cumplimiento de este derecho fundamental cuando las personas no son capaces por falta de recursos. Al igual que estamos reclamando la remunicipalizaci\u00f3n de determinados servicios p\u00fablicos, demandamos tambi\u00e9n la remunicipalizaci\u00f3n de un derecho b\u00e1sico como es el comer que muchas personas en nuestra ciudad no pueden ejercer por falta de medios econ\u00f3micos.",
+      "value": 3
+    }
+  ]
+}

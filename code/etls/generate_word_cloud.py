@@ -4,8 +4,9 @@
     Version: 0.1
     Created on: Nov 21, 2023
     Updated on: Nov 23, 2023
-    Description: Main class.
+    Description: Generate word cloud images.
 """
+
 import util_libs as ul
 from wordcloud import WordCloud
 import spacy

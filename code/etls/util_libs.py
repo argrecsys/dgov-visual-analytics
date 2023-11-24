@@ -6,9 +6,11 @@
     Updated on: Nov 23, 2023
     Description: Library of utility functions.
 """
+
 import json
 import os
 import csv
+import pandas as pd
 
 
 def concatenate_texts_from_jsonl(json_data, field_name):
@@ -27,6 +29,21 @@ def load_stopwords(solution_path: str, lang: str):
         stopwords = [line.rstrip() for line in file]
 
     return set(stopwords)
+
+
+def read_csv_with_encoding(filename):
+    encodings = ["utf-8", "ISO-8859-1", "latin1", "cp1252"]
+
+    for encoding in encodings:
+        try:
+            df = pd.read_csv(filename, encoding=encoding)
+            print("File successfully read with encoding:", encoding)
+            return df
+        except UnicodeDecodeError:
+            print("Error reading file with encoding:", encoding)
+
+    # Return None if the file could not be read with any encoding
+    return None
 
 
 def read_jsonl_data(folder_path: str):

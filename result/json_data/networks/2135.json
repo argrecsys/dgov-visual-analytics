@@ -1,0 +1,568 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2135",
+      "group": 0
+    },
+    {
+      "id": "Uso Sostenible",
+      "group": -3
+    },
+    {
+      "id": "Uso Sostenible_support",
+      "group": -1
+    },
+    {
+      "id": "Uso Sostenible_attack",
+      "group": -2
+    },
+    {
+      "id": "Las APR son espacios en los que se restringe el acceso de veh\u00edculos a los no residentes con el objetivo de preservar el uso sostenible de las v\u00edas comprendidas en las mismas.",
+      "group": -1
+    },
+    {
+      "id": "\u00bfuso sostenible?, que pasa, que si los residentes acceden, est\u00e1n usando las calles que pagamos todos de manera sostenible, pero si accedo yo no, por supuesto; y si ellos vienen por mi barrio, est\u00e1n us\u00e1ndolas, seg\u00fan tu explicaci\u00f3n, de manera sostenible, puesto que mi zona no es APR Distrito de Tetu\u00e1n; es que es totalmente irracional, lo veas como lo veas.",
+      "group": -2
+    },
+    {
+      "id": "Contaminaci\u00f3n Atmosf\u00e9rica",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n Atmosf\u00e9rica_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n Atmosf\u00e9rica_attack",
+      "group": -2
+    },
+    {
+      "id": "Disminuci\u00f3n de los problemas de contaminaci\u00f3n atmosf\u00e9rica.",
+      "group": -1
+    },
+    {
+      "id": "Por cerrar 3 barrios al tr\u00e1fico, los problemas de contaminaci\u00f3n van a seguir siendo los mismos e incluso se incrementar\u00e1, puesto que la gente en lugar de entrar en el APR de \u00d3pera, aparcar\u00e1 en las inmediaciones, e ir\u00e1n andando hasta esa zona, atascando por supuesto las zonas aleda\u00f1as, y no permitiendo que la distribuci\u00f3n del tr\u00e1fico en la capital sea uniforme.",
+      "group": -2
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica_attack",
+      "group": -2
+    },
+    {
+      "id": "Disminuci\u00f3n de contaminaci\u00f3n ac\u00fastica.",
+      "group": -1
+    },
+    {
+      "id": "la contaminaci\u00f3n ac\u00fastica no s\u00f3lo la producen los veh\u00edculos; las calles peatonales como Arenal, tienen una contaminaci\u00f3n ac\u00fastica insufrible, y es producida por las miles de personas que de lunes a domingo pasan por esta calle, que hablan a voces, o que simplemente 200 personas hablando a la vez, pues provocan alboroto.",
+      "group": -2
+    },
+    {
+      "id": "Acceso a Servicios",
+      "group": -3
+    },
+    {
+      "id": "Acceso a Servicios_support",
+      "group": -1
+    },
+    {
+      "id": "Acceso a Servicios_attack",
+      "group": -2
+    },
+    {
+      "id": "Permite el acceso a transporte p\u00fablico, servicios de emergencias y carga y descarga servicios necesarios para los vecinos de la zona.",
+      "group": -1
+    },
+    {
+      "id": "Este punto no se que decirte la verdad, es que para mi que puedan acceder taxis, autobuses o carga y descarga, me viene a dar un poco igual, no vivo all\u00ed.",
+      "group": -2
+    },
+    {
+      "id": "Aparcamiento",
+      "group": -3
+    },
+    {
+      "id": "Aparcamiento_support",
+      "group": -1
+    },
+    {
+      "id": "Aparcamiento_attack",
+      "group": -2
+    },
+    {
+      "id": "Aumento de plazas de aparcamiento en superficie.",
+      "group": -1
+    },
+    {
+      "id": "No sirve de nada que haya m\u00e1s plazas de aparcamiento en superficie si las mismas van a estar vac\u00eda las 24 horas al d\u00eda, lo disfrutar\u00e1n los residentes de la zona, y yo creo que ni eso, ya que muchos tendr\u00e1n plazas de aparcamiento privadas.",
+      "group": -2
+    },
+    {
+      "id": "Uso de Motocicletas",
+      "group": -3
+    },
+    {
+      "id": "Uso de Motocicletas_support",
+      "group": -1
+    },
+    {
+      "id": "Uso de Motocicletas_attack",
+      "group": -2
+    },
+    {
+      "id": "Si tienes moto, no se penaliza su uso.",
+      "group": -1
+    },
+    {
+      "id": "Me alegra enormemente que las motos puedan acceder, pero yo me compre un coche, y no una moto, entonces no me sirve de nada que las dejen entrar, y desde luego a estas alturas no me voy a comprar una moto, ya me gaste el dinero en un coche.",
+      "group": -2
+    },
+    {
+      "id": "Impuestos y Tarifas",
+      "group": -3
+    },
+    {
+      "id": "Impuestos y Tarifas_support",
+      "group": -1
+    },
+    {
+      "id": "Impuestos y Tarifas_attack",
+      "group": -2
+    },
+    {
+      "id": "El Impuesto sobre Veh\u00edculos de Tracci\u00f3n Mec\u00e1nica es un tributo directo que grava la titularidad de los veh\u00edculos de esta naturaleza, aptos para circular por las v\u00edas p\u00fablicas, cualesquiera que sean su clase y categor\u00eda.",
+      "group": -1
+    },
+    {
+      "id": "Eso lo dir\u00e1s t\u00fa, el impuesto de circulaci\u00f3n, se paga entre otras cosas, por el desgaste que hacen los veh\u00edculos en el asfaltado de la ciudad, si yo no puedo acceder a ciertas calles, no desgasto su asfalto, lo hacen sus propios residentes, pero sin embargo, yo pago por el asfaltado de las mismas, y eso no debe de ser as\u00ed.",
+      "group": -2
+    },
+    {
+      "id": "Desigualdad entre Ciudadanos",
+      "group": -3
+    },
+    {
+      "id": "Desigualdad entre Ciudadanos_support",
+      "group": -1
+    },
+    {
+      "id": "Desigualdad entre Ciudadanos_attack",
+      "group": -2
+    },
+    {
+      "id": "lo \u00fanico que provocan es la desigualdad entre unos ciudadanos y otros, formando todos parte de la misma sociedad, y pagando los mismos impuestos.",
+      "group": -2
+    },
+    {
+      "id": "Medidas Alternativas",
+      "group": -3
+    },
+    {
+      "id": "Medidas Alternativas_support",
+      "group": -1
+    },
+    {
+      "id": "Medidas Alternativas_attack",
+      "group": -2
+    },
+    {
+      "id": "Conozco el problema de las calefacciones centrales de carb\u00f3n/gas\u00f3leo/gas natural. Ten por supuesto que se luchar\u00e1 por cambiar ese modelo de calefacci\u00f3n, incentivando la instalaci\u00f3n de sistemas m\u00e1s limpios.",
+      "group": -1
+    },
+    {
+      "id": "Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en parte, aun quedan en Madrid miles de calefacciones de carb\u00f3n, que si no lo sabes contaminan como una decena de veh\u00edculos, las que no son de carb\u00f3n, son de gas\u00f3leo, que es m\u00e1s de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.",
+      "group": -2
+    },
+    {
+      "id": "Eficiencia Energ\u00e9tica",
+      "group": -3
+    },
+    {
+      "id": "Eficiencia Energ\u00e9tica_support",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia Energ\u00e9tica_attack",
+      "group": -2
+    },
+    {
+      "id": "La ciudad tiene que ir apostando por energ\u00edas renovables, y por un modelo de movilidad m\u00e1s sostenible.",
+      "group": -1
+    },
+    {
+      "id": "Por cierto, el transporte p\u00fablico como el metro y la renfe, se mueven gracias a la electricidad, producida como te he explicado antes, en su mitad de manera contaminante.",
+      "group": -2
+    },
+    {
+      "id": "Equidad en el Acceso",
+      "group": -3
+    },
+    {
+      "id": "Equidad en el Acceso_support",
+      "group": -1
+    },
+    {
+      "id": "Equidad en el Acceso_attack",
+      "group": -2
+    },
+    {
+      "id": "Puede entrar en esos barrio, siempre que sea residente o pida el oportuno permiso tiene que justificarlo El impuesto que paga no es de circulaci\u00f3n, sino de posesi\u00f3n. Por tener un coche, debe pagar los impuestos que conlleva su posesi\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "Menos mal que hace calor, porque sino estar\u00edamos much\u00edsimo peor. Hay que ir poco a poco contra el problema.",
+      "group": -1
+    },
+    {
+      "id": "Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u0080 y 4\u0080 extras para ir a trabajar, ya me los he gastado en combustible. Parece que somos europeos para lo que nos conviene, para todo lo dem\u00e1s, somos espa\u00f1oles. Que ruina de pa\u00eds!",
+      "group": -2
+    },
+    {
+      "id": "Impacto Social",
+      "group": -3
+    },
+    {
+      "id": "Impacto Social_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Social_attack",
+      "group": -2
+    },
+    {
+      "id": "Solo con eso, se demuestra que las zonas APR mejorar la sostenibilidad de la zona. Lo de la contaminaci\u00f3n, se nota sin duda.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2135",
+      "target": "Uso Sostenible",
+      "value": 1
+    },
+    {
+      "source": "Uso Sostenible",
+      "target": "Uso Sostenible_support",
+      "value": 2
+    },
+    {
+      "source": "Uso Sostenible",
+      "target": "Uso Sostenible_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso Sostenible_support",
+      "target": "Las APR son espacios en los que se restringe el acceso de veh\u00edculos a los no residentes con el objetivo de preservar el uso sostenible de las v\u00edas comprendidas en las mismas.",
+      "value": 3
+    },
+    {
+      "source": "Uso Sostenible_attack",
+      "target": "\u00bfuso sostenible?, que pasa, que si los residentes acceden, est\u00e1n usando las calles que pagamos todos de manera sostenible, pero si accedo yo no, por supuesto; y si ellos vienen por mi barrio, est\u00e1n us\u00e1ndolas, seg\u00fan tu explicaci\u00f3n, de manera sostenible, puesto que mi zona no es APR Distrito de Tetu\u00e1n; es que es totalmente irracional, lo veas como lo veas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Contaminaci\u00f3n Atmosf\u00e9rica",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n Atmosf\u00e9rica",
+      "target": "Contaminaci\u00f3n Atmosf\u00e9rica_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Atmosf\u00e9rica",
+      "target": "Contaminaci\u00f3n Atmosf\u00e9rica_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Atmosf\u00e9rica_support",
+      "target": "Disminuci\u00f3n de los problemas de contaminaci\u00f3n atmosf\u00e9rica.",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n Atmosf\u00e9rica_attack",
+      "target": "Por cerrar 3 barrios al tr\u00e1fico, los problemas de contaminaci\u00f3n van a seguir siendo los mismos e incluso se incrementar\u00e1, puesto que la gente en lugar de entrar en el APR de \u00d3pera, aparcar\u00e1 en las inmediaciones, e ir\u00e1n andando hasta esa zona, atascando por supuesto las zonas aleda\u00f1as, y no permitiendo que la distribuci\u00f3n del tr\u00e1fico en la capital sea uniforme.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Contaminaci\u00f3n Ac\u00fastica",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica",
+      "target": "Contaminaci\u00f3n Ac\u00fastica_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica",
+      "target": "Contaminaci\u00f3n Ac\u00fastica_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica_support",
+      "target": "Disminuci\u00f3n de contaminaci\u00f3n ac\u00fastica.",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica_attack",
+      "target": "la contaminaci\u00f3n ac\u00fastica no s\u00f3lo la producen los veh\u00edculos; las calles peatonales como Arenal, tienen una contaminaci\u00f3n ac\u00fastica insufrible, y es producida por las miles de personas que de lunes a domingo pasan por esta calle, que hablan a voces, o que simplemente 200 personas hablando a la vez, pues provocan alboroto.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Acceso a Servicios",
+      "value": 1
+    },
+    {
+      "source": "Acceso a Servicios",
+      "target": "Acceso a Servicios_support",
+      "value": 2
+    },
+    {
+      "source": "Acceso a Servicios",
+      "target": "Acceso a Servicios_attack",
+      "value": 2
+    },
+    {
+      "source": "Acceso a Servicios_support",
+      "target": "Permite el acceso a transporte p\u00fablico, servicios de emergencias y carga y descarga servicios necesarios para los vecinos de la zona.",
+      "value": 3
+    },
+    {
+      "source": "Acceso a Servicios_attack",
+      "target": "Este punto no se que decirte la verdad, es que para mi que puedan acceder taxis, autobuses o carga y descarga, me viene a dar un poco igual, no vivo all\u00ed.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Aparcamiento",
+      "value": 1
+    },
+    {
+      "source": "Aparcamiento",
+      "target": "Aparcamiento_support",
+      "value": 2
+    },
+    {
+      "source": "Aparcamiento",
+      "target": "Aparcamiento_attack",
+      "value": 2
+    },
+    {
+      "source": "Aparcamiento_support",
+      "target": "Aumento de plazas de aparcamiento en superficie.",
+      "value": 3
+    },
+    {
+      "source": "Aparcamiento_attack",
+      "target": "No sirve de nada que haya m\u00e1s plazas de aparcamiento en superficie si las mismas van a estar vac\u00eda las 24 horas al d\u00eda, lo disfrutar\u00e1n los residentes de la zona, y yo creo que ni eso, ya que muchos tendr\u00e1n plazas de aparcamiento privadas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Uso de Motocicletas",
+      "value": 1
+    },
+    {
+      "source": "Uso de Motocicletas",
+      "target": "Uso de Motocicletas_support",
+      "value": 2
+    },
+    {
+      "source": "Uso de Motocicletas",
+      "target": "Uso de Motocicletas_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso de Motocicletas_support",
+      "target": "Si tienes moto, no se penaliza su uso.",
+      "value": 3
+    },
+    {
+      "source": "Uso de Motocicletas_attack",
+      "target": "Me alegra enormemente que las motos puedan acceder, pero yo me compre un coche, y no una moto, entonces no me sirve de nada que las dejen entrar, y desde luego a estas alturas no me voy a comprar una moto, ya me gaste el dinero en un coche.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Impuestos y Tarifas",
+      "value": 1
+    },
+    {
+      "source": "Impuestos y Tarifas",
+      "target": "Impuestos y Tarifas_support",
+      "value": 2
+    },
+    {
+      "source": "Impuestos y Tarifas",
+      "target": "Impuestos y Tarifas_attack",
+      "value": 2
+    },
+    {
+      "source": "Impuestos y Tarifas_support",
+      "target": "El Impuesto sobre Veh\u00edculos de Tracci\u00f3n Mec\u00e1nica es un tributo directo que grava la titularidad de los veh\u00edculos de esta naturaleza, aptos para circular por las v\u00edas p\u00fablicas, cualesquiera que sean su clase y categor\u00eda.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos y Tarifas_attack",
+      "target": "Eso lo dir\u00e1s t\u00fa, el impuesto de circulaci\u00f3n, se paga entre otras cosas, por el desgaste que hacen los veh\u00edculos en el asfaltado de la ciudad, si yo no puedo acceder a ciertas calles, no desgasto su asfalto, lo hacen sus propios residentes, pero sin embargo, yo pago por el asfaltado de las mismas, y eso no debe de ser as\u00ed.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Desigualdad entre Ciudadanos",
+      "value": 1
+    },
+    {
+      "source": "Desigualdad entre Ciudadanos",
+      "target": "Desigualdad entre Ciudadanos_support",
+      "value": 2
+    },
+    {
+      "source": "Desigualdad entre Ciudadanos",
+      "target": "Desigualdad entre Ciudadanos_attack",
+      "value": 2
+    },
+    {
+      "source": "Desigualdad entre Ciudadanos_attack",
+      "target": "lo \u00fanico que provocan es la desigualdad entre unos ciudadanos y otros, formando todos parte de la misma sociedad, y pagando los mismos impuestos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Medidas Alternativas",
+      "value": 1
+    },
+    {
+      "source": "Medidas Alternativas",
+      "target": "Medidas Alternativas_support",
+      "value": 2
+    },
+    {
+      "source": "Medidas Alternativas",
+      "target": "Medidas Alternativas_attack",
+      "value": 2
+    },
+    {
+      "source": "Medidas Alternativas_support",
+      "target": "Conozco el problema de las calefacciones centrales de carb\u00f3n/gas\u00f3leo/gas natural. Ten por supuesto que se luchar\u00e1 por cambiar ese modelo de calefacci\u00f3n, incentivando la instalaci\u00f3n de sistemas m\u00e1s limpios.",
+      "value": 3
+    },
+    {
+      "source": "Medidas Alternativas_attack",
+      "target": "Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en parte, aun quedan en Madrid miles de calefacciones de carb\u00f3n, que si no lo sabes contaminan como una decena de veh\u00edculos, las que no son de carb\u00f3n, son de gas\u00f3leo, que es m\u00e1s de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Eficiencia Energ\u00e9tica",
+      "value": 1
+    },
+    {
+      "source": "Eficiencia Energ\u00e9tica",
+      "target": "Eficiencia Energ\u00e9tica_support",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia Energ\u00e9tica",
+      "target": "Eficiencia Energ\u00e9tica_attack",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia Energ\u00e9tica_support",
+      "target": "La ciudad tiene que ir apostando por energ\u00edas renovables, y por un modelo de movilidad m\u00e1s sostenible.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia Energ\u00e9tica_attack",
+      "target": "Por cierto, el transporte p\u00fablico como el metro y la renfe, se mueven gracias a la electricidad, producida como te he explicado antes, en su mitad de manera contaminante.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Equidad en el Acceso",
+      "value": 1
+    },
+    {
+      "source": "Equidad en el Acceso",
+      "target": "Equidad en el Acceso_support",
+      "value": 2
+    },
+    {
+      "source": "Equidad en el Acceso",
+      "target": "Equidad en el Acceso_attack",
+      "value": 2
+    },
+    {
+      "source": "Equidad en el Acceso_attack",
+      "target": "Puede entrar en esos barrio, siempre que sea residente o pida el oportuno permiso tiene que justificarlo El impuesto que paga no es de circulaci\u00f3n, sino de posesi\u00f3n. Por tener un coche, debe pagar los impuestos que conlleva su posesi\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Impacto Econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_support",
+      "target": "Menos mal que hace calor, porque sino estar\u00edamos much\u00edsimo peor. Hay que ir poco a poco contra el problema.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_attack",
+      "target": "Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u0080 y 4\u0080 extras para ir a trabajar, ya me los he gastado en combustible. Parece que somos europeos para lo que nos conviene, para todo lo dem\u00e1s, somos espa\u00f1oles. Que ruina de pa\u00eds!",
+      "value": 3
+    },
+    {
+      "source": "proposal 2135",
+      "target": "Impacto Social",
+      "value": 1
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social_support",
+      "target": "Solo con eso, se demuestra que las zonas APR mejorar la sostenibilidad de la zona. Lo de la contaminaci\u00f3n, se nota sin duda.",
+      "value": 3
+    }
+  ]
+}

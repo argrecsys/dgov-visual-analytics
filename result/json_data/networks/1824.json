@@ -1,0 +1,451 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 1824",
+      "group": 0
+    },
+    {
+      "id": "Limpieza Urbana",
+      "group": -3
+    },
+    {
+      "id": "Limpieza Urbana_support",
+      "group": -1
+    },
+    {
+      "id": "Limpieza Urbana_attack",
+      "group": -2
+    },
+    {
+      "id": "Prefiero pagar un poco m\u00e1s y ver las calles limpias y concienciar a los ciudadanos que estar como estamos ahora.",
+      "group": -1
+    },
+    {
+      "id": "Completamente de acuerdo, votado. Incluir\u00eda las botellas de cristal, casi en primer lugar ya que es habitual ver botellas rotas rotas con el consecuente peligro de cortes.",
+      "group": -1
+    },
+    {
+      "id": "Prefiero pagar un poco m\u00e1s y ver las calles limpias que seguir usando el sistema que tenemos ahora de contenedores amarillos, verdes, rojos y de mil colores es muy complicado reciclar ahora y mucha gente por pereza no lo hace, si facilitaran las cosas todo ser\u00eda diferente.",
+      "group": -1
+    },
+    {
+      "id": "Eso es un disparate. Pagar m\u00e1s para que las ciudades est\u00e9n m\u00e1s limpias? El sistema actual funciona y muy bien. Y para que funcione mejor a\u00fan quiz\u00e1 deber\u00edamos ser los ciudadanos los que debemos tener m\u00e1s cuidado.",
+      "group": -2
+    },
+    {
+      "id": "Nunca fui partidario del castigo para que seamos responsables. No apoyo una iniciativa que lo hace.",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n y Concienciaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n y Concienciaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n y Concienciaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "M\u00e1s que del sistema, veo un problema de educaci\u00f3n y el castigo econ\u00f3mico no creo que sea la soluci\u00f3n. Seguramente que en pocos a\u00f1os la tasa de reciclaje rondar\u00e1 el 100 con el sistema espa\u00f1ol, con el alem\u00e1n o con cualquier otro. Por tanto, veo mejor invertir el dinero en educar y concienciar y no en cambiar el sistema.",
+      "group": -1
+    },
+    {
+      "id": "Coste Econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Coste Econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Coste Econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo rechazo los envases de pl\u00e1stico blanco, que se deshacen en bolitas. Queda muy bonito para colocar los pescados \u00f3 la carne. Pido siempre que me lo pongan en papel. Da\u00f1o al sistema ecol\u00f3gico, y gasto para el bolsillo.",
+      "group": -1
+    },
+    {
+      "id": "Y qui\u00e9n paga todas las m\u00e1quinas que hay que instalar en comercios? Adem\u00e1s es que no valen todos los residuos ni envases en el sistema, puede llegar a ser una medida cara para un diferencial de mejora en el reciclaje no muy alto.",
+      "group": -2
+    },
+    {
+      "id": "Diferencial de mejora no muy alto? no consideras algo un 985 de los envases? Tu has visto como est\u00e1n las calles en los pa\u00edses que tienen esta medida?",
+      "group": -2
+    },
+    {
+      "id": "Efectividad del Sistema",
+      "group": -3
+    },
+    {
+      "id": "Efectividad del Sistema_support",
+      "group": -1
+    },
+    {
+      "id": "Efectividad del Sistema_attack",
+      "group": -2
+    },
+    {
+      "id": "Tu has visto c\u00f3mo est\u00e1 Espa\u00f1a? Que ves tiradas botellas y latas por cualquier parte. Con este sistema eso se acabar\u00eda. Y s\u00f3lo pagar\u00edan las personas irresponsables que hasta hoy siguen tirando todo al suelo.",
+      "group": -1
+    },
+    {
+      "id": "Pero cu\u00e1ntas bolsas crees que tendr\u00edas si se pone el sistema qu\u00e9 dices? Los contenedores no desaparecer\u00edan. Por lo tanto: 1 de restos/org\u00e1nico 1 de vidrio 1 de envases que no entran en SDDR que los hay e ir\u00edan al amarillo, 1 de papel/cart\u00f3n 1 para los envases que aceptan las m\u00e1quinas. \u00bfTotal? 5 1 m\u00e1s que antes. No se, yo es que no lo veo.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Social",
+      "group": -3
+    },
+    {
+      "id": "Impacto Social_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Social_attack",
+      "group": -2
+    },
+    {
+      "id": "En Alemania funciona muy bien, de hecho all\u00ed los sin techo recogen envases en vez de chatarra.",
+      "group": -1
+    },
+    {
+      "id": "Una idea maravillosa que ya la he visto en ee. Uu y la verdad que mucha gente lo hace aunque sea poco dinero lo que te dan, pero oye ellos se van contentos con un descuento luego en su compra.",
+      "group": -1
+    },
+    {
+      "id": "Esto esta muy bien, pero quien hace la ley hace la trampa, y yo que lo he visto en Alemania, te cobran 25 c\u00e9ntimos m\u00e1s por la botella y si la devuelves en supermercados generalmente te devuelven los 25 centimos. Las personas que no tienen dinero personas sin papeles, toxic\u00f3manos etc. Recogen todo de forma abusiva, y en muchos supermercados les vetan la entrada puesto que lo conocen aunque es una buena idea, pero ser\u00eda un problema ya que acercamos a ciertas personas a un dinero f\u00e1cil para vicios etc.",
+      "group": -2
+    },
+    {
+      "id": "Comparaci\u00f3n Internacional",
+      "group": -3
+    },
+    {
+      "id": "Comparaci\u00f3n Internacional_support",
+      "group": -1
+    },
+    {
+      "id": "Comparaci\u00f3n Internacional_attack",
+      "group": -2
+    },
+    {
+      "id": "En USA ya lo hac\u00edan en 1986 En Pa\u00edses Bajos Holanda en 1988 Antes de entrar al super hay unas m\u00e1quinas donde depositas tus botellas y te dan ticket para canjear por dinero.",
+      "group": -1
+    },
+    {
+      "id": "Como en la mayor\u00eda de las iniciativas ecol\u00f3gicas los pa\u00edses escandinavos o del norte de Europa nos sacan un buen trecho. Este sistema lo he usado en Dinamarca y Alemania y en mi opini\u00f3n favorece a todas las partes, consumidor, supermercado, ayuntamiento/gobierno.",
+      "group": -1
+    },
+    {
+      "id": "Este sistema tienes dos enfoques desde el punto de vista medioambiental. El primero, su viabilidad para aumentar la tasa de reciclaje. Est\u00e1 contrastado su fracaso. En Alemania, desde 2003 que se aplica, la tasa de reciclaje pr\u00e1cticamente no crece, y el porcentaje de envases dom\u00e9sticos que se ha conseguido reciclar con este sistema es solo el 27 el resto es reciclado con un modelo como el espa\u00f1ol.",
+      "group": -2
+    },
+    {
+      "id": "Innovaci\u00f3n Tecnol\u00f3gica",
+      "group": -3
+    },
+    {
+      "id": "Innovaci\u00f3n Tecnol\u00f3gica_support",
+      "group": -1
+    },
+    {
+      "id": "Innovaci\u00f3n Tecnol\u00f3gica_attack",
+      "group": -2
+    },
+    {
+      "id": "De hecho deber\u00edan incorporar en el recientemente inaugurado mobiliario urbano un sistema de retribuci\u00f3n en dinero electr\u00f3nico, que pueda ser empleado para pagar tasas, transporte p\u00fablico, otros servicios.",
+      "group": -1
+    },
+    {
+      "id": "Esto ya existi\u00f3, recuerdo cuando era peque\u00f1o a\u00f1os 80 de depositar botellas de pl\u00e1stico en una maquina en el Alcampo de La Vaguada, y de repente desapareci\u00f3.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Ambiental",
+      "group": -3
+    },
+    {
+      "id": "Impacto Ambiental_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Ambiental_attack",
+      "group": -2
+    },
+    {
+      "id": "El segundo tema que se comenta es el de la basura en las calles, el littering. Sobre este tema no existen datos por el momento, pero si se pueden hacer varias aclaraciones. En Alemania hay menos basura por la calle que en Espa\u00f1a, cierto. Antes de que implantaran el SDDR en 2003 tambi\u00e9n, tampoco tiraban residuos al suelo. Ya antes del SDDR alem\u00e1n, los alemanes estaban mucho m\u00e1s comprometidos con este tema que en Espa\u00f1a.",
+      "group": -2
+    },
+    {
+      "id": "Sostenibilidad Econ\u00f3mica",
+      "group": -3
+    },
+    {
+      "id": "Sostenibilidad Econ\u00f3mica_support",
+      "group": -1
+    },
+    {
+      "id": "Sostenibilidad Econ\u00f3mica_attack",
+      "group": -2
+    },
+    {
+      "id": "Y qui\u00e9n paga los 025 euros? a cargo de quien va?",
+      "group": -2
+    },
+    {
+      "id": "Polit\u00e9cnica de Madrid se va a hacer p\u00fablico en las siguientes semanas Para ello, han tenido que aumentar en un 87 los costes de gesti\u00f3n de envases dom\u00e9sticos en este pa\u00eds. \u00bfEstamos dispuesto a gastarnos un 177 m\u00e1s en Espa\u00f1a para aumentar un 24 nuestra tasa de reciclaje? datos del mismo estudio Entre tanto y mientras se p\u00fablica, adjunto un documento de inter\u00e9s.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 1824",
+      "target": "Limpieza Urbana",
+      "value": 1
+    },
+    {
+      "source": "Limpieza Urbana",
+      "target": "Limpieza Urbana_support",
+      "value": 2
+    },
+    {
+      "source": "Limpieza Urbana",
+      "target": "Limpieza Urbana_attack",
+      "value": 2
+    },
+    {
+      "source": "Limpieza Urbana_support",
+      "target": "Prefiero pagar un poco m\u00e1s y ver las calles limpias y concienciar a los ciudadanos que estar como estamos ahora.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza Urbana_support",
+      "target": "Completamente de acuerdo, votado. Incluir\u00eda las botellas de cristal, casi en primer lugar ya que es habitual ver botellas rotas rotas con el consecuente peligro de cortes.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza Urbana_support",
+      "target": "Prefiero pagar un poco m\u00e1s y ver las calles limpias que seguir usando el sistema que tenemos ahora de contenedores amarillos, verdes, rojos y de mil colores es muy complicado reciclar ahora y mucha gente por pereza no lo hace, si facilitaran las cosas todo ser\u00eda diferente.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza Urbana_attack",
+      "target": "Eso es un disparate. Pagar m\u00e1s para que las ciudades est\u00e9n m\u00e1s limpias? El sistema actual funciona y muy bien. Y para que funcione mejor a\u00fan quiz\u00e1 deber\u00edamos ser los ciudadanos los que debemos tener m\u00e1s cuidado.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza Urbana_attack",
+      "target": "Nunca fui partidario del castigo para que seamos responsables. No apoyo una iniciativa que lo hace.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Educaci\u00f3n y Concienciaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n y Concienciaci\u00f3n",
+      "target": "Educaci\u00f3n y Concienciaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y Concienciaci\u00f3n",
+      "target": "Educaci\u00f3n y Concienciaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y Concienciaci\u00f3n_support",
+      "target": "M\u00e1s que del sistema, veo un problema de educaci\u00f3n y el castigo econ\u00f3mico no creo que sea la soluci\u00f3n. Seguramente que en pocos a\u00f1os la tasa de reciclaje rondar\u00e1 el 100 con el sistema espa\u00f1ol, con el alem\u00e1n o con cualquier otro. Por tanto, veo mejor invertir el dinero en educar y concienciar y no en cambiar el sistema.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Coste Econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Coste Econ\u00f3mico",
+      "target": "Coste Econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Coste Econ\u00f3mico",
+      "target": "Coste Econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Coste Econ\u00f3mico_support",
+      "target": "Yo rechazo los envases de pl\u00e1stico blanco, que se deshacen en bolitas. Queda muy bonito para colocar los pescados \u00f3 la carne. Pido siempre que me lo pongan en papel. Da\u00f1o al sistema ecol\u00f3gico, y gasto para el bolsillo.",
+      "value": 3
+    },
+    {
+      "source": "Coste Econ\u00f3mico_attack",
+      "target": "Y qui\u00e9n paga todas las m\u00e1quinas que hay que instalar en comercios? Adem\u00e1s es que no valen todos los residuos ni envases en el sistema, puede llegar a ser una medida cara para un diferencial de mejora en el reciclaje no muy alto.",
+      "value": 3
+    },
+    {
+      "source": "Coste Econ\u00f3mico_attack",
+      "target": "Diferencial de mejora no muy alto? no consideras algo un 985 de los envases? Tu has visto como est\u00e1n las calles en los pa\u00edses que tienen esta medida?",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Efectividad del Sistema",
+      "value": 1
+    },
+    {
+      "source": "Efectividad del Sistema",
+      "target": "Efectividad del Sistema_support",
+      "value": 2
+    },
+    {
+      "source": "Efectividad del Sistema",
+      "target": "Efectividad del Sistema_attack",
+      "value": 2
+    },
+    {
+      "source": "Efectividad del Sistema_support",
+      "target": "Tu has visto c\u00f3mo est\u00e1 Espa\u00f1a? Que ves tiradas botellas y latas por cualquier parte. Con este sistema eso se acabar\u00eda. Y s\u00f3lo pagar\u00edan las personas irresponsables que hasta hoy siguen tirando todo al suelo.",
+      "value": 3
+    },
+    {
+      "source": "Efectividad del Sistema_attack",
+      "target": "Pero cu\u00e1ntas bolsas crees que tendr\u00edas si se pone el sistema qu\u00e9 dices? Los contenedores no desaparecer\u00edan. Por lo tanto: 1 de restos/org\u00e1nico 1 de vidrio 1 de envases que no entran en SDDR que los hay e ir\u00edan al amarillo, 1 de papel/cart\u00f3n 1 para los envases que aceptan las m\u00e1quinas. \u00bfTotal? 5 1 m\u00e1s que antes. No se, yo es que no lo veo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Impacto Social",
+      "value": 1
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social_support",
+      "target": "En Alemania funciona muy bien, de hecho all\u00ed los sin techo recogen envases en vez de chatarra.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Social_support",
+      "target": "Una idea maravillosa que ya la he visto en ee. Uu y la verdad que mucha gente lo hace aunque sea poco dinero lo que te dan, pero oye ellos se van contentos con un descuento luego en su compra.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Social_attack",
+      "target": "Esto esta muy bien, pero quien hace la ley hace la trampa, y yo que lo he visto en Alemania, te cobran 25 c\u00e9ntimos m\u00e1s por la botella y si la devuelves en supermercados generalmente te devuelven los 25 centimos. Las personas que no tienen dinero personas sin papeles, toxic\u00f3manos etc. Recogen todo de forma abusiva, y en muchos supermercados les vetan la entrada puesto que lo conocen aunque es una buena idea, pero ser\u00eda un problema ya que acercamos a ciertas personas a un dinero f\u00e1cil para vicios etc.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Comparaci\u00f3n Internacional",
+      "value": 1
+    },
+    {
+      "source": "Comparaci\u00f3n Internacional",
+      "target": "Comparaci\u00f3n Internacional_support",
+      "value": 2
+    },
+    {
+      "source": "Comparaci\u00f3n Internacional",
+      "target": "Comparaci\u00f3n Internacional_attack",
+      "value": 2
+    },
+    {
+      "source": "Comparaci\u00f3n Internacional_support",
+      "target": "En USA ya lo hac\u00edan en 1986 En Pa\u00edses Bajos Holanda en 1988 Antes de entrar al super hay unas m\u00e1quinas donde depositas tus botellas y te dan ticket para canjear por dinero.",
+      "value": 3
+    },
+    {
+      "source": "Comparaci\u00f3n Internacional_support",
+      "target": "Como en la mayor\u00eda de las iniciativas ecol\u00f3gicas los pa\u00edses escandinavos o del norte de Europa nos sacan un buen trecho. Este sistema lo he usado en Dinamarca y Alemania y en mi opini\u00f3n favorece a todas las partes, consumidor, supermercado, ayuntamiento/gobierno.",
+      "value": 3
+    },
+    {
+      "source": "Comparaci\u00f3n Internacional_attack",
+      "target": "Este sistema tienes dos enfoques desde el punto de vista medioambiental. El primero, su viabilidad para aumentar la tasa de reciclaje. Est\u00e1 contrastado su fracaso. En Alemania, desde 2003 que se aplica, la tasa de reciclaje pr\u00e1cticamente no crece, y el porcentaje de envases dom\u00e9sticos que se ha conseguido reciclar con este sistema es solo el 27 el resto es reciclado con un modelo como el espa\u00f1ol.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Innovaci\u00f3n Tecnol\u00f3gica",
+      "value": 1
+    },
+    {
+      "source": "Innovaci\u00f3n Tecnol\u00f3gica",
+      "target": "Innovaci\u00f3n Tecnol\u00f3gica_support",
+      "value": 2
+    },
+    {
+      "source": "Innovaci\u00f3n Tecnol\u00f3gica",
+      "target": "Innovaci\u00f3n Tecnol\u00f3gica_attack",
+      "value": 2
+    },
+    {
+      "source": "Innovaci\u00f3n Tecnol\u00f3gica_support",
+      "target": "De hecho deber\u00edan incorporar en el recientemente inaugurado mobiliario urbano un sistema de retribuci\u00f3n en dinero electr\u00f3nico, que pueda ser empleado para pagar tasas, transporte p\u00fablico, otros servicios.",
+      "value": 3
+    },
+    {
+      "source": "Innovaci\u00f3n Tecnol\u00f3gica_attack",
+      "target": "Esto ya existi\u00f3, recuerdo cuando era peque\u00f1o a\u00f1os 80 de depositar botellas de pl\u00e1stico en una maquina en el Alcampo de La Vaguada, y de repente desapareci\u00f3.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Impacto Ambiental",
+      "value": 1
+    },
+    {
+      "source": "Impacto Ambiental",
+      "target": "Impacto Ambiental_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Ambiental",
+      "target": "Impacto Ambiental_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Ambiental_attack",
+      "target": "El segundo tema que se comenta es el de la basura en las calles, el littering. Sobre este tema no existen datos por el momento, pero si se pueden hacer varias aclaraciones. En Alemania hay menos basura por la calle que en Espa\u00f1a, cierto. Antes de que implantaran el SDDR en 2003 tambi\u00e9n, tampoco tiraban residuos al suelo. Ya antes del SDDR alem\u00e1n, los alemanes estaban mucho m\u00e1s comprometidos con este tema que en Espa\u00f1a.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1824",
+      "target": "Sostenibilidad Econ\u00f3mica",
+      "value": 1
+    },
+    {
+      "source": "Sostenibilidad Econ\u00f3mica",
+      "target": "Sostenibilidad Econ\u00f3mica_support",
+      "value": 2
+    },
+    {
+      "source": "Sostenibilidad Econ\u00f3mica",
+      "target": "Sostenibilidad Econ\u00f3mica_attack",
+      "value": 2
+    },
+    {
+      "source": "Sostenibilidad Econ\u00f3mica_attack",
+      "target": "Y qui\u00e9n paga los 025 euros? a cargo de quien va?",
+      "value": 3
+    },
+    {
+      "source": "Sostenibilidad Econ\u00f3mica_attack",
+      "target": "Polit\u00e9cnica de Madrid se va a hacer p\u00fablico en las siguientes semanas Para ello, han tenido que aumentar en un 87 los costes de gesti\u00f3n de envases dom\u00e9sticos en este pa\u00eds. \u00bfEstamos dispuesto a gastarnos un 177 m\u00e1s en Espa\u00f1a para aumentar un 24 nuestra tasa de reciclaje? datos del mismo estudio Entre tanto y mientras se p\u00fablica, adjunto un documento de inter\u00e9s.",
+      "value": 3
+    }
+  ]
+}

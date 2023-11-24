@@ -1,0 +1,559 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 86",
+      "group": 0
+    },
+    {
+      "id": "Facilidad de reciclaje",
+      "group": -3
+    },
+    {
+      "id": "Facilidad de reciclaje_support",
+      "group": -1
+    },
+    {
+      "id": "Facilidad de reciclaje_attack",
+      "group": -2
+    },
+    {
+      "id": "Acercarlo a las comunidades de vecinos facilitar\u00eda el reciclaje.",
+      "group": -1
+    },
+    {
+      "id": "Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel.",
+      "group": -1
+    },
+    {
+      "id": "Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no s\u00e9 qu\u00e9 hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce.",
+      "group": -1
+    },
+    {
+      "id": "Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies.",
+      "group": -1
+    },
+    {
+      "id": "Tambi\u00e9n me parece muy buena la idea de una recogida peri\u00f3dica especial como se hac\u00eda con los muebles.",
+      "group": -1
+    },
+    {
+      "id": "Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos.",
+      "group": -2
+    },
+    {
+      "id": "Concienciaci\u00f3n y cultura de reciclaje",
+      "group": -3
+    },
+    {
+      "id": "Concienciaci\u00f3n y cultura de reciclaje_support",
+      "group": -1
+    },
+    {
+      "id": "Concienciaci\u00f3n y cultura de reciclaje_attack",
+      "group": -2
+    },
+    {
+      "id": "Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1.",
+      "group": -1
+    },
+    {
+      "id": "Seguridad y viabilidad",
+      "group": -3
+    },
+    {
+      "id": "Seguridad y viabilidad_support",
+      "group": -1
+    },
+    {
+      "id": "Seguridad y viabilidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados.",
+      "group": -1
+    },
+    {
+      "id": "En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc.",
+      "group": -1
+    },
+    {
+      "id": "Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso.",
+      "group": -2
+    },
+    {
+      "id": "Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso.",
+      "group": -2
+    },
+    {
+      "id": "Accesibilidad y horarios",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad y horarios_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad y horarios_attack",
+      "group": -2
+    },
+    {
+      "id": "Hace poco descubr\u00ed que tengo un punto limpio m\u00f3vil en la calle paralela donde vivo. Pero no me sirve de mucho porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a trabajar.",
+      "group": -1
+    },
+    {
+      "id": "No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.",
+      "group": -1
+    },
+    {
+      "id": "En los puntos limpios de Madrid hay contenedores para este aceite.",
+      "group": -1
+    },
+    {
+      "id": "En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite.",
+      "group": -1
+    },
+    {
+      "id": "Los puntos limpios itinerantes tienen unos horarios que se hacen inaccesibles para mucha gente.",
+      "group": -2
+    },
+    {
+      "id": "Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio veh\u00edculo.",
+      "group": -2
+    },
+    {
+      "id": "Los puntos limpios est\u00e1n bastante alejados de los barrios.",
+      "group": -2
+    },
+    {
+      "id": "Impacto medioambiental",
+      "group": -3
+    },
+    {
+      "id": "Impacto medioambiental_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto medioambiental_attack",
+      "group": -2
+    },
+    {
+      "id": "Tened en cuenta que el aceite contamina incluso m\u00e1s que el pl\u00e1stico y el vidrio y en todos los domicilios se hace uso de \u00e9l.",
+      "group": -1
+    },
+    {
+      "id": "Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras.",
+      "group": -1
+    },
+    {
+      "id": "Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y colocados junto los de vidrio y papel, por toda la ciudad y que se pueda tirar con la botella incluida.",
+      "group": -2
+    },
+    {
+      "id": "Conveniencia y practicidad",
+      "group": -3
+    },
+    {
+      "id": "Conveniencia y practicidad_support",
+      "group": -1
+    },
+    {
+      "id": "Conveniencia y practicidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Hola no s\u00e9 si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han puesto al principio del parque de Entrev\u00edas.",
+      "group": -1
+    },
+    {
+      "id": "Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante complicado llegar a ellos.",
+      "group": -2
+    },
+    {
+      "id": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades",
+      "group": -3
+    },
+    {
+      "id": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_support",
+      "group": -1
+    },
+    {
+      "id": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_attack",
+      "group": -2
+    },
+    {
+      "id": "En Pa\u00eds Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer.",
+      "group": -1
+    },
+    {
+      "id": "Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo.",
+      "group": -2
+    },
+    {
+      "id": "Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos.",
+      "group": -2
+    },
+    {
+      "id": "Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura.",
+      "group": -2
+    },
+    {
+      "id": "Responsabilidad y conciencia ciudadana",
+      "group": -3
+    },
+    {
+      "id": "Responsabilidad y conciencia ciudadana_support",
+      "group": -1
+    },
+    {
+      "id": "Responsabilidad y conciencia ciudadana_attack",
+      "group": -2
+    },
+    {
+      "id": "Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos.",
+      "group": -1
+    },
+    {
+      "id": "El problema es que la gente es vaga a la hora de reciclar.",
+      "group": -2
+    },
+    {
+      "id": "No creo que apelar a la pereza de los ciudadanos para reciclar sea una excusa para no apoyar la propuesta.",
+      "group": -2
+    },
+    {
+      "id": "La gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas.",
+      "group": -2
+    },
+    {
+      "id": "Impacto en la gesti\u00f3n de residuos",
+      "group": -3
+    },
+    {
+      "id": "Impacto en la gesti\u00f3n de residuos_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en la gesti\u00f3n de residuos_attack",
+      "group": -2
+    },
+    {
+      "id": "Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico.",
+      "group": -2
+    },
+    {
+      "id": "No estoy de acuerdo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos.",
+      "group": -2
+    },
+    {
+      "id": "El problema que muchos lo usar\u00e1n para echar el aceite de los coches, que para eso es un punto diferente, adem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 86",
+      "target": "Facilidad de reciclaje",
+      "value": 1
+    },
+    {
+      "source": "Facilidad de reciclaje",
+      "target": "Facilidad de reciclaje_support",
+      "value": 2
+    },
+    {
+      "source": "Facilidad de reciclaje",
+      "target": "Facilidad de reciclaje_attack",
+      "value": 2
+    },
+    {
+      "source": "Facilidad de reciclaje_support",
+      "target": "Acercarlo a las comunidades de vecinos facilitar\u00eda el reciclaje.",
+      "value": 3
+    },
+    {
+      "source": "Facilidad de reciclaje_support",
+      "target": "Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel.",
+      "value": 3
+    },
+    {
+      "source": "Facilidad de reciclaje_support",
+      "target": "Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no s\u00e9 qu\u00e9 hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce.",
+      "value": 3
+    },
+    {
+      "source": "Facilidad de reciclaje_support",
+      "target": "Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies.",
+      "value": 3
+    },
+    {
+      "source": "Facilidad de reciclaje_support",
+      "target": "Tambi\u00e9n me parece muy buena la idea de una recogida peri\u00f3dica especial como se hac\u00eda con los muebles.",
+      "value": 3
+    },
+    {
+      "source": "Facilidad de reciclaje_attack",
+      "target": "Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Concienciaci\u00f3n y cultura de reciclaje",
+      "value": 1
+    },
+    {
+      "source": "Concienciaci\u00f3n y cultura de reciclaje",
+      "target": "Concienciaci\u00f3n y cultura de reciclaje_support",
+      "value": 2
+    },
+    {
+      "source": "Concienciaci\u00f3n y cultura de reciclaje",
+      "target": "Concienciaci\u00f3n y cultura de reciclaje_attack",
+      "value": 2
+    },
+    {
+      "source": "Concienciaci\u00f3n y cultura de reciclaje_support",
+      "target": "Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Seguridad y viabilidad",
+      "value": 1
+    },
+    {
+      "source": "Seguridad y viabilidad",
+      "target": "Seguridad y viabilidad_support",
+      "value": 2
+    },
+    {
+      "source": "Seguridad y viabilidad",
+      "target": "Seguridad y viabilidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Seguridad y viabilidad_support",
+      "target": "Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad y viabilidad_support",
+      "target": "En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad y viabilidad_attack",
+      "target": "Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad y viabilidad_attack",
+      "target": "Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Accesibilidad y horarios",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad y horarios",
+      "target": "Accesibilidad y horarios_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y horarios",
+      "target": "Accesibilidad y horarios_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y horarios_support",
+      "target": "Hace poco descubr\u00ed que tengo un punto limpio m\u00f3vil en la calle paralela donde vivo. Pero no me sirve de mucho porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a trabajar.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_support",
+      "target": "No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_support",
+      "target": "En los puntos limpios de Madrid hay contenedores para este aceite.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_support",
+      "target": "En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_attack",
+      "target": "Los puntos limpios itinerantes tienen unos horarios que se hacen inaccesibles para mucha gente.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_attack",
+      "target": "Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio veh\u00edculo.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y horarios_attack",
+      "target": "Los puntos limpios est\u00e1n bastante alejados de los barrios.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Impacto medioambiental",
+      "value": 1
+    },
+    {
+      "source": "Impacto medioambiental",
+      "target": "Impacto medioambiental_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto medioambiental",
+      "target": "Impacto medioambiental_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto medioambiental_support",
+      "target": "Tened en cuenta que el aceite contamina incluso m\u00e1s que el pl\u00e1stico y el vidrio y en todos los domicilios se hace uso de \u00e9l.",
+      "value": 3
+    },
+    {
+      "source": "Impacto medioambiental_support",
+      "target": "Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras.",
+      "value": 3
+    },
+    {
+      "source": "Impacto medioambiental_attack",
+      "target": "Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y colocados junto los de vidrio y papel, por toda la ciudad y que se pueda tirar con la botella incluida.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Conveniencia y practicidad",
+      "value": 1
+    },
+    {
+      "source": "Conveniencia y practicidad",
+      "target": "Conveniencia y practicidad_support",
+      "value": 2
+    },
+    {
+      "source": "Conveniencia y practicidad",
+      "target": "Conveniencia y practicidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Conveniencia y practicidad_support",
+      "target": "Hola no s\u00e9 si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han puesto al principio del parque de Entrev\u00edas.",
+      "value": 3
+    },
+    {
+      "source": "Conveniencia y practicidad_attack",
+      "target": "Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante complicado llegar a ellos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades",
+      "value": 1
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades",
+      "target": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_support",
+      "value": 2
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades",
+      "target": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_attack",
+      "value": 2
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_support",
+      "target": "En Pa\u00eds Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer.",
+      "value": 3
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_attack",
+      "target": "Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo.",
+      "value": 3
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_attack",
+      "target": "Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos.",
+      "value": 3
+    },
+    {
+      "source": "Innovaci\u00f3n y comparaci\u00f3n con otras ciudades_attack",
+      "target": "Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Responsabilidad y conciencia ciudadana",
+      "value": 1
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana",
+      "target": "Responsabilidad y conciencia ciudadana_support",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana",
+      "target": "Responsabilidad y conciencia ciudadana_attack",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana_support",
+      "target": "Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana_attack",
+      "target": "El problema es que la gente es vaga a la hora de reciclar.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana_attack",
+      "target": "No creo que apelar a la pereza de los ciudadanos para reciclar sea una excusa para no apoyar la propuesta.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad y conciencia ciudadana_attack",
+      "target": "La gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 86",
+      "target": "Impacto en la gesti\u00f3n de residuos",
+      "value": 1
+    },
+    {
+      "source": "Impacto en la gesti\u00f3n de residuos",
+      "target": "Impacto en la gesti\u00f3n de residuos_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la gesti\u00f3n de residuos",
+      "target": "Impacto en la gesti\u00f3n de residuos_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la gesti\u00f3n de residuos_attack",
+      "target": "Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la gesti\u00f3n de residuos_attack",
+      "target": "No estoy de acuerdo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la gesti\u00f3n de residuos_attack",
+      "target": "El problema que muchos lo usar\u00e1n para echar el aceite de los coches, que para eso es un punto diferente, adem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel.",
+      "value": 3
+    }
+  ]
+}

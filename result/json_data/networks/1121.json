@@ -1,0 +1,667 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 1121",
+      "group": 0
+    },
+    {
+      "id": "Valor Patrimonial",
+      "group": -3
+    },
+    {
+      "id": "Valor Patrimonial_support",
+      "group": -1
+    },
+    {
+      "id": "Valor Patrimonial_attack",
+      "group": -2
+    },
+    {
+      "id": "Las cocheras de Cuatro Caminos forman parte del patrimonio hist\u00f3rico de la ciudad y pertenecen al conjunto de los madrile\u00f1os.",
+      "group": -1
+    },
+    {
+      "id": "Son las primeras cocheras Edificadas para el servicio del Metro en Madrid en 1918 y son por lo tanto una obra hist\u00f3rica.",
+      "group": -1
+    },
+    {
+      "id": "Cualquier arquitecto conservacionista estar\u00eda de acuerdo en demoler semejante adefesio sin valor arquitect\u00f3nico alguno.",
+      "group": -2
+    },
+    {
+      "id": "Esas cocheras son un tremendo obst\u00e1culo que impide la remodelaci\u00f3n de esa zona de Madrid.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Urban\u00edstico",
+      "group": -3
+    },
+    {
+      "id": "Impacto Urban\u00edstico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Urban\u00edstico_attack",
+      "group": -2
+    },
+    {
+      "id": "Creo que ya va siendo hora de que el medio de transporte m\u00e1s emblem\u00e1tico del pa\u00eds tenga un museo dedicado a \u00e9l.",
+      "group": -1
+    },
+    {
+      "id": "Necesario totalmente emprender este proyecto que otorgar\u00eda una importancia a nivel europeo en materia de patrimonio a nuestra ciudad.",
+      "group": -1
+    },
+    {
+      "id": "El proyecto de dicha cooperativa incluye la construcci\u00f3n de un enorme parque p\u00fablico, y de edificios para dotaciones p\u00fablicas.",
+      "group": -2
+    },
+    {
+      "id": "El barrio mejorar\u00eda much\u00edsimo y ser\u00eda beneficioso para todos los vecinos.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "En t\u00e9rminos econ\u00f3micos el crear este Museo, en una obra ya existente y que solo precisa un lavado de cara nunca ha sido restaurada y el agregar varios elementos de uso es algo que supondr\u00e1 un coste mucho menor a los ciudadanos de Madrid.",
+      "group": -1
+    },
+    {
+      "id": "Otro museo de no se sabe qu\u00e9 ser\u00e1 otra rendija por la que se escapar\u00e1 el dinero p\u00fablico, necesario para pagar pensiones, desempleo, dependencia, hospitales.",
+      "group": -2
+    },
+    {
+      "id": "Esta propuesta es sumamente irresponsable.",
+      "group": -2
+    },
+    {
+      "id": "Seguridad Jur\u00eddica",
+      "group": -3
+    },
+    {
+      "id": "Seguridad Jur\u00eddica_support",
+      "group": -1
+    },
+    {
+      "id": "Seguridad Jur\u00eddica_attack",
+      "group": -2
+    },
+    {
+      "id": "Se puede devolver el dinero pagado a los compradores del terreno sin ning\u00fan problema.",
+      "group": -1
+    },
+    {
+      "id": "Esta propuesta ser\u00eda un grave ataque a la seguridad jur\u00eddica y a la propiedad privada de personas de la clase media.",
+      "group": -2
+    },
+    {
+      "id": "Inseguridad jur\u00eddica, es lo que proponen. Si es as\u00ed que no cuenten con inversiones.",
+      "group": -2
+    },
+    {
+      "id": "Inter\u00e9s P\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Inter\u00e9s P\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Inter\u00e9s P\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "La historia de Metro est\u00e1 a disposici\u00f3n de madrile\u00f1os y turistas a trav\u00e9s de estos dos lugares, uno de ellos en nuestro futuro barrio, cocheras de metro mediante.",
+      "group": -1
+    },
+    {
+      "id": "Hay gente que desconoce que Metro atesora una colecci\u00f3n de trenes hist\u00f3ricos.",
+      "group": -1
+    },
+    {
+      "id": "Para qu\u00e9 necesita Chamber\u00ed un museo ah\u00ed? Lo que hace falta es un parque y edificio para uso p\u00fablico del barrio.",
+      "group": -2
+    },
+    {
+      "id": "El ayuntamiento de Madrid no podr\u00eda crear un museo del metro esto es gastarse el dinero m\u00e1s que nada porque Metro depende de la CAM.",
+      "group": -2
+    },
+    {
+      "id": "Impacto en la Vivienda",
+      "group": -3
+    },
+    {
+      "id": "Impacto en la Vivienda_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en la Vivienda_attack",
+      "group": -2
+    },
+    {
+      "id": "Se propone expropiar los terrenos para las futuras viviendas de 450 familias para hacer un museo del metro?",
+      "group": -1
+    },
+    {
+      "id": "Buenos d\u00edas, con qu\u00e9 prop\u00f3sito apoy\u00e1is esto por favor? todos los que hemos invertido en los pisos que se intentan construir nos est\u00e1 costando mucho esfuerzo.",
+      "group": -2
+    },
+    {
+      "id": "Una verg\u00fcenza total lo que quiere hacer el ayuntamiento con unos vecinos que han comprado un terreno de forma absolutamente legal para edificar ah\u00ed sus viviendas.",
+      "group": -2
+    },
+    {
+      "id": "Conservaci\u00f3n del Patrimonio",
+      "group": -3
+    },
+    {
+      "id": "Conservaci\u00f3n del Patrimonio_support",
+      "group": -1
+    },
+    {
+      "id": "Conservaci\u00f3n del Patrimonio_attack",
+      "group": -2
+    },
+    {
+      "id": "No hay ninguna recinto de la ciudad capacitado para albergar las 36 unidades de metro hist\u00f3ricas que se preservan que este ubicado en zona c\u00e9ntrica, accesible al p\u00fablico a trav\u00e9s de medios de transporte, y en un recinto hist\u00f3rico como lo es esta obra.",
+      "group": -1
+    },
+    {
+      "id": "\u00bfPero que tomadura de pelo de propuesta es esta? El terreno donde se sit\u00faan las antiguas cocheras de Cuatro Caminos ya ha sido adquirido por una cooperativa de viviendas, por lo tanto no tiene sentido proponer hacer ning\u00fan museo.",
+      "group": -2
+    },
+    {
+      "id": "Participaci\u00f3n Ciudadana",
+      "group": -3
+    },
+    {
+      "id": "Participaci\u00f3n Ciudadana_support",
+      "group": -1
+    },
+    {
+      "id": "Participaci\u00f3n Ciudadana_attack",
+      "group": -2
+    },
+    {
+      "id": "Hola, he creado una nueva. Igual podemos lograr que sea cual sea su futuro sea decidido por todos.",
+      "group": -1
+    },
+    {
+      "id": "Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La poblaci\u00f3n tiene que considerar esas cocheras un bien de patrimonio hist\u00f3rico.",
+      "group": -2
+    },
+    {
+      "id": "Los vecinos no queremos este museo. Cocheras soterradas cuanto antes.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Social",
+      "group": -3
+    },
+    {
+      "id": "Impacto Social_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Social_attack",
+      "group": -2
+    },
+    {
+      "id": "Humanidad Ejemplo: Estaci\u00f3n de Chamber\u00ed Respecto al plan urban\u00edstico. Solo decir que hay m\u00e1s casas construidas que gente para vivir, sin olvidar a la gente que echan de sus casas.",
+      "group": -1
+    },
+    {
+      "id": "Desarrollo de Metropolitan es bueno para el colegio el Porvenir, bueno para los comerciantes, bueno para los vecinos actuales y bueno para los vecinos futuros.",
+      "group": -2
+    },
+    {
+      "id": "Por favor, no secunden esta ocurrencia.",
+      "group": -2
+    },
+    {
+      "id": "Viabilidad Econ\u00f3mica",
+      "group": -3
+    },
+    {
+      "id": "Viabilidad Econ\u00f3mica_support",
+      "group": -1
+    },
+    {
+      "id": "Viabilidad Econ\u00f3mica_attack",
+      "group": -2
+    },
+    {
+      "id": "La inversi\u00f3n viene porque el que vendi\u00f3 el terreno en un concurso p\u00fablico, completamente legal, fue precisamente Metro de Madrid.",
+      "group": -1
+    },
+    {
+      "id": "El ayuntamiento de Madrid no podr\u00eda crear un museo del metro esto es gastarse el dinero m\u00e1s que nada porque Metro depende de la CAM Entonces a que est\u00e1n jugando?",
+      "group": -2
+    },
+    {
+      "id": "Impacto Cultural",
+      "group": -3
+    },
+    {
+      "id": "Impacto Cultural_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Cultural_attack",
+      "group": -2
+    },
+    {
+      "id": "Necesario totalmente emprender este proyecto que otorgar\u00eda una importancia a nivel europeo en materia de patrimonio a nuestra ciudad, conservando un espacio hist\u00f3rico de gran trascendencia.",
+      "group": -1
+    },
+    {
+      "id": "\u00bfPero a qu\u00e9 viene este cuento de salvar Cuatro Caminos? Las cocheras de Metro de Cuatro Caminos no est\u00e1n en peligro, sino todo lo contrario.",
+      "group": -2
+    },
+    {
+      "id": "Vaya tufo \u00bfEsto estaba en alg\u00fan programa electoral o es improvisaci\u00f3n tipo Bolivariana?",
+      "group": -2
+    },
+    {
+      "id": "Transparencia y Legalidad",
+      "group": -3
+    },
+    {
+      "id": "Transparencia y Legalidad_support",
+      "group": -1
+    },
+    {
+      "id": "Transparencia y Legalidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u0085 Todo lo que dices son acusaciones muy graves contra actuaciones de organismos p\u00fablicos.",
+      "group": -1
+    },
+    {
+      "id": "Una verg\u00fcenza total lo que quiere hacer el ayuntamiento con unos vecinos que han comprado un terreno de forma absolutamente legal para edificar ah\u00ed sus viviendas y ahora despu\u00e9s de un desembolso muy importante quieren dejarnos en la calle sin m\u00e1s.",
+      "group": -2
+    },
+    {
+      "id": "Estamos totalmente indefensos frente a las ocurrencias del ayuntamiento, esto es una expropiaci\u00f3n en toda regla.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 1121",
+      "target": "Valor Patrimonial",
+      "value": 1
+    },
+    {
+      "source": "Valor Patrimonial",
+      "target": "Valor Patrimonial_support",
+      "value": 2
+    },
+    {
+      "source": "Valor Patrimonial",
+      "target": "Valor Patrimonial_attack",
+      "value": 2
+    },
+    {
+      "source": "Valor Patrimonial_support",
+      "target": "Las cocheras de Cuatro Caminos forman parte del patrimonio hist\u00f3rico de la ciudad y pertenecen al conjunto de los madrile\u00f1os.",
+      "value": 3
+    },
+    {
+      "source": "Valor Patrimonial_support",
+      "target": "Son las primeras cocheras Edificadas para el servicio del Metro en Madrid en 1918 y son por lo tanto una obra hist\u00f3rica.",
+      "value": 3
+    },
+    {
+      "source": "Valor Patrimonial_attack",
+      "target": "Cualquier arquitecto conservacionista estar\u00eda de acuerdo en demoler semejante adefesio sin valor arquitect\u00f3nico alguno.",
+      "value": 3
+    },
+    {
+      "source": "Valor Patrimonial_attack",
+      "target": "Esas cocheras son un tremendo obst\u00e1culo que impide la remodelaci\u00f3n de esa zona de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Impacto Urban\u00edstico",
+      "value": 1
+    },
+    {
+      "source": "Impacto Urban\u00edstico",
+      "target": "Impacto Urban\u00edstico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Urban\u00edstico",
+      "target": "Impacto Urban\u00edstico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Urban\u00edstico_support",
+      "target": "Creo que ya va siendo hora de que el medio de transporte m\u00e1s emblem\u00e1tico del pa\u00eds tenga un museo dedicado a \u00e9l.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Urban\u00edstico_support",
+      "target": "Necesario totalmente emprender este proyecto que otorgar\u00eda una importancia a nivel europeo en materia de patrimonio a nuestra ciudad.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Urban\u00edstico_attack",
+      "target": "El proyecto de dicha cooperativa incluye la construcci\u00f3n de un enorme parque p\u00fablico, y de edificios para dotaciones p\u00fablicas.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Urban\u00edstico_attack",
+      "target": "El barrio mejorar\u00eda much\u00edsimo y ser\u00eda beneficioso para todos los vecinos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Impacto Econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_support",
+      "target": "En t\u00e9rminos econ\u00f3micos el crear este Museo, en una obra ya existente y que solo precisa un lavado de cara nunca ha sido restaurada y el agregar varios elementos de uso es algo que supondr\u00e1 un coste mucho menor a los ciudadanos de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_attack",
+      "target": "Otro museo de no se sabe qu\u00e9 ser\u00e1 otra rendija por la que se escapar\u00e1 el dinero p\u00fablico, necesario para pagar pensiones, desempleo, dependencia, hospitales.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_attack",
+      "target": "Esta propuesta es sumamente irresponsable.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Seguridad Jur\u00eddica",
+      "value": 1
+    },
+    {
+      "source": "Seguridad Jur\u00eddica",
+      "target": "Seguridad Jur\u00eddica_support",
+      "value": 2
+    },
+    {
+      "source": "Seguridad Jur\u00eddica",
+      "target": "Seguridad Jur\u00eddica_attack",
+      "value": 2
+    },
+    {
+      "source": "Seguridad Jur\u00eddica_support",
+      "target": "Se puede devolver el dinero pagado a los compradores del terreno sin ning\u00fan problema.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad Jur\u00eddica_attack",
+      "target": "Esta propuesta ser\u00eda un grave ataque a la seguridad jur\u00eddica y a la propiedad privada de personas de la clase media.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad Jur\u00eddica_attack",
+      "target": "Inseguridad jur\u00eddica, es lo que proponen. Si es as\u00ed que no cuenten con inversiones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Inter\u00e9s P\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico",
+      "target": "Inter\u00e9s P\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico",
+      "target": "Inter\u00e9s P\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico_support",
+      "target": "La historia de Metro est\u00e1 a disposici\u00f3n de madrile\u00f1os y turistas a trav\u00e9s de estos dos lugares, uno de ellos en nuestro futuro barrio, cocheras de metro mediante.",
+      "value": 3
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico_support",
+      "target": "Hay gente que desconoce que Metro atesora una colecci\u00f3n de trenes hist\u00f3ricos.",
+      "value": 3
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico_attack",
+      "target": "Para qu\u00e9 necesita Chamber\u00ed un museo ah\u00ed? Lo que hace falta es un parque y edificio para uso p\u00fablico del barrio.",
+      "value": 3
+    },
+    {
+      "source": "Inter\u00e9s P\u00fablico_attack",
+      "target": "El ayuntamiento de Madrid no podr\u00eda crear un museo del metro esto es gastarse el dinero m\u00e1s que nada porque Metro depende de la CAM.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Impacto en la Vivienda",
+      "value": 1
+    },
+    {
+      "source": "Impacto en la Vivienda",
+      "target": "Impacto en la Vivienda_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la Vivienda",
+      "target": "Impacto en la Vivienda_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la Vivienda_support",
+      "target": "Se propone expropiar los terrenos para las futuras viviendas de 450 familias para hacer un museo del metro?",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la Vivienda_attack",
+      "target": "Buenos d\u00edas, con qu\u00e9 prop\u00f3sito apoy\u00e1is esto por favor? todos los que hemos invertido en los pisos que se intentan construir nos est\u00e1 costando mucho esfuerzo.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la Vivienda_attack",
+      "target": "Una verg\u00fcenza total lo que quiere hacer el ayuntamiento con unos vecinos que han comprado un terreno de forma absolutamente legal para edificar ah\u00ed sus viviendas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Conservaci\u00f3n del Patrimonio",
+      "value": 1
+    },
+    {
+      "source": "Conservaci\u00f3n del Patrimonio",
+      "target": "Conservaci\u00f3n del Patrimonio_support",
+      "value": 2
+    },
+    {
+      "source": "Conservaci\u00f3n del Patrimonio",
+      "target": "Conservaci\u00f3n del Patrimonio_attack",
+      "value": 2
+    },
+    {
+      "source": "Conservaci\u00f3n del Patrimonio_support",
+      "target": "No hay ninguna recinto de la ciudad capacitado para albergar las 36 unidades de metro hist\u00f3ricas que se preservan que este ubicado en zona c\u00e9ntrica, accesible al p\u00fablico a trav\u00e9s de medios de transporte, y en un recinto hist\u00f3rico como lo es esta obra.",
+      "value": 3
+    },
+    {
+      "source": "Conservaci\u00f3n del Patrimonio_attack",
+      "target": "\u00bfPero que tomadura de pelo de propuesta es esta? El terreno donde se sit\u00faan las antiguas cocheras de Cuatro Caminos ya ha sido adquirido por una cooperativa de viviendas, por lo tanto no tiene sentido proponer hacer ning\u00fan museo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Participaci\u00f3n Ciudadana",
+      "value": 1
+    },
+    {
+      "source": "Participaci\u00f3n Ciudadana",
+      "target": "Participaci\u00f3n Ciudadana_support",
+      "value": 2
+    },
+    {
+      "source": "Participaci\u00f3n Ciudadana",
+      "target": "Participaci\u00f3n Ciudadana_attack",
+      "value": 2
+    },
+    {
+      "source": "Participaci\u00f3n Ciudadana_support",
+      "target": "Hola, he creado una nueva. Igual podemos lograr que sea cual sea su futuro sea decidido por todos.",
+      "value": 3
+    },
+    {
+      "source": "Participaci\u00f3n Ciudadana_attack",
+      "target": "Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La poblaci\u00f3n tiene que considerar esas cocheras un bien de patrimonio hist\u00f3rico.",
+      "value": 3
+    },
+    {
+      "source": "Participaci\u00f3n Ciudadana_attack",
+      "target": "Los vecinos no queremos este museo. Cocheras soterradas cuanto antes.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Impacto Social",
+      "value": 1
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social",
+      "target": "Impacto Social_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Social_support",
+      "target": "Humanidad Ejemplo: Estaci\u00f3n de Chamber\u00ed Respecto al plan urban\u00edstico. Solo decir que hay m\u00e1s casas construidas que gente para vivir, sin olvidar a la gente que echan de sus casas.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Social_attack",
+      "target": "Desarrollo de Metropolitan es bueno para el colegio el Porvenir, bueno para los comerciantes, bueno para los vecinos actuales y bueno para los vecinos futuros.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Social_attack",
+      "target": "Por favor, no secunden esta ocurrencia.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Viabilidad Econ\u00f3mica",
+      "value": 1
+    },
+    {
+      "source": "Viabilidad Econ\u00f3mica",
+      "target": "Viabilidad Econ\u00f3mica_support",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad Econ\u00f3mica",
+      "target": "Viabilidad Econ\u00f3mica_attack",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad Econ\u00f3mica_support",
+      "target": "La inversi\u00f3n viene porque el que vendi\u00f3 el terreno en un concurso p\u00fablico, completamente legal, fue precisamente Metro de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Viabilidad Econ\u00f3mica_attack",
+      "target": "El ayuntamiento de Madrid no podr\u00eda crear un museo del metro esto es gastarse el dinero m\u00e1s que nada porque Metro depende de la CAM Entonces a que est\u00e1n jugando?",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Impacto Cultural",
+      "value": 1
+    },
+    {
+      "source": "Impacto Cultural",
+      "target": "Impacto Cultural_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Cultural",
+      "target": "Impacto Cultural_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Cultural_support",
+      "target": "Necesario totalmente emprender este proyecto que otorgar\u00eda una importancia a nivel europeo en materia de patrimonio a nuestra ciudad, conservando un espacio hist\u00f3rico de gran trascendencia.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Cultural_attack",
+      "target": "\u00bfPero a qu\u00e9 viene este cuento de salvar Cuatro Caminos? Las cocheras de Metro de Cuatro Caminos no est\u00e1n en peligro, sino todo lo contrario.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Cultural_attack",
+      "target": "Vaya tufo \u00bfEsto estaba en alg\u00fan programa electoral o es improvisaci\u00f3n tipo Bolivariana?",
+      "value": 3
+    },
+    {
+      "source": "proposal 1121",
+      "target": "Transparencia y Legalidad",
+      "value": 1
+    },
+    {
+      "source": "Transparencia y Legalidad",
+      "target": "Transparencia y Legalidad_support",
+      "value": 2
+    },
+    {
+      "source": "Transparencia y Legalidad",
+      "target": "Transparencia y Legalidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Transparencia y Legalidad_support",
+      "target": "Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u0085 Todo lo que dices son acusaciones muy graves contra actuaciones de organismos p\u00fablicos.",
+      "value": 3
+    },
+    {
+      "source": "Transparencia y Legalidad_attack",
+      "target": "Una verg\u00fcenza total lo que quiere hacer el ayuntamiento con unos vecinos que han comprado un terreno de forma absolutamente legal para edificar ah\u00ed sus viviendas y ahora despu\u00e9s de un desembolso muy importante quieren dejarnos en la calle sin m\u00e1s.",
+      "value": 3
+    },
+    {
+      "source": "Transparencia y Legalidad_attack",
+      "target": "Estamos totalmente indefensos frente a las ocurrencias del ayuntamiento, esto es una expropiaci\u00f3n en toda regla.",
+      "value": 3
+    }
+  ]
+}

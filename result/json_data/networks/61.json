@@ -1,0 +1,262 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 61",
+      "group": 0
+    },
+    {
+      "id": "Uso de energ\u00edas renovables",
+      "group": -3
+    },
+    {
+      "id": "Uso de energ\u00edas renovables_support",
+      "group": -1
+    },
+    {
+      "id": "Uso de energ\u00edas renovables_attack",
+      "group": -2
+    },
+    {
+      "id": "Incluso propondr\u00eda dentro de esta propuesta que se abasteciera con energ\u00edas renovables, preferentemente peque\u00f1as placas solares en cada farola.",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia energ\u00e9tica",
+      "group": -3
+    },
+    {
+      "id": "Eficiencia energ\u00e9tica_support",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia energ\u00e9tica_attack",
+      "group": -2
+    },
+    {
+      "id": "O encender una farola de cada dos, pero en toda la autopista.",
+      "group": -1
+    },
+    {
+      "id": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
+      "group": -1
+    },
+    {
+      "id": "Seguridad vial",
+      "group": -3
+    },
+    {
+      "id": "Seguridad vial_support",
+      "group": -1
+    },
+    {
+      "id": "Seguridad vial_attack",
+      "group": -2
+    },
+    {
+      "id": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
+      "group": -2
+    },
+    {
+      "id": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
+      "group": -2
+    },
+    {
+      "id": "Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
+      "group": -2
+    },
+    {
+      "id": "Visibilidad y peligro",
+      "group": -3
+    },
+    {
+      "id": "Visibilidad y peligro_support",
+      "group": -1
+    },
+    {
+      "id": "Visibilidad y peligro_attack",
+      "group": -2
+    },
+    {
+      "id": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n lum\u00ednica",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n lum\u00ednica_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n lum\u00ednica_attack",
+      "group": -2
+    },
+    {
+      "id": "Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
+      "group": -2
+    },
+    {
+      "id": "Problemas administrativos y de mantenimiento",
+      "group": -3
+    },
+    {
+      "id": "Problemas administrativos y de mantenimiento_support",
+      "group": -1
+    },
+    {
+      "id": "Problemas administrativos y de mantenimiento_attack",
+      "group": -2
+    },
+    {
+      "id": "En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",
+      "group": -2
+    },
+    {
+      "id": "En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 61",
+      "target": "Uso de energ\u00edas renovables",
+      "value": 1
+    },
+    {
+      "source": "Uso de energ\u00edas renovables",
+      "target": "Uso de energ\u00edas renovables_support",
+      "value": 2
+    },
+    {
+      "source": "Uso de energ\u00edas renovables",
+      "target": "Uso de energ\u00edas renovables_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso de energ\u00edas renovables_support",
+      "target": "Incluso propondr\u00eda dentro de esta propuesta que se abasteciera con energ\u00edas renovables, preferentemente peque\u00f1as placas solares en cada farola.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Eficiencia energ\u00e9tica",
+      "value": 1
+    },
+    {
+      "source": "Eficiencia energ\u00e9tica",
+      "target": "Eficiencia energ\u00e9tica_support",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia energ\u00e9tica",
+      "target": "Eficiencia energ\u00e9tica_attack",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia energ\u00e9tica_support",
+      "target": "O encender una farola de cada dos, pero en toda la autopista.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia energ\u00e9tica_support",
+      "target": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Seguridad vial",
+      "value": 1
+    },
+    {
+      "source": "Seguridad vial",
+      "target": "Seguridad vial_support",
+      "value": 2
+    },
+    {
+      "source": "Seguridad vial",
+      "target": "Seguridad vial_attack",
+      "value": 2
+    },
+    {
+      "source": "Seguridad vial_attack",
+      "target": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad vial_attack",
+      "target": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad vial_attack",
+      "target": "Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Visibilidad y peligro",
+      "value": 1
+    },
+    {
+      "source": "Visibilidad y peligro",
+      "target": "Visibilidad y peligro_support",
+      "value": 2
+    },
+    {
+      "source": "Visibilidad y peligro",
+      "target": "Visibilidad y peligro_attack",
+      "value": 2
+    },
+    {
+      "source": "Visibilidad y peligro_support",
+      "target": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Contaminaci\u00f3n lum\u00ednica",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n lum\u00ednica",
+      "target": "Contaminaci\u00f3n lum\u00ednica_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n lum\u00ednica",
+      "target": "Contaminaci\u00f3n lum\u00ednica_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n lum\u00ednica_attack",
+      "target": "Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Problemas administrativos y de mantenimiento",
+      "value": 1
+    },
+    {
+      "source": "Problemas administrativos y de mantenimiento",
+      "target": "Problemas administrativos y de mantenimiento_support",
+      "value": 2
+    },
+    {
+      "source": "Problemas administrativos y de mantenimiento",
+      "target": "Problemas administrativos y de mantenimiento_attack",
+      "value": 2
+    },
+    {
+      "source": "Problemas administrativos y de mantenimiento_attack",
+      "target": "En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",
+      "value": 3
+    },
+    {
+      "source": "Problemas administrativos y de mantenimiento_attack",
+      "target": "En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas.",
+      "value": 3
+    }
+  ]
+}

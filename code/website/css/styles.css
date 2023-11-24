@@ -1,0 +1,42 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 16px;
+    font-family: 'Roboto', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    /** Page title **/
+    padding-bottom: 10px;
+    font-family: 'Montserrat', Arial, sans-serif;
+    color: #003366;
+}
+
+footer {
+    padding-top: 20px;
+    font-size: 14px;
+    color: #888;
+}
+
+h3 {
+    /** Page subtitle **/
+    margin-bottom: 0px;
+    font-family: 'Montserrat', Arial, sans-serif;
+    color: #003366;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.source {
+    font-size: 14px;
+}
+
+.chart {
+    width: 100%;
+    border-width: 0px;
+}

@@ -1,0 +1,469 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2121",
+      "group": 0
+    },
+    {
+      "id": "Costo de los servicios veterinarios",
+      "group": -3
+    },
+    {
+      "id": "Costo de los servicios veterinarios_support",
+      "group": -1
+    },
+    {
+      "id": "Costo de los servicios veterinarios_attack",
+      "group": -2
+    },
+    {
+      "id": "Necesitamos hospitales p\u00fablicos de mascotas, muchos due\u00f1os no pueden hacer frente a las abultadas facturas de los veterinarios, que en muchos casos son abusivas.",
+      "group": -1
+    },
+    {
+      "id": "Yo adopte un perro, y lo primero que hice fue echar cuentas si me lo pod\u00eda permitir o no. Lo siento pero una mascota es un lujo y con el dinero de todos no se pagan lujos de unos pocos.",
+      "group": -2
+    },
+    {
+      "id": "Abandono de mascotas",
+      "group": -3
+    },
+    {
+      "id": "Abandono de mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Abandono de mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Muchas mascotas sufren el abandono de sus due\u00f1os por no poder hacer frente a los gastos veterinarios, es una lacra y una desgracia que se podr\u00eda evitar.",
+      "group": -1
+    },
+    {
+      "id": "Yo tengo perros, pero los perros no son una necesidad. El que tiene un perro es por que quiere y a nadie m\u00e1s que a esa persona deber\u00eda costarle dinero el capricho.",
+      "group": -2
+    },
+    {
+      "id": "Responsabilidad de los due\u00f1os de mascotas",
+      "group": -3
+    },
+    {
+      "id": "Responsabilidad de los due\u00f1os de mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Responsabilidad de los due\u00f1os de mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo tengo gatos, cuando los adopte, ten\u00eda trabajo y medios de vida para mantenerlos, ahora estoy en el paro y a\u00fan as\u00ed los cuido y procuro tenerlos al d\u00eda.",
+      "group": -1
+    },
+    {
+      "id": "Considero que se deb\u00edan poner impuestos mayores a la tenencia de animales por capricho. Pagamos bolsas que no se usan pagamos motos para recoger las cacas y tenemos que soportar el incivismo del 90 de propietarios de animales de compa\u00f1\u00eda por capricho.",
+      "group": -2
+    },
+    {
+      "id": "Beneficios emocionales de las mascotas",
+      "group": -3
+    },
+    {
+      "id": "Beneficios emocionales de las mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Beneficios emocionales de las mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Por otra parte hay una gran poblaci\u00f3n anciana que tiene mascotas y desde luego les hace mucho bien esta compa\u00f1\u00eda, pero desgraciadamente si tienen que hacer frente a facturas del veterinario con las escu\u00e1lidas pensiones que tienen nos les llega y quien sufre, como siempre el animal, que acaba sacrificado o abandonado a su suerte.",
+      "group": -1
+    },
+    {
+      "id": "Pero quiz\u00e1 la soluci\u00f3n es dejar de pagar pensiones de miseria no poner sanidad p\u00fablica para animales.",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n y civismo en tenencia de mascotas",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n y civismo en tenencia de mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n y civismo en tenencia de mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Para tteleda, Cierto es que una gran parte de la gente que tiene mascotas son inc\u00edvicas por no recoger las cacas de sus mascotas, todo es una cuesti\u00f3n de educaci\u00f3n y respeto.",
+      "group": -1
+    },
+    {
+      "id": "Pero a esas personas hay que castigarlas de alguna forma y la \u00fanica que veo es rascarles el bolsillo.",
+      "group": -2
+    },
+    {
+      "id": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas",
+      "group": -3
+    },
+    {
+      "id": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Betados, yo no pido una sanidad p\u00fablica gratuita para mascotas, pido hospitales p\u00fablicos para mascotas con alg\u00fan tipo de subvenci\u00f3n, el resto lo pagar\u00edamos quienes hici\u00e9ramos uso de ella.",
+      "group": -1
+    },
+    {
+      "id": "Necesidad vs. Lujo en la tenencia de mascotas",
+      "group": -3
+    },
+    {
+      "id": "Necesidad vs. Lujo en la tenencia de mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Necesidad vs. Lujo en la tenencia de mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Quiz\u00e1s los perros no sean una necesidad, pero tampoco es un lujo, muchos tenemos mascotas porque fueron abandonados por personas sin pizca de alma ni coraz\u00f3n, y algunos decidimos darles un hogar.",
+      "group": -1
+    },
+    {
+      "id": "Son un capricho vecin@.",
+      "group": -2
+    },
+    {
+      "id": "Impacto de mascotas en la calidad de vida",
+      "group": -3
+    },
+    {
+      "id": "Impacto de mascotas en la calidad de vida_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto de mascotas en la calidad de vida_attack",
+      "group": -2
+    },
+    {
+      "id": "Cuando consideremos a las mascotas habitantes de la ciudad, en igualdad de condiciones y respeto que las personas, el debate cobrar\u00eda otro significiado. No se trata de un lujo o un objeto. Apoyo esta iniciativa.",
+      "group": -1
+    },
+    {
+      "id": "Hola Maria cm, si tenemos que esperar a que la gente se haga civica, mis nietos tendr\u00e1n que jugar en parques infantiles llenos de cacas de perros y de personas que dejan a sus perros en libertad en estos lugares, habiendo letreros que proh\u00edben estas situaciones.",
+      "group": -2
+    },
+    {
+      "id": "Accesibilidad a servicios veterinarios",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad a servicios veterinarios_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad a servicios veterinarios_attack",
+      "group": -2
+    },
+    {
+      "id": "Bueno, tal vez habr\u00eda que pedir la bajada de impuestos y no tendr\u00edamos que pagar tanto por cada cosa.",
+      "group": -1
+    },
+    {
+      "id": "Rol de las mascotas en la sociedad",
+      "group": -3
+    },
+    {
+      "id": "Rol de las mascotas en la sociedad_support",
+      "group": -1
+    },
+    {
+      "id": "Rol de las mascotas en la sociedad_attack",
+      "group": -2
+    },
+    {
+      "id": "Seg\u00fan para qu\u00e9 personas son un capricho, a lo mejor para ti lo son, para mi vecina que es ciega es una necesidad. Todo es cuesti\u00f3n de empat\u00eda.",
+      "group": -1
+    },
+    {
+      "id": "Gesti\u00f3n de recursos p\u00fablicos para mascotas",
+      "group": -3
+    },
+    {
+      "id": "Gesti\u00f3n de recursos p\u00fablicos para mascotas_support",
+      "group": -1
+    },
+    {
+      "id": "Gesti\u00f3n de recursos p\u00fablicos para mascotas_attack",
+      "group": -2
+    },
+    {
+      "id": "Claro que a todos nos vendr\u00eda bien una bajada de impuestos, pero ya puestos a pedir, tambi\u00e9n en lugar de que hubiera una casilla en la declaraci\u00f3n de la renta que financia la iglesia, que hubiera otra que quien quiera pueda poner una por en apoyo a los animales sin hogar, que desaparezcan las perreras y estos animales vayan a albergues donde est\u00e9n bien controlados, cuidados hasta que encuentren familias que los quieran.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2121",
+      "target": "Costo de los servicios veterinarios",
+      "value": 1
+    },
+    {
+      "source": "Costo de los servicios veterinarios",
+      "target": "Costo de los servicios veterinarios_support",
+      "value": 2
+    },
+    {
+      "source": "Costo de los servicios veterinarios",
+      "target": "Costo de los servicios veterinarios_attack",
+      "value": 2
+    },
+    {
+      "source": "Costo de los servicios veterinarios_support",
+      "target": "Necesitamos hospitales p\u00fablicos de mascotas, muchos due\u00f1os no pueden hacer frente a las abultadas facturas de los veterinarios, que en muchos casos son abusivas.",
+      "value": 3
+    },
+    {
+      "source": "Costo de los servicios veterinarios_attack",
+      "target": "Yo adopte un perro, y lo primero que hice fue echar cuentas si me lo pod\u00eda permitir o no. Lo siento pero una mascota es un lujo y con el dinero de todos no se pagan lujos de unos pocos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Abandono de mascotas",
+      "value": 1
+    },
+    {
+      "source": "Abandono de mascotas",
+      "target": "Abandono de mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Abandono de mascotas",
+      "target": "Abandono de mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Abandono de mascotas_support",
+      "target": "Muchas mascotas sufren el abandono de sus due\u00f1os por no poder hacer frente a los gastos veterinarios, es una lacra y una desgracia que se podr\u00eda evitar.",
+      "value": 3
+    },
+    {
+      "source": "Abandono de mascotas_attack",
+      "target": "Yo tengo perros, pero los perros no son una necesidad. El que tiene un perro es por que quiere y a nadie m\u00e1s que a esa persona deber\u00eda costarle dinero el capricho.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Responsabilidad de los due\u00f1os de mascotas",
+      "value": 1
+    },
+    {
+      "source": "Responsabilidad de los due\u00f1os de mascotas",
+      "target": "Responsabilidad de los due\u00f1os de mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad de los due\u00f1os de mascotas",
+      "target": "Responsabilidad de los due\u00f1os de mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad de los due\u00f1os de mascotas_support",
+      "target": "Yo tengo gatos, cuando los adopte, ten\u00eda trabajo y medios de vida para mantenerlos, ahora estoy en el paro y a\u00fan as\u00ed los cuido y procuro tenerlos al d\u00eda.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad de los due\u00f1os de mascotas_attack",
+      "target": "Considero que se deb\u00edan poner impuestos mayores a la tenencia de animales por capricho. Pagamos bolsas que no se usan pagamos motos para recoger las cacas y tenemos que soportar el incivismo del 90 de propietarios de animales de compa\u00f1\u00eda por capricho.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Beneficios emocionales de las mascotas",
+      "value": 1
+    },
+    {
+      "source": "Beneficios emocionales de las mascotas",
+      "target": "Beneficios emocionales de las mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Beneficios emocionales de las mascotas",
+      "target": "Beneficios emocionales de las mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Beneficios emocionales de las mascotas_support",
+      "target": "Por otra parte hay una gran poblaci\u00f3n anciana que tiene mascotas y desde luego les hace mucho bien esta compa\u00f1\u00eda, pero desgraciadamente si tienen que hacer frente a facturas del veterinario con las escu\u00e1lidas pensiones que tienen nos les llega y quien sufre, como siempre el animal, que acaba sacrificado o abandonado a su suerte.",
+      "value": 3
+    },
+    {
+      "source": "Beneficios emocionales de las mascotas_attack",
+      "target": "Pero quiz\u00e1 la soluci\u00f3n es dejar de pagar pensiones de miseria no poner sanidad p\u00fablica para animales.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Educaci\u00f3n y civismo en tenencia de mascotas",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n y civismo en tenencia de mascotas",
+      "target": "Educaci\u00f3n y civismo en tenencia de mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y civismo en tenencia de mascotas",
+      "target": "Educaci\u00f3n y civismo en tenencia de mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y civismo en tenencia de mascotas_support",
+      "target": "Para tteleda, Cierto es que una gran parte de la gente que tiene mascotas son inc\u00edvicas por no recoger las cacas de sus mascotas, todo es una cuesti\u00f3n de educaci\u00f3n y respeto.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y civismo en tenencia de mascotas_attack",
+      "target": "Pero a esas personas hay que castigarlas de alguna forma y la \u00fanica que veo es rascarles el bolsillo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas",
+      "value": 1
+    },
+    {
+      "source": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas",
+      "target": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas",
+      "target": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Financiaci\u00f3n y subvenciones para el cuidado de mascotas_support",
+      "target": "Betados, yo no pido una sanidad p\u00fablica gratuita para mascotas, pido hospitales p\u00fablicos para mascotas con alg\u00fan tipo de subvenci\u00f3n, el resto lo pagar\u00edamos quienes hici\u00e9ramos uso de ella.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Necesidad vs. Lujo en la tenencia de mascotas",
+      "value": 1
+    },
+    {
+      "source": "Necesidad vs. Lujo en la tenencia de mascotas",
+      "target": "Necesidad vs. Lujo en la tenencia de mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Necesidad vs. Lujo en la tenencia de mascotas",
+      "target": "Necesidad vs. Lujo en la tenencia de mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Necesidad vs. Lujo en la tenencia de mascotas_support",
+      "target": "Quiz\u00e1s los perros no sean una necesidad, pero tampoco es un lujo, muchos tenemos mascotas porque fueron abandonados por personas sin pizca de alma ni coraz\u00f3n, y algunos decidimos darles un hogar.",
+      "value": 3
+    },
+    {
+      "source": "Necesidad vs. Lujo en la tenencia de mascotas_attack",
+      "target": "Son un capricho vecin@.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Impacto de mascotas en la calidad de vida",
+      "value": 1
+    },
+    {
+      "source": "Impacto de mascotas en la calidad de vida",
+      "target": "Impacto de mascotas en la calidad de vida_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto de mascotas en la calidad de vida",
+      "target": "Impacto de mascotas en la calidad de vida_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto de mascotas en la calidad de vida_support",
+      "target": "Cuando consideremos a las mascotas habitantes de la ciudad, en igualdad de condiciones y respeto que las personas, el debate cobrar\u00eda otro significiado. No se trata de un lujo o un objeto. Apoyo esta iniciativa.",
+      "value": 3
+    },
+    {
+      "source": "Impacto de mascotas en la calidad de vida_attack",
+      "target": "Hola Maria cm, si tenemos que esperar a que la gente se haga civica, mis nietos tendr\u00e1n que jugar en parques infantiles llenos de cacas de perros y de personas que dejan a sus perros en libertad en estos lugares, habiendo letreros que proh\u00edben estas situaciones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Accesibilidad a servicios veterinarios",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad a servicios veterinarios",
+      "target": "Accesibilidad a servicios veterinarios_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad a servicios veterinarios",
+      "target": "Accesibilidad a servicios veterinarios_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad a servicios veterinarios_support",
+      "target": "Bueno, tal vez habr\u00eda que pedir la bajada de impuestos y no tendr\u00edamos que pagar tanto por cada cosa.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Rol de las mascotas en la sociedad",
+      "value": 1
+    },
+    {
+      "source": "Rol de las mascotas en la sociedad",
+      "target": "Rol de las mascotas en la sociedad_support",
+      "value": 2
+    },
+    {
+      "source": "Rol de las mascotas en la sociedad",
+      "target": "Rol de las mascotas en la sociedad_attack",
+      "value": 2
+    },
+    {
+      "source": "Rol de las mascotas en la sociedad_support",
+      "target": "Seg\u00fan para qu\u00e9 personas son un capricho, a lo mejor para ti lo son, para mi vecina que es ciega es una necesidad. Todo es cuesti\u00f3n de empat\u00eda.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2121",
+      "target": "Gesti\u00f3n de recursos p\u00fablicos para mascotas",
+      "value": 1
+    },
+    {
+      "source": "Gesti\u00f3n de recursos p\u00fablicos para mascotas",
+      "target": "Gesti\u00f3n de recursos p\u00fablicos para mascotas_support",
+      "value": 2
+    },
+    {
+      "source": "Gesti\u00f3n de recursos p\u00fablicos para mascotas",
+      "target": "Gesti\u00f3n de recursos p\u00fablicos para mascotas_attack",
+      "value": 2
+    },
+    {
+      "source": "Gesti\u00f3n de recursos p\u00fablicos para mascotas_support",
+      "target": "Claro que a todos nos vendr\u00eda bien una bajada de impuestos, pero ya puestos a pedir, tambi\u00e9n en lugar de que hubiera una casilla en la declaraci\u00f3n de la renta que financia la iglesia, que hubiera otra que quien quiera pueda poner una por en apoyo a los animales sin hogar, que desaparezcan las perreras y estos animales vayan a albergues donde est\u00e9n bien controlados, cuidados hasta que encuentren familias que los quieran.",
+      "value": 3
+    }
+  ]
+}

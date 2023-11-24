@@ -1,0 +1,451 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 1085",
+      "group": 0
+    },
+    {
+      "id": "Multas y sanciones",
+      "group": -3
+    },
+    {
+      "id": "Multas y sanciones_support",
+      "group": -1
+    },
+    {
+      "id": "Multas y sanciones_attack",
+      "group": -2
+    },
+    {
+      "id": "En teor\u00eda ya se contemplan multas por no recoger los excrementos.",
+      "group": -1
+    },
+    {
+      "id": "Carlos deja bien claro que se multen a los due\u00f1os que no recogen los escrementos de sus perros.",
+      "group": -1
+    },
+    {
+      "id": "No la apoyo ni la apoyar\u00e9. Las calles de vicalvaro que huelen a pis, no es por que el pis sea de perro.",
+      "group": -2
+    },
+    {
+      "id": "No ves el delito no puedes sancionar al ciudadano. Ser\u00eda ver al infractor in situ.",
+      "group": -2
+    },
+    {
+      "id": "Cuesta m\u00e1s el an\u00e1lisis de la caca que la sanci\u00f3n que se le imponga al guarro que no la ha recogido.",
+      "group": -2
+    },
+    {
+      "id": "Impuestos para due\u00f1os de perros",
+      "group": -3
+    },
+    {
+      "id": "Impuestos para due\u00f1os de perros_support",
+      "group": -1
+    },
+    {
+      "id": "Impuestos para due\u00f1os de perros_attack",
+      "group": -2
+    },
+    {
+      "id": "Se podr\u00eda cobrar un impuesto por tener un perro, como si tienes coche o moto, y con ese dinero cubrir los gastos de limpieza que ocasionan.",
+      "group": -1
+    },
+    {
+      "id": "Estoy totalmente de acuerdo con la propuesta de carli\u00f1os y adem\u00e1s creo que es justo que todos los que tengan mascotas y las saquen a la calle para lo que sea, deban de pagar un impuesto.",
+      "group": -1
+    },
+    {
+      "id": "Creo que los que tienen perro tendr\u00edan que pagar un impuesto.",
+      "group": -1
+    },
+    {
+      "id": "Resulta que los impuestos que pagamos tanto en el veterinario como en cualquier producto para perros ya es excesivo.",
+      "group": -2
+    },
+    {
+      "id": "Dudo much\u00edsimo que el hecho de poner un impuesto injusto a due\u00f1os de perros, recojan o no los excrementos, sirva para que la gente no abandone perros o no los adopte sin conocer las consecuencias.",
+      "group": -2
+    },
+    {
+      "id": "No estoy dispuesta a pagar las bolsitas de las cacas de los perros, que las paguen sus due\u00f1os.",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n y concienciaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n y concienciaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n y concienciaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Jol\u00edn y cuanto cuesta un paquete de esas bolsas en el mercadona? tampoco creo que desbarate el presupuesto mensual.",
+      "group": -1
+    },
+    {
+      "id": "Hay que ser responsables con nuestros animales, recoger sus heces no cuesta nada.",
+      "group": -1
+    },
+    {
+      "id": "Yo tengo perro y siempre recojo los excrementos y me parece una guarreria tener que ir por la calle esquivando mierdas.",
+      "group": -1
+    },
+    {
+      "id": "Que basura de proposici\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Adoras a los perros y sin embargo los sufres. Un sinsentido, no crees?",
+      "group": -2
+    },
+    {
+      "id": "No estoy de acuerdo pero Creo que la soluci\u00f3n que das es muy cara aqu\u00ed dejo la m\u00eda.",
+      "group": -2
+    },
+    {
+      "id": "Zonas designadas para perros",
+      "group": -3
+    },
+    {
+      "id": "Zonas designadas para perros_support",
+      "group": -1
+    },
+    {
+      "id": "Zonas designadas para perros_attack",
+      "group": -2
+    },
+    {
+      "id": "Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+      "group": -1
+    },
+    {
+      "id": "De acuerdo con esto, de hecho es lo natural. Enfrente de mi casa hay un arenero y mi perra desde cachorro hace ah\u00ed sus necesidades y nunca lo hace en la acera, no le gusta.",
+      "group": -1
+    },
+    {
+      "id": "Me parece muy buena idea, pero un poco compleja para ponerla en marcha. Pero yo la apoyo.",
+      "group": -1
+    },
+    {
+      "id": "Ya est\u00e1 bien. Soluciones: Primera y m\u00e1s l\u00f3gica. - Prohibir radicalmente los perros en Madrid.",
+      "group": -2
+    },
+    {
+      "id": "No a ese maltrato animal.",
+      "group": -2
+    },
+    {
+      "id": "Da asco ver los d\u00edas de lluvia como los coches hacen salpicar el agua embarrada y sucia de los charcos sobre las aceras y fachadas.",
+      "group": -2
+    },
+    {
+      "id": "Prohibici\u00f3n de perros en ciertas \u00e1reas",
+      "group": -3
+    },
+    {
+      "id": "Prohibici\u00f3n de perros en ciertas \u00e1reas_support",
+      "group": -1
+    },
+    {
+      "id": "Prohibici\u00f3n de perros en ciertas \u00e1reas_attack",
+      "group": -2
+    },
+    {
+      "id": "Cada due\u00f1o debe encargarse de la forma m\u00e1s c\u00f3moda para \u00e9l y para el perro de hacerlo cada uno en su casa.",
+      "group": -1
+    },
+    {
+      "id": "Hasta donde yo s\u00e9, las mascotas no tienen derecho a pensi\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Los hijos de otros son tus pensiones del futuro, pero sobre los perros a quienes adoro: los disfrutas el due\u00f1o y los sufrimos todos.",
+      "group": -2
+    },
+    {
+      "id": "Uso de tecnolog\u00eda para identificaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Uso de tecnolog\u00eda para identificaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Uso de tecnolog\u00eda para identificaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "El coste de las pruebas de ADN deber\u00eda ser asumido por el propietario de la mascota.",
+      "group": -1
+    },
+    {
+      "id": "Estoy de acurdo con tu propuesta y no parece una utop\u00eda, . Ha d\u00eda de hoy los perros tienen seguros que lo incluyan como responsabilidad civil, llevan un chip con su nombre y raza.",
+      "group": -1
+    },
+    {
+      "id": "Como siempre, al principio habr\u00e1 protestas y gente incumplidora, igual que pas\u00f3 con el tabaco, pero unas cuantas multas ejemplares o la confiscaci\u00f3n del animal.",
+      "group": -1
+    },
+    {
+      "id": "Y por qu\u00e9 se tiene que analizar la caca?.",
+      "group": -2
+    },
+    {
+      "id": "Tampoco veo correcto que se intente sancionar a un due\u00f1o de un perro por el ADN del can.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 1085",
+      "target": "Multas y sanciones",
+      "value": 1
+    },
+    {
+      "source": "Multas y sanciones",
+      "target": "Multas y sanciones_support",
+      "value": 2
+    },
+    {
+      "source": "Multas y sanciones",
+      "target": "Multas y sanciones_attack",
+      "value": 2
+    },
+    {
+      "source": "Multas y sanciones_support",
+      "target": "En teor\u00eda ya se contemplan multas por no recoger los excrementos.",
+      "value": 3
+    },
+    {
+      "source": "Multas y sanciones_support",
+      "target": "Carlos deja bien claro que se multen a los due\u00f1os que no recogen los escrementos de sus perros.",
+      "value": 3
+    },
+    {
+      "source": "Multas y sanciones_attack",
+      "target": "No la apoyo ni la apoyar\u00e9. Las calles de vicalvaro que huelen a pis, no es por que el pis sea de perro.",
+      "value": 3
+    },
+    {
+      "source": "Multas y sanciones_attack",
+      "target": "No ves el delito no puedes sancionar al ciudadano. Ser\u00eda ver al infractor in situ.",
+      "value": 3
+    },
+    {
+      "source": "Multas y sanciones_attack",
+      "target": "Cuesta m\u00e1s el an\u00e1lisis de la caca que la sanci\u00f3n que se le imponga al guarro que no la ha recogido.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1085",
+      "target": "Impuestos para due\u00f1os de perros",
+      "value": 1
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros",
+      "target": "Impuestos para due\u00f1os de perros_support",
+      "value": 2
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros",
+      "target": "Impuestos para due\u00f1os de perros_attack",
+      "value": 2
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_support",
+      "target": "Se podr\u00eda cobrar un impuesto por tener un perro, como si tienes coche o moto, y con ese dinero cubrir los gastos de limpieza que ocasionan.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_support",
+      "target": "Estoy totalmente de acuerdo con la propuesta de carli\u00f1os y adem\u00e1s creo que es justo que todos los que tengan mascotas y las saquen a la calle para lo que sea, deban de pagar un impuesto.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_support",
+      "target": "Creo que los que tienen perro tendr\u00edan que pagar un impuesto.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_attack",
+      "target": "Resulta que los impuestos que pagamos tanto en el veterinario como en cualquier producto para perros ya es excesivo.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_attack",
+      "target": "Dudo much\u00edsimo que el hecho de poner un impuesto injusto a due\u00f1os de perros, recojan o no los excrementos, sirva para que la gente no abandone perros o no los adopte sin conocer las consecuencias.",
+      "value": 3
+    },
+    {
+      "source": "Impuestos para due\u00f1os de perros_attack",
+      "target": "No estoy dispuesta a pagar las bolsitas de las cacas de los perros, que las paguen sus due\u00f1os.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1085",
+      "target": "Educaci\u00f3n y concienciaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n",
+      "target": "Educaci\u00f3n y concienciaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n",
+      "target": "Educaci\u00f3n y concienciaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_support",
+      "target": "Jol\u00edn y cuanto cuesta un paquete de esas bolsas en el mercadona? tampoco creo que desbarate el presupuesto mensual.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_support",
+      "target": "Hay que ser responsables con nuestros animales, recoger sus heces no cuesta nada.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_support",
+      "target": "Yo tengo perro y siempre recojo los excrementos y me parece una guarreria tener que ir por la calle esquivando mierdas.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_attack",
+      "target": "Que basura de proposici\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_attack",
+      "target": "Adoras a los perros y sin embargo los sufres. Un sinsentido, no crees?",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n y concienciaci\u00f3n_attack",
+      "target": "No estoy de acuerdo pero Creo que la soluci\u00f3n que das es muy cara aqu\u00ed dejo la m\u00eda.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1085",
+      "target": "Zonas designadas para perros",
+      "value": 1
+    },
+    {
+      "source": "Zonas designadas para perros",
+      "target": "Zonas designadas para perros_support",
+      "value": 2
+    },
+    {
+      "source": "Zonas designadas para perros",
+      "target": "Zonas designadas para perros_attack",
+      "value": 2
+    },
+    {
+      "source": "Zonas designadas para perros_support",
+      "target": "Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+      "value": 3
+    },
+    {
+      "source": "Zonas designadas para perros_support",
+      "target": "De acuerdo con esto, de hecho es lo natural. Enfrente de mi casa hay un arenero y mi perra desde cachorro hace ah\u00ed sus necesidades y nunca lo hace en la acera, no le gusta.",
+      "value": 3
+    },
+    {
+      "source": "Zonas designadas para perros_support",
+      "target": "Me parece muy buena idea, pero un poco compleja para ponerla en marcha. Pero yo la apoyo.",
+      "value": 3
+    },
+    {
+      "source": "Zonas designadas para perros_attack",
+      "target": "Ya est\u00e1 bien. Soluciones: Primera y m\u00e1s l\u00f3gica. - Prohibir radicalmente los perros en Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Zonas designadas para perros_attack",
+      "target": "No a ese maltrato animal.",
+      "value": 3
+    },
+    {
+      "source": "Zonas designadas para perros_attack",
+      "target": "Da asco ver los d\u00edas de lluvia como los coches hacen salpicar el agua embarrada y sucia de los charcos sobre las aceras y fachadas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1085",
+      "target": "Prohibici\u00f3n de perros en ciertas \u00e1reas",
+      "value": 1
+    },
+    {
+      "source": "Prohibici\u00f3n de perros en ciertas \u00e1reas",
+      "target": "Prohibici\u00f3n de perros en ciertas \u00e1reas_support",
+      "value": 2
+    },
+    {
+      "source": "Prohibici\u00f3n de perros en ciertas \u00e1reas",
+      "target": "Prohibici\u00f3n de perros en ciertas \u00e1reas_attack",
+      "value": 2
+    },
+    {
+      "source": "Prohibici\u00f3n de perros en ciertas \u00e1reas_support",
+      "target": "Cada due\u00f1o debe encargarse de la forma m\u00e1s c\u00f3moda para \u00e9l y para el perro de hacerlo cada uno en su casa.",
+      "value": 3
+    },
+    {
+      "source": "Prohibici\u00f3n de perros en ciertas \u00e1reas_attack",
+      "target": "Hasta donde yo s\u00e9, las mascotas no tienen derecho a pensi\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Prohibici\u00f3n de perros en ciertas \u00e1reas_attack",
+      "target": "Los hijos de otros son tus pensiones del futuro, pero sobre los perros a quienes adoro: los disfrutas el due\u00f1o y los sufrimos todos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1085",
+      "target": "Uso de tecnolog\u00eda para identificaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n",
+      "target": "Uso de tecnolog\u00eda para identificaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n",
+      "target": "Uso de tecnolog\u00eda para identificaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n_support",
+      "target": "El coste de las pruebas de ADN deber\u00eda ser asumido por el propietario de la mascota.",
+      "value": 3
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n_support",
+      "target": "Estoy de acurdo con tu propuesta y no parece una utop\u00eda, . Ha d\u00eda de hoy los perros tienen seguros que lo incluyan como responsabilidad civil, llevan un chip con su nombre y raza.",
+      "value": 3
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n_support",
+      "target": "Como siempre, al principio habr\u00e1 protestas y gente incumplidora, igual que pas\u00f3 con el tabaco, pero unas cuantas multas ejemplares o la confiscaci\u00f3n del animal.",
+      "value": 3
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n_attack",
+      "target": "Y por qu\u00e9 se tiene que analizar la caca?.",
+      "value": 3
+    },
+    {
+      "source": "Uso de tecnolog\u00eda para identificaci\u00f3n_attack",
+      "target": "Tampoco veo correcto que se intente sancionar a un due\u00f1o de un perro por el ADN del can.",
+      "value": 3
+    }
+  ]
+}
