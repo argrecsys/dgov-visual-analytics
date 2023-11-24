@@ -1,0 +1,325 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 89",
+      "group": 0
+    },
+    {
+      "id": "Eficiencia del servicio",
+      "group": -3
+    },
+    {
+      "id": "Eficiencia del servicio_support",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia del servicio_attack",
+      "group": -2
+    },
+    {
+      "id": "El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito.",
+      "group": -1
+    },
+    {
+      "id": "He utilizado este servicio y me ha parecido eficiente.",
+      "group": -1
+    },
+    {
+      "id": "Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento.",
+      "group": -2
+    },
+    {
+      "id": "Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan.",
+      "group": -2
+    },
+    {
+      "id": "Accesibilidad y coste",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad y coste_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad y coste_attack",
+      "group": -2
+    },
+    {
+      "id": "Puedes llamar al 91 529 82 10 que es el equivalente al 010.",
+      "group": -1
+    },
+    {
+      "id": "Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis.",
+      "group": -1
+    },
+    {
+      "id": "Y adem\u00e1s el 010 es de pago.",
+      "group": -2
+    },
+    {
+      "id": "Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir.",
+      "group": -2
+    },
+    {
+      "id": "Impacto social",
+      "group": -3
+    },
+    {
+      "id": "Impacto social_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto social_attack",
+      "group": -2
+    },
+    {
+      "id": "La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.",
+      "group": -2
+    },
+    {
+      "id": "La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os.",
+      "group": -2
+    },
+    {
+      "id": "Reciclaje y medio ambiente",
+      "group": -3
+    },
+    {
+      "id": "Reciclaje y medio ambiente_support",
+      "group": -1
+    },
+    {
+      "id": "Reciclaje y medio ambiente_attack",
+      "group": -2
+    },
+    {
+      "id": "En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica.",
+      "group": -1
+    },
+    {
+      "id": "Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo.",
+      "group": -1
+    },
+    {
+      "id": "Conocimiento y uso del servicio",
+      "group": -3
+    },
+    {
+      "id": "Conocimiento y uso del servicio_support",
+      "group": -1
+    },
+    {
+      "id": "Conocimiento y uso del servicio_attack",
+      "group": -2
+    },
+    {
+      "id": "Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar.",
+      "group": -2
+    },
+    {
+      "id": "Propuestas alternativas",
+      "group": -3
+    },
+    {
+      "id": "Propuestas alternativas_support",
+      "group": -1
+    },
+    {
+      "id": "Propuestas alternativas_attack",
+      "group": -2
+    },
+    {
+      "id": "Puntos m\u00f3viles de recogida de enseres en todos los distritos.",
+      "group": -1
+    },
+    {
+      "id": "Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio para guardar todos los que se les pueda dar un segundo uso para gente que lo necesite.",
+      "group": -1
+    },
+    {
+      "id": "A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes?",
+      "group": -2
+    },
+    {
+      "id": "Es la web para solicitarlo online.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 89",
+      "target": "Eficiencia del servicio",
+      "value": 1
+    },
+    {
+      "source": "Eficiencia del servicio",
+      "target": "Eficiencia del servicio_support",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia del servicio",
+      "target": "Eficiencia del servicio_attack",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia del servicio_support",
+      "target": "El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia del servicio_support",
+      "target": "He utilizado este servicio y me ha parecido eficiente.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia del servicio_attack",
+      "target": "Claro que s\u00e9 que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia del servicio_attack",
+      "target": "Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan.",
+      "value": 3
+    },
+    {
+      "source": "proposal 89",
+      "target": "Accesibilidad y coste",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad y coste",
+      "target": "Accesibilidad y coste_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y coste",
+      "target": "Accesibilidad y coste_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y coste_support",
+      "target": "Puedes llamar al 91 529 82 10 que es el equivalente al 010.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y coste_support",
+      "target": "Puedes solicitarlo tambi\u00e9n a trav\u00e9s de la web del ayuntamiento y en las oficinas gratis.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y coste_attack",
+      "target": "Y adem\u00e1s el 010 es de pago.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y coste_attack",
+      "target": "Tampoco pasa nada por llamar a un tel\u00e9fono que cuesta pocos c\u00e9ntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir.",
+      "value": 3
+    },
+    {
+      "source": "proposal 89",
+      "target": "Impacto social",
+      "value": 1
+    },
+    {
+      "source": "Impacto social",
+      "target": "Impacto social_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto social",
+      "target": "Impacto social_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto social_attack",
+      "target": "La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.",
+      "value": 3
+    },
+    {
+      "source": "Impacto social_attack",
+      "target": "La pobreza y la exclusi\u00f3n en Espa\u00f1a han aumentado alarmantemente en los \u00faltimos a\u00f1os.",
+      "value": 3
+    },
+    {
+      "source": "proposal 89",
+      "target": "Reciclaje y medio ambiente",
+      "value": 1
+    },
+    {
+      "source": "Reciclaje y medio ambiente",
+      "target": "Reciclaje y medio ambiente_support",
+      "value": 2
+    },
+    {
+      "source": "Reciclaje y medio ambiente",
+      "target": "Reciclaje y medio ambiente_attack",
+      "value": 2
+    },
+    {
+      "source": "Reciclaje y medio ambiente_support",
+      "target": "En Barcelona hay un d\u00eda para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica.",
+      "value": 3
+    },
+    {
+      "source": "Reciclaje y medio ambiente_support",
+      "target": "Creo que la mejor soluci\u00f3n para eso es fomentar el reciclaje de este tipo de cosas regal\u00e1ndolo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 89",
+      "target": "Conocimiento y uso del servicio",
+      "value": 1
+    },
+    {
+      "source": "Conocimiento y uso del servicio",
+      "target": "Conocimiento y uso del servicio_support",
+      "value": 2
+    },
+    {
+      "source": "Conocimiento y uso del servicio",
+      "target": "Conocimiento y uso del servicio_attack",
+      "value": 2
+    },
+    {
+      "source": "Conocimiento y uso del servicio_attack",
+      "target": "Hace unos a\u00f1os recuerdo que pasaban uno o dos d\u00edas al mes con un cartel que avisaba de ellos y el d\u00eda anterior la gente bajaba a la calle todo lo que ten\u00edan que tirar.",
+      "value": 3
+    },
+    {
+      "source": "proposal 89",
+      "target": "Propuestas alternativas",
+      "value": 1
+    },
+    {
+      "source": "Propuestas alternativas",
+      "target": "Propuestas alternativas_support",
+      "value": 2
+    },
+    {
+      "source": "Propuestas alternativas",
+      "target": "Propuestas alternativas_attack",
+      "value": 2
+    },
+    {
+      "source": "Propuestas alternativas_support",
+      "target": "Puntos m\u00f3viles de recogida de enseres en todos los distritos.",
+      "value": 3
+    },
+    {
+      "source": "Propuestas alternativas_support",
+      "target": "Yo he formulado una propuesta en la que adem\u00e1s incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio para guardar todos los que se les pueda dar un segundo uso para gente que lo necesite.",
+      "value": 3
+    },
+    {
+      "source": "Propuestas alternativas_attack",
+      "target": "A m\u00ed me parece un atraso volver a el sistema anterior, \u00bfNo es mejor llamar y concertar cita para que vengan a recogerlos, que esperar a un d\u00eda concreto del mes?",
+      "value": 3
+    },
+    {
+      "source": "Propuestas alternativas_attack",
+      "target": "Es la web para solicitarlo online.",
+      "value": 3
+    }
+  ]
+}

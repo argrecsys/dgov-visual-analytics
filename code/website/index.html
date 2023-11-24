@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DM DataViz</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <header>
+        <h1>Digital Government - DM Visual Analytics with ChatGPT</h1>
+    </header>
+
+    <main>
+        <!-- Word cloud -->
+        <div style="text-align: center;"><img src="../../result/images/152.png" alt="Proposal word cloud"></div>
+
+        <!-- Network chart -->
+        <h3>Display a DM debate in the form of a network</h3>
+        <div class="source">Source: <a href="https://observablehq.com/d/6f7b98dfa7e34fcf" target="_blank">Observable</a>
+        </div>
+        <div id="chart-1" class="chart"></div>
+
+        <!-- Tree chart -->
+        <h3>Display a DM debate in the form of a tree</h3>
+        <div class="source"> Source: <a href="https://observablehq.com/d/81c556ec37269001"
+                target="_blank">Observable</a>
+        </div>
+        <div id="chart-2" class="chart"></div>
+
+        <!-- Indented tree chart -->
+        <h3>Display a DM debate in the form of a indented tree</h3>
+        <div class="source">Source: <a href="https://observablehq.com/d/d34c1c3c498ab6f2" target="_blank">Observable</a>
+        </div>
+        <div id="chart-3" class="chart"></div>
+
+        <script type="module">
+            import { Runtime, Inspector } from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+
+            import notebook1 from "https://api.observablehq.com/d/6f7b98dfa7e34fcf.js?v=4";
+            new Runtime().module(notebook1, name => {
+                if (name === "chart") return new Inspector(document.querySelector("#chart-1"));
+            });
+
+            import notebook2 from "https://api.observablehq.com/d/81c556ec37269001.js?v=4";
+            new Runtime().module(notebook2, name => {
+                if (name === "chart") return new Inspector(document.querySelector("#chart-2"));
+            });
+
+            import notebook3 from "https://api.observablehq.com/d/d34c1c3c498ab6f2.js?v=4";
+            new Runtime().module(notebook3, name => {
+                if (name === "chart") return new Inspector(document.querySelector("#chart-3"));
+            });
+        </script>
+    </main>
+
+    <footer>
+        This work was supported by the Spanish Ministry of Science and Innovation (PID2019-108965GB-I00).
+    </footer>
+</body>
+
+</html>

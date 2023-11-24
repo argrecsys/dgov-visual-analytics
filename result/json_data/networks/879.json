@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 879",
+      "group": 0
+    },
+    {
+      "id": "Sistema de Retorno",
+      "group": -3
+    },
+    {
+      "id": "Sistema de Retorno_support",
+      "group": -1
+    },
+    {
+      "id": "Sistema de Retorno_attack",
+      "group": -2
+    },
+    {
+      "id": "Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases.",
+      "group": -1
+    },
+    {
+      "id": "En Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico.",
+      "group": -1
+    },
+    {
+      "id": "Las empresas ganan reutilizando los envases, gana el medio ambiente disminuyendo el consumo de pl\u00e1stico y evitando tragedias como las inmensas acumulaciones de pl\u00e1stico en los mares.",
+      "group": -1
+    },
+    {
+      "id": "No estoy de acuerdo con los premios por civismo. Es un deber de todos como ciudadano.",
+      "group": -2
+    },
+    {
+      "id": "Este metodo implica que nadie te va a pagar por reciclar - Pagas el dinero que luego te van a devolver al comprarlo.",
+      "group": -2
+    },
+    {
+      "id": "Si se te rompe el envase o la etiqueta te has quedado sin dinero.",
+      "group": -2
+    },
+    {
+      "id": "Gesti\u00f3n Municipal de Alimentos Sobrantes",
+      "group": -3
+    },
+    {
+      "id": "Gesti\u00f3n Municipal de Alimentos Sobrantes_support",
+      "group": -1
+    },
+    {
+      "id": "Gesti\u00f3n Municipal de Alimentos Sobrantes_attack",
+      "group": -2
+    },
+    {
+      "id": "Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente.",
+      "group": -1
+    },
+    {
+      "id": "La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos.",
+      "group": -2
+    },
+    {
+      "id": "Reutilizaci\u00f3n de Envases",
+      "group": -3
+    },
+    {
+      "id": "Reutilizaci\u00f3n de Envases_support",
+      "group": -1
+    },
+    {
+      "id": "Reutilizaci\u00f3n de Envases_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador.",
+      "group": -1
+    },
+    {
+      "id": "Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s.",
+      "group": -1
+    },
+    {
+      "id": "penalizar\u00eda a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 879",
+      "target": "Sistema de Retorno",
+      "value": 1
+    },
+    {
+      "source": "Sistema de Retorno",
+      "target": "Sistema de Retorno_support",
+      "value": 2
+    },
+    {
+      "source": "Sistema de Retorno",
+      "target": "Sistema de Retorno_attack",
+      "value": 2
+    },
+    {
+      "source": "Sistema de Retorno_support",
+      "target": "Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases.",
+      "value": 3
+    },
+    {
+      "source": "Sistema de Retorno_support",
+      "target": "En Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico.",
+      "value": 3
+    },
+    {
+      "source": "Sistema de Retorno_support",
+      "target": "Las empresas ganan reutilizando los envases, gana el medio ambiente disminuyendo el consumo de pl\u00e1stico y evitando tragedias como las inmensas acumulaciones de pl\u00e1stico en los mares.",
+      "value": 3
+    },
+    {
+      "source": "Sistema de Retorno_attack",
+      "target": "No estoy de acuerdo con los premios por civismo. Es un deber de todos como ciudadano.",
+      "value": 3
+    },
+    {
+      "source": "Sistema de Retorno_attack",
+      "target": "Este metodo implica que nadie te va a pagar por reciclar - Pagas el dinero que luego te van a devolver al comprarlo.",
+      "value": 3
+    },
+    {
+      "source": "Sistema de Retorno_attack",
+      "target": "Si se te rompe el envase o la etiqueta te has quedado sin dinero.",
+      "value": 3
+    },
+    {
+      "source": "proposal 879",
+      "target": "Gesti\u00f3n Municipal de Alimentos Sobrantes",
+      "value": 1
+    },
+    {
+      "source": "Gesti\u00f3n Municipal de Alimentos Sobrantes",
+      "target": "Gesti\u00f3n Municipal de Alimentos Sobrantes_support",
+      "value": 2
+    },
+    {
+      "source": "Gesti\u00f3n Municipal de Alimentos Sobrantes",
+      "target": "Gesti\u00f3n Municipal de Alimentos Sobrantes_attack",
+      "value": 2
+    },
+    {
+      "source": "Gesti\u00f3n Municipal de Alimentos Sobrantes_support",
+      "target": "Una gesti\u00f3n municipal en todo el proceso de la gesti\u00f3n de los alimentos sobrantes optimizar\u00eda su utilizaci\u00f3n y la gente sin recursos podr\u00eda alimentarse diariamente.",
+      "value": 3
+    },
+    {
+      "source": "Gesti\u00f3n Municipal de Alimentos Sobrantes_attack",
+      "target": "La intenci\u00f3n es buena pero esta propuesta se queda corta en muchos aspectos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 879",
+      "target": "Reutilizaci\u00f3n de Envases",
+      "value": 1
+    },
+    {
+      "source": "Reutilizaci\u00f3n de Envases",
+      "target": "Reutilizaci\u00f3n de Envases_support",
+      "value": 2
+    },
+    {
+      "source": "Reutilizaci\u00f3n de Envases",
+      "target": "Reutilizaci\u00f3n de Envases_attack",
+      "value": 2
+    },
+    {
+      "source": "Reutilizaci\u00f3n de Envases_support",
+      "target": "Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador.",
+      "value": 3
+    },
+    {
+      "source": "Reutilizaci\u00f3n de Envases_support",
+      "target": "Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s.",
+      "value": 3
+    },
+    {
+      "source": "Reutilizaci\u00f3n de Envases_attack",
+      "target": "penalizar\u00eda a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc.",
+      "value": 3
+    }
+  ]
+}

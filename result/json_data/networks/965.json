@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 965",
+      "group": 0
+    },
+    {
+      "id": "Capacidad econ\u00f3mica de la Iglesia",
+      "group": -3
+    },
+    {
+      "id": "Capacidad econ\u00f3mica de la Iglesia_support",
+      "group": -1
+    },
+    {
+      "id": "Capacidad econ\u00f3mica de la Iglesia_attack",
+      "group": -2
+    },
+    {
+      "id": "La iglesia dispone de suficiente econom\u00eda como para pagar el IBI.",
+      "group": -1
+    },
+    {
+      "id": "\u00bfTambi\u00e9n aplicamos IBI a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?",
+      "group": -2
+    },
+    {
+      "id": "Equidad fiscal",
+      "group": -3
+    },
+    {
+      "id": "Equidad fiscal_support",
+      "group": -1
+    },
+    {
+      "id": "Equidad fiscal_attack",
+      "group": -2
+    },
+    {
+      "id": "Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios.",
+      "group": -1
+    },
+    {
+      "id": "Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos.",
+      "group": -1
+    },
+    {
+      "id": "Todas aquellas organizaciones sin \u00e1nimo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones.",
+      "group": -1
+    },
+    {
+      "id": "Marco legal y Concordato",
+      "group": -3
+    },
+    {
+      "id": "Marco legal y Concordato_support",
+      "group": -1
+    },
+    {
+      "id": "Marco legal y Concordato_attack",
+      "group": -2
+    },
+    {
+      "id": "Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide.",
+      "group": -1
+    },
+    {
+      "id": "Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica.",
+      "group": -2
+    },
+    {
+      "id": "Uso de los bienes inmuebles",
+      "group": -3
+    },
+    {
+      "id": "Uso de los bienes inmuebles_support",
+      "group": -1
+    },
+    {
+      "id": "Uso de los bienes inmuebles_attack",
+      "group": -2
+    },
+    {
+      "id": "Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa.",
+      "group": -1
+    },
+    {
+      "id": "Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI.",
+      "group": -1
+    },
+    {
+      "id": "Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios que no tengan un uso religioso o con fines sociales.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 965",
+      "target": "Capacidad econ\u00f3mica de la Iglesia",
+      "value": 1
+    },
+    {
+      "source": "Capacidad econ\u00f3mica de la Iglesia",
+      "target": "Capacidad econ\u00f3mica de la Iglesia_support",
+      "value": 2
+    },
+    {
+      "source": "Capacidad econ\u00f3mica de la Iglesia",
+      "target": "Capacidad econ\u00f3mica de la Iglesia_attack",
+      "value": 2
+    },
+    {
+      "source": "Capacidad econ\u00f3mica de la Iglesia_support",
+      "target": "La iglesia dispone de suficiente econom\u00eda como para pagar el IBI.",
+      "value": 3
+    },
+    {
+      "source": "Capacidad econ\u00f3mica de la Iglesia_attack",
+      "target": "\u00bfTambi\u00e9n aplicamos IBI a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?",
+      "value": 3
+    },
+    {
+      "source": "proposal 965",
+      "target": "Equidad fiscal",
+      "value": 1
+    },
+    {
+      "source": "Equidad fiscal",
+      "target": "Equidad fiscal_support",
+      "value": 2
+    },
+    {
+      "source": "Equidad fiscal",
+      "target": "Equidad fiscal_attack",
+      "value": 2
+    },
+    {
+      "source": "Equidad fiscal_support",
+      "target": "Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios.",
+      "value": 3
+    },
+    {
+      "source": "Equidad fiscal_support",
+      "target": "Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos.",
+      "value": 3
+    },
+    {
+      "source": "Equidad fiscal_support",
+      "target": "Todas aquellas organizaciones sin \u00e1nimo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 965",
+      "target": "Marco legal y Concordato",
+      "value": 1
+    },
+    {
+      "source": "Marco legal y Concordato",
+      "target": "Marco legal y Concordato_support",
+      "value": 2
+    },
+    {
+      "source": "Marco legal y Concordato",
+      "target": "Marco legal y Concordato_attack",
+      "value": 2
+    },
+    {
+      "source": "Marco legal y Concordato_support",
+      "target": "Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide.",
+      "value": 3
+    },
+    {
+      "source": "Marco legal y Concordato_attack",
+      "target": "Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica.",
+      "value": 3
+    },
+    {
+      "source": "proposal 965",
+      "target": "Uso de los bienes inmuebles",
+      "value": 1
+    },
+    {
+      "source": "Uso de los bienes inmuebles",
+      "target": "Uso de los bienes inmuebles_support",
+      "value": 2
+    },
+    {
+      "source": "Uso de los bienes inmuebles",
+      "target": "Uso de los bienes inmuebles_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso de los bienes inmuebles_support",
+      "target": "Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa.",
+      "value": 3
+    },
+    {
+      "source": "Uso de los bienes inmuebles_support",
+      "target": "Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI.",
+      "value": 3
+    },
+    {
+      "source": "Uso de los bienes inmuebles_support",
+      "target": "Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios que no tengan un uso religioso o con fines sociales.",
+      "value": 3
+    }
+  ]
+}

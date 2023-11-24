@@ -1,0 +1,316 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 1937",
+      "group": 0
+    },
+    {
+      "id": "Ordenanzas existentes",
+      "group": -3
+    },
+    {
+      "id": "Ordenanzas existentes_support",
+      "group": -1
+    },
+    {
+      "id": "Ordenanzas existentes_attack",
+      "group": -2
+    },
+    {
+      "id": "La ordenanza ya existe y establece los l\u00edmites.",
+      "group": -1
+    },
+    {
+      "id": "Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas.",
+      "group": -1
+    },
+    {
+      "id": "No existe ninguna obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?",
+      "group": -2
+    },
+    {
+      "id": "Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92% de los casos.",
+      "group": -2
+    },
+    {
+      "id": "Responsabilidad del due\u00f1o",
+      "group": -3
+    },
+    {
+      "id": "Responsabilidad del due\u00f1o_support",
+      "group": -1
+    },
+    {
+      "id": "Responsabilidad del due\u00f1o_attack",
+      "group": -2
+    },
+    {
+      "id": "El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas.",
+      "group": -1
+    },
+    {
+      "id": "Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas.",
+      "group": -1
+    },
+    {
+      "id": "Falso. Las hay [razas potencialmente peligrosas].",
+      "group": -2
+    },
+    {
+      "id": "De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima.",
+      "group": -2
+    },
+    {
+      "id": "Espacios para perros",
+      "group": -3
+    },
+    {
+      "id": "Espacios para perros_support",
+      "group": -1
+    },
+    {
+      "id": "Espacios para perros_attack",
+      "group": -2
+    },
+    {
+      "id": "La opci\u00f3n de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opci\u00f3n para reducir estos problemas.",
+      "group": -1
+    },
+    {
+      "id": "Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n canina",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n canina_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n canina_attack",
+      "group": -2
+    },
+    {
+      "id": "Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias.",
+      "group": -1
+    },
+    {
+      "id": "He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que evitar\u00eda muchas confrontaciones.",
+      "group": -1
+    },
+    {
+      "id": "Percepci\u00f3n de peligro",
+      "group": -3
+    },
+    {
+      "id": "Percepci\u00f3n de peligro_support",
+      "group": -1
+    },
+    {
+      "id": "Percepci\u00f3n de peligro_attack",
+      "group": -2
+    },
+    {
+      "id": "\u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con camisa de fuerza, para prevenir.",
+      "group": -1
+    },
+    {
+      "id": "Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real.",
+      "group": -2
+    },
+    {
+      "id": "Sanciones y medidas preventivas",
+      "group": -3
+    },
+    {
+      "id": "Sanciones y medidas preventivas_support",
+      "group": -1
+    },
+    {
+      "id": "Sanciones y medidas preventivas_attack",
+      "group": -2
+    },
+    {
+      "id": "Si un perro muerde o un due\u00f1o no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva.",
+      "group": -1
+    },
+    {
+      "id": "Me ha encantado lo de castigo duro.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 1937",
+      "target": "Ordenanzas existentes",
+      "value": 1
+    },
+    {
+      "source": "Ordenanzas existentes",
+      "target": "Ordenanzas existentes_support",
+      "value": 2
+    },
+    {
+      "source": "Ordenanzas existentes",
+      "target": "Ordenanzas existentes_attack",
+      "value": 2
+    },
+    {
+      "source": "Ordenanzas existentes_support",
+      "target": "La ordenanza ya existe y establece los l\u00edmites.",
+      "value": 3
+    },
+    {
+      "source": "Ordenanzas existentes_support",
+      "target": "Los perros de raza peligrosa han de llevar bozal, las ordenanzas municipales han de ser observadas.",
+      "value": 3
+    },
+    {
+      "source": "Ordenanzas existentes_attack",
+      "target": "No existe ninguna obligaci\u00f3n de que los perros lleven bozal. \u00bfPor qu\u00e9 hay que pon\u00e9rselo entonces?",
+      "value": 3
+    },
+    {
+      "source": "Ordenanzas existentes_attack",
+      "target": "Ya hay ordenanza de horarios de estar sueltos y cuales deben llevar bozal siempre, lo que pasa es que se incumple en el 92% de los casos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1937",
+      "target": "Responsabilidad del due\u00f1o",
+      "value": 1
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o",
+      "target": "Responsabilidad del due\u00f1o_support",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o",
+      "target": "Responsabilidad del due\u00f1o_attack",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o_support",
+      "target": "El perro no es peligroso, lo es el due\u00f1o, No existen razas potencialmente peligrosas.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o_support",
+      "target": "Hombre, Mart\u00edn, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un ni\u00f1o para tomar medidas.",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o_attack",
+      "target": "Falso. Las hay [razas potencialmente peligrosas].",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad del due\u00f1o_attack",
+      "target": "De todas maneras deber\u00edan hacer algo con los perros grandes grandes y que los saca a pasear una persona peque\u00f1a peque\u00f1a, no se hacen con el, hoy casi se me tira uno encima.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1937",
+      "target": "Espacios para perros",
+      "value": 1
+    },
+    {
+      "source": "Espacios para perros",
+      "target": "Espacios para perros_support",
+      "value": 2
+    },
+    {
+      "source": "Espacios para perros",
+      "target": "Espacios para perros_attack",
+      "value": 2
+    },
+    {
+      "source": "Espacios para perros_support",
+      "target": "La opci\u00f3n de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opci\u00f3n para reducir estos problemas.",
+      "value": 3
+    },
+    {
+      "source": "Espacios para perros_support",
+      "target": "Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1937",
+      "target": "Educaci\u00f3n canina",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n canina",
+      "target": "Educaci\u00f3n canina_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n canina",
+      "target": "Educaci\u00f3n canina_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n canina_support",
+      "target": "Saludos, contribuir\u00eda a la soluci\u00f3n de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n canina_support",
+      "target": "He creado una propuesta para que todos los due\u00f1os de perros y mascotas en general est\u00e9n informados desde el principio de las normas que regulan la tenencia de animales de compa\u00f1\u00eda, lo que evitar\u00eda muchas confrontaciones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1937",
+      "target": "Percepci\u00f3n de peligro",
+      "value": 1
+    },
+    {
+      "source": "Percepci\u00f3n de peligro",
+      "target": "Percepci\u00f3n de peligro_support",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n de peligro",
+      "target": "Percepci\u00f3n de peligro_attack",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n de peligro_support",
+      "target": "\u00bfLos perros son peligrosos porque lo dices t\u00fa? \u00bfy son peligrosos todos Siguiendo tu razonamiento como hay alg\u00fan humano peligroso, somos peligrosos todos y deber\u00edamos ir por la calle con camisa de fuerza, para prevenir.",
+      "value": 3
+    },
+    {
+      "source": "Percepci\u00f3n de peligro_attack",
+      "target": "Aparte de que hay personas y ni\u00f1os que tienen miedo de los perros grandes cuando son muy activos y ladradores. Que a lo mejor es un miedo injustificado pero es real.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1937",
+      "target": "Sanciones y medidas preventivas",
+      "value": 1
+    },
+    {
+      "source": "Sanciones y medidas preventivas",
+      "target": "Sanciones y medidas preventivas_support",
+      "value": 2
+    },
+    {
+      "source": "Sanciones y medidas preventivas",
+      "target": "Sanciones y medidas preventivas_attack",
+      "value": 2
+    },
+    {
+      "source": "Sanciones y medidas preventivas_support",
+      "target": "Si un perro muerde o un due\u00f1o no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva.",
+      "value": 3
+    },
+    {
+      "source": "Sanciones y medidas preventivas_support",
+      "target": "Me ha encantado lo de castigo duro.",
+      "value": 3
+    }
+  ]
+}

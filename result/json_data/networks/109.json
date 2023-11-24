@@ -1,0 +1,352 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 109",
+      "group": 0
+    },
+    {
+      "id": "Limpieza de Graffitis",
+      "group": -3
+    },
+    {
+      "id": "Limpieza de Graffitis_support",
+      "group": -1
+    },
+    {
+      "id": "Limpieza de Graffitis_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo por mi parte, lo siento, pero graffitis, ninguno. A mi no tiene por qu\u00e9 gustarme ver mi fachada pintada con algo que no he elegido.",
+      "group": -1
+    },
+    {
+      "id": "En Madrid arte urbano poco y vandalismo mucho. Tolerancia cero al graffity.",
+      "group": -1
+    },
+    {
+      "id": "Pero basta ya de tener Madrid hecho una por estos ni\u00f1atos.",
+      "group": -1
+    },
+    {
+      "id": "Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello.",
+      "group": -2
+    },
+    {
+      "id": "Efectivamente, no estamos en contra de los graffitis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no.",
+      "group": -2
+    },
+    {
+      "id": "Para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad.",
+      "group": -2
+    },
+    {
+      "id": "Remodelaci\u00f3n de Aluche",
+      "group": -3
+    },
+    {
+      "id": "Remodelaci\u00f3n de Aluche_support",
+      "group": -1
+    },
+    {
+      "id": "Remodelaci\u00f3n de Aluche_attack",
+      "group": -2
+    },
+    {
+      "id": "Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas.",
+      "group": -1
+    },
+    {
+      "id": "Estoy de acuerdo, es deplorable como se encuentra el barrio.",
+      "group": -1
+    },
+    {
+      "id": "Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda.",
+      "group": -1
+    },
+    {
+      "id": "Concienciaci\u00f3n Ciudadana",
+      "group": -3
+    },
+    {
+      "id": "Concienciaci\u00f3n Ciudadana_support",
+      "group": -1
+    },
+    {
+      "id": "Concienciaci\u00f3n Ciudadana_attack",
+      "group": -2
+    },
+    {
+      "id": "Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos.",
+      "group": -1
+    },
+    {
+      "id": "Tambi\u00e9n nos concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros.",
+      "group": -1
+    },
+    {
+      "id": "Civismo y Respeto",
+      "group": -3
+    },
+    {
+      "id": "Civismo y Respeto_support",
+      "group": -1
+    },
+    {
+      "id": "Civismo y Respeto_attack",
+      "group": -2
+    },
+    {
+      "id": "La falta de civismo que esta sociedad ha creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle.",
+      "group": -1
+    },
+    {
+      "id": "Hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc.",
+      "group": -1
+    },
+    {
+      "id": "Mismo contrato, mayor suciedad. No es excusa.",
+      "group": -1
+    },
+    {
+      "id": "Control y Sanciones",
+      "group": -3
+    },
+    {
+      "id": "Control y Sanciones_support",
+      "group": -1
+    },
+    {
+      "id": "Control y Sanciones_attack",
+      "group": -2
+    },
+    {
+      "id": "Que se aplique la normativa y que se multe al infractor.",
+      "group": -1
+    },
+    {
+      "id": "M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza.",
+      "group": -1
+    },
+    {
+      "id": "Y si no se consigue por las buenas, que ser\u00eda lo mejor, pues multa al canto.",
+      "group": -1
+    },
+    {
+      "id": "Inversi\u00f3n en Limpieza",
+      "group": -3
+    },
+    {
+      "id": "Inversi\u00f3n en Limpieza_support",
+      "group": -1
+    },
+    {
+      "id": "Inversi\u00f3n en Limpieza_attack",
+      "group": -2
+    },
+    {
+      "id": "Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras.",
+      "group": -1
+    },
+    {
+      "id": "Buenos d\u00edas a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepci\u00f3n.",
+      "group": -1
+    },
+    {
+      "id": "No hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 109",
+      "target": "Limpieza de Graffitis",
+      "value": 1
+    },
+    {
+      "source": "Limpieza de Graffitis",
+      "target": "Limpieza de Graffitis_support",
+      "value": 2
+    },
+    {
+      "source": "Limpieza de Graffitis",
+      "target": "Limpieza de Graffitis_attack",
+      "value": 2
+    },
+    {
+      "source": "Limpieza de Graffitis_support",
+      "target": "Yo por mi parte, lo siento, pero graffitis, ninguno. A mi no tiene por qu\u00e9 gustarme ver mi fachada pintada con algo que no he elegido.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza de Graffitis_support",
+      "target": "En Madrid arte urbano poco y vandalismo mucho. Tolerancia cero al graffity.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza de Graffitis_support",
+      "target": "Pero basta ya de tener Madrid hecho una por estos ni\u00f1atos.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza de Graffitis_attack",
+      "target": "Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigi\u00e9nico en ello.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza de Graffitis_attack",
+      "target": "Efectivamente, no estamos en contra de los graffitis, estamos en contra de las pintadas sin sentido. Graffitis art\u00edsticos s\u00ed tienen cabida, el vandalismo no.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza de Graffitis_attack",
+      "target": "Para los graffitis que son arte restauraci\u00f3n de paredes en solares y lugares p\u00fablicos donde mostrar su habilidad.",
+      "value": 3
+    },
+    {
+      "source": "proposal 109",
+      "target": "Remodelaci\u00f3n de Aluche",
+      "value": 1
+    },
+    {
+      "source": "Remodelaci\u00f3n de Aluche",
+      "target": "Remodelaci\u00f3n de Aluche_support",
+      "value": 2
+    },
+    {
+      "source": "Remodelaci\u00f3n de Aluche",
+      "target": "Remodelaci\u00f3n de Aluche_attack",
+      "value": 2
+    },
+    {
+      "source": "Remodelaci\u00f3n de Aluche_support",
+      "target": "Conozco la zona y estoy de acuerdo pero estoy m\u00e1s de acuerdo con poner una tasa para las mascotas.",
+      "value": 3
+    },
+    {
+      "source": "Remodelaci\u00f3n de Aluche_support",
+      "target": "Estoy de acuerdo, es deplorable como se encuentra el barrio.",
+      "value": 3
+    },
+    {
+      "source": "Remodelaci\u00f3n de Aluche_support",
+      "target": "Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda.",
+      "value": 3
+    },
+    {
+      "source": "proposal 109",
+      "target": "Concienciaci\u00f3n Ciudadana",
+      "value": 1
+    },
+    {
+      "source": "Concienciaci\u00f3n Ciudadana",
+      "target": "Concienciaci\u00f3n Ciudadana_support",
+      "value": 2
+    },
+    {
+      "source": "Concienciaci\u00f3n Ciudadana",
+      "target": "Concienciaci\u00f3n Ciudadana_attack",
+      "value": 2
+    },
+    {
+      "source": "Concienciaci\u00f3n Ciudadana_support",
+      "target": "Deber\u00edamos proponer al Ayuntamiento alg\u00fan tipo de medio de concienciaci\u00f3n de los vecinos de cada barrio para que nos sintamos implicados en mantener esas mejoras que exigimos.",
+      "value": 3
+    },
+    {
+      "source": "Concienciaci\u00f3n Ciudadana_support",
+      "target": "Tambi\u00e9n nos concierne a nosotros el educar en el respeto a los dem\u00e1s y a la ciudadan\u00eda y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros.",
+      "value": 3
+    },
+    {
+      "source": "proposal 109",
+      "target": "Civismo y Respeto",
+      "value": 1
+    },
+    {
+      "source": "Civismo y Respeto",
+      "target": "Civismo y Respeto_support",
+      "value": 2
+    },
+    {
+      "source": "Civismo y Respeto",
+      "target": "Civismo y Respeto_attack",
+      "value": 2
+    },
+    {
+      "source": "Civismo y Respeto_support",
+      "target": "La falta de civismo que esta sociedad ha creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo d\u00eda la misma calle.",
+      "value": 3
+    },
+    {
+      "source": "Civismo y Respeto_support",
+      "target": "Hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cart\u00f3n, cacas de perro, etc.",
+      "value": 3
+    },
+    {
+      "source": "Civismo y Respeto_support",
+      "target": "Mismo contrato, mayor suciedad. No es excusa.",
+      "value": 3
+    },
+    {
+      "source": "proposal 109",
+      "target": "Control y Sanciones",
+      "value": 1
+    },
+    {
+      "source": "Control y Sanciones",
+      "target": "Control y Sanciones_support",
+      "value": 2
+    },
+    {
+      "source": "Control y Sanciones",
+      "target": "Control y Sanciones_attack",
+      "value": 2
+    },
+    {
+      "source": "Control y Sanciones_support",
+      "target": "Que se aplique la normativa y que se multe al infractor.",
+      "value": 3
+    },
+    {
+      "source": "Control y Sanciones_support",
+      "target": "M\u00e1s que multas que no podr\u00e1n pagar les har\u00eda realizar servicios comunitarios de limpieza.",
+      "value": 3
+    },
+    {
+      "source": "Control y Sanciones_support",
+      "target": "Y si no se consigue por las buenas, que ser\u00eda lo mejor, pues multa al canto.",
+      "value": 3
+    },
+    {
+      "source": "proposal 109",
+      "target": "Inversi\u00f3n en Limpieza",
+      "value": 1
+    },
+    {
+      "source": "Inversi\u00f3n en Limpieza",
+      "target": "Inversi\u00f3n en Limpieza_support",
+      "value": 2
+    },
+    {
+      "source": "Inversi\u00f3n en Limpieza",
+      "target": "Inversi\u00f3n en Limpieza_attack",
+      "value": 2
+    },
+    {
+      "source": "Inversi\u00f3n en Limpieza_support",
+      "target": "Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras.",
+      "value": 3
+    },
+    {
+      "source": "Inversi\u00f3n en Limpieza_support",
+      "target": "Buenos d\u00edas a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Inversi\u00f3n en Limpieza_support",
+      "target": "No hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona.",
+      "value": 3
+    }
+  ]
+}

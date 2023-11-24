@@ -1,0 +1,424 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 1266",
+      "group": 0
+    },
+    {
+      "id": "Mejora de la calidad de vida",
+      "group": -3
+    },
+    {
+      "id": "Mejora de la calidad de vida_support",
+      "group": -1
+    },
+    {
+      "id": "Mejora de la calidad de vida_attack",
+      "group": -2
+    },
+    {
+      "id": "Totalmente de acuerdo. Habr\u00eda que pulir la propuesta, pero creo que es necesario para descongestionar el Centro de Madrid.",
+      "group": -1
+    },
+    {
+      "id": "Madrid necesita esto. Todas los casos de peatonalizaci\u00f3n del centro que conozco han resultado en ciudades m\u00e1s vivas y atractivas para los turistas.",
+      "group": -1
+    },
+    {
+      "id": "Adem\u00e1s de que se gana en calidad de vida y se reduce la contaminaci\u00f3n, se gana en dinamismo comercial y en turismo.",
+      "group": -1
+    },
+    {
+      "id": "La \u00fanica manera real es que el peat\u00f3n tenga prioridad frente el coche.",
+      "group": -2
+    },
+    {
+      "id": "El problema que comentas de las terrazas es f\u00e1cilmente solucionable: no conceder tanta licencia para terrazas o cambiar la normativa municipal.",
+      "group": -2
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud_attack",
+      "group": -2
+    },
+    {
+      "id": "Para quien se lo est\u00e1 pensando, sab\u00edas que 1 de cada 8 muertes en el mundo est\u00e1 relacionada con la contaminaci\u00f3n ambiental.",
+      "group": -1
+    },
+    {
+      "id": "Reducir la contaminaci\u00f3n de Madrid es una tarea de todos, particularmente soy de los que piensan que es mejor buscar alternativas antes de prohibir.",
+      "group": -1
+    },
+    {
+      "id": "La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos.",
+      "group": -2
+    },
+    {
+      "id": "Impacto en el comercio y turismo",
+      "group": -3
+    },
+    {
+      "id": "Impacto en el comercio y turismo_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en el comercio y turismo_attack",
+      "group": -2
+    },
+    {
+      "id": "Hay ejemplos de ciudades que han mejorado much\u00edsimo como M\u00e1laga por donde ahora es un placer pasear y en Europa ni que decir tiene, solo hay que ver grandes ciudades como Berna, Munich, Amsterdam.",
+      "group": -1
+    },
+    {
+      "id": "Simpl\u00f3n y mucho es usted. \u00bfAcaso no tiene bastantes ejemplos de calles peatonales en Madrid que en su d\u00eda lo vendieron como un beneficio para los madrile\u00f1os y luego se convirtieron en propiedad privada de los bares de la zona?",
+      "group": -2
+    },
+    {
+      "id": "Todos los casos de peatonalizaci\u00f3n del centro que veo todos los d\u00edas es que ya no existe el espacio p\u00fablico porque se lo han adue\u00f1ado los due\u00f1os de los bares.",
+      "group": -2
+    },
+    {
+      "id": "Accesibilidad y movilidad",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad y movilidad_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad y movilidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Es imprescindible para la ciudad recuperar la vida ciudadana dando mayor espacio al ciudadano y menor al coche.",
+      "group": -1
+    },
+    {
+      "id": "Me parece m\u00e1s inteligente implantar la APR en todo el centro, permite a los residentes y repartidores el acceso y descongestiona el centro para mayor disfrute del peat\u00f3n.",
+      "group": -1
+    },
+    {
+      "id": "A m\u00ed no me parece mal, pero veo un problema: \u00bfNo ten\u00e9is problemas para recibir paquetes, trasladar muebles a tu domicilio, etc.?",
+      "group": -2
+    },
+    {
+      "id": "De peatonalizar nada Que eso luego lo aprovechan los jetas de los due\u00f1os de bares para hacerse los due\u00f1os de la calle.",
+      "group": -2
+    },
+    {
+      "id": "Impacto en la vida residencial",
+      "group": -3
+    },
+    {
+      "id": "Impacto en la vida residencial_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en la vida residencial_attack",
+      "group": -2
+    },
+    {
+      "id": "Soy vecina de la latina y estoy hasta las verdaderas narices de no poder aparcar y tener que soportar un tr\u00e1fico infernal en la zona. Por eso apoyo esta moci\u00f3n incluyendo todos los barrios del Madrid hist\u00f3rico.",
+      "group": -1
+    },
+    {
+      "id": "Cualquier ciudad europea que se precie tienen regulado el tr\u00e1fico en la zona central hist\u00f3rica de manera mucho m\u00e1s eficiente y eficaz que aqu\u00ed.",
+      "group": -1
+    },
+    {
+      "id": "Una cosa es restringir el tr\u00e1fico en el centro mediante la creaci\u00f3n \u00e1reas de prioridad residencial y otra muy diferente es peatonalizarlo. La peatonalizaci\u00f3n en Madrid ha tenido hasta la fecha efectos perversos para los residentes.",
+      "group": -2
+    },
+    {
+      "id": "Los coches que circulan por ellas, que no son pocos, van a toda velocidad, pit\u00e1ndote todo el d\u00eda y d\u00e1ndote unos sustos de muerte.",
+      "group": -2
+    },
+    {
+      "id": "Regulaci\u00f3n y normativa",
+      "group": -3
+    },
+    {
+      "id": "Regulaci\u00f3n y normativa_support",
+      "group": -1
+    },
+    {
+      "id": "Regulaci\u00f3n y normativa_attack",
+      "group": -2
+    },
+    {
+      "id": "Los taxis no deber\u00edan acceder a no ser que sean el\u00e9ctricos, actualmente esta regulaci\u00f3n ya existe, pero son los taxis y los distribuidores los que no cumplen las reglas.",
+      "group": -1
+    },
+    {
+      "id": "La normativa sobre zonas peatonales, zonas APR zonas semipeatonales, no est\u00e1 clara.",
+      "group": -2
+    },
+    {
+      "id": "Estas zonas no est\u00e1n nada claras sobre qui\u00e9n tiene prioridad en la calzada.",
+      "group": -2
+    },
+    {
+      "id": "Opiniones personales y emocionales",
+      "group": -3
+    },
+    {
+      "id": "Opiniones personales y emocionales_support",
+      "group": -1
+    },
+    {
+      "id": "Opiniones personales y emocionales_attack",
+      "group": -2
+    },
+    {
+      "id": "Me parece genial, pero yo puntualizar\u00eda el hecho del tiempo de las furgonetas de mercanc\u00edas.",
+      "group": -1
+    },
+    {
+      "id": "Yo no apoyo tu propuesta, yo seguir\u00e9 yendo al centro en coche.",
+      "group": -2
+    },
+    {
+      "id": "Demuestras intolerancia y mala educaci\u00f3n as\u00ed que no voy a seguir dialogando contigo. A ti te molesta el tabaco y a m\u00ed tu coche, que le vamos a hacer.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 1266",
+      "target": "Mejora de la calidad de vida",
+      "value": 1
+    },
+    {
+      "source": "Mejora de la calidad de vida",
+      "target": "Mejora de la calidad de vida_support",
+      "value": 2
+    },
+    {
+      "source": "Mejora de la calidad de vida",
+      "target": "Mejora de la calidad de vida_attack",
+      "value": 2
+    },
+    {
+      "source": "Mejora de la calidad de vida_support",
+      "target": "Totalmente de acuerdo. Habr\u00eda que pulir la propuesta, pero creo que es necesario para descongestionar el Centro de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Mejora de la calidad de vida_support",
+      "target": "Madrid necesita esto. Todas los casos de peatonalizaci\u00f3n del centro que conozco han resultado en ciudades m\u00e1s vivas y atractivas para los turistas.",
+      "value": 3
+    },
+    {
+      "source": "Mejora de la calidad de vida_support",
+      "target": "Adem\u00e1s de que se gana en calidad de vida y se reduce la contaminaci\u00f3n, se gana en dinamismo comercial y en turismo.",
+      "value": 3
+    },
+    {
+      "source": "Mejora de la calidad de vida_attack",
+      "target": "La \u00fanica manera real es que el peat\u00f3n tenga prioridad frente el coche.",
+      "value": 3
+    },
+    {
+      "source": "Mejora de la calidad de vida_attack",
+      "target": "El problema que comentas de las terrazas es f\u00e1cilmente solucionable: no conceder tanta licencia para terrazas o cambiar la normativa municipal.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Contaminaci\u00f3n y salud",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud",
+      "target": "Contaminaci\u00f3n y salud_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud",
+      "target": "Contaminaci\u00f3n y salud_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud_support",
+      "target": "Para quien se lo est\u00e1 pensando, sab\u00edas que 1 de cada 8 muertes en el mundo est\u00e1 relacionada con la contaminaci\u00f3n ambiental.",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud_support",
+      "target": "Reducir la contaminaci\u00f3n de Madrid es una tarea de todos, particularmente soy de los que piensan que es mejor buscar alternativas antes de prohibir.",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud_attack",
+      "target": "La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Impacto en el comercio y turismo",
+      "value": 1
+    },
+    {
+      "source": "Impacto en el comercio y turismo",
+      "target": "Impacto en el comercio y turismo_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en el comercio y turismo",
+      "target": "Impacto en el comercio y turismo_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en el comercio y turismo_support",
+      "target": "Hay ejemplos de ciudades que han mejorado much\u00edsimo como M\u00e1laga por donde ahora es un placer pasear y en Europa ni que decir tiene, solo hay que ver grandes ciudades como Berna, Munich, Amsterdam.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en el comercio y turismo_attack",
+      "target": "Simpl\u00f3n y mucho es usted. \u00bfAcaso no tiene bastantes ejemplos de calles peatonales en Madrid que en su d\u00eda lo vendieron como un beneficio para los madrile\u00f1os y luego se convirtieron en propiedad privada de los bares de la zona?",
+      "value": 3
+    },
+    {
+      "source": "Impacto en el comercio y turismo_attack",
+      "target": "Todos los casos de peatonalizaci\u00f3n del centro que veo todos los d\u00edas es que ya no existe el espacio p\u00fablico porque se lo han adue\u00f1ado los due\u00f1os de los bares.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Accesibilidad y movilidad",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad y movilidad",
+      "target": "Accesibilidad y movilidad_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y movilidad",
+      "target": "Accesibilidad y movilidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad y movilidad_support",
+      "target": "Es imprescindible para la ciudad recuperar la vida ciudadana dando mayor espacio al ciudadano y menor al coche.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y movilidad_support",
+      "target": "Me parece m\u00e1s inteligente implantar la APR en todo el centro, permite a los residentes y repartidores el acceso y descongestiona el centro para mayor disfrute del peat\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y movilidad_attack",
+      "target": "A m\u00ed no me parece mal, pero veo un problema: \u00bfNo ten\u00e9is problemas para recibir paquetes, trasladar muebles a tu domicilio, etc.?",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad y movilidad_attack",
+      "target": "De peatonalizar nada Que eso luego lo aprovechan los jetas de los due\u00f1os de bares para hacerse los due\u00f1os de la calle.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Impacto en la vida residencial",
+      "value": 1
+    },
+    {
+      "source": "Impacto en la vida residencial",
+      "target": "Impacto en la vida residencial_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la vida residencial",
+      "target": "Impacto en la vida residencial_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la vida residencial_support",
+      "target": "Soy vecina de la latina y estoy hasta las verdaderas narices de no poder aparcar y tener que soportar un tr\u00e1fico infernal en la zona. Por eso apoyo esta moci\u00f3n incluyendo todos los barrios del Madrid hist\u00f3rico.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la vida residencial_support",
+      "target": "Cualquier ciudad europea que se precie tienen regulado el tr\u00e1fico en la zona central hist\u00f3rica de manera mucho m\u00e1s eficiente y eficaz que aqu\u00ed.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la vida residencial_attack",
+      "target": "Una cosa es restringir el tr\u00e1fico en el centro mediante la creaci\u00f3n \u00e1reas de prioridad residencial y otra muy diferente es peatonalizarlo. La peatonalizaci\u00f3n en Madrid ha tenido hasta la fecha efectos perversos para los residentes.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la vida residencial_attack",
+      "target": "Los coches que circulan por ellas, que no son pocos, van a toda velocidad, pit\u00e1ndote todo el d\u00eda y d\u00e1ndote unos sustos de muerte.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Regulaci\u00f3n y normativa",
+      "value": 1
+    },
+    {
+      "source": "Regulaci\u00f3n y normativa",
+      "target": "Regulaci\u00f3n y normativa_support",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n y normativa",
+      "target": "Regulaci\u00f3n y normativa_attack",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n y normativa_support",
+      "target": "Los taxis no deber\u00edan acceder a no ser que sean el\u00e9ctricos, actualmente esta regulaci\u00f3n ya existe, pero son los taxis y los distribuidores los que no cumplen las reglas.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n y normativa_attack",
+      "target": "La normativa sobre zonas peatonales, zonas APR zonas semipeatonales, no est\u00e1 clara.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n y normativa_attack",
+      "target": "Estas zonas no est\u00e1n nada claras sobre qui\u00e9n tiene prioridad en la calzada.",
+      "value": 3
+    },
+    {
+      "source": "proposal 1266",
+      "target": "Opiniones personales y emocionales",
+      "value": 1
+    },
+    {
+      "source": "Opiniones personales y emocionales",
+      "target": "Opiniones personales y emocionales_support",
+      "value": 2
+    },
+    {
+      "source": "Opiniones personales y emocionales",
+      "target": "Opiniones personales y emocionales_attack",
+      "value": 2
+    },
+    {
+      "source": "Opiniones personales y emocionales_support",
+      "target": "Me parece genial, pero yo puntualizar\u00eda el hecho del tiempo de las furgonetas de mercanc\u00edas.",
+      "value": 3
+    },
+    {
+      "source": "Opiniones personales y emocionales_attack",
+      "target": "Yo no apoyo tu propuesta, yo seguir\u00e9 yendo al centro en coche.",
+      "value": 3
+    },
+    {
+      "source": "Opiniones personales y emocionales_attack",
+      "target": "Demuestras intolerancia y mala educaci\u00f3n as\u00ed que no voy a seguir dialogando contigo. A ti te molesta el tabaco y a m\u00ed tu coche, que le vamos a hacer.",
+      "value": 3
+    }
+  ]
+}

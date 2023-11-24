@@ -6,8 +6,8 @@
     Updated on: Nov 24, 2023
     Description: Generate argument data.
 """
+
 import util_libs as ul
-import pandas as pd
 
 MAX_TEXT_SIZE = 200
 
@@ -108,7 +108,7 @@ def get_comment_short_text(comment: str):
 def load_arguments(input_path: str):
     arguments = {}
     file_path = f"{input_path}/arguments.csv"
-    data = pd.read_csv(file_path, delimiter=",")
+    data = ul.read_csv_with_encoding(file_path)
 
     for index, row in data.iterrows():
         proposal_id = row["proposal_id"]

@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 878",
+      "group": 0
+    },
+    {
+      "id": "Administraci\u00f3n de pienso anticonceptivo",
+      "group": -3
+    },
+    {
+      "id": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "group": -1
+    },
+    {
+      "id": "Administraci\u00f3n de pienso anticonceptivo_attack",
+      "group": -2
+    },
+    {
+      "id": "En Barcelona se usa, y est\u00e1 dando buenos resultados.",
+      "group": -1
+    },
+    {
+      "id": "Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse.",
+      "group": -1
+    },
+    {
+      "id": "Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en Italia y en otros pa\u00edses.",
+      "group": -1
+    },
+    {
+      "id": "El pienso viene administr\u00e1ndose ya por 15-20 a\u00f1os.",
+      "group": -1
+    },
+    {
+      "id": "El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental.",
+      "group": -1
+    },
+    {
+      "id": "Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos y que incluso est\u00e1n en peligro de extinci\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Uso de huevos falsos",
+      "group": -3
+    },
+    {
+      "id": "Uso de huevos falsos_support",
+      "group": -1
+    },
+    {
+      "id": "Uso de huevos falsos_attack",
+      "group": -2
+    },
+    {
+      "id": "Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos.",
+      "group": -1
+    },
+    {
+      "id": "Cierre de huecos de nidada",
+      "group": -3
+    },
+    {
+      "id": "Cierre de huecos de nidada_support",
+      "group": -1
+    },
+    {
+      "id": "Cierre de huecos de nidada_attack",
+      "group": -2
+    },
+    {
+      "id": "Tambi\u00e9n existen otros m\u00e9todos complementarios como son la instalaci\u00f3n de palomares ecol\u00f3gicos educativos y de control y medidas disuasorias o urban\u00edsticas que ayudan a mantener una poblaci\u00f3n de palomas estable y sana.",
+      "group": -1
+    },
+    {
+      "id": "En nuestra web puedes ver otros m\u00e9todos como son el cerramiento de nidos, introducci\u00f3n de depredadores naturales, medidas disuasorias.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 878",
+      "target": "Administraci\u00f3n de pienso anticonceptivo",
+      "value": 1
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo",
+      "target": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "value": 2
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo",
+      "target": "Administraci\u00f3n de pienso anticonceptivo_attack",
+      "value": 2
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "target": "En Barcelona se usa, y est\u00e1 dando buenos resultados.",
+      "value": 3
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "target": "Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse.",
+      "value": 3
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "target": "Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en Italia y en otros pa\u00edses.",
+      "value": 3
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "target": "El pienso viene administr\u00e1ndose ya por 15-20 a\u00f1os.",
+      "value": 3
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_support",
+      "target": "El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental.",
+      "value": 3
+    },
+    {
+      "source": "Administraci\u00f3n de pienso anticonceptivo_attack",
+      "target": "Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos y que incluso est\u00e1n en peligro de extinci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "proposal 878",
+      "target": "Uso de huevos falsos",
+      "value": 1
+    },
+    {
+      "source": "Uso de huevos falsos",
+      "target": "Uso de huevos falsos_support",
+      "value": 2
+    },
+    {
+      "source": "Uso de huevos falsos",
+      "target": "Uso de huevos falsos_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso de huevos falsos_support",
+      "target": "Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 878",
+      "target": "Cierre de huecos de nidada",
+      "value": 1
+    },
+    {
+      "source": "Cierre de huecos de nidada",
+      "target": "Cierre de huecos de nidada_support",
+      "value": 2
+    },
+    {
+      "source": "Cierre de huecos de nidada",
+      "target": "Cierre de huecos de nidada_attack",
+      "value": 2
+    },
+    {
+      "source": "Cierre de huecos de nidada_support",
+      "target": "Tambi\u00e9n existen otros m\u00e9todos complementarios como son la instalaci\u00f3n de palomares ecol\u00f3gicos educativos y de control y medidas disuasorias o urban\u00edsticas que ayudan a mantener una poblaci\u00f3n de palomas estable y sana.",
+      "value": 3
+    },
+    {
+      "source": "Cierre de huecos de nidada_support",
+      "target": "En nuestra web puedes ver otros m\u00e9todos como son el cerramiento de nidos, introducci\u00f3n de depredadores naturales, medidas disuasorias.",
+      "value": 3
+    }
+  ]
+}
