@@ -1,4 +1,4 @@
-proposal_id,comment_id,arguments name,argument_description,argument types
+﻿proposal_id,comment_id,arguments name,argument_description,argument types
 7,[17359],Educación y concienciación ciudadana,El ideal sería vivir sin necesidad de tener un policía y un barrendero detrás de nosotros.,A favor
 7,[63450],Educación y concienciación ciudadana,"Hay que educar a los ciudadanos, aunque sea a base de multas.",A favor
 7,[78347],Educación y concienciación ciudadana,Eduquense y no ensucien tanto.,A favor
@@ -28,9 +28,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 7,[17333],Conciencia medioambiental,"Lo primero es la concienciación, la información y la educación cívica y medioambiental pero la situación de Madrid empieza a exigir medidas excepcionales en esta materia.",A favor
 7,[18314],Conciencia medioambiental,"Por supuesto. Y el problema añadido es que en Madrid llueve poco, un tanto en otoño, algunas gotas en invierno y otro chubasco en primavera, el verano nada de nada, por eso se requiere tanta limpieza.",En contra
 7,[18320],Conciencia medioambiental,"La única basura aceptable en un pueblo culto, es el polvo del ambiente, hojas de árboles, alguna rama y nada más. Todo lo demás proviene de la mano del hombre y no siempre de la mano Los papeles, latas, maderas, vidrios, botellas, plásticos, colillas, heces, vómitos, orines, etc. No llegaron solos a las calles, siempre hay un ciudadano sucio, resentido social, mal educado que expresa su mala conducta arrojando basura.",En contra
-7,"[33732, 33733, 33735, 33736]",Inclusión de tecnologías y métodos modernos,"Hola, creo que nuestras propuestas son complementarias. Propongo recoger y transportar la basura por la red de metro.",A favor
+7,[33732],Inclusión de tecnologías y métodos modernos,"Hola, creo que nuestras propuestas son complementarias. Propongo recoger y transportar la basura por la red de metro.",A favor
 7,[75400],Inclusión de tecnologías y métodos modernos,"Vivo en la zona latina y cerca zona Madrid río. Desde hace más de 2 meses no pasa nadie a limpiar las calles y cada vez que voy al colegio de mi hija tengo que ir esquivando las mierdas de los perros, palomas papeles publicidad de prostitutas y masajes orientales que dejan en los coches. Justo en Madrid río todo limpio pero qué pasa con las calles paralelas que les separa solamente un paso de peatones?",A favor
-7,"[33732, 33733, 33735, 33736]",Inclusión de tecnologías y métodos modernos,"Por favor apoya esta propuesta: . Hola, creo que nuestras son complementarias. Propongo recoger y transportar la basura por la red de metro.",En contra
 7,[63450],Responsabilidad individual y colectiva,"No es más limpio el que más limpia, sino el que menos ensucia.",A favor
 7,[37078],Responsabilidad individual y colectiva,"Creo que antes que limpiar, el ciudadano debería dejar de ensuciar. No cuesta nada guardarse un papel en la mano hasta encontrar una papelera.",A favor
 7,[37078],Responsabilidad individual y colectiva,"Y tampoco es necesario que haya papeleras a cada 50 metros, podemos aguantar un poquito más que eso sin tener que tirar la basura por donde nos apetezca.",A favor
@@ -50,8 +49,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 19,[49749],Impacto Económico,"Además, tampoco hay que buscar el coste cero, porque si se quiere solucionar este problema, habrá que barajar entre distintas opciones, pero se tendrá que invertir dinero y buscar una solución que no sea un apaño para salir del paso, porque en ese caso no se soluciona el problema, sino que se evita afrontarlo.",En contra
 19,[17391],Seguridad y Comodidad,"Totalmente de acuerdo, el entorno de la Plaza de España con todos sus túneles y la cuesta de San Vicente la convierten en un sitio tremendamente hostil para los peatones y los ciclistas. Es necesario acabar con eso.",A favor
 19,[83953],Seguridad y Comodidad,"La cuesta es un infierno; a medida que subes se estrecha la carretera y las aceras de tal manera que si te cruzas con un autobús de subida y otro de bajada, casi te arroyan.",A favor
-19,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Prioridades Sociales,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
-19,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Prioridades Sociales,Os recuerdo que España es el país de la OCDE donde más avanzó la desigualdad durante la crisis.,En contra
+19,[78277],Prioridades Sociales,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
+19,[78277],Prioridades Sociales,Os recuerdo que España es el país de la OCDE donde más avanzó la desigualdad durante la crisis.,En contra
 19,[61819],Integración Urbana,"Ahora que se va a remodelar la Plaza de España sería una oportunidad de oro hacer peatonal la Cuesta de San Vicente para hacer una senda verde que una el centro con el Campo del Moro, Madrid Río y Casa de Campo.",A favor
 19,[137601],Integración Urbana,Y por qué no construir escaleras que unan los Jardines del Campo del Moro a la Plaza de la Armeria y a los Jardines de Sabatini? No entiendo la lógica de que no estén conectados.,A favor
 19,[51540],Conservación y Seguridad en Parques,El cierre de los parques históricos por la noche es necesario para evitar el vandalismo.,En contra
@@ -72,7 +71,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 50,[61761],Infraestructura,"Me cuesta creer que utilices la bicicleta por Madrid y estés en contra de esta medida, si visitas otras ciudades como Barcelona te das cuenta que aquí los ciclistas estamos vendidos.",En contra
 50,[17162],Impacto Ambiental,Yo también utilizo la bicicleta en Madrid y creo que el ayuntamiento debería incidir más en crear infraestructuras en las arteria principales de Madrid para animar a todos cambiar el coche por la bicicleta.,A favor
 50,[54812],Impacto Ambiental,Completamente de acuerdo: carril bicicleta y más carril bicicleta en las arterias de Madrid y veremos cómo los madrileños se suben a la bicicleta en lugar del coche.,A favor
-50,"[18866, 18867, 18873, 23967, 54611, 54612, 54614]",Impacto Ambiental,Si te importa el Medio Ambiente igual apoyarías también esta propuesta.,En contra
+50,"[18866, 23967, 54614]",Impacto Ambiental,Si te importa el Medio Ambiente igual apoyarías también esta propuesta.,En contra
 50,[35969],Cultura y Educación Vial,"Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulación real de vehículos eléctricos ligeros, que ya se comercializan y que actualmente, en Madrid están en un limbo, cuando en otras ciudades y países son una realidad realmente efectiva, ecológica y sostenible.",A favor
 50,[32458],Cultura y Educación Vial,La segunda opción es la que mejor resuelve el problema sin duda.,A favor
 50,[39363],Cultura y Educación Vial,"Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educación de los usuarios de las mismas.",En contra
@@ -94,18 +93,18 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 50,[19578],Viabilidad Económica,Con este dinero se podría hacer el carril: [enlace a propuesta].,A favor
 50,[52584],Viabilidad Económica,"Si quitas un carril en cada sentido a los coches, adquiere mucha más visibilidad a la vez que bloquea el tráfico. Por tanto, si una persona se queda parada en un atasco y ve gente circular mucho más rápido por el carril bicicleta, quizás se replantee el uso del vehículo motorizado.",A favor
 50,[54874],Viabilidad Económica,Cuanto estas dispuesto a pagar por tener un bulevar o más kilómetros de carril bicicleta? Los automóviles pagan un impuesto.,En contra
-50,"[18273, 18279]",Viabilidad Económica,Plan anti grafitis. Acabemos con esta lacra: [enlace a propuesta].,En contra
+50,[18279],Viabilidad Económica,Plan anti grafitis. Acabemos con esta lacra: [enlace a propuesta].,En contra
 50,[19705],Viabilidad Económica,"Yo estoy de acuerdo en que sería importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se ha hecho actualmente pintando una bicicleta en un carril de los dos que tiene el lateral es una chapuza que esta ocasionando accidentes tanto para los ciclistas sobretodo turistas como con los conductores.",En contra
-61,[18539],Uso de energías renovables,"Incluso propondría dentro de esta propuesta que se abasteciera con energías renovables, preferentemente pequeñas placas solares en cada farola.",A favor
-61,"[29897, 29898]",Eficiencia energética,"O encender una farola de cada dos, pero en toda la autopista.",A favor
-61,[72359],Eficiencia energética,"El Reglamento de Eficiencia Energética de Alumbrado Exterior ya establece que en función del tráfico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de vehículos y personas.",A favor
-61,[37090],Seguridad vial,"La seguridad mejora en carreteras sin iluminación externa, ya que los conductores centran la atención en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",En contra
-61,[37090],Seguridad vial,"Países más seguros como Alemania, Reino Unido, etc., no tienen iluminación alguna en las carreteras.",En contra
-61,[40216],Seguridad vial,"Varios estudios indican que en las autopistas, por ejemplo, hay más accidentes cuando hay luz.",En contra
-61,[59781],Visibilidad y peligro,Creo que es de vital importancia pues hay muchos tramos de carreteras y vías en las que es muy peligroso circular por su poca visibilidad y más aun cuando existe ya la iluminación instalada hace tiempo.,A favor
-61,"[125975, 125977, 125978, 125979]",Contaminación lumínica,Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminación lumínica de Madrid.,En contra
-61,[72359],Problemas administrativos y de mantenimiento,"En la M40 no hay iluminación debido a que cuando se construyó, Fomento hacía la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",En contra
-61,[72359],Problemas administrativos y de mantenimiento,"En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde está totalmente a oscuras. La razón muy simple, han desvalijado el centro de transformación, no quedan ni las puertas.",En contra
+61,[37090],Seguridad Vial,"La seguridad mejora en carreteras sin iluminación externa, ya que los conductores centran la atención en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",A favor
+61,[37090],Seguridad Vial,"Países más seguros como Alemania, Reino Unido, etc., no tienen iluminación alguna en las carreteras.",A favor
+61,[59781],Seguridad Vial,Creo que es de vital importancia pues hay muchos tramos de carreteras y vías en las que es muy peligroso circular por su poca visibilidad y más aun cuando existe ya la iluminación instalada hace tiempo.,En contra
+61,[40216],Seguridad Vial,"Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay más accidentes cuando hay luz.",En contra
+61,[18539],Energía y Sostenibilidad,"Incluso propondría dentro de esta propuesta que se abasteciera con energías renovables, preferentemente pequeñas placas solares en cada farola.",A favor
+61,"[29897, 29898]",Eficiencia Energética,"O encender una farola de cada dos, pero en toda la autopista.",A favor
+61,"[125975, 125977, 125978, 125979]",Impacto Ambiental,Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminación lumínica de Madrid.,A favor
+61,[72359],Gestión Pública,El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado.,En contra
+61,[72359],Gestión Pública,"La razón muy simple, han desvalijado el centro de transformación, no quedan ni las puertas. No habrá luz, pero tampoco funcionan los radares. España es así.",En contra
+61,[72359],Eficiencia Regulatoria,"El Reglamento de Eficiencia Energética de Alumbrado Exterior ya establece que en función del tráfico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de vehículos y personas.",A favor
 72,[160718],Impacto en los trabajadores,"Los trabajadores de los centros también tenemos derecho a estar con la familia, descansar, hacer vida.",A favor
 72,[86169],Impacto en los trabajadores,"Creo que la conciliación laboral es un derecho, que esta ley ha quitado.",A favor
 72,[160718],Impacto en los trabajadores,Los centros comerciales deberían cerrar todos los festivos y domingos.,A favor
@@ -124,7 +123,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 72,[18442],Derechos laborales,Siempre sale el discurso solidario del -yo es que no puedo ir a comprar cuando quiero- inaudito.,A favor
 72,[52946],Derechos laborales,"Aunque sea Lcdo. En CCEE y Dir. De RRHH de una multinacional, no debato ni discuto con gente que como usted Intenta menospreciar y hace comentarios tan simplistas.",En contra
 72,[71736],Derechos laborales,Pues que también cierren los hospitales los fines de semana. Porque nosotros tb tenemos familia y libramos a diario.,En contra
-72,"[19730, 19731, 19733, 19760]",Impacto social,Apoyo la propuesta y te invito a que apoyes Mayor cuidado del centro de Madrid Gracias!.,A favor
+72,[19760],Impacto social,Apoyo la propuesta y te invito a que apoyes Mayor cuidado del centro de Madrid Gracias!.,A favor
 72,[76131],Impacto social,"Hay que conciliar la vida laboral con la familiar. Por favor, ayuden esta propuesta.",A favor
 72,[18322],Impacto social,"Esto dejará de ser un problema cuando se racionalicen los horarios estilo español de 9 a 21h, llegue la conciliación laboral y familiar de verdad y los salarios sean europeos y no bananeros.",A favor
 72,[18732],Impacto social,Mejor que cerrar. Regular correctamente para que no se produzcan abusos.,En contra
@@ -192,8 +191,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 89,[18483],Accesibilidad y coste,Puedes solicitarlo también a través de la web del ayuntamiento y en las oficinas gratis.,A favor
 89,[17834],Accesibilidad y coste,Y además el 010 es de pago.,En contra
 89,[80455],Accesibilidad y coste,"Tampoco pasa nada por llamar a un teléfono que cuesta pocos céntimos el minuto, sobre todo teniendo alternativas sin coste para personas que ni se lo puedan permitir.",En contra
-89,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Impacto social,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
-89,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Impacto social,La pobreza y la exclusión en España han aumentado alarmantemente en los últimos años.,En contra
+89,[78258],Impacto social,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
+89,[78258],Impacto social,La pobreza y la exclusión en España han aumentado alarmantemente en los últimos años.,En contra
 89,[36657],Reciclaje y medio ambiente,En Barcelona hay un día para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica.,A favor
 89,[18154],Reciclaje y medio ambiente,Creo que la mejor solución para eso es fomentar el reciclaje de este tipo de cosas regalándolo.,A favor
 89,[42993],Conocimiento y uso del servicio,Hace unos años recuerdo que pasaban uno o dos días al mes con un cartel que avisaba de ellos y el día anterior la gente bajaba a la calle todo lo que tenían que tirar.,En contra
@@ -218,10 +217,10 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 109,[89897],Control y Sanciones,Que se aplique la normativa y que se multe al infractor.,A favor
 109,[58117],Control y Sanciones,Más que multas que no podrán pagar les haría realizar servicios comunitarios de limpieza.,A favor
 109,[78101],Control y Sanciones,"Y si no se consigue por las buenas, que sería lo mejor, pues multa al canto.",A favor
-109,[26548],Inversión en Limpieza,Algo que creo que beneficiaría ampliamente a la limpieza de la ciudad es el aumento de máquinas limpiadoras de aceras.,A favor
-109,"[51872, 51873]",Inversión en Limpieza,"Buenos días a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepción.",A favor
-109,"[51872, 51873]",Inversión en Limpieza,"No hace falta hacer inversiones exageradas, es más, todo ello está sobradamente probado y funciona.",A favor
-152,"[18866, 18867, 18873, 23967, 54611, 54612, 54614]",Impacto Medioambiental,Si te importa el Medio Ambiente igual apoyarías también esta propuesta.,A favor
+109,[51873],Inversión en Limpieza,Algo que creo que beneficiaría ampliamente a la limpieza de la ciudad es el aumento de máquinas limpiadoras de aceras.,A favor
+109,[51873],Inversión en Limpieza,"Buenos días a todos, la limpieza es una de las partes de una sociedad que tenemos que cuidar todos sin excepción.",A favor
+109,[51873],Inversión en Limpieza,"No hace falta hacer inversiones exageradas, es más, todo ello está sobradamente probado y funciona.",A favor
+152,[18873],Impacto Medioambiental,Si te importa el Medio Ambiente igual apoyarías también esta propuesta.,A favor
 152,[19000],Impacto Medioambiental,Apoyo totalmente esta propuesta y el ayuntamiento Debería dar ejemplo poniéndolas en todos aquellos edificios públicos en los que sea factible.,A favor
 152,[19055],Impacto Medioambiental,"Informate tu porque los paneles duran más de 25 años, tienen una garantia de que a los 25 años te dan un 90 de la energia nominal.",A favor
 152,[18926],Impacto Medioambiental,"Y debería informase la gente de los materiales usados para la fabricación de placas solares, y de la contaminación derivada de ellos.",En contra
@@ -241,8 +240,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 152,[53954],Eficiencia Energética,En los últimos años se dieron ayudas para poner ascensores y para poner calderas mejores. Ahora hay que dar un paso más en mejorar Madrid.,A favor
 152,[57689],Generación de Empleo,"Serían miles de puestos de trabajo, con los ingresos correspondientes para el Estado a través del sistema impositivo vigente y el incremento en consumo, lo cual revitalizaría la economía local, todo ello unido al ahorro energético y de contaminantes.",A favor
 152,[60591],Generación de Empleo,Que en España graven el autoconsumo es una verguenza. En Alemania con menos sol tienen más instalaciones de energía solar. Tenemos que aprovechar nuestros recursos.,A favor
-152,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Generación de Empleo,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
-152,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Generación de Empleo,Os recuerdo que España es el país de la OCDE donde más avanzó la desigualdad durante la crisis.,En contra
+152,[78229],Generación de Empleo,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
+152,[78229],Generación de Empleo,Os recuerdo que España es el país de la OCDE donde más avanzó la desigualdad durante la crisis.,En contra
 152,[22115],Autoconsumo y Independencia Energética,"Madrid debería declararse Ciudad por el autoconsumo. No sé si es competencia del Ayunt. Pero dada la zancadilla que el ministerio y las empresas eléctricas le está poniendo al autoconsumo energético en España, sería un buen mensaje político.",A favor
 152,[22115],Autoconsumo y Independencia Energética,"Esto no es una utopía, es una realidad y una libertad ya presente en muchos países donde, por ejemplo, tú puedes llegar a Ikea Inglaterra y comprar tu kit solar para autoconsumo.",A favor
 152,[24190],Autoconsumo y Independencia Energética,Pero que es eso de que podamos generar la energía que necesitamos sin pagar a una empresa privada! estáis locos o que? que van a hacer esos directivos a los que tienen que pagar sueldos multimillonarios.,En contra
@@ -283,7 +282,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 494,[66928],Espacios Públicos para Grafitis,"Estoy deacuerdo en todo, menos en habilitar zona para sus suciedades, que lo hagan en su casa, todo lodemas no es suyo",En contra
 494,[19700],Costo de Limpieza,También es una cuestión económica: limpiar los grafitis nos cuesta a los madrileños 12 millones al año,A favor
 494,[155667],Costo de Limpieza,"Son tantas que estamos empezando a parecer el Harlem. En este país el turismo crea muchísimos puestos de trabajo. Esas pintadas ni son arte ni son nada, es mierda en las paredes que hay que quitar con productos tóxicos, y nocivos para el personal que los limpia, y muy caros que se pagan del bolsillo de los contribuyentes",A favor
-494,[182825],Multas y Sanciones,"Por supuesto que hay que poner multas, la sanción es el único método disuasorio eficaz, y trabajos sociales que consistan en limpiar su propia pintada, y costeando ellos los productos de limpieza, para que se den cuenta de lo que cuesta, tanto en dinero como en trabajo, la limpieza de las mismas",A favor
+494,"[18315, 18324]",Multas y Sanciones,"Por supuesto que hay que poner multas, la sanción es el único método disuasorio eficaz, y trabajos sociales que consistan en limpiar su propia pintada, y costeando ellos los productos de limpieza, para que se den cuenta de lo que cuesta, tanto en dinero como en trabajo, la limpieza de las mismas",A favor
 494,[22183],Multas y Sanciones,"Se debería multar económicamente y con trabajos sociales gratuitos como limpiar los grafitis a todos aquellos que ensucian un lugar privado o público sin permiso, ya que hay auténticos artistas a los que se les debería pagar por hacer dibujos muy bonitos en puertas o persianas metálicas por ejemplo",A favor
 494,"[18735, 18746]",Multas y Sanciones,"No me opongo a las multas, pero me pregunto si son escarnio suficiente cuando a muchos chavales se las pagarán papá y mamá. Creo más edificante y efectivo los trabajos comunitarios",En contra
 494,[27936],Educación y Conciencia Ciudadana,Es un problema de educación y conciencia ciudadana,A favor
@@ -363,7 +362,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 629,[21630],Sanciones económicas,"Yo no impondría sancionas económicas, impondría charlas y seminarios trabajos sociales limpiando jardines, plazas.",En contra
 629,[20102],Sanciones económicas,"Debería sancionar a la gente que ensucia la ciudad, pero creo que mejor que multas serían trabajos sociales limpiando la ciudad, es una mejor forma de concienciar.",En contra
 629,[33735],Sanciones económicas,"Yo en principio no creo que sea una buena idea sancionar, aunque en algunas ocasiones es necesario para concienciar creo que es una buena idea ayudar a la gente a encontrar soluciones para sus problemas y no darles excusas.",En contra
-629,[22035],Educación y concienciación,Una solución a largo plazo: educación y desafortunadamente muchas veces solo entendemos cuando se nos sanciona.,A favor
+629,[26417],Educación y concienciación,Una solución a largo plazo: educación y desafortunadamente muchas veces solo entendemos cuando se nos sanciona.,A favor
 629,[22380],Educación y concienciación,"Hay que insistir y echar la bronca. Y si el sujeto en cuestión se pone violento, se llama a la policia.",A favor
 629,[73182],Educación y concienciación,"Cuando veo los parques llenos de excrementos de perros, de basura, perros sueltos fuera del horario permitido, sin bozal los que deben llevarlo, etc., pienso en que esas multas que no se han puesto son dinero perdido para invertir en concienciar a los ciudadanos o mejorar Madrid.",A favor
 629,[22380],Vigilancia y control,Es un problema que afecta a todos los barrios. No debemos acobardarnos si vemos como un vecino ensucia la calle con porquerías.,A favor
@@ -372,7 +371,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 629,[20185],Vigilancia y control,"Pagar a agentes que sancionen estas conductas no me parece la mejor solución o al menos la única teniendo en cuenta que quienes tiran la basura en cualquier lado lo hacen en su mayoría, de noche.",A favor
 629,[24426],Mejora de servicios públicos,"En lugar de sancionar, ¿Por qué no mejorar el servicio de recogida de muebles?. Que se acorte el plazo de recogida, de 3 días a 1 ó 2. Estoy seguro que se reduciría el volumen de muebles en la calle.",A favor
 629,[24868],Mejora de servicios públicos,"Votado. En Aluche tenemos este problema con la suciedad y dejadez del barrio, no a los Cerdos por favor votad.",A favor
-629,"[26408, 26409, 26410, 26413, 26414, 26417]",Mejora de servicios públicos,Una propuesta a seguir: Propuesta no relacionada con esta.,A favor
+629,[26417],Mejora de servicios públicos,Una propuesta a seguir: Propuesta no relacionada con esta.,A favor
 629,[19379],Responsabilidad ciudadana,"Estoy de acuerdo con sancionar a los incívicos pero también creo que toda la gente que recibe una ayuda social, debería contribuir y colaborar para mantener las ciudades limpias.",A favor
 629,[62914],Responsabilidad ciudadana,"La gente es muy vaga, tenemos puntos limpios donde poder dejar ese tipo de basuras. Me pone negra ver al lado de los contenedores de panel y de vidrio todo tipo de enseres.",A favor
 629,[19503],Discriminación y prejuicios,Siento decirte que en el puente de vallecas esos vecinos incívicos son en su mayoría de etnia gitana.,A favor
@@ -383,7 +382,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 878,[97005],Administración de pienso anticonceptivo,El pienso viene administrándose ya por 15-20 años.,A favor
 878,[97006],Administración de pienso anticonceptivo,El pienso está estudiado eficacia y protocolo de administración así como su seguridad sanitaria y medioambiental.,A favor
 878,[96997],Administración de pienso anticonceptivo,Mi preocupación con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos y que incluso están en peligro de extinción.,En contra
-878,[20915],Uso de huevos falsos,Existe una solución ética que pasa por la administración de pienso anticonceptivo y uso de huevos falsos palomares ecológicos.,A favor
+878,[29991],Uso de huevos falsos,Existe una solución ética que pasa por la administración de pienso anticonceptivo y uso de huevos falsos palomares ecológicos.,A favor
 878,[65162],Cierre de huecos de nidada,También existen otros métodos complementarios como son la instalación de palomares ecológicos educativos y de control y medidas disuasorias o urbanísticas que ayudan a mantener una población de palomas estable y sana.,A favor
 878,[65162],Cierre de huecos de nidada,"En nuestra web puedes ver otros métodos como son el cerramiento de nidos, introducción de depredadores naturales, medidas disuasorias.",A favor
 879,[25540],Sistema de Retorno,"Este sistema ha dado muy buenos resultados ambientales en diferentes países, logrando llegar a altos porcentajes de reciclado de envases.",A favor
@@ -394,8 +393,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 879,[36226],Sistema de Retorno,Si se te rompe el envase o la etiqueta te has quedado sin dinero.,En contra
 879,[77805],Gestión Municipal de Alimentos Sobrantes,Una gestión municipal en todo el proceso de la gestión de los alimentos sobrantes optimizaría su utilización y la gente sin recursos podría alimentarse diariamente.,A favor
 879,[77805],Gestión Municipal de Alimentos Sobrantes,La intención es buena pero esta propuesta se queda corta en muchos aspectos.,En contra
-879,[181115],Reutilización de Envases,Yo sería partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitaría que se devolviera al envasador.,A favor
-879,[25064],Reutilización de Envases,Este tipo de propuestas deberían estar redirigidas para que todos los votos a favor sumaran más.,A favor
+879,[37325],Reutilización de Envases,Yo sería partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitaría que se devolviera al envasador.,A favor
+879,[25540],Reutilización de Envases,Este tipo de propuestas deberían estar redirigidas para que todos los votos a favor sumaran más.,A favor
 879,[51176],Reutilización de Envases,penalizaría a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc.,En contra
 900,[19710],Penalización a Bancos,"Forzarles a darles uso, mediante alquiler si no quieren vender todavía, o vendiéndolas, es bueno para todos.",A favor
 900,[58532],Penalización a Bancos,"Propondría acuerdos con los bancos, que cedan inmuebles por un tiempo determinado 3 años por ejemplo para la EMV y dar más alquileres sociales.",A favor
@@ -452,7 +451,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1085,[30963],Educación y concienciación,Que basura de proposición.,En contra
 1085,[30240],Educación y concienciación,"Adoras a los perros y sin embargo los sufres. Un sinsentido, no crees?",En contra
 1085,[47025],Educación y concienciación,No estoy de acuerdo pero Creo que la solución que das es muy cara aquí dejo la mía.,En contra
-1085,"[20622, 21137, 24758, 29345, 38777, 47124, 51655, 53241, 55471]",Zonas designadas para perros,"Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",A favor
+1085,"[20622, 47124, 51655, 53241, 55471]",Zonas designadas para perros,"Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",A favor
 1085,[59829],Zonas designadas para perros,"De acuerdo con esto, de hecho es lo natural. Enfrente de mi casa hay un arenero y mi perra desde cachorro hace ahí sus necesidades y nunca lo hace en la acera, no le gusta.",A favor
 1085,[100386],Zonas designadas para perros,"Me parece muy buena idea, pero un poco compleja para ponerla en marcha. Pero yo la apoyo.",A favor
 1085,[140105],Zonas designadas para perros,Ya está bien. Soluciones: Primera y más lógica. - Prohibir radicalmente los perros en Madrid.,En contra
@@ -472,8 +471,8 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1114,[27493],Educación y Concienciación,Lo veo un poco exagerado el estudio para la ciudadanía es una asignatura y hay muchas cosas que enseñar a los niños aparte del respeto a todo y todos.,En contra
 1114,[21914],Responsabilidad Institucional,"Porque si no sería un contrasentido educar en el respeto y no abandono de animales, cuando las instituciones no hacen nada por cambiar el panorama general tan desolador.",A favor
 1114,[22035],Responsabilidad Institucional,"La esterilización frente a la cría indiscriminada, la adopción frente a la compra-venta, la tenencia responsable y el sacrificio cero está unido.",A favor
-1114,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Priorización de Problemas Sociales,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
-1114,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Priorización de Problemas Sociales,"La pobreza y la exclusión en España han aumentado alarmantemente en los últimos años, con 134 millones de personas en riesgo de exclusión en el año 2014.",En contra
+1114,[78264],Priorización de Problemas Sociales,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.,En contra
+1114,[78264],Priorización de Problemas Sociales,"La pobreza y la exclusión en España han aumentado alarmantemente en los últimos años, con 134 millones de personas en riesgo de exclusión en el año 2014.",En contra
 1114,[27633],Ampliación de la Educación en Valores,"Queremos que se insista en la necesidad ampliar el límite de formación para que se insista, aparte de en ser buen ciudadano, que sea también en el respeto hacia el resto de animales.",A favor
 1114,[27633],Ampliación de la Educación en Valores,Considero que sería enriquecedor para los niños y una oportunidad ejemplar para conseguir una sociedad cada vez más amiga de los animales.,A favor
 1114,[42653],Concienciación sobre el Consumo de Animales,Es importante la educación a favor de los animales y es vergonzoso e indignante ver como hay un montón de ciudadanos que se pasean por los mercados de Madrid y no se revelan al ver los cadáveres de inocentes animales expuestos como mercadería.,A favor
@@ -505,7 +504,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1121,[51616],Conservación del Patrimonio,"No hay ninguna recinto de la ciudad capacitado para albergar las 36 unidades de metro históricas que se preservan que este ubicado en zona céntrica, accesible al público a través de medios de transporte, y en un recinto histórico como lo es esta obra.",A favor
 1121,[47735],Conservación del Patrimonio,"¿Pero que tomadura de pelo de propuesta es esta? El terreno donde se sitúan las antiguas cocheras de Cuatro Caminos ya ha sido adquirido por una cooperativa de viviendas, por lo tanto no tiene sentido proponer hacer ningún museo.",En contra
 1121,"[138388, 138389, 138390, 138392, 138393, 138394, 138395]",Participación Ciudadana,"Hola, he creado una nueva. Igual podemos lograr que sea cual sea su futuro sea decidido por todos.",A favor
-1121,[61815],Participación Ciudadana,"Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La población tiene que considerar esas cocheras un bien de patrimonio histórico.",En contra
+1121,[24256],Participación Ciudadana,"Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La población tiene que considerar esas cocheras un bien de patrimonio histórico.",En contra
 1121,[54030],Participación Ciudadana,Los vecinos no queremos este museo. Cocheras soterradas cuanto antes.,En contra
 1121,[53934],Impacto Social,"Humanidad Ejemplo: Estación de Chamberí Respecto al plan urbanístico. Solo decir que hay más casas construidas que gente para vivir, sin olvidar a la gente que echan de sus casas.",A favor
 1121,[47756],Impacto Social,"Desarrollo de Metropolitan es bueno para el colegio el Porvenir, bueno para los comerciantes, bueno para los vecinos actuales y bueno para los vecinos futuros.",En contra
@@ -525,7 +524,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1266,[24705],Mejora de la calidad de vida,El problema que comentas de las terrazas es fácilmente solucionable: no conceder tanta licencia para terrazas o cambiar la normativa municipal.,En contra
 1266,[22047],Contaminación y salud,"Para quien se lo está pensando, sabías que 1 de cada 8 muertes en el mundo está relacionada con la contaminación ambiental.",A favor
 1266,[22317],Contaminación y salud,"Reducir la contaminación de Madrid es una tarea de todos, particularmente soy de los que piensan que es mejor buscar alternativas antes de prohibir.",A favor
-1266,"[78222, 78224, 78226, 78227, 78229, 78230, 78233, 78236, 78258, 78261, 78264, 78272, 78277]",Contaminación y salud,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos.,En contra
+1266,[78272],Contaminación y salud,La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos.,En contra
 1266,[22028],Impacto en el comercio y turismo,"Hay ejemplos de ciudades que han mejorado muchísimo como Málaga por donde ahora es un placer pasear y en Europa ni que decir tiene, solo hay que ver grandes ciudades como Berna, Munich, Amsterdam.",A favor
 1266,[32733],Impacto en el comercio y turismo,Simplón y mucho es usted. ¿Acaso no tiene bastantes ejemplos de calles peatonales en Madrid que en su día lo vendieron como un beneficio para los madrileños y luego se convirtieron en propiedad privada de los bares de la zona?,En contra
 1266,[32739],Impacto en el comercio y turismo,Todos los casos de peatonalización del centro que veo todos los días es que ya no existe el espacio público porque se lo han adueñado los dueños de los bares.,En contra
@@ -607,38 +606,18 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1824,[37302],Impacto Ambiental,"El segundo tema que se comenta es el de la basura en las calles, el littering. Sobre este tema no existen datos por el momento, pero si se pueden hacer varias aclaraciones. En Alemania hay menos basura por la calle que en España, cierto. Antes de que implantaran el SDDR en 2003 también, tampoco tiraban residuos al suelo. Ya antes del SDDR alemán, los alemanes estaban mucho más comprometidos con este tema que en España.",En contra
 1824,[24387],Sostenibilidad Económica,Y quién paga los 025 euros? a cargo de quien va?,En contra
 1824,[37290],Sostenibilidad Económica,"Politécnica de Madrid se va a hacer público en las siguientes semanas Para ello, han tenido que aumentar en un 87 los costes de gestión de envases domésticos en este país. ¿Estamos dispuesto a gastarnos un 177 más en España para aumentar un 24 nuestra tasa de reciclaje? datos del mismo estudio Entre tanto y mientras se pública, adjunto un documento de interés.",En contra
-1863,[24270],Tranquilidad y descanso,El retiro es para descansar del ruido y estrés de la ciudad.,En contra
-1863,[24356],Tranquilidad y descanso,Creo que el parque del Retiro debe ser un refugio ante el ruido que nos rodea.,En contra
-1863,[34914],Tranquilidad y descanso,Para el que toca el tambor puede ser divertidísimo pero es un tormento para los que nos gusta el silencio y la naturaleza.,En contra
-1863,[25048],Tranquilidad y descanso,"Fuera tambores del Retiro, ruido molesto, y egoísta.",En contra
-1863,[25048],Tranquilidad y descanso,A un parque no se va a escuchar ruido y tambores.,En contra
-1863,[24699],Diversidad cultural,"La música, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresión universal que todos entendemos.",A favor
-1863,[35055],Diversidad cultural,Este espontáneo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor.,A favor
-1863,"[31314, 35756]",Diversidad cultural,Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid.,A favor
-1863,[25048],Perturbación y molestia,Los vecinos estábamos artos.,En contra
-1863,[25223],Perturbación y molestia,"A mí no me gustan los tambores, ¿Por qué los tengo que escuchar si quiero pasear por el retiro?",En contra
-1863,[25397],Perturbación y molestia,Música en la calle que a unos gusta y a otros molesta.,En contra
-1863,[29280],Perturbación y molestia,Tu y tu amigo el peana dejad de dar la vara con los tamborcitos.,En contra
-1863,[29280],Perturbación y molestia,Los tambores molestaban mucho a los vecinos.,En contra
-1863,[33489],Libertad de expresión,"Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participación espontánea de la ciudadanía.",A favor
-1863,[33489],Libertad de expresión,"Esta prohibición ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresión y de reunión.",A favor
-1863,"[31314, 35756]",Libertad de expresión,Era una expresión de cultura de calle viva y no comercial.,A favor
-1863,[24388],Regulación y equilibrio,"Yo estoy de acuerdo en que se haga un domingo al mes y no todos, porque tiene que haber para todo el mundo.",En contra
-1863,[76173],Regulación y equilibrio,"En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso sí en cada lugar se podrán llevar a cabo aquellas que sean adecuadas a ese entorno.",En contra
-1863,[45452],Regulación y equilibrio,"Hay muchas maneras de disfrutar el parque y de compartir ese espacio sí, hay que regular su uso.",En contra
-1863,[25048],Impacto en la fauna,"Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque.",En contra
-1863,[44817],Impacto en la fauna,"estar seis, ocho, diez horas ininterrumpidas de percusión se hace insoportable para la fauna.",En contra
-1863,[44817],Impacto en la fauna,"Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la música pero el parque no es el lugar adecuado.",En contra
-1863,[24699],Espontaneidad y alegría,Lo mejor es que surja espontáneo sea el día que sea.,A favor
-1863,[25563],Espontaneidad y alegría,"Era el mejor sitio de Madrid para pillar costo, y encima te avisaban si venían los maderos con los cambios de ritmo!",A favor
-1863,[53632],Disturbios y seguridad,"Tengo entendido que lo prohibieron porque avisaban cambiando el ritmo y la música a los camellos, cuando la policía se acercaba.",En contra
-1863,[44097],Disturbios y seguridad,"Y yo no sé si los tambores los usan los camellos para avisarse pero en la zona próxima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranquilamente.",En contra
-1863,[29280],Disturbios y seguridad,Respetad la legislación y iros a pillar a otro lado.,En contra
-1863,[45473],Inclusión y participación,"mientras que la percusión invita al baile, a acercarse a los músicos, a comprarse un djembé y animarse a aprender.",A favor
-1863,[35055],Inclusión y participación,El parque es muy grande y nos puede acoger a tod@s en armonía.,A favor
-1863,[44095],Conservación del espacio público,El Retiro es un refugio para la población de Madrid harta del stress de la ciudad. Fuera tambores!,En contra
-1863,[44096],Conservación del espacio público,Sólo queremos que el parque del Retiro sea un lugar tranquilo.,En contra
-1863,[44817],Conservación del espacio público,"Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de músicas con altavoces, estridentes, repetitivas, etc., estaríamos perjudicándonos.",En contra
+1863,[33489],Libertad de expresión y reunión,Todo está mediado por algún tipo de transación comercial o por el requerimiento de alguna autorización administrativa.,A favor
+1863,[35055],Libertad de expresión y reunión,Este espontáneo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor.,A favor
+1863,[65135],Libertad de expresión y reunión,"La música para bien o para mal, es psicoactiva. Y no debe resultar una imposición.",En contra
+1863,[65136],Libertad de expresión y reunión,Por favor hago un llamamiento a la moderación.,En contra
+1863,[35055],Convivencia y uso del espacio público,El parque es muy grande y nos puede acoger a tod@s en armonía.,A favor
+1863,[35055],Convivencia y uso del espacio público,Un conflicto inventado para justificar una prohibición arbitraria.,A favor
+1863,[34914],Convivencia y uso del espacio público,Para el que toca el tambor puede ser divertidísimo pero es un tormento para los que nos gusta el silencio y la naturaleza.,En contra
+1863,[76173],Convivencia y uso del espacio público,El Parque del Retiro no parece el lugar más indicado para ponerse a tocar unos tambores.,En contra
+1863,[25048],Impacto en los vecinos y medio ambiente,"Fuera tambores del Retiro, ruido molesto, y egoísta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque.",En contra
+1863,[25223],Impacto en los vecinos y medio ambiente,"A mí no me gustan los tambores, ¿Por qué los tengo que escuchar si quiero pasear por el retiro?",En contra
+1863,[29280],Impacto en los vecinos y medio ambiente,Los tambores molestaban mucho a los vecinos.,En contra
+1863,[45456],Impacto en los vecinos y medio ambiente,"Tampoco es molesto el ritmo de los yembés, me encantan los ritmos, a no ser que estén horas y horas.",En contra
 1918,[33547],Carga económica,"Mis hermanos y yo, hemos tenido que pagar nada menos que 8000 euros que no teníamos por la mitad de la herencia del piso de mi madre fallecida. Ocho mil euros Por un piso que debe estar tasado en unos 200000 euros.",En contra
 1918,[25213],Impacto social,"En mi caso aunque se trataba de otra comunidad tras fallecer mi padre y para poder heredar las dos propiedades de escaso valor que con tanto esfuerzo me dejó, me vi obligado con 18 años a aparcar los estudios y ponerme a trabajar para pagar la burrada de dinero que me exigía la comunidad.",En contra
 1918,[105347],Legalidad y regulación,No es un impuesto de derechas. Lo formulo el gobierno socialista en el año 1988 Lo formuló de forma que después de 20 años de tener la posesión no se produce el hecho imponible.,A favor
@@ -660,7 +639,7 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 1937,[25220],Responsabilidad del dueño,Falso. Las hay [razas potencialmente peligrosas].,En contra
 1937,[31676],Responsabilidad del dueño,"De todas maneras deberían hacer algo con los perros grandes grandes y que los saca a pasear una persona pequeña pequeña, no se hacen con el, hoy casi se me tira uno encima.",En contra
 1937,[25064],Espacios para perros,"La opción de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opción para reducir estos problemas.",A favor
-1937,"[20622, 21137, 24758, 29345, 38777, 47124, 51655, 53241, 55471]",Espacios para perros,"Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",A favor
+1937,[24758],Espacios para perros,"Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.",A favor
 1937,[43634],Educación canina,"Saludos, contribuiría a la solución de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias.",A favor
 1937,[36535],Educación canina,"He creado una propuesta para que todos los dueños de perros y mascotas en general estén informados desde el principio de las normas que regulan la tenencia de animales de compañía, lo que evitaría muchas confrontaciones.",A favor
 1937,[27125],Percepción de peligro,"¿Los perros son peligrosos porque lo dices tú? ¿y son peligrosos todos Siguiendo tu razonamiento como hay algún humano peligroso, somos peligrosos todos y deberíamos ir por la calle con camisa de fuerza, para prevenir.",A favor
@@ -701,10 +680,312 @@ proposal_id,comment_id,arguments name,argument_description,argument types
 2135,[40831],Impuestos y Tarifas,"Eso lo dirás tú, el impuesto de circulación, se paga entre otras cosas, por el desgaste que hacen los vehículos en el asfaltado de la ciudad, si yo no puedo acceder a ciertas calles, no desgasto su asfalto, lo hacen sus propios residentes, pero sin embargo, yo pago por el asfaltado de las mismas, y eso no debe de ser así.",En contra
 2135,[41456],Desigualdad entre Ciudadanos,"lo único que provocan es la desigualdad entre unos ciudadanos y otros, formando todos parte de la misma sociedad, y pagando los mismos impuestos.",En contra
 2135,[41706],Medidas Alternativas,"Conozco el problema de las calefacciones centrales de carbón/gasóleo/gas natural. Ten por supuesto que se luchará por cambiar ese modelo de calefacción, incentivando la instalación de sistemas más limpios.",A favor
-2135,[133228],Medidas Alternativas,"Por cierto, todos los problemas de contaminación de Madrid, siempre se achacan a los vehículos, no siendo así en parte, aun quedan en Madrid miles de calefacciones de carbón, que si no lo sabes contaminan como una decena de vehículos, las que no son de carbón, son de gasóleo, que es más de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.",En contra
+2135,[41469],Medidas Alternativas,"Por cierto, todos los problemas de contaminación de Madrid, siempre se achacan a los vehículos, no siendo así en parte, aun quedan en Madrid miles de calefacciones de carbón, que si no lo sabes contaminan como una decena de vehículos, las que no son de carbón, son de gasóleo, que es más de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.",En contra
 2135,[41713],Eficiencia Energética,"La ciudad tiene que ir apostando por energías renovables, y por un modelo de movilidad más sostenible.",A favor
 2135,[41470],Eficiencia Energética,"Por cierto, el transporte público como el metro y la renfe, se mueven gracias a la electricidad, producida como te he explicado antes, en su mitad de manera contaminante.",En contra
 2135,[40403],Equidad en el Acceso,"Puede entrar en esos barrio, siempre que sea residente o pida el oportuno permiso tiene que justificarlo El impuesto que paga no es de circulación, sino de posesión. Por tener un coche, debe pagar los impuestos que conlleva su posesión.",En contra
 2135,[41713],Impacto Económico,"Menos mal que hace calor, porque sino estaríamos muchísimo peor. Hay que ir poco a poco contra el problema.",A favor
 2135,[41476],Impacto Económico,"Por cerrar 3 ó 4 barrios, Madrid va a continuar contaminado. Continua. Continuación ya tengo el depósito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3€ y 4€ extras para ir a trabajar, ya me los he gastado en combustible. Parece que somos europeos para lo que nos conviene, para todo lo demás, somos españoles. Que ruina de país!",En contra
 2135,[41701],Impacto Social,"Solo con eso, se demuestra que las zonas APR mejorar la sostenibilidad de la zona. Lo de la contaminación, se nota sin duda.",A favor
+2412,[58533],Accesibilidad,Es muy necesario poner ascensores y/o escaleras mecánicas por la cantidad de turismo que hay sobretodo en la zona centro.,A favor
+2412,[58533],Accesibilidad,"Damos muy mala imagen a turistas y estudiantes extranjeros que llegan a la ciudad con sus maletas, intentando subir y bajar con ellas por las escaleras.",A favor
+2412,[58536],Accesibilidad,La realidad con el turismo la veo yo todos los días en la parada de metro Gran Vía. Me da vergüenza ajena ver diariamente cómo cientos de personas van acarreando como pueden sus maletas para llegar a sus hoteles.,A favor
+2412,[30710],Eficiencia del transporte público,"Si no hay un buen transporte público, Madrid seguirá siendo un caos circulatorio. Por eso promocionan el transporte público pero si no cubre las necesidades que cada tramo requiere, no servirá de nada.",A favor
+2412,[30002],Eficiencia del transporte público,"Creo que todo es susceptible de mejora, claramente, pero que disponemos de uno de los mejores servicios públicos de enlace con el aeropuerto, de todo el mundo.",En contra
+2412,[34607],Coordinación de propuestas,También cabe que haya un moderador aquí que se dedicase a unificar propuestas similares que abarcasen todas las opciones planteadas.,A favor
+2412,[35015],Coordinación de propuestas,"He entrado en los cuatro enlaces, he comentado que tengo una propuesta similar para intentar unificarlas.",A favor
+2412,[29256],Responsabilidad institucional,"El 90% de los usuarios de Metro viven en Madrid capital, algo tendrá que decir nuestro Ayuntamiento. A eso me refiero, a que presione pues, si puede acudir a las inauguraciones a bombo y platillo, ¿cómo no va a poder presionar si el 90% de los usuarios residen en la ciudad de Madrid?",A favor
+2412,[28930],Responsabilidad institucional,"El ayuntamiento podrá presionar pero no tiene competencias. El Metro es de la Comunidad de Madrid. La inauguración de la l8 la hicieron conjuntamente Aguire y Gallardón. Si lo es para inaugurar, que lo sea para arreglar problemas o exigir a la Comunidad dichas soluciones.",En contra
+2412,[29473],Costo y comodidad del transporte,"Metro 3€ con las incidencias indicadas en mi comentario. Bus: deja en el centro y luego hay que ir al metro. Vaya solución. Si no hacen un transporte público adecuado para las distintas circunstancias, de nada sirve recomendarlo.",A favor
+2412,[29282],Costo y comodidad del transporte,Taxi: 50€ ¿Comodidad? para eso utilizo el vehículo privado. Si quieren comodidad en el transporte al aeropuerto el metro no es el medio más adecuado. Existen otros mucho más cómodos.,En contra
+2445,[29249],Seguridad de los peatones,"Yo misma vivo en una de esas zonas peatonales donde, por cierto hay también un parque infantil, y veo a diario como los motoristas van por la acera a unas velocidades inapropiadas.",A favor
+2445,[29249],Seguridad de los peatones,"No dudo que usted sea un motorista concienciado y civilizado, que por otro lado debería ser la regla y no la excepción y créame, es usted una excepción.",A favor
+2445,[28776],Seguridad de los peatones,"Por favor, acérquese a la calle Barquillo esquina Augusto Figueroa, donde los invidentes se topan con motos en la acera sin contar con ello ni tener por qué.",A favor
+2445,[29512],Seguridad de los peatones,"No es necesario atropellar a un niño para poner esto de manifiesto. Las aceras son para los viandantes, así como a mí no se me ocurre ir por la calzada, aunque lo haga con todo el cuidado.",En contra
+2445,[28601],Seguridad de los peatones,"En cuanto a los riesgos para el peatón, las motos no maniobran marcha atrás usando el motor, la visibilidad siempre es total, y a baja velocidad 4 km/h o menos, paso de peatón, que es como hay que ir o en parado, el único riesgo objetivo es la caída lateral de la motocicleta más probable en motos muy pesadas y altas con el piso deslizante y calzado inadecuado siendo totalmente improbable que dicha caída pueda afectar a un peatón.",En contra
+2445,[29406],Aparcamiento y espacio urbano,La solución pasa por plazas específicas para motos nadie ve sentido en aparcar en la acera si hay una plaza para motoristas relativamente cercana.,A favor
+2445,[29406],Aparcamiento y espacio urbano,"Y si además estuviese vigiladas por vídeo-cámara, y con pilotes donde anclar nuestros candados, serían hasta un muy buen reclamo para cualquier motorista.",A favor
+2445,[29446],Aparcamiento y espacio urbano,"Creo que una iniciativa como esta es buena para peatones y para motoristas. Y se trata de eso, de que nos beneficiemos todos.",A favor
+2445,[29406],Aparcamiento y espacio urbano,"La cuestión es ¿cuántas plazas habría que reservar para que la solución fuese eficiente? Queda claro que la demanda sería grande, y que esto solo puede hacerse a costa de mermar aún más el número de plazas para automóviles, hoy ya realmente escaso.",En contra
+2445,[28601],Aparcamiento y espacio urbano,"Lo de aparcamientos en la calzada está bien, pero supone reducir aún más el número de plazas para los automóviles, ya de por sí muy escasas.",En contra
+2445,[29412],Respeto y concienciación,"Otra alternativa es mejorar la que hoy tenemos, seguir aparcado en aceras cuando esto sea apropiado, pero concienciando a ciertos motoristas de que esto debe hacerse desde el máximo respeto al peatón.",A favor
+2445,[29414],Respeto y concienciación,"Por otro lado, justo al transporte público y las bicicletas, las motos suponen una de las pocas alternativas al colapso circulatorio creciente en las ciudades. Y en buena parte, es alternativa por la facilidad con la que resulta aparcar.",A favor
+2445,[28595],Respeto y concienciación,"Entiendo que tanto usted como muchos motoristas lo hagan, pero le aseguro que no es el 999 No tengo ningún problema con los motoristas, mi propuesta es totalmente objetiva puesto que lo he podido ver una y mil veces por la calle.",En contra
+2445,[28595],Respeto y concienciación,Creo que si ningúna moto tuviera la posibilidad de pisar las aceras se acabarían bastantes problemas asociados.,En contra
+2445,[31956],Legalidad y normativa,"La circulación de cualquier vehículo motos incluidas por las aceras está prohibida. Las motos en las aceras solo pueden arrastrarse, como quien arrastra una bicicleta, con el motor apagado.",A favor
+2445,[28590],Legalidad y normativa,Creo que la propuesta no es objetiva. El artículo 62 de la ordenanza de movilidad de Madrid indica cuál es nuestra normativa.,A favor
+2445,[28590],Legalidad y normativa,"No obstante, le comento como el 999 de los motociclistas hacemos al respecto. Cuando me acerco a mi destino me detengo medio minuto o más para analizar cuál es el mejor lugar para estacionar, evitando hacerlo en aceras estrechas o lugares muy transitados sin zonas muertas de tránsito de peatones aunque cumpla con la normativa.",A favor
+2445,[33832],Legalidad y normativa,"Ésa es la teoría, pero en muchos casos no se cumple, de ahí la propuesta, aunque yo la llevo a la prohibición total.",En contra
+2445,[28500],Legalidad y normativa,"No solo de motos, también de bicicletas que son mucho más numerosas.",En contra
+2445,[28776],Legalidad y normativa,"Gracias por su respuesta. Le entiendo, como motorista que es, pero insisto, puedo darle muchos ejemplos de casos en los que no se respetan las normas y menos se multan.",En contra
+2445,[29623],Convivencia y espacio compartido,"Debemos ser comprensivos, en la ciudad convivimos todos y debemos organizarlos para compartirla y disfrutarla todos lo mejor posible.",A favor
+2445,[29984],Convivencia y espacio compartido,Yo me quedo con que la calzada es para los vehículos a motor y las aceras para los peatones y por eso esta iniciativa me parece estupenda.,A favor
+2445,[28595],Convivencia y espacio compartido,Creo que si ninguna moto tuviera la posibilidad de pisar las aceras se acabarían bastantes problemas asociados.,A favor
+2445,[28601],Convivencia y espacio compartido,"No obstante la normativa es clara, y cualquier comportamiento vandálico puede ser fácilmente denunciado no digo ya si saliera lesionado un peatón.",En contra
+2445,[28603],Convivencia y espacio compartido,Ah por cierto! aunque no se cite. El propio código de circulación nos insta a encadenar nuestras motos a mobiliario urbano como farolas o señales para evitar ser robadas allí donde la normativa lo permita. En el caso de Madrid no se permite.,En contra
+2513,[29129],Convivencia en espacios compartidos,"En ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague, se ven calles peatonales y plazas donde pasan bicicletas a ritmo de peatón y los peatones no se alteran.",A favor
+2513,[29131],Convivencia en espacios compartidos,"Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras.",En contra
+2513,[74914],Seguridad y accidentes,"Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.",A favor
+2513,[28911],Seguridad y accidentes,"Tienes toda la razón, cada vez hay más bicicletas que se saltan todo tipo de señales, van en dirección contraria, saltan los semáforos provocando sobresaltos en los transeúntes.",En contra
+2513,[28970],Infraestructura vial,"Quizás, y sólo quizás, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Solución carriles bicicleta de verdad y no de paseo.",A favor
+2513,[28928],Infraestructura vial,Yo creo que la mayoría de gente que va por las aceras en bicicleta es por miedo a los coches.,En contra
+2513,[29064],Educación vial,"Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educación vial.",A favor
+2513,[29939],Identificación y sanciones,"Muy buena propuesta. Ya está bien de que una bicicleta, que es un vehículo como otros, cometan infracciones sin posibilidad de ser identificados.",A favor
+2513,[29126],Contaminación y salud,Es curioso que molesten más las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos contaminante que los coches.,A favor
+2513,[28995],Tolerancia y convivencia,Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas.,A favor
+2513,[29141],Costo de matriculación,"Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculación no será gratis. Como ventaja veo más interesante que en caso de robo se podría identificar más fácilmente.",A favor
+2513,[28995],Percepción social de la bicicleta,"Pues yo creo que hay un gran interés por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tráfico rodado hace que algunos se decidan por la acera.",A favor
+2513,[29126],Percepción social de la bicicleta,"De ahí la intolerancia. El que va en coche piensa que la bicicleta va muy despacio, el peatón piensa que va muy deprisa, el que va en bicicleta piensa que el del coche es impaciente y contamina.",En contra
+2513,[65482],Impacto ambiental,"En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminación.",A favor
+2524,[35505],Discriminación y Exclusión,Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo término sólo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.,A Favor
+2524,"[29595, 29598]",Discriminación y Exclusión,"las mujeres sufren una discriminación intolerable en nuestra sociedad. Y si son mayores de 50 años, la cuestión se acentúa terriblemente.",A Favor
+2524,[35505],Discriminación y Exclusión,Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria.,En Contra
+2524,[56320],Apoyo y Necesidad,Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan aún muchos valores escondidos por desarrollar.,A Favor
+2524,[29589],Apoyo y Necesidad,"Es un hecho que las mujeres son más pobres que los hombres, y esto afecta de forma directa al colectivo infantil.",A Favor
+2524,[47081],Viabilidad y Ejecución,Este proyecto prosperará si trabajamos en él y si hay implicación y compromiso efectivo.,A Favor
+2524,[31986],Integración y Participación,Me gustaría sumarme al proyecto y a lo que haya que hacer para conseguirlo.,A Favor
+2524,[32240],Integración y Participación,"Gracias por escribir este comentario. Cuento contigo y espero que participes en la próxima reunión, presencial o virtualmente.",A Favor
+2524,[29543],Discriminación por Género,"La apoyaría si no fuera discriminatoria y excluyente hacia la mitad de la población. Quizás te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza ¿te parecería progresista?",En Contra
+2538,[42128],Efectividad de la tasa,"Estoy totalmente de acuerdo con esta propuesta, ya que estos animales generan una serie de gastos a la comunidad es justo que paguemos una tasa.",A favor
+2538,"[79415, 79416, 79417]",Efectividad de la tasa,"una tasa podría tener el efecto contrario al buscado, porque el que la pague dirá ah pues ahora paso de recoger la defecación.",En contra
+2538,[91955],Efectividad de la tasa,"No es justo que todos los propietarios de perros paguen una tasa, ya que hay mucha gente que sí recoge los excrementos e incluso amonesta a quienes no lo hacen.",En contra
+2538,[91133],Impacto económico,El que tiene perro tiene para pagar una tasa. A mi me parece bien.,A favor
+2538,"[79415, 79416, 79417]",Impacto económico,"una tasa sería a cara de recaudar; b regresiva pagan todos igual, también gente con poca renta a la que a lo mejor el perro le hace necesaria compañía",En contra
+2538,[40664],Impacto económico,"Los dueños de perros pagamos una tasa cuando ponemos el chip a nuestros perros, y todos los años pagamos una tasa cuando ponemos a nuestros perros las vacunas obligatorias.",En contra
+2538,"[79415, 79416, 79417]",Alternativas a la tasa,"La mejor propuesta creo es la del ADN que anda por ahí, y un sistema de multas eficaz.",A favor
+2538,[89379],Alternativas a la tasa,"Me parece una buena idea lo de pagar una tasa. Y también el que quierra perro que acarre con todos sus gastos, incluidas las bolsitas para recoger las heces, que pagamos todos.",En contra
+2538,[91487],Impacto social,Me parece que la intolerancia con lo que respecta a los que tenemos un perro da que pensar.,A favor
+2538,[91577],Impacto social,Me alegro que comparta la propuesta! Enhorabuena por ser buen dueño de perro y su civismo! Ojalá hubiera muchas más personas como usted.,En contra
+2551,[30312],Celebraciones en el centro de la ciudad,Yo voto para que no se célebre nunca más ninguna victoria deportiva dentro de la capital...,A favor
+2551,[29534],Celebraciones en el centro de la ciudad,A trabajar como Dios manda y a circular todos correctamente...,A favor
+2551,[30208],Celebraciones en el centro de la ciudad,Si pero eso solo lo sabe el vecino que lo sufre...,A favor
+2551,[30255],Celebraciones en el centro de la ciudad,Por supuesto que trasladaría toda aquella celebración que cause problemas y molestias a los que lo sufren...,A favor
+2551,[30518],Celebraciones en el centro de la ciudad,Usted lanza esta iniciativa porque no quiere que los homosexuales... festejen en el centro de la ciudad...,En contra
+2551,[30283],Celebraciones en el centro de la ciudad,"Por cierto, la fiesta del orgullo gay fomenta la tolerancia...",En contra
+2551,[30277],Celebraciones en el centro de la ciudad,Yo quiero que todas las celebraciones se queden donde están y que se regulen debidamente...,En contra
+2551,[30277],Celebraciones en el centro de la ciudad,Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas...,En contra
+2551,[29397],Tolerancia y respeto en celebraciones,"Estoy muy de acuerdo, la última fue insufrible para los vecinos de Centro, por lo largo, la suciedad y el ruido...",A favor
+2551,[30123],Tolerancia y respeto en celebraciones,Tachar de homofobia como argumento es un sin argumento...,A favor
+2551,[30208],Tolerancia y respeto en celebraciones,"Ruidos, suciedades, cortes de tráfico etc. Y no hablamos de un par de horas, son días y horas interminables para los que lo sufrimos...",A favor
+2551,[30518],Tolerancia y respeto en celebraciones,Que se generan en cualquier fiesta y para lo que podría haber lanzado una propuesta para una mayor regulación...,En contra
+2551,[31042],Tolerancia y respeto en celebraciones,"A demás que la tolerancia es cosa de ambas partes, nosotros tenemos que aguantar no entiendo la fiesta porque tampoco hay la fiesta del orgullo heterosexual...",En contra
+2551,[30277],Tolerancia y respeto en celebraciones,Me temo que como intolerante se acaba de retratar usted mismo con sus comentarios...,En contra
+2551,[88145],Regulación de Fiestas Públicas,Invitaría a los responsables municipales en este área a que vengan a oler por las calles aledañas a la Plaza de España...,A favor
+2551,[88145],Regulación de Fiestas Públicas,"Nadie en mi barrio quiere esas fiestas, pregunten a comerciantes, también de bares y restaurantes...",A favor
+2551,[88145],Regulación de Fiestas Públicas,Es la imposición de un colectivo. Espero que se pueda actuar por parte del ayuntamiento para evitar las múltiples incomodidades que tendremos que aguantar los vecinos.,A favor
+2551,[30277],Regulación de Fiestas Públicas,Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas y durante aproximadamente una semana los vecinos tienen que aguantar los inconvenientes que conlleva...,En contra
+2551,[30277],Regulación de Fiestas Públicas,Yo quiero que todas las celebraciones se queden donde están y que se regulen debidamente de forma que todos los madrileños tengamos opción a participar en aquellas que más se adecuen a nuestros gustos y preferencias...,En contra
+2576,[39087],Limpieza Pública,"No se trata de obligarles a limpiar por supuesto, pero sí a concienciar a todos los que ensucian de forma innecesaria su entorno lo que no deben hacer.",A favor
+2576,[58608],Limpieza Pública,"Aplaudo tu iniciativa, y creo que podría tener una repercusión social importante.",A favor
+2576,[29702],Limpieza Pública,Los que hacen botellones deberían recoger los desperdicios y además no mear en vía pública.,A favor
+2576,[29614],Limpieza Pública,No hay que generalizar con todo el colectivo universitario.,En contra
+2576,[29576],Limpieza Pública,La alcaldesa no tiene legitimidad para hacerles limpiar las calles.,En contra
+2576,[29576],Limpieza Pública,"Es injusto, pues la mayoría no ha podido votar la composición del Ayuntamiento de Madrid.",En contra
+2576,[29614],Empleo Público,Los empleos públicos se deben ofrecer a todos los ciudadanos.,A favor
+2576,[31661],Empleo Público,"Si saliera una oferta de empleo público para limpiar un colegio, la solicitarías en la zona que más cerca te pille.",A favor
+2576,[29614],Empleo Público,"No se deberían ofrecer empleos públicos en función de en qué colectivo te encuentres, sino a todos los ciudadanos por igual.",En contra
+2576,[29614],Empleo Público,Muéstrame una encuesta que diga que sólo los universitarios ensucian la calle.,En contra
+2576,[29614],Educación Ambiental,Educación! Concienciar a todos los que ensucian de forma innecesaria su entorno.,A favor
+2576,[31661],Educación Ambiental,"En el colegio de mi hijo hacen batallón de reciclaje, conciencian al resto informando y vigilando que cumplen con las normas de limpieza.",A favor
+2576,[29604],Educación Ambiental,"No hay que enseñar sólo a los jóvenes estudiantes, sino a todos, para evitar convertir a nuestros hijos en unos guarros.",En contra
+2576,[29614],Educación Ambiental,"No solo la gente que hace botellón ensucia, sino también los propios alumnos durante el día.",En contra
+2944,[32119],Utilización de recursos,el encontrar en que pueden ayudar a esos países cos sus muy enormes recursos y que se visibiliza una vez al año en el antiguo día de la hispanidad mediante actos de entrega de material o de reunión con las autoridades de estos países en relación a las actividades de colaboración no militar.,A favor
+2944,[32138],Utilización de recursos,"La cuestión es que ese dinero proviene del Ministerio de Defensa. Si ese ministerio no invirtiese ese dinero en el desfile, se invertiría en otra cosa relacionada con defensa, no en los parados.",En contra
+2944,[32230],Impacto económico,"A mí opinión 800 mil euros daría de comer a muchas familias y a crear algún puesto de trabajo ya sea funcionarios o privados, se que el ejército cumple su función pero ese dineral es de todos y debería usarse para todos por ejemplo.",A favor
+2944,[32095],Impacto económico,"No estoy de acuerdo con el desfile militar, pero tampoco estoy de acuerdo con lo que dices. Si por gasto fuera, el actual desfile cuesta menos de la mitad que otros años, y no llega ni a la mitad de los que se gastan otros países en lo mismo.",En contra
+2944,[32158],Relevancia cultural,"Bueno, pues es que se me había pasado poner lo más importante: en el día de hermanamiento entre España y los países de LatinoAmérica el ejército no tiene nada que ver ni nada que hacer.",A favor
+2944,[33111],Relevancia cultural,"No lo sé, pero en el día nacional de España, que coincide con la fiesta de la hispanidad y del Pilar el desfile estaba petado de madrileños. Yo no fui pero un acto a nivel español, que se retransmite por cadenas principales y de repercusión internacional excelente para el turismo de Madrid.",En contra
+3044,[51849],Red de Vigilancia,En su día el gobierno italiano encargó varias consultorías... que buscaban algo más.,A favor
+3044,[49047],Red de Vigilancia,La decisión de desplegar la red nacional de monitorización de EMF se tomó para contrarrestar el ampliamente extendido temor... de peligros sobre la salud debidos a la exposición a la EMF.,A favor
+3044,[68708],Red de Vigilancia,Según este video son torres de destrucción masiva... Mensaje de Anonymous en relación con el WiFi.,A favor
+3044,[33163],Red de Vigilancia,"El progreso conlleva un declive en la calidad de vida... es un motivo más para redoblar la lucha, contra la comida basura y las radiaciones peligrosas.",A favor
+3044,[48177],Red de Vigilancia,Lo de Italia es de uso militar y policial... lo que detectan son las interferencias en las señales de telefonía producidas por aeronaves volando a baja altitud.,A favor
+3044,[32937],Red de Vigilancia,Esto es una patraña que nos quieren hacer creer algunos charlatanes.,En contra
+3044,[32961],Red de Vigilancia,"Hay miles de señales de radiofrecuencia, que atraviesan nuestros cuerpos diariamente, tanto naturales como provocadas por el hombre... El progreso trae consigo estas cosas, y es inevitable.",En contra
+3044,[35611],Riesgos para la salud,"¿Sabes si alguna autoridad se ha molestado en hacer un mapa epidemiológico, que vincule los casos de cáncer y de leucemia con la situación geográfica del individuo?",A favor
+3044,[50992],Riesgos para la salud,"Hay una diferencia. Si usted conecta un aparato a la red y se estropea por sobrevoltaje... la radiación nos penetra y a muchos, perdón por la expresión, les da por culo a tod@s por igual.",A favor
+3044,[32937],Riesgos para la salud,"La radiofrecuencia no es contaminación, al menos la que provocan las instalaciones normales en las ciudades.",En contra
+3044,[33565],Riesgos para la salud,"No hay ninguna forma de evitar las radiofrecuencias, es que hasta los microondas las producen.",En contra
+3044,[32962],Impacto social y económico,"Me parece malgastar el dinero de todos los contribuyentes... las ondas van por el aire y te atraviesan, y es lo que hay.",En contra
+3044,[33041],Impacto social y económico,"Si hombre, si lo que tu digas. Vamos que es inevitable y nos tenemos que morir de cáncer y leucemia para que otros se forren, en nombre del progreso.",En contra
+3044,[32826],Impacto social y económico,Hay que poner también un medidor de gases de efecto invernadero en el culo de las vacas... Esa tasa de la que hablas acabaremos pagándola los de siempre.,En contra
+3044,[50990],Viabilidad y necesidad de regulación,"Esto no es un informe hecho por una consultora, de parecerse a algo se parece más a las cámaras de vigilancia para hacer cumplir con la normativa de velocidad máxima.",A favor
+3078,[99079],Viabilidad de Transporte Público,"salgan rutas con inicios y destinos coincidiendo con intercambiadores de autobuses príncipe pío, legazpi, conde de casal, Av América, Moncloa y vayan directos a destinos específicos de polígonos, grandes parques empresariales.",A favor
+3078,[33083],Viabilidad de Transporte Público,Meter autobuses en la M30 y la M40 y donde realizarían las paradas? En la M30 apenas hay espacio para hacer apeaderos para los autobuses y menos en la zona de los túneles...,En contra
+3078,[99079],Impacto en el Tráfico,Veo necesario meter autobuses en la M-30 y M-40 obviamente sin paradas en medio.,A favor
+3078,[33029],Impacto en el Tráfico,Yo creo que meter autobuses en la M-30 y M-40 solo agravaría el problema...,En contra
+3078,[33066],Impacto en el Tráfico,"Pero todo esto no quita que si metes un vehículo torpe, como es el autobús, entorpezca aún más la ya colapsada circulación...",En contra
+3078,[33054],Percepción Social y Económica,"No he dicho que usted sea rico, he dicho que como vive en el norte no entiende el problema porque va al contrario del atasco...",En contra
+3078,[99079],Alternativas de Transporte,En nueva york hay lineas de metro expresa que no paran en todas las paradas y tienen otras vías. Por que no se puede hacer en autobús? No tendría que hacer paradas...,A favor
+3165,[38947],Ejecución,"sería difícil de ejecutar, pero creo que no estaría mal que se le diese una vuelta a lo que planteas",A favor
+3165,[33820],Ejecución,La idea se podría llevar a cabo por fases,A favor
+3165,[33814],Ejecución,tendrías que poner camiones especiales que recojan las basuras en los portales y las lleven al metro,En contra
+3165,[33814],Ejecución,Tendrías que hacer accesos especiales verticales en el metro para los contenedores de basura,En contra
+3165,[34149],Ejecución,necesita un estudio detallado de estación por estación,En contra
+3165,[33858],Ejecución,"Sería mejor que al entrar en el metro en sus infraestructuras los contenedores de basura fueran sellados antes, herméticos, por higiene y seguridad para las personas",En contra
+3165,[45130],Olores e higiene,transportarla a través de túneles - sellados o como fuera para evitar olores,A favor
+3165,[34603],Olores e higiene,los olores no permanecerían de igual manera que ni en los túneles ni en las estaciones permanece el olor de los madrileños para el día siguiente,A favor
+3165,[34567],Olores e higiene,"Los contenedores tendrían que estar sellados antes de entrar en el metro, y desinfectados por fuera tanto en lo que respecta a higiene sanitaria como a olores",A favor
+3165,[33814],Olores e higiene,el problema relacionada con los olores e higiene ya que el metro es un servicio para personas usado por millones de personas,En contra
+3165,[34523],Olores e higiene,"si ya en verano hace un calor que no se aguanta, imagina compartiendo túneles con vagones que transportan basura",En contra
+3165,[34317],Olores e higiene,"Hasta cuando van vacíos los camiones de basura, huelen que atruenan",En contra
+3165,[34554],Olores e higiene,"Aunque no se compartan, el olor permanece segurísimo",En contra
+3165,[34548],Impacto en la operación del metro,La recogida y transporte de basuras se haría en las horas que la red de metro estuviese cerrada,A favor
+3165,[33820],Impacto en la operación del metro,podrían bajar los cubos por la noche y esperar a que pase el vagón habilitado para transportar los cubos de basura,A favor
+3165,[35303],Impacto en la operación del metro,"Los operarios de limpieza no se quedarían sin trabajo, se les recolocaría en tareas de limpieza",A favor
+3165,[34317],Impacto en la operación del metro,"el metro más cercano dista a más de 500 metros, y seguramente la gente se cabrearía mucho si tiene que recorrer esa distancia para ir a tirar la basura",En contra
+3165,[66566],Impacto en la operación del metro,si no se ha hecho ya es por un problema de seguridad ciudadana,En contra
+3165,[33895],Impacto en la operación del metro,necesitaríamos muchos traslados en furgonetas para llevar la basura a las estaciones de metro,En contra
+3165,[33858],Impacto en la operación del metro,los contenedores de basura están rodeados de plásticos y de botellas y otras basuras que la gente no atina a poner dentro porque no quiere o porque no cabe,En contra
+3165,[66566],Viabilidad económica,"Mi única preocupación es el coste de adaptación. Mejor invertir en reducir residuos, vía sanción, a los vecinos incívicos",A favor
+3165,[67834],Viabilidad económica,no veo porque el coste sería más caro que tu solución de poner puntos limpios,A favor
+3165,[34417],Viabilidad económica,Si bien no todos los ciudadanos tienen una boca de metro cerca si muchos. Considerala una propuesta complementaria al sistema actual,A favor
+3165,[67845],Viabilidad económica,"Creo que tu propuesta es extremadamente cara, y solo beneficia a las constructoras",En contra
+3165,[66566],Viabilidad económica,Los costes son más económicos los de recogida neumática que utilizar el metro,En contra
+3165,[35132],Viabilidad económica,la malloría de vecinos están bastante lejos de la boca de metro,En contra
+3165,[35303],Accesibilidad y conveniencia,"aunque fuese una minoría de gente la que va al metro todas las mañanas o vive cerca de una boca de metro, esa minoría estamos hablando de cientos de miles de personas",A favor
+3165,[34105],Accesibilidad y conveniencia,la mayoría de vecinos están bastante lejos de la boca de metro,En contra
+3165,[34417],Accesibilidad y conveniencia,las personas con movilidad reducida odian los actuales cubos imposibles de abrir las cúpulas recogida de cristal con la boca tan alta y los espacios que ocupan en la calle que nos cortan el paso,En contra
+3481,[95743],Impacto en Propietarios Particulares,"No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio.",A favor
+3481,[50200],Impacto en Propietarios Particulares,"Una persona con casa en propiedad hereda una casa, esta persona tiene hijos y quiere que esa casa sea para ellos, como no te puedes fiar de la gentuza de este país decides no alquilarla y dejarla vacia hasta que tengan edad de independizarse.",A favor
+3481,[35493],Impacto en Propietarios Particulares,"Considero la vivienda como una necesidad, esta propuesta implicaría a todos, gente hay muy buena como mala, esto se solucionaría creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar.",En contra
+3481,[35448],Impacto Económico,"Bajarías el precio, efectivamente, pero obligarías a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio.",A favor
+3481,[35493],Impacto Económico,"Bajaría sí el alquiler y la venta, pero de esta forma todo el mundo podría tener un techo.",En contra
+3481,[50200],Especulación Inmobiliaria,Especula el que alquila a precios abusivos.,A favor
+3481,[35448],Especulación Inmobiliaria,"El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones.",En contra
+3481,[95742],Inclusión de Entidades Financieras,"Impuesto para todos y todas particulares, entidades financieras, administraciones públicas.",A favor
+3481,[35448],Inclusión de Entidades Financieras,"Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no debería de estar obligado a alquilar su casa aunque tenga mucha pasta.",En contra
+3587,"[35862, 35863]",Seguridad en el carril autobús,"los autobuses tiene que frenar en seco, con el consiguiente peligro para los ocupantes cuando las motos se meten a saco delante de ellos",A favor
+3587,"[35862, 35863]",Seguridad en el carril autobús,"Si lo tuvieran prohibido, se evitaría esto",A favor
+3587,[35875],Seguridad en el carril autobús,Pero no me quejo porque el carril es del autobús y los demás tenemos que usarlo sin estorbar,En contra
+3587,[36864],Seguridad en el carril autobús,"nunca he hecho frenar a un autobús, más que nada por mi integridad",En contra
+3587,[35863],Flujo de tráfico,"las motos lo utilizan para adelantar, cambiando de carril cuando les interesa y más de una y dos veces los autobuses tiene que frenar en seco",A favor
+3587,[36864],Flujo de tráfico,las bicicletas tienen su carril,En contra
+3587,[36864],Flujo de tráfico,nunca he visto maniobras que hallan entorpecido el tráfico de los autobuses,En contra
+3587,[83420],Prioridad de transporte público,Cualquier servicio público debe tener prioridad sobre uno privado,A favor
+3587,[35864],Prioridad de transporte público,El carrilbus es un servicio público,A favor
+3587,[36864],Prioridad de transporte público,El único sentido que le veo a esta propuesta es la de evitar que el coche privado entorpezca a los autobuses,En contra
+3587,[83420],Contaminación y salud pública,una moto contamina tanto como un coche y cabe menos gente,A favor
+3587,[83420],Contaminación y salud pública,"No son problemas de espacio, sino de salud pública",A favor
+3587,[35864],Contaminación y salud pública,las bicicletas se imponen como una de las soluciones a problemas urbanos como la contaminación,En contra
+3587,[83418],Uso eficiente del espacio,en el espacio de un vehículo pueden llegar a caber 6 motos,A favor
+3587,[83420],Uso eficiente del espacio,que la moto ocupe menos lugar no tiene relación con al propuesta,En contra
+3587,[71244],Conveniencia para ciclistas,propondría que los carriles autobús sean válidos para bicicletas,A favor
+3587,[96882],Conveniencia para ciclistas,"Las bicicletas no pueden ir por el carril autobús, está prohibido",En contra
+3587,[35845],Conveniencia para ciclistas,"es frustrante que el autobús tenga que ir a 10 km por hora, por culpa de una bicicleta o varias que ocupan su carril",En contra
+3905,[37642],Ruido de Motos,"las motos, especialmente las más pequeñas, emiten un ruido muy molesto y, creo, fácilmente subsanable.",A favor
+3905,[37642],Ruido de Motos,a quien haga ruido innecesario que se le sancione.,A favor
+3905,[37642],Ruido de Motos,todos los ejemplos que pones en algún país europeo serían sancionables también.,A favor
+3905,[81777],Ruido de Motos,"El problema es que para algunos moteros, el ruido de su moto les parece música, pero solo a ellos.",En contra
+3905,[49086],Ruido de Motos,si a esa itv voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha técnica y el nivel de ruidos que es permitible por industria.,En contra
+3905,[40952],Regulación y Control,La regulación de los ruidos de escape no es igual para todos ya que según cada moto tienen un nivel de ruidos.,A favor
+3905,[49086],Regulación y Control,"se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad pueden darse, ya que afectarían otros factores.",A favor
+3905,[37236],Regulación y Control,No es necesaria iniciativa alguna para ello. Bastaría con hacer una campaña policial expresa dotando a los agentes de sonómetros homologados.,En contra
+3905,[37236],Regulación y Control,"esto ya se puede hacer. Si un vehículo circula emitiendo más decibelios de los permitidos, la policía podría multarle.",En contra
+3905,[37346],Impacto en la Salud y Bienestar,"Deberían prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas.",A favor
+3905,[37346],Impacto en la Salud y Bienestar,No se puede aguantar y da igual la hora para rugir en el semáforo que hay debajo de casa.,A favor
+3905,[37528],Impacto en la Salud y Bienestar,"Parece que la ciudad ha de ser un sitio mudo, aquí vivimos muchos y hay que transigir.",En contra
+3905,[37528],Impacto en la Salud y Bienestar,"Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de más de 20 cm de alto, que ladren flojito.",En contra
+3905,[49086],Desafíos de Medición,El principal problema de las mediciones con sonómetro se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad no pueden darse.,A favor
+3905,[49086],Desafíos de Medición,"las tablas de control se empezaron a hacer a partir de 1985, todos los vehículos anteriores no tienen límite por antigüedad.",A favor
+3905,[49086],Desafíos de Medición,si a esa ITV voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha técnica.,En contra
+3905,[40952],Desafíos de Medición,no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no existían estas medidas.,En contra
+4293,[37825],Conveniencia,Completamente de acuerdo Mónica. Tengo el mismo problema que tú y me encantaría poder ir en metro con mi perro porque es más barato y menos contaminante.,A favor
+4293,[37852],Conveniencia,"Yo no tengo perro, pero me parece bien siempre y cuando estuviese bien regulado: - Bozal y correa obligatorio. - Limitado a metro y cercanías.",A favor
+4293,[37825],Conveniencia,"También me planteé la opción de ir en bicicleta, pero a mi parecer Madrid aún no está preparado para eso.",A favor
+4293,[37863],Conveniencia,"No es poesía llevar la contraria, y me parece perfecto lo de llevar tu animal a todos los lados, pero donde empieza tu libertad puede acabar la mía.",En contra
+4293,[37863],Conveniencia,Por no hablar de las alergias que pueden producir a mucha gente y más en espacios cerrados.,En contra
+4293,[37863],Conveniencia,No me parece lógico que niños pequeños alergicos no puedan ir en autobús ni en metro porque se meten animales.,En contra
+4293,[37852],Seguridad,"Y creo que se podría estudiar que fuera en unas determinadas franjas horarias como con las bicicletas, para evitar horas punta por el bien de las personas y los animales.",A favor
+4293,[38496],Seguridad,Porque en el resto de Europa tienen otro concepto de vida.,A favor
+4293,[38530],Seguridad,"Ya hay varias propuestas acerca del tema, porque es algo que se lleva pidiendo mucho tiempo, con soluciones como un vagón por tren de metro apto para mascotas, o un autobús por cada 4 apto también.",A favor
+4293,[37863],Seguridad,"Hay muchas personas mayores y niños que tienen fobia a estar cerca de un animal por muy con bozal y atado que este, que está por ver que esto se cumpla.",En contra
+4293,[38496],Seguridad,"Que nos demos cuenta, no son niños, son animales que se les pueden cruzar los cables y se pueden pelear entre ellos como hacen en la calle si hay una muchos en un espacio reducido.",En contra
+4293,[38496],Seguridad,"No somos ni Alemania, ni Francia, ni Finlandia, somos España. Lo vivo a diario el poco respeto y empatia hacia los demás, no sólo en este tema, en muchos otros.",En contra
+4293,[38171],Civismo,Los perros no cagan en cualquier esquina y no tienen incontinencia ni se mean donde se les antoje. Lo hacen donde los educan sus dueños que lo hagan.,A favor
+4293,[38322],Civismo,"No esta adaptado usted por su cerrada mentalidad, yo tengo alergia a diversos tipos de colonias, deberían por ello prohibir usarlas en transporte público por ir yo?",A favor
+4293,[38322],Civismo,"El 95% de la gente recoge los excrementos de sus perros, educando desde cachorro al can se puede conseguir que solo haga sus necesidades donde debe.",A favor
+4293,[37863],Civismo,No me parece lógico que niños pequeños alérgicos no puedan ir en autobús ni en metro porque se meten animales.,En contra
+4293,[37863],Civismo,En este país no estamos adaptados socialmente para eso.,En contra
+4293,[38176],Civismo,Los que tiran colillas o cualquier tipo de basura correcto son guarros y a multarles. Sois miles los que tenéis perros y no todos son cívicos.,En contra
+4293,[38309],Salud Pública,Bueno tampoco serían tantas las mascotas. Creo que combinando esta propuesta con la de aumentar la frecuencia en el trasporte público se podría por ejemplo reservar un vagón en los trenes del metro y buscar opciones para el autobús.,A favor
+4293,[38309],Salud Pública,También habría que poner en marcha como en otros países avanzados lo de la tarjeta de ciudadano ejemplar para mascotas.,A favor
+4293,[38349],Salud Pública,No hay una solución a gusto de todos y tendrá que prevalecer un criterio de mayorías.,A favor
+4293,[38349],Salud Pública,"A mí me parecen adorables los perros, pero tengo la desgracia de tener una alergia severa al pelo de todos los animales menos caballo y hámster y en espacios cerrados lo llevo fatal.",En contra
+4293,[38073],Salud Pública,Antes de llevar a cabo esta propuesta se debe considerar el hecho de que muchas personas son alérgicas.,En contra
+4293,[38036],Salud Pública,"No sé cómo lo harán en esos otros países pero, como no pongan vagones específicos en el caso del tren o metro o compartimentos especiales separados del resto del pasaje en autobuses, ya me diréis cómo puede prevalecer el derecho de una persona a viajar con su mascota sobre el derecho de otra a no tener problemas de salud.",En contra
+4541,[39161],Necesidad de Cursos,"Es dar un primer paso, empezando por obediencia básica, como son los perros, hay mucho desconocimiento al respecto aunque creamos saber.",A favor
+4541,[40043],Necesidad de Cursos,Muchos estamos deseando que existan [cursos].,A favor
+4541,[39136],Necesidad de Cursos,Me parece que debería de ser un servicio del Ayuntamiento la educación básica canina ya que esta inversión redundaría en beneficio de toda la comunidad.,A favor
+4541,[130338],Necesidad de Cursos,"quien busque un curso de esas características será el que menos lo necesite, el resto seguirá igual.",En contra
+4541,[128701],Necesidad de Cursos,No me apetece mucho que el dinero de todos se vaya en cursos de educación para los propietarios de perros.,En contra
+4541,[39032],Accesibilidad de Cursos,"No todo el mundo dispone de coche para desplazarse hasta su localización, suelen estar lejos, es mi experiencia.",A favor
+4541,[41990],Accesibilidad de Cursos,Algún día los perretes estarán tan educados que estará permitido llevarles a todas partes y a nadie le parecerá raro.,A favor
+4541,[40122],Rol del Ayuntamiento,Sería de agradecer desde luego [que el Ayuntamiento facilite espacios que atiendan la demanda de los ciudadanos/as].,A favor
+4541,[128909],Rol del Ayuntamiento,"El dinero de todos subvenciona en parte los cursos, talleres, etc., que el Ayuntamiento organiza.",A favor
+4541,[40133],Competencia Profesional,"No lo veo como una competencia, yo me dedico al mundo deportivo canino y a perros de trabajo, solo digo lo evidente, la etología es muy compleja y muy difícil, hay que saber como leer al perro, mirar su postura.",A favor
+4541,[40156],Valor Formativo,"La etología veterinaria se estudia en la Universidad, el que quiere dedicarse profesionalmente es lo que tendría que hacer, no haría cursos por aquí y por allá.",A favor
+4541,[40156],Valor Formativo,Como ciudadana pido a la Administración un cauce de aprendizaje para los propietarios de perros.,A favor
+4541,[40877],Valor Formativo,"Los cursos ayudan... Ciertamente la Etología Veterinaria es una Ciencia experimental, un nivel de conocimientos superiores.",A favor
+4541,[93161],Valor Formativo,"Sería mejor que estos cursos fueran para los que no tengan perro y quieran tenerlo, una especie de permiso para poder tenerlos.",En contra
+4541,"[46390, 46996, 46997, 46998, 46999]",Inclusión y Acceso,Hay una propuesta muy buena para acabar con las cacas de los perros en la calle. Por favor votadla y dadle difusión.,A favor
+4541,[41947],Inclusión y Acceso,¡Genial idea! a muchos dueños de perros les encantaría recibir unas clases para aprender a tratar a su mascota y no pueden contratarlas por las elevadas tarifas de la mayoría de los especialistas.,A favor
+6931,[50174],Identificación de Fumadores,Es un sistema muy caro. No le veo viabilidad económica en este momento.,En Contra
+6931,[50315],Identificación de Fumadores,"Piense que habría que realizar un test de adn para tener una base de datos de contraste... El sistema es caro, ya que primero requiere la base de datos de contraste algo inexistente en la actualidad y luego cada test requiere una suma elevada. A día de hoy, lo veo un sistema poco viable.",En Contra
+6931,[50538],Identificación de Fumadores,"Las huellas dactilares que se sacan de los ficheros del Ministerio de Interior por ejemplo, las que tienen a través de los registros dactilares del DNI no pueden ser usadas para identificar a posibles delincuentes. Se estaría pisoteando el derecho de presunción de inocencia hay varios artículos que tratan sobre este tema, y le recomiendo que se los lea tranquilamente Por ello, no es constitucionalmente viable el sistema que me ha indicado anteriormente.",En Contra
+6931,[49982],Identificación de Fumadores,Sabes que los fumadores que tiran colillas al suelo pueden ser identificados por su huella dactilar y luego confirmado con prueba de ADN.,A Favor
+6931,[50534],Identificación de Fumadores,"Amos por pasos: Tenemos la colilla y se puede intentar sacar huella dactilar. De obenerse una huella válida, se compara con ficheros existentes, por ejemplo del DNI De aquí ya tenemos al individuo y sus señas. Se le cita y se le saca ADN Se compara y. Si coincide: multa y cobro de gastos. Como verás, cosas más difíciles venimos haciendo los humanos.",A Favor
+6931,[52581],Educación Cívica,La única solución pasa por la educación cívica para que no se tiren colillas al suelo.,A Favor
+6931,[53132],Educación Cívica,"Creo que cada ciudadano puede ayudar a construir una ciudad mucho mejor, y podemos actuar para corregir acciones incívicas.",A Favor
+6931,[50766],Educación Cívica,"Puedo sentarme en el suelo por por razón, tocar alguna colilla que yo no haya tirado en el suelo, y ya la hemos liado. La administración presumiría que yo fuí la persona que tiró la colilla al suelo pese a no ser fumador Igualmente, hay gente que en invierno fuma con guantes, y no quedarían huellas en el cigarro. Sinceramente, creo que sería mejor solución el fomento de la educación cívica.",A Favor
+6931,[52098],Educación Cívica,Estoy totalmente de acuerdo con ABG La única solución pasa por la educación cívica.,A Favor
+6931,[52581],Educación Cívica,"¿Crees que el que la tira no lo sabe? Así pues, dinos cómo piensas inculcar educación cívica y en qué consiste dicha educación.",En Contra
+6931,[53132],Educación Cívica,"El cerdo que tira las colillas al suelo, sabe que tenemos un sistema de limpieza pública que se ocupará de recoger la mierda que no se molestará en tirar a la basura.",En Contra
+6931,[53186],Educación Cívica,"Cuando se tira una colilla al suelo lo hacemos por costumbre y si pensar lo que hacemos, ya que tenemos la mente ocupada en otras cosas. Y sabemos que está feo, pero prevalece la costumbre. Tampoco estamos acostumbrados a que nos afeen la conducta, así que reaccionamos agresivamente.",En Contra
+6931,[50308],Sanciones Económicas,"¿Sistema caro? Mejor, que lo va a pagar el que ha tirado la colilla. Lo que duele, se aprende.",A Favor
+6931,[53186],Sanciones Económicas,"Y aquí puede influir el ayuntamiento ampliando la actual campaña propagandística emprendida de mantener el suelo limpio con el tema de las colillas. Pero en este país no estamos acostumbrados a que nos pidan colaboración pero sí a que haya prohibiciones de todo tipo, así que no hacemos caso, y para esto y para ciertas personas olvidadizas hay que animarlas a animarse al grupo de los buenos ciudadanos cumplidores con un poco de tocarles el bolsillo, que es efectivo.",A Favor
+6931,[50680],Sanciones Económicas,"Vale, pero seguimos igual o intentamos hacer cambios Además ¿con una colilla con huellas, donde está la presunción de inocencia o nos buscamos soluciones o más vale olvidarnos y seguir siendo una ciudad sucia, pueblerina y atrasada ci cívicamente. Eleçige.",En Contra
+6931,[55654],Sanciones Económicas,"Además podríamos exigir la entrega de dos fotocopias compulsadas del DNI cada vez que se compre una cajetilla de tabaco, llamar al 112 cada vez que alguien te pida fuego, que los policías vayan de paisano diciendo: perdona ¿tienes un piti? y que el Centro Nacional de Inteligencia implante microcámaras en los ojos de las palomas para que esos malditos fumadores no se escapen! Democracia Real ya.",En Contra
+7382,[52953],Practicidad,"Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro.",A favor
+7382,[53204],Practicidad,"Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",A favor
+7382,[53459],Practicidad,"Disculpe pero me parece una propuesta sin sentido práctico, olvidar los nombres para memorizar números, y que le quita toda la belleza a la dirección.",En contra
+7382,[53525],Practicidad,Los taxistas tienen examen para sacar su licencia y la práctica por el uso diario del callejero.,En contra
+7382,[53472],Estética y Tradición,"Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando.",A favor
+7382,[53459],Estética y Tradición,En mi opinión es una horterada eso de la 5ª avenida con la 43.,En contra
+7382,[53526],Estética y Tradición,"Con respecto al dinero empleado en el cambio de nombre sería el mismo, ya que no se cobra por carácter que se cambia sino por el cambio en sí.",En contra
+7382,[53470],Efectividad,"Informáticamente, ¿no es más sencillo de ordenar carpetas a base de numerales que hacerlo peleándonos con las 28 letras alfabéticas?",A favor
+7382,[53470],Efectividad,Cuando tome un taxi y le indique la dirección ¿no preferirá el conductor teclear 4 números en su navegador que andar tecleando textos?,A favor
+7382,[53526],Efectividad,"Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone.",En contra
+7382,[53525],Efectividad,"No es un problema grave la ordenación ya que hoy en día se realiza de manera automática, el propio sistema te dice el lugar donde debe ocuparse.",En contra
+7382,"[53472, 53555]",Costo,"Como guinda de regalo, al ser numerales nos evitaríamos gastos si nos cambian el nombre de la calle.",A favor
+7382,[53561],Costo,"Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos, ¿diez minutos?",A favor
+7382,[53555],Costo,"El espacio que ocupa en ficheros, que no es ni apreciable.",En contra
+7382,[53525],Costo,"Informáticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprenderá que es un espacio pírrico en comparación con los sistemas de almacenamiento actuales.",En contra
+7482,[54244],Laicismo-Antilaicismo,"No hay necesidad de cambio, porque el nombre es histórico y no es ofensivo.",A favor
+7482,[56176],Laicismo-Antilaicismo,"Es una reminiscencia histórica, cuando se cambió el nombre a la Plaza, no se hizo lo mismo con la parada de metro, que se lleva llamando así desde su fundación en 1919.",A favor
+7482,[54244],Laicismo-Antilaicismo,"El verdadero problema detrás de esta propuesta está en que por desgracia, es muy fácil caer en la polémica del laicismo-antilaicismo.",En contra
+7482,[54244],Historia y Tradición,"La duda de la gente puede estar en que si se llamase Santa Engracia o Eloy Gonzalo podría no haber problema a priori, pero se llama Iglesia. Y es porque hay y había una Iglesia muy llamativa en el momento de la creación de la que fue la segunda parada del Metro de Madrid.",A favor
+7482,[107986],Historia y Tradición,La plaza se llamaba así antes debido a la iglesia que está en dicha plaza.,A favor
+7482,[54125],Historia y Tradición,"Me parece una propuesta absurdísima, y que tiene 107 absurdísimos apoyos.",En contra
+7482,[107988],Historia y Tradición,"No vamos a dejar de omitir obviedades para tener razón, si tú dices estoy en Iglesias todos saben dónde estás.",En contra
+7482,[54244],Cambio y Modernización,"Hay una propuesta cultural con base detrás coherencia nominal que podría atraer a cierto público que desconoce la existencia del museo, sin entrar en cuánto.",A favor
+7482,[56176],Cambio y Modernización,No entiendo por qué hemos de cambiarlo ahora.,En contra
+7482,[59719],Cambio y Modernización,"Por favor, dediquemos tiempo y dinero a mejorar la vida de los ciudadanos. Y no a tonterías que no nos aportan nada.",En contra
+7482,[58739],Confusión y Complejidad,Cambiar estas cosas lo hace confuso. Voto no.,En contra
+7482,[59719],Confusión y Complejidad,"En vez de gastar el dinero en nuevos carteles para las calles, ¿no será mejor dedicarlo en otras cosas?",En contra
+7482,[54122],Identidad y Reconocimiento,El barrio se llama Iglesia y no me parece mal que persista el nombre si persiste el nombre de barrio.,A favor
+7482,[107986],Identidad y Reconocimiento,"La iglesia está a 0 metros de las bocas del metro, mientras que el museo sorrolla está a 600 metros.",A favor
+7482,[107988],Identidad y Reconocimiento,La propuesta incita a eliminar cualquier cosa en relación a la otra España.,En contra
+7482,[54092],Identidad y Reconocimiento,Es que ante iniciativas sin sentido y no necesarias. Yo no me dedico a poner que cambien el nombre de mi calle porque a mi no me gusta.,En contra
+7488,[57425],Empleo,"Se generaría más empleo, y menos ruido y suciedad en la vía pública si se hace correctamente.",A favor
+7488,[57967],Empleo,Me parece muy bien la iniciativa para crear puestos de trabajo y regular el horario de ocio sin cierres y malos rollos.,A favor
+7488,[70283],Empleo,"Sinceramente, no creo que el problema del paro en España sea de los puestos de trabajo que genera la vida nocturna, por mucho que el suyo esté relacionado con la misma.",En contra
+7488,[56297],Contaminación Acústica y Ambiental,"Una discoteca con menos de 100 db es una discoteca muerta porque se oiría más el murmullo de la gente que la música, las discotecas necesitan un volumen para funcionar.",A favor
+7488,[70280],Contaminación Acústica y Ambiental,"Los tapones no paran el ruido de bajos. Yo también estoy a favor de la vida nocturna, tengo 30 años y salgo por las noches, pero con insonorizaciones en condiciones, que en muchos casos dado el elevado coste, los locales pequeños no se pueden permitir.",A favor
+7488,[70280],Calidad de Vida,"Me parece que su punto de vista no es muy realista, yo si quiere un día le invito a mi casa, donde me han abierto una discoteca latina mal insonorizada, que encima abre hasta las 6 de la mañana y me explica si poner denuncias con 25dB en el dormitorio es poner denuncias al más mínimo ruido como usted dice.",En contra
+7488,[101532],Calidad de Vida,"Mi hijo tiene menos de 3 años y ya ha contemplado gente follando, meando, navajazos, peleas diarias y pizpiretos consumidores de cocaína usando los cubos de basura como improvisada mesa. Todo esto a las 8 de la mañana.",En contra
+7488,[58153],Vida Nocturna,"Madrid tiene una vida nocturna que da risa. Cada vez menos locales abren hasta las 6 por no hablar sitios con música que abran después, totalmente criminalizados. Muchos artistas y DJs de prestigio no tienen interés en venir a Madrid.",A favor
+7488,[58153],Vida Nocturna,Os recuerdo que en muchas ciudades europeas las discotecas no cierran hasta la mañana del día siguiente y tienen un sistema de sonido envidiable. La clave es encontrar los espacios adecuados e instalar los aislamientos de ruido adecuados.,A favor
+7488,[56297],Vida Nocturna,Continuación del comentario anterior: Lo que no se puede pretender es matar la vida nocturna de una capital que genera tantos ingresos y que además también atrae al turismo.,En contra
+7488,[57425],Normativa,"Cuando las personas carecen de la posibilidad de estar en un local, lo hacen en la calle. Dar la posibilidad de un horario amplio que se ajuste a la normativa sobre ruido es una buena opción.",En contra
+7488,[56296],Normativa,"No creo que su propuesta sea complementaria, al contrario; su propuesta es el enemigo de ésta propuesta ya que pretende que por las noches se ponga la música baja en las discotecas, y eso es matar las discotecas y acabar con un montón de puestos de trabajo de todos los que trabajamos de noche.",En contra
