@@ -50,7 +50,7 @@
 
             import notebook1 from "https://api.observablehq.com/d/6f7b98dfa7e34fcf.js?v=4";
             new Runtime().module(notebook1, name => {
-                if (name === "chart") return new Inspector(document.querySelector("#chart-1"));
+                if (name === "cchart") return new Inspector(document.querySelector("#chart-1"));
             });
 
             import notebook2 from "https://api.observablehq.com/d/81c556ec37269001.js?v=4";
