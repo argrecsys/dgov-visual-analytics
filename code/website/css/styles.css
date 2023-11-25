@@ -22,6 +22,7 @@ footer {
 
 h3 {
     /** Page subtitle **/
+    margin-top: 20px;
     margin-bottom: 0px;
     font-family: 'Montserrat', Arial, sans-serif;
     color: #003366;
