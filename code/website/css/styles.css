@@ -23,7 +23,7 @@ footer {
 h3 {
     /** Page subtitle **/
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     font-family: 'Montserrat', Arial, sans-serif;
     color: #003366;
 }
@@ -40,4 +40,10 @@ img {
 .chart {
     width: 100%;
     border-width: 0px;
+}
+
+
+#tb-data.dataTable {
+    font-size: 12px;
+    width: 100%;
 }
