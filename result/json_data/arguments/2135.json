@@ -276,7 +276,14 @@
         },
         {
           "name": "17",
-          "children": [],
+          "children": [
+            {
+              "name": "41469",
+              "value": 100,
+              "text": "[41469] Continuaci\u00f3n. Aparcar, contaminando el doble o m\u00e1s por ello, te lo aseguro. Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en parte, aun quedan en Madrid miles de calefacciones de carb\u00f3n, que si no lo sabes contaminan como una decena de veh\u00edculos, las que no son de carb\u00f3n, son de gas\u00f3leo, que es m\u00e1s de lo mismo, y las que no, son de gas natural, que aunque llevan m\u00e1s de una d\u00e9cada intentando vendernos que son limpias, de eso nada, contaminan tambi\u00e9n lo suyo, no tanto como las anteriores, pero vamos, que tambi\u00e9n contribuyen, y luego tenemos las el\u00e9ctricas, cuya tensi\u00f3n es adquirida de centrales de producci\u00f3n, que la mitad por cierto son contaminantes, y te aporto datos del a\u00f1o 2014 en cuanto a producci\u00f3n de energia en Espa\u00f1a: Nuclear 21,9%, E\u00f3lica 20,4%, Carb\u00f3n 16,4%, Hidra\u00falica 15,4%, Cogeneraci\u00f3n 10,4%, Ciclo Combinado 8,5%, Solar 51 y T\u00e9rmica Renovable 19 Datos de Red El\u00e9ctrica Espa\u00f1ola REE del a\u00f1o 2014; con lo cual continua.",
+              "short_text": "[41469] Continuaci\u00f3n. Aparcar, contaminando el doble o m\u00e1s por ello, te lo aseguro. Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en par..."
+            }
+          ],
           "text": "[ATTACK] Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en parte, aun quedan en Madrid miles de calefacciones de carb\u00f3n, que si no lo sabes contaminan como una decena de veh\u00edculos, las que no son de carb\u00f3n, son de gas\u00f3leo, que es m\u00e1s de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.",
           "short_text": "[ATTACK] Por cierto, todos los problemas de contaminaci\u00f3n de Madrid, siempre se achacan a los veh\u00edculos, no siendo as\u00ed en parte, aun quedan en Madrid miles de calefacciones de carb\u00f3n, que si no lo sab..."
         }
@@ -363,8 +370,8 @@
               "short_text": "[41476] Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u20ac y 4\u20ac extras para ir a trabajar, ya me los he gastado en combustible. Parece que somo..."
             }
           ],
-          "text": "[ATTACK] Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u0080 y 4\u0080 extras para ir a trabajar, ya me los he gastado en combustible. Parece que somos europeos para lo que nos conviene, para todo lo dem\u00e1s, somos espa\u00f1oles. Que ruina de pa\u00eds!",
-          "short_text": "[ATTACK] Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u0080 y 4\u0080 extras..."
+          "text": "[ATTACK] Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u20ac y 4\u20ac extras para ir a trabajar, ya me los he gastado en combustible. Parece que somos europeos para lo que nos conviene, para todo lo dem\u00e1s, somos espa\u00f1oles. Que ruina de pa\u00eds!",
+          "short_text": "[ATTACK] Por cerrar 3 \u00f3 4 barrios, Madrid va a continuar contaminado. Continua. Continuaci\u00f3n ya tengo el dep\u00f3sito del coche lleno para todo el mes, y no me da la gana de gastarme entre 3\u20ac y 4\u20ac extras..."
         }
       ],
       "text": "Impacto Econ\u00f3mico",

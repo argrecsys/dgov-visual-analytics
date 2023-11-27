@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 7488",
+      "group": 0
+    },
+    {
+      "id": "Empleo",
+      "group": -3
+    },
+    {
+      "id": "Empleo_support",
+      "group": -1
+    },
+    {
+      "id": "Empleo_attack",
+      "group": -2
+    },
+    {
+      "id": "Se generar\u00eda m\u00e1s empleo, y menos ruido y suciedad en la v\u00eda p\u00fablica si se hace correctamente.",
+      "group": -1
+    },
+    {
+      "id": "Me parece muy bien la iniciativa para crear puestos de trabajo y regular el horario de ocio sin cierres y malos rollos.",
+      "group": -1
+    },
+    {
+      "id": "Sinceramente, no creo que el problema del paro en Espa\u00f1a sea de los puestos de trabajo que genera la vida nocturna, por mucho que el suyo est\u00e9 relacionado con la misma.",
+      "group": -2
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica y Ambiental",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_attack",
+      "group": -2
+    },
+    {
+      "id": "Una discoteca con menos de 100 db es una discoteca muerta porque se oir\u00eda m\u00e1s el murmullo de la gente que la m\u00fasica, las discotecas necesitan un volumen para funcionar.",
+      "group": -1
+    },
+    {
+      "id": "Los tapones no paran el ruido de bajos. Yo tambi\u00e9n estoy a favor de la vida nocturna, tengo 30 a\u00f1os y salgo por las noches, pero con insonorizaciones en condiciones, que en muchos casos dado el elevado coste, los locales peque\u00f1os no se pueden permitir.",
+      "group": -1
+    },
+    {
+      "id": "Calidad de Vida",
+      "group": -3
+    },
+    {
+      "id": "Calidad de Vida_support",
+      "group": -1
+    },
+    {
+      "id": "Calidad de Vida_attack",
+      "group": -2
+    },
+    {
+      "id": "Me parece que su punto de vista no es muy realista, yo si quiere un d\u00eda le invito a mi casa, donde me han abierto una discoteca latina mal insonorizada, que encima abre hasta las 6 de la ma\u00f1ana y me explica si poner denuncias con 25dB en el dormitorio es poner denuncias al m\u00e1s m\u00ednimo ruido como usted dice.",
+      "group": -2
+    },
+    {
+      "id": "Mi hijo tiene menos de 3 a\u00f1os y ya ha contemplado gente follando, meando, navajazos, peleas diarias y pizpiretos consumidores de coca\u00edna usando los cubos de basura como improvisada mesa. Todo esto a las 8 de la ma\u00f1ana.",
+      "group": -2
+    },
+    {
+      "id": "Vida Nocturna",
+      "group": -3
+    },
+    {
+      "id": "Vida Nocturna_support",
+      "group": -1
+    },
+    {
+      "id": "Vida Nocturna_attack",
+      "group": -2
+    },
+    {
+      "id": "Madrid tiene una vida nocturna que da risa. Cada vez menos locales abren hasta las 6 por no hablar sitios con m\u00fasica que abran despu\u00e9s, totalmente criminalizados. Muchos artistas y DJs de prestigio no tienen inter\u00e9s en venir a Madrid.",
+      "group": -1
+    },
+    {
+      "id": "Os recuerdo que en muchas ciudades europeas las discotecas no cierran hasta la ma\u00f1ana del d\u00eda siguiente y tienen un sistema de sonido envidiable. La clave es encontrar los espacios adecuados e instalar los aislamientos de ruido adecuados.",
+      "group": -1
+    },
+    {
+      "id": "Continuaci\u00f3n del comentario anterior: Lo que no se puede pretender es matar la vida nocturna de una capital que genera tantos ingresos y que adem\u00e1s tambi\u00e9n atrae al turismo.",
+      "group": -2
+    },
+    {
+      "id": "Normativa",
+      "group": -3
+    },
+    {
+      "id": "Normativa_support",
+      "group": -1
+    },
+    {
+      "id": "Normativa_attack",
+      "group": -2
+    },
+    {
+      "id": "Cuando las personas carecen de la posibilidad de estar en un local, lo hacen en la calle. Dar la posibilidad de un horario amplio que se ajuste a la normativa sobre ruido es una buena opci\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "No creo que su propuesta sea complementaria, al contrario; su propuesta es el enemigo de \u00e9sta propuesta ya que pretende que por las noches se ponga la m\u00fasica baja en las discotecas, y eso es matar las discotecas y acabar con un mont\u00f3n de puestos de trabajo de todos los que trabajamos de noche.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 7488",
+      "target": "Empleo",
+      "value": 1
+    },
+    {
+      "source": "Empleo",
+      "target": "Empleo_support",
+      "value": 2
+    },
+    {
+      "source": "Empleo",
+      "target": "Empleo_attack",
+      "value": 2
+    },
+    {
+      "source": "Empleo_support",
+      "target": "Se generar\u00eda m\u00e1s empleo, y menos ruido y suciedad en la v\u00eda p\u00fablica si se hace correctamente.",
+      "value": 3
+    },
+    {
+      "source": "Empleo_support",
+      "target": "Me parece muy bien la iniciativa para crear puestos de trabajo y regular el horario de ocio sin cierres y malos rollos.",
+      "value": 3
+    },
+    {
+      "source": "Empleo_attack",
+      "target": "Sinceramente, no creo que el problema del paro en Espa\u00f1a sea de los puestos de trabajo que genera la vida nocturna, por mucho que el suyo est\u00e9 relacionado con la misma.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7488",
+      "target": "Contaminaci\u00f3n Ac\u00fastica y Ambiental",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica y Ambiental",
+      "target": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica y Ambiental",
+      "target": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_support",
+      "target": "Una discoteca con menos de 100 db es una discoteca muerta porque se oir\u00eda m\u00e1s el murmullo de la gente que la m\u00fasica, las discotecas necesitan un volumen para funcionar.",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n Ac\u00fastica y Ambiental_support",
+      "target": "Los tapones no paran el ruido de bajos. Yo tambi\u00e9n estoy a favor de la vida nocturna, tengo 30 a\u00f1os y salgo por las noches, pero con insonorizaciones en condiciones, que en muchos casos dado el elevado coste, los locales peque\u00f1os no se pueden permitir.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7488",
+      "target": "Calidad de Vida",
+      "value": 1
+    },
+    {
+      "source": "Calidad de Vida",
+      "target": "Calidad de Vida_support",
+      "value": 2
+    },
+    {
+      "source": "Calidad de Vida",
+      "target": "Calidad de Vida_attack",
+      "value": 2
+    },
+    {
+      "source": "Calidad de Vida_attack",
+      "target": "Me parece que su punto de vista no es muy realista, yo si quiere un d\u00eda le invito a mi casa, donde me han abierto una discoteca latina mal insonorizada, que encima abre hasta las 6 de la ma\u00f1ana y me explica si poner denuncias con 25dB en el dormitorio es poner denuncias al m\u00e1s m\u00ednimo ruido como usted dice.",
+      "value": 3
+    },
+    {
+      "source": "Calidad de Vida_attack",
+      "target": "Mi hijo tiene menos de 3 a\u00f1os y ya ha contemplado gente follando, meando, navajazos, peleas diarias y pizpiretos consumidores de coca\u00edna usando los cubos de basura como improvisada mesa. Todo esto a las 8 de la ma\u00f1ana.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7488",
+      "target": "Vida Nocturna",
+      "value": 1
+    },
+    {
+      "source": "Vida Nocturna",
+      "target": "Vida Nocturna_support",
+      "value": 2
+    },
+    {
+      "source": "Vida Nocturna",
+      "target": "Vida Nocturna_attack",
+      "value": 2
+    },
+    {
+      "source": "Vida Nocturna_support",
+      "target": "Madrid tiene una vida nocturna que da risa. Cada vez menos locales abren hasta las 6 por no hablar sitios con m\u00fasica que abran despu\u00e9s, totalmente criminalizados. Muchos artistas y DJs de prestigio no tienen inter\u00e9s en venir a Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Vida Nocturna_support",
+      "target": "Os recuerdo que en muchas ciudades europeas las discotecas no cierran hasta la ma\u00f1ana del d\u00eda siguiente y tienen un sistema de sonido envidiable. La clave es encontrar los espacios adecuados e instalar los aislamientos de ruido adecuados.",
+      "value": 3
+    },
+    {
+      "source": "Vida Nocturna_attack",
+      "target": "Continuaci\u00f3n del comentario anterior: Lo que no se puede pretender es matar la vida nocturna de una capital que genera tantos ingresos y que adem\u00e1s tambi\u00e9n atrae al turismo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7488",
+      "target": "Normativa",
+      "value": 1
+    },
+    {
+      "source": "Normativa",
+      "target": "Normativa_support",
+      "value": 2
+    },
+    {
+      "source": "Normativa",
+      "target": "Normativa_attack",
+      "value": 2
+    },
+    {
+      "source": "Normativa_attack",
+      "target": "Cuando las personas carecen de la posibilidad de estar en un local, lo hacen en la calle. Dar la posibilidad de un horario amplio que se ajuste a la normativa sobre ruido es una buena opci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Normativa_attack",
+      "target": "No creo que su propuesta sea complementaria, al contrario; su propuesta es el enemigo de \u00e9sta propuesta ya que pretende que por las noches se ponga la m\u00fasica baja en las discotecas, y eso es matar las discotecas y acabar con un mont\u00f3n de puestos de trabajo de todos los que trabajamos de noche.",
+      "value": 3
+    }
+  ]
+}

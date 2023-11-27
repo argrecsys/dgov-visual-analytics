@@ -1,0 +1,316 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 4541",
+      "group": 0
+    },
+    {
+      "id": "Necesidad de Cursos",
+      "group": -3
+    },
+    {
+      "id": "Necesidad de Cursos_support",
+      "group": -1
+    },
+    {
+      "id": "Necesidad de Cursos_attack",
+      "group": -2
+    },
+    {
+      "id": "Es dar un primer paso, empezando por obediencia b\u00e1sica, como son los perros, hay mucho desconocimiento al respecto aunque creamos saber.",
+      "group": -1
+    },
+    {
+      "id": "Muchos estamos deseando que existan [cursos].",
+      "group": -1
+    },
+    {
+      "id": "Me parece que deber\u00eda de ser un servicio del Ayuntamiento la educaci\u00f3n b\u00e1sica canina ya que esta inversi\u00f3n redundar\u00eda en beneficio de toda la comunidad.",
+      "group": -1
+    },
+    {
+      "id": "quien busque un curso de esas caracter\u00edsticas ser\u00e1 el que menos lo necesite, el resto seguir\u00e1 igual.",
+      "group": -2
+    },
+    {
+      "id": "No me apetece mucho que el dinero de todos se vaya en cursos de educaci\u00f3n para los propietarios de perros.",
+      "group": -2
+    },
+    {
+      "id": "Accesibilidad de Cursos",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad de Cursos_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad de Cursos_attack",
+      "group": -2
+    },
+    {
+      "id": "No todo el mundo dispone de coche para desplazarse hasta su localizaci\u00f3n, suelen estar lejos, es mi experiencia.",
+      "group": -1
+    },
+    {
+      "id": "Alg\u00fan d\u00eda los perretes estar\u00e1n tan educados que estar\u00e1 permitido llevarles a todas partes y a nadie le parecer\u00e1 raro.",
+      "group": -1
+    },
+    {
+      "id": "Rol del Ayuntamiento",
+      "group": -3
+    },
+    {
+      "id": "Rol del Ayuntamiento_support",
+      "group": -1
+    },
+    {
+      "id": "Rol del Ayuntamiento_attack",
+      "group": -2
+    },
+    {
+      "id": "Ser\u00eda de agradecer desde luego [que el Ayuntamiento facilite espacios que atiendan la demanda de los ciudadanos/as].",
+      "group": -1
+    },
+    {
+      "id": "El dinero de todos subvenciona en parte los cursos, talleres, etc., que el Ayuntamiento organiza.",
+      "group": -1
+    },
+    {
+      "id": "Competencia Profesional",
+      "group": -3
+    },
+    {
+      "id": "Competencia Profesional_support",
+      "group": -1
+    },
+    {
+      "id": "Competencia Profesional_attack",
+      "group": -2
+    },
+    {
+      "id": "No lo veo como una competencia, yo me dedico al mundo deportivo canino y a perros de trabajo, solo digo lo evidente, la etolog\u00eda es muy compleja y muy dif\u00edcil, hay que saber como leer al perro, mirar su postura.",
+      "group": -1
+    },
+    {
+      "id": "Valor Formativo",
+      "group": -3
+    },
+    {
+      "id": "Valor Formativo_support",
+      "group": -1
+    },
+    {
+      "id": "Valor Formativo_attack",
+      "group": -2
+    },
+    {
+      "id": "La etolog\u00eda veterinaria se estudia en la Universidad, el que quiere dedicarse profesionalmente es lo que tendr\u00eda que hacer, no har\u00eda cursos por aqu\u00ed y por all\u00e1.",
+      "group": -1
+    },
+    {
+      "id": "Como ciudadana pido a la Administraci\u00f3n un cauce de aprendizaje para los propietarios de perros.",
+      "group": -1
+    },
+    {
+      "id": "Los cursos ayudan... Ciertamente la Etolog\u00eda Veterinaria es una Ciencia experimental, un nivel de conocimientos superiores.",
+      "group": -1
+    },
+    {
+      "id": "Ser\u00eda mejor que estos cursos fueran para los que no tengan perro y quieran tenerlo, una especie de permiso para poder tenerlos.",
+      "group": -2
+    },
+    {
+      "id": "Inclusi\u00f3n y Acceso",
+      "group": -3
+    },
+    {
+      "id": "Inclusi\u00f3n y Acceso_support",
+      "group": -1
+    },
+    {
+      "id": "Inclusi\u00f3n y Acceso_attack",
+      "group": -2
+    },
+    {
+      "id": "Hay una propuesta muy buena para acabar con las cacas de los perros en la calle. Por favor votadla y dadle difusi\u00f3n.",
+      "group": -1
+    },
+    {
+      "id": "\u00a1Genial idea! a muchos due\u00f1os de perros les encantar\u00eda recibir unas clases para aprender a tratar a su mascota y no pueden contratarlas por las elevadas tarifas de la mayor\u00eda de los especialistas.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 4541",
+      "target": "Necesidad de Cursos",
+      "value": 1
+    },
+    {
+      "source": "Necesidad de Cursos",
+      "target": "Necesidad de Cursos_support",
+      "value": 2
+    },
+    {
+      "source": "Necesidad de Cursos",
+      "target": "Necesidad de Cursos_attack",
+      "value": 2
+    },
+    {
+      "source": "Necesidad de Cursos_support",
+      "target": "Es dar un primer paso, empezando por obediencia b\u00e1sica, como son los perros, hay mucho desconocimiento al respecto aunque creamos saber.",
+      "value": 3
+    },
+    {
+      "source": "Necesidad de Cursos_support",
+      "target": "Muchos estamos deseando que existan [cursos].",
+      "value": 3
+    },
+    {
+      "source": "Necesidad de Cursos_support",
+      "target": "Me parece que deber\u00eda de ser un servicio del Ayuntamiento la educaci\u00f3n b\u00e1sica canina ya que esta inversi\u00f3n redundar\u00eda en beneficio de toda la comunidad.",
+      "value": 3
+    },
+    {
+      "source": "Necesidad de Cursos_attack",
+      "target": "quien busque un curso de esas caracter\u00edsticas ser\u00e1 el que menos lo necesite, el resto seguir\u00e1 igual.",
+      "value": 3
+    },
+    {
+      "source": "Necesidad de Cursos_attack",
+      "target": "No me apetece mucho que el dinero de todos se vaya en cursos de educaci\u00f3n para los propietarios de perros.",
+      "value": 3
+    },
+    {
+      "source": "proposal 4541",
+      "target": "Accesibilidad de Cursos",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad de Cursos",
+      "target": "Accesibilidad de Cursos_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad de Cursos",
+      "target": "Accesibilidad de Cursos_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad de Cursos_support",
+      "target": "No todo el mundo dispone de coche para desplazarse hasta su localizaci\u00f3n, suelen estar lejos, es mi experiencia.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad de Cursos_support",
+      "target": "Alg\u00fan d\u00eda los perretes estar\u00e1n tan educados que estar\u00e1 permitido llevarles a todas partes y a nadie le parecer\u00e1 raro.",
+      "value": 3
+    },
+    {
+      "source": "proposal 4541",
+      "target": "Rol del Ayuntamiento",
+      "value": 1
+    },
+    {
+      "source": "Rol del Ayuntamiento",
+      "target": "Rol del Ayuntamiento_support",
+      "value": 2
+    },
+    {
+      "source": "Rol del Ayuntamiento",
+      "target": "Rol del Ayuntamiento_attack",
+      "value": 2
+    },
+    {
+      "source": "Rol del Ayuntamiento_support",
+      "target": "Ser\u00eda de agradecer desde luego [que el Ayuntamiento facilite espacios que atiendan la demanda de los ciudadanos/as].",
+      "value": 3
+    },
+    {
+      "source": "Rol del Ayuntamiento_support",
+      "target": "El dinero de todos subvenciona en parte los cursos, talleres, etc., que el Ayuntamiento organiza.",
+      "value": 3
+    },
+    {
+      "source": "proposal 4541",
+      "target": "Competencia Profesional",
+      "value": 1
+    },
+    {
+      "source": "Competencia Profesional",
+      "target": "Competencia Profesional_support",
+      "value": 2
+    },
+    {
+      "source": "Competencia Profesional",
+      "target": "Competencia Profesional_attack",
+      "value": 2
+    },
+    {
+      "source": "Competencia Profesional_support",
+      "target": "No lo veo como una competencia, yo me dedico al mundo deportivo canino y a perros de trabajo, solo digo lo evidente, la etolog\u00eda es muy compleja y muy dif\u00edcil, hay que saber como leer al perro, mirar su postura.",
+      "value": 3
+    },
+    {
+      "source": "proposal 4541",
+      "target": "Valor Formativo",
+      "value": 1
+    },
+    {
+      "source": "Valor Formativo",
+      "target": "Valor Formativo_support",
+      "value": 2
+    },
+    {
+      "source": "Valor Formativo",
+      "target": "Valor Formativo_attack",
+      "value": 2
+    },
+    {
+      "source": "Valor Formativo_support",
+      "target": "La etolog\u00eda veterinaria se estudia en la Universidad, el que quiere dedicarse profesionalmente es lo que tendr\u00eda que hacer, no har\u00eda cursos por aqu\u00ed y por all\u00e1.",
+      "value": 3
+    },
+    {
+      "source": "Valor Formativo_support",
+      "target": "Como ciudadana pido a la Administraci\u00f3n un cauce de aprendizaje para los propietarios de perros.",
+      "value": 3
+    },
+    {
+      "source": "Valor Formativo_support",
+      "target": "Los cursos ayudan... Ciertamente la Etolog\u00eda Veterinaria es una Ciencia experimental, un nivel de conocimientos superiores.",
+      "value": 3
+    },
+    {
+      "source": "Valor Formativo_attack",
+      "target": "Ser\u00eda mejor que estos cursos fueran para los que no tengan perro y quieran tenerlo, una especie de permiso para poder tenerlos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 4541",
+      "target": "Inclusi\u00f3n y Acceso",
+      "value": 1
+    },
+    {
+      "source": "Inclusi\u00f3n y Acceso",
+      "target": "Inclusi\u00f3n y Acceso_support",
+      "value": 2
+    },
+    {
+      "source": "Inclusi\u00f3n y Acceso",
+      "target": "Inclusi\u00f3n y Acceso_attack",
+      "value": 2
+    },
+    {
+      "source": "Inclusi\u00f3n y Acceso_support",
+      "target": "Hay una propuesta muy buena para acabar con las cacas de los perros en la calle. Por favor votadla y dadle difusi\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Inclusi\u00f3n y Acceso_support",
+      "target": "\u00a1Genial idea! a muchos due\u00f1os de perros les encantar\u00eda recibir unas clases para aprender a tratar a su mascota y no pueden contratarlas por las elevadas tarifas de la mayor\u00eda de los especialistas.",
+      "value": 3
+    }
+  ]
+}

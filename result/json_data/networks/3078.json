@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 3078",
+      "group": 0
+    },
+    {
+      "id": "Viabilidad de Transporte P\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Viabilidad de Transporte P\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Viabilidad de Transporte P\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "salgan rutas con inicios y destinos coincidiendo con intercambiadores de autobuses pr\u00edncipe p\u00edo, legazpi, conde de casal, Av Am\u00e9rica, Moncloa y vayan directos a destinos espec\u00edficos de pol\u00edgonos, grandes parques empresariales.",
+      "group": -1
+    },
+    {
+      "id": "Meter autobuses en la M30 y la M40 y donde realizar\u00edan las paradas? En la M30 apenas hay espacio para hacer apeaderos para los autobuses y menos en la zona de los t\u00faneles...",
+      "group": -2
+    },
+    {
+      "id": "Impacto en el Tr\u00e1fico",
+      "group": -3
+    },
+    {
+      "id": "Impacto en el Tr\u00e1fico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en el Tr\u00e1fico_attack",
+      "group": -2
+    },
+    {
+      "id": "Veo necesario meter autobuses en la M-30 y M-40 obviamente sin paradas en medio.",
+      "group": -1
+    },
+    {
+      "id": "Yo creo que meter autobuses en la M-30 y M-40 solo agravar\u00eda el problema...",
+      "group": -2
+    },
+    {
+      "id": "Pero todo esto no quita que si metes un veh\u00edculo torpe, como es el autob\u00fas, entorpezca a\u00fan m\u00e1s la ya colapsada circulaci\u00f3n...",
+      "group": -2
+    },
+    {
+      "id": "Percepci\u00f3n Social y Econ\u00f3mica",
+      "group": -3
+    },
+    {
+      "id": "Percepci\u00f3n Social y Econ\u00f3mica_support",
+      "group": -1
+    },
+    {
+      "id": "Percepci\u00f3n Social y Econ\u00f3mica_attack",
+      "group": -2
+    },
+    {
+      "id": "No he dicho que usted sea rico, he dicho que como vive en el norte no entiende el problema porque va al contrario del atasco...",
+      "group": -2
+    },
+    {
+      "id": "Alternativas de Transporte",
+      "group": -3
+    },
+    {
+      "id": "Alternativas de Transporte_support",
+      "group": -1
+    },
+    {
+      "id": "Alternativas de Transporte_attack",
+      "group": -2
+    },
+    {
+      "id": "En nueva york hay lineas de metro expresa que no paran en todas las paradas y tienen otras v\u00edas. Por que no se puede hacer en autob\u00fas? No tendr\u00eda que hacer paradas...",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 3078",
+      "target": "Viabilidad de Transporte P\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Viabilidad de Transporte P\u00fablico",
+      "target": "Viabilidad de Transporte P\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad de Transporte P\u00fablico",
+      "target": "Viabilidad de Transporte P\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad de Transporte P\u00fablico_support",
+      "target": "salgan rutas con inicios y destinos coincidiendo con intercambiadores de autobuses pr\u00edncipe p\u00edo, legazpi, conde de casal, Av Am\u00e9rica, Moncloa y vayan directos a destinos espec\u00edficos de pol\u00edgonos, grandes parques empresariales.",
+      "value": 3
+    },
+    {
+      "source": "Viabilidad de Transporte P\u00fablico_attack",
+      "target": "Meter autobuses en la M30 y la M40 y donde realizar\u00edan las paradas? En la M30 apenas hay espacio para hacer apeaderos para los autobuses y menos en la zona de los t\u00faneles...",
+      "value": 3
+    },
+    {
+      "source": "proposal 3078",
+      "target": "Impacto en el Tr\u00e1fico",
+      "value": 1
+    },
+    {
+      "source": "Impacto en el Tr\u00e1fico",
+      "target": "Impacto en el Tr\u00e1fico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en el Tr\u00e1fico",
+      "target": "Impacto en el Tr\u00e1fico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en el Tr\u00e1fico_support",
+      "target": "Veo necesario meter autobuses en la M-30 y M-40 obviamente sin paradas en medio.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en el Tr\u00e1fico_attack",
+      "target": "Yo creo que meter autobuses en la M-30 y M-40 solo agravar\u00eda el problema...",
+      "value": 3
+    },
+    {
+      "source": "Impacto en el Tr\u00e1fico_attack",
+      "target": "Pero todo esto no quita que si metes un veh\u00edculo torpe, como es el autob\u00fas, entorpezca a\u00fan m\u00e1s la ya colapsada circulaci\u00f3n...",
+      "value": 3
+    },
+    {
+      "source": "proposal 3078",
+      "target": "Percepci\u00f3n Social y Econ\u00f3mica",
+      "value": 1
+    },
+    {
+      "source": "Percepci\u00f3n Social y Econ\u00f3mica",
+      "target": "Percepci\u00f3n Social y Econ\u00f3mica_support",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n Social y Econ\u00f3mica",
+      "target": "Percepci\u00f3n Social y Econ\u00f3mica_attack",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n Social y Econ\u00f3mica_attack",
+      "target": "No he dicho que usted sea rico, he dicho que como vive en el norte no entiende el problema porque va al contrario del atasco...",
+      "value": 3
+    },
+    {
+      "source": "proposal 3078",
+      "target": "Alternativas de Transporte",
+      "value": 1
+    },
+    {
+      "source": "Alternativas de Transporte",
+      "target": "Alternativas de Transporte_support",
+      "value": 2
+    },
+    {
+      "source": "Alternativas de Transporte",
+      "target": "Alternativas de Transporte_attack",
+      "value": 2
+    },
+    {
+      "source": "Alternativas de Transporte_support",
+      "target": "En nueva york hay lineas de metro expresa que no paran en todas las paradas y tienen otras v\u00edas. Por que no se puede hacer en autob\u00fas? No tendr\u00eda que hacer paradas...",
+      "value": 3
+    }
+  ]
+}

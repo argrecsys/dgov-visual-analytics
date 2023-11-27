@@ -1,0 +1,334 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 3587",
+      "group": 0
+    },
+    {
+      "id": "Seguridad en el carril autob\u00fas",
+      "group": -3
+    },
+    {
+      "id": "Seguridad en el carril autob\u00fas_support",
+      "group": -1
+    },
+    {
+      "id": "Seguridad en el carril autob\u00fas_attack",
+      "group": -2
+    },
+    {
+      "id": "los autobuses tiene que frenar en seco, con el consiguiente peligro para los ocupantes cuando las motos se meten a saco delante de ellos",
+      "group": -1
+    },
+    {
+      "id": "Si lo tuvieran prohibido, se evitar\u00eda esto",
+      "group": -1
+    },
+    {
+      "id": "Pero no me quejo porque el carril es del autob\u00fas y los dem\u00e1s tenemos que usarlo sin estorbar",
+      "group": -2
+    },
+    {
+      "id": "nunca he hecho frenar a un autob\u00fas, m\u00e1s que nada por mi integridad",
+      "group": -2
+    },
+    {
+      "id": "Flujo de tr\u00e1fico",
+      "group": -3
+    },
+    {
+      "id": "Flujo de tr\u00e1fico_support",
+      "group": -1
+    },
+    {
+      "id": "Flujo de tr\u00e1fico_attack",
+      "group": -2
+    },
+    {
+      "id": "las motos lo utilizan para adelantar, cambiando de carril cuando les interesa y m\u00e1s de una y dos veces los autobuses tiene que frenar en seco",
+      "group": -1
+    },
+    {
+      "id": "las bicicletas tienen su carril",
+      "group": -2
+    },
+    {
+      "id": "nunca he visto maniobras que hallan entorpecido el tr\u00e1fico de los autobuses",
+      "group": -2
+    },
+    {
+      "id": "Prioridad de transporte p\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Prioridad de transporte p\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Prioridad de transporte p\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "Cualquier servicio p\u00fablico debe tener prioridad sobre uno privado",
+      "group": -1
+    },
+    {
+      "id": "El carrilbus es un servicio p\u00fablico",
+      "group": -1
+    },
+    {
+      "id": "El \u00fanico sentido que le veo a esta propuesta es la de evitar que el coche privado entorpezca a los autobuses",
+      "group": -2
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud p\u00fablica",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud p\u00fablica_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud p\u00fablica_attack",
+      "group": -2
+    },
+    {
+      "id": "una moto contamina tanto como un coche y cabe menos gente",
+      "group": -1
+    },
+    {
+      "id": "No son problemas de espacio, sino de salud p\u00fablica",
+      "group": -1
+    },
+    {
+      "id": "las bicicletas se imponen como una de las soluciones a problemas urbanos como la contaminaci\u00f3n",
+      "group": -2
+    },
+    {
+      "id": "Uso eficiente del espacio",
+      "group": -3
+    },
+    {
+      "id": "Uso eficiente del espacio_support",
+      "group": -1
+    },
+    {
+      "id": "Uso eficiente del espacio_attack",
+      "group": -2
+    },
+    {
+      "id": "en el espacio de un veh\u00edculo pueden llegar a caber 6 motos",
+      "group": -1
+    },
+    {
+      "id": "que la moto ocupe menos lugar no tiene relaci\u00f3n con al propuesta",
+      "group": -2
+    },
+    {
+      "id": "Conveniencia para ciclistas",
+      "group": -3
+    },
+    {
+      "id": "Conveniencia para ciclistas_support",
+      "group": -1
+    },
+    {
+      "id": "Conveniencia para ciclistas_attack",
+      "group": -2
+    },
+    {
+      "id": "propondr\u00eda que los carriles autob\u00fas sean v\u00e1lidos para bicicletas",
+      "group": -1
+    },
+    {
+      "id": "Las bicicletas no pueden ir por el carril autob\u00fas, est\u00e1 prohibido",
+      "group": -2
+    },
+    {
+      "id": "es frustrante que el autob\u00fas tenga que ir a 10 km por hora, por culpa de una bicicleta o varias que ocupan su carril",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 3587",
+      "target": "Seguridad en el carril autob\u00fas",
+      "value": 1
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas",
+      "target": "Seguridad en el carril autob\u00fas_support",
+      "value": 2
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas",
+      "target": "Seguridad en el carril autob\u00fas_attack",
+      "value": 2
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas_support",
+      "target": "los autobuses tiene que frenar en seco, con el consiguiente peligro para los ocupantes cuando las motos se meten a saco delante de ellos",
+      "value": 3
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas_support",
+      "target": "Si lo tuvieran prohibido, se evitar\u00eda esto",
+      "value": 3
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas_attack",
+      "target": "Pero no me quejo porque el carril es del autob\u00fas y los dem\u00e1s tenemos que usarlo sin estorbar",
+      "value": 3
+    },
+    {
+      "source": "Seguridad en el carril autob\u00fas_attack",
+      "target": "nunca he hecho frenar a un autob\u00fas, m\u00e1s que nada por mi integridad",
+      "value": 3
+    },
+    {
+      "source": "proposal 3587",
+      "target": "Flujo de tr\u00e1fico",
+      "value": 1
+    },
+    {
+      "source": "Flujo de tr\u00e1fico",
+      "target": "Flujo de tr\u00e1fico_support",
+      "value": 2
+    },
+    {
+      "source": "Flujo de tr\u00e1fico",
+      "target": "Flujo de tr\u00e1fico_attack",
+      "value": 2
+    },
+    {
+      "source": "Flujo de tr\u00e1fico_support",
+      "target": "las motos lo utilizan para adelantar, cambiando de carril cuando les interesa y m\u00e1s de una y dos veces los autobuses tiene que frenar en seco",
+      "value": 3
+    },
+    {
+      "source": "Flujo de tr\u00e1fico_attack",
+      "target": "las bicicletas tienen su carril",
+      "value": 3
+    },
+    {
+      "source": "Flujo de tr\u00e1fico_attack",
+      "target": "nunca he visto maniobras que hallan entorpecido el tr\u00e1fico de los autobuses",
+      "value": 3
+    },
+    {
+      "source": "proposal 3587",
+      "target": "Prioridad de transporte p\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Prioridad de transporte p\u00fablico",
+      "target": "Prioridad de transporte p\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Prioridad de transporte p\u00fablico",
+      "target": "Prioridad de transporte p\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Prioridad de transporte p\u00fablico_support",
+      "target": "Cualquier servicio p\u00fablico debe tener prioridad sobre uno privado",
+      "value": 3
+    },
+    {
+      "source": "Prioridad de transporte p\u00fablico_support",
+      "target": "El carrilbus es un servicio p\u00fablico",
+      "value": 3
+    },
+    {
+      "source": "Prioridad de transporte p\u00fablico_attack",
+      "target": "El \u00fanico sentido que le veo a esta propuesta es la de evitar que el coche privado entorpezca a los autobuses",
+      "value": 3
+    },
+    {
+      "source": "proposal 3587",
+      "target": "Contaminaci\u00f3n y salud p\u00fablica",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud p\u00fablica",
+      "target": "Contaminaci\u00f3n y salud p\u00fablica_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud p\u00fablica",
+      "target": "Contaminaci\u00f3n y salud p\u00fablica_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud p\u00fablica_support",
+      "target": "una moto contamina tanto como un coche y cabe menos gente",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud p\u00fablica_support",
+      "target": "No son problemas de espacio, sino de salud p\u00fablica",
+      "value": 3
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud p\u00fablica_attack",
+      "target": "las bicicletas se imponen como una de las soluciones a problemas urbanos como la contaminaci\u00f3n",
+      "value": 3
+    },
+    {
+      "source": "proposal 3587",
+      "target": "Uso eficiente del espacio",
+      "value": 1
+    },
+    {
+      "source": "Uso eficiente del espacio",
+      "target": "Uso eficiente del espacio_support",
+      "value": 2
+    },
+    {
+      "source": "Uso eficiente del espacio",
+      "target": "Uso eficiente del espacio_attack",
+      "value": 2
+    },
+    {
+      "source": "Uso eficiente del espacio_support",
+      "target": "en el espacio de un veh\u00edculo pueden llegar a caber 6 motos",
+      "value": 3
+    },
+    {
+      "source": "Uso eficiente del espacio_attack",
+      "target": "que la moto ocupe menos lugar no tiene relaci\u00f3n con al propuesta",
+      "value": 3
+    },
+    {
+      "source": "proposal 3587",
+      "target": "Conveniencia para ciclistas",
+      "value": 1
+    },
+    {
+      "source": "Conveniencia para ciclistas",
+      "target": "Conveniencia para ciclistas_support",
+      "value": 2
+    },
+    {
+      "source": "Conveniencia para ciclistas",
+      "target": "Conveniencia para ciclistas_attack",
+      "value": 2
+    },
+    {
+      "source": "Conveniencia para ciclistas_support",
+      "target": "propondr\u00eda que los carriles autob\u00fas sean v\u00e1lidos para bicicletas",
+      "value": 3
+    },
+    {
+      "source": "Conveniencia para ciclistas_attack",
+      "target": "Las bicicletas no pueden ir por el carril autob\u00fas, est\u00e1 prohibido",
+      "value": 3
+    },
+    {
+      "source": "Conveniencia para ciclistas_attack",
+      "target": "es frustrante que el autob\u00fas tenga que ir a 10 km por hora, por culpa de una bicicleta o varias que ocupan su carril",
+      "value": 3
+    }
+  ]
+}

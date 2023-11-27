@@ -124,13 +124,27 @@
       "children": [
         {
           "name": "9",
-          "children": [],
+          "children": [
+            {
+              "name": "37325",
+              "value": 100,
+              "text": "[37325] No entiendo como este sistema no puede estar ya normalizado aqu\u00ed, en Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de pl\u00e1stico.",
+              "short_text": "[37325] No entiendo como este sistema no puede estar ya normalizado aqu\u00ed, en Alemania est\u00e1 instalado hace a\u00f1os y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por bo..."
+            }
+          ],
           "text": "[SUPPORT] Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador.",
           "short_text": "[SUPPORT] Yo ser\u00eda partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitar\u00eda que se devolviera al envasador."
         },
         {
           "name": "10",
-          "children": [],
+          "children": [
+            {
+              "name": "25540",
+              "value": 100,
+              "text": "[25540] El sistema que dec\u00eds que existe en otros pa\u00edses es el llamado SDDR Sistema de Dep\u00f3sito, Devoluci\u00f3n y Retorno En Espa\u00f1a la Fundaci\u00f3n Retorna, que lo impulsa, agrupa a representantes de los distintos sectores implicados: industria del reciclado, ONG ambientales, sindicatos y asociaciones de consumidores. No est\u00e1 basado en que nos paguen a los consumidores, si no en establecer un peque\u00f1o pago previo con cada envase de pl\u00e1stico como se hac\u00eda antiguamente con las botellas de vidrio que es retornado al consumidor al depositar el envase usado en una m\u00e1quina que lo recoge y prepara para su traslado y reciclado. Este sistema ha dado muy buenos resultados ambientales en diferentes pa\u00edses, logrando llegar a altos porcentajes de reciclado de envases, evitando que estos acaben en basureros, en el campo, la playa o el mar. Aqu\u00ed en Espa\u00f1a Retorna ha llevado a cabo experiencias piloto exitosas en los municipios de Cadaqu\u00e9s Girona y Almonacid del Marquesado Cuenca.",
+              "short_text": "[25540] El sistema que dec\u00eds que existe en otros pa\u00edses es el llamado SDDR Sistema de Dep\u00f3sito, Devoluci\u00f3n y Retorno En Espa\u00f1a la Fundaci\u00f3n Retorna, que lo impulsa, agrupa a representantes de los dist..."
+            }
+          ],
           "text": "[SUPPORT] Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s.",
           "short_text": "[SUPPORT] Este tipo de propuestas deber\u00edan estar redirigidas para que todos los votos a favor sumaran m\u00e1s."
         },

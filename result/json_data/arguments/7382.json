@@ -1,0 +1,236 @@
+{
+  "name": "7382",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "52953",
+              "value": 100,
+              "text": "[52953] Pueden convivir ambos systemas, no es necesario quitar uno para implanter el otro.",
+              "short_text": "[52953] Pueden convivir ambos systemas, no es necesario quitar uno para implanter el otro."
+            }
+          ],
+          "text": "[SUPPORT] Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro.",
+          "short_text": "[SUPPORT] Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "53204",
+              "value": 100,
+              "text": "[53204] S\u00ed, es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",
+              "short_text": "[53204] S\u00ed, es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle."
+            }
+          ],
+          "text": "[SUPPORT] Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",
+          "short_text": "[SUPPORT] Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "53459",
+              "value": 100,
+              "text": "[53459] Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
+              "short_text": "[53459] Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la..."
+            }
+          ],
+          "text": "[ATTACK] Disculpe pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombres para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n.",
+          "short_text": "[ATTACK] Disculpe pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombres para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "53525",
+              "value": 100,
+              "text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s crecen de manera exponencial y no lineal, por cualidades de la f\u00edsica. Como comprender\u00e1 es despreciable el ahorro en almacenamiento. Como comprender\u00e1 no es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse, y si no es as\u00ed, sistemas de almacenamiento primitivos o anticuados, no creo que suponga mucho problema a una persona acostumbrada a ello, al igual que si usted revisa el diccionario impreso frecuentemente sabr\u00e1 que es muy f\u00e1cil encontrar las palabras buscadas, la pr\u00e1ctica es lo que tiene jeje. Por \u00faltimo y no menos importante los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero. Como todo siempre hay alguna calle que se les puede escapar.",
+              "short_text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que..."
+            }
+          ],
+          "text": "[ATTACK] Los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero.",
+          "short_text": "[ATTACK] Los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero."
+        }
+      ],
+      "text": "Practicidad",
+      "short_text": "Practicidad"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "53472",
+              "value": 100,
+              "text": "[53472] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo citar unos cuantos ejemplos de padecerlo. Tampoco ser\u00eda horterada ya que no es igual al modelo que cita. Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle, y no digo cuando tomemos una direcci\u00f3n de nuestra agenda y tratemos de buscar el nombre de una calle que ya ha desaparecido como tal. No le parece.",
+              "short_text": "[53472] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo ci..."
+            }
+          ],
+          "text": "[SUPPORT] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando.",
+          "short_text": "[SUPPORT] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "53459",
+              "value": 100,
+              "text": "[53459] Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
+              "short_text": "[53459] Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la..."
+            }
+          ],
+          "text": "[ATTACK] En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
+          "short_text": "[ATTACK] En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43."
+        },
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "53526",
+              "value": 100,
+              "text": "[53526] Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por caracter que se cambia sino por el cambio en s\u00ed. Si alguien m\u00e1s opina como usted le felicito y animo a que apoye esta propuesta, pero a mi no me ha convencido.",
+              "short_text": "[53526] Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero em..."
+            }
+          ],
+          "text": "[ATTACK] Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por car\u00e1cter que se cambia sino por el cambio en s\u00ed.",
+          "short_text": "[ATTACK] Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por car\u00e1cter que se cambia sino por el cambio en s\u00ed."
+        }
+      ],
+      "text": "Est\u00e9tica y Tradici\u00f3n",
+      "short_text": "Est\u00e9tica y Tradici\u00f3n"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "53470",
+              "value": 100,
+              "text": "[53470] \u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso si las traducimos a numerales. \u00ba En ficheros manuales \u00bfno es m\u00e1s sencillos de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas \u00ba Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos? Tambi\u00e9n los conductores que est\u00e1n detr\u00e1s del taxi, esperando. Podr\u00edamos seguir, pero ya tiene para pensar.",
+              "short_text": "[53470] \u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso..."
+            }
+          ],
+          "text": "[SUPPORT] Inform\u00e1ticamente, \u00bfno es m\u00e1s sencillo de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas?",
+          "short_text": "[SUPPORT] Inform\u00e1ticamente, \u00bfno es m\u00e1s sencillo de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas?"
+        },
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "53470",
+              "value": 100,
+              "text": "[53470] \u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso si las traducimos a numerales. \u00ba En ficheros manuales \u00bfno es m\u00e1s sencillos de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas \u00ba Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos? Tambi\u00e9n los conductores que est\u00e1n detr\u00e1s del taxi, esperando. Podr\u00edamos seguir, pero ya tiene para pensar.",
+              "short_text": "[53470] \u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso..."
+            }
+          ],
+          "text": "[SUPPORT] Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos?",
+          "short_text": "[SUPPORT] Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos?"
+        },
+        {
+          "name": "10",
+          "children": [
+            {
+              "name": "53526",
+              "value": 100,
+              "text": "[53526] Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por caracter que se cambia sino por el cambio en s\u00ed. Si alguien m\u00e1s opina como usted le felicito y animo a que apoye esta propuesta, pero a mi no me ha convencido.",
+              "short_text": "[53526] Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero em..."
+            }
+          ],
+          "text": "[ATTACK] Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone.",
+          "short_text": "[ATTACK] Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone."
+        },
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "53525",
+              "value": 100,
+              "text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s crecen de manera exponencial y no lineal, por cualidades de la f\u00edsica. Como comprender\u00e1 es despreciable el ahorro en almacenamiento. Como comprender\u00e1 no es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse, y si no es as\u00ed, sistemas de almacenamiento primitivos o anticuados, no creo que suponga mucho problema a una persona acostumbrada a ello, al igual que si usted revisa el diccionario impreso frecuentemente sabr\u00e1 que es muy f\u00e1cil encontrar las palabras buscadas, la pr\u00e1ctica es lo que tiene jeje. Por \u00faltimo y no menos importante los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero. Como todo siempre hay alguna calle que se les puede escapar.",
+              "short_text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que..."
+            }
+          ],
+          "text": "[ATTACK] No es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse.",
+          "short_text": "[ATTACK] No es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse."
+        }
+      ],
+      "text": "Efectividad",
+      "short_text": "Efectividad"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "53472",
+              "value": 100,
+              "text": "[53472] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo citar unos cuantos ejemplos de padecerlo. Tampoco ser\u00eda horterada ya que no es igual al modelo que cita. Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle, y no digo cuando tomemos una direcci\u00f3n de nuestra agenda y tratemos de buscar el nombre de una calle que ya ha desaparecido como tal. No le parece.",
+              "short_text": "[53472] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo ci..."
+            },
+            {
+              "name": "53555",
+              "value": 100,
+              "text": "[53555] Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle. Adem\u00e1s, le he explicado el espacio que ocupa en ficheros, que no es ni apreciable.",
+              "short_text": "[53555] Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos..."
+            }
+          ],
+          "text": "[SUPPORT] Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos si nos cambian el nombre de la calle.",
+          "short_text": "[SUPPORT] Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos si nos cambian el nombre de la calle."
+        },
+        {
+          "name": "13",
+          "children": [
+            {
+              "name": "53561",
+              "value": 100,
+              "text": "[53561] Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos \u00bfdiez minutos? y luego, como gasto real, la comunicaci\u00f3n a las fincas, por correo de papel.",
+              "short_text": "[53561] Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos \u00bfdiez minutos? y luego, como gasto real, la comunicaci\u00f3n a las fincas, por correo de papel."
+            }
+          ],
+          "text": "[SUPPORT] Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos, \u00bfdiez minutos?",
+          "short_text": "[SUPPORT] Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos, \u00bfdiez minutos?"
+        },
+        {
+          "name": "14",
+          "children": [
+            {
+              "name": "53555",
+              "value": 100,
+              "text": "[53555] Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle. Adem\u00e1s, le he explicado el espacio que ocupa en ficheros, que no es ni apreciable.",
+              "short_text": "[53555] Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos..."
+            }
+          ],
+          "text": "[ATTACK] El espacio que ocupa en ficheros, que no es ni apreciable.",
+          "short_text": "[ATTACK] El espacio que ocupa en ficheros, que no es ni apreciable."
+        },
+        {
+          "name": "15",
+          "children": [
+            {
+              "name": "53525",
+              "value": 100,
+              "text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s crecen de manera exponencial y no lineal, por cualidades de la f\u00edsica. Como comprender\u00e1 es despreciable el ahorro en almacenamiento. Como comprender\u00e1 no es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse, y si no es as\u00ed, sistemas de almacenamiento primitivos o anticuados, no creo que suponga mucho problema a una persona acostumbrada a ello, al igual que si usted revisa el diccionario impreso frecuentemente sabr\u00e1 que es muy f\u00e1cil encontrar las palabras buscadas, la pr\u00e1ctica es lo que tiene jeje. Por \u00faltimo y no menos importante los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero. Como todo siempre hay alguna calle que se les puede escapar.",
+              "short_text": "[53525] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que..."
+            }
+          ],
+          "text": "[ATTACK] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales.",
+          "short_text": "[ATTACK] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales."
+        }
+      ],
+      "text": "Costo",
+      "short_text": "Costo"
+    }
+  ],
+  "text": "Digitalizar las calles. Sustituci\u00f3n de denominaciones alfab\u00e9ticas por numerales a las calles. El callejero de Madrid tiene m\u00e1s de 9000 denominaciones y las consultas a \u00e9l a trav\u00e9s de Internet superan la cifra de 36000 visitas al a\u00f1o. Inmersos en el mundo inform\u00e1tico, se hace preciso digitalizar las denominaciones a efectos de simplificar tr\u00e1mites y ahorrar tiempos, que repercutir\u00e1 en la econom\u00eda general. Simplemente, al Listado nominal de calles actual habr\u00eda que a\u00f1adir a cada una el n\u00famero de Distrito Municipal y la Clave de Calle ddcccc comenzando en su orden alfab\u00e9tico y numeral inferior para la clave, ejemplo: a la actual calle a le corresponder\u00eda 0001 como clave de calle, a la actual calle aa le ser\u00eda 0002\u2026 Para las calles que pertenecieran a m\u00e1s de un Distrito Municipal, podr\u00edan tener un \u00fanico cccc ya que el Distrito municipal las diferenciar\u00eda. Este nuevo Callejero habr\u00eda de mantenerse en Internet a disposici\u00f3n de la ciudadan\u00eda. Luego se mandar\u00eda carta a cada representante de cada una de las fincas con la comunicaci\u00f3n de que, de forma muy visible, se colocase cartel con el nuevo n\u00famero de finca ddcccc \u00a0 en la entrada de portal o lugar de acceso principal. Adem\u00e1s de consabidos anuncios a la ciudadan\u00eda a trav\u00e9s de los medios, la placas actuales en calles con la denominaci\u00f3n nominal permanecer\u00edan un tiempo antes de ser eliminadas f\u00edsicamente.",
+  "short_text": "Digitalizar las calles. Sustituci\u00f3n de denominaciones alfab\u00e9ticas por numerales a las calles. El callejero de Madrid tiene m\u00e1s de 9000 denominaciones y las consultas a \u00e9l a trav\u00e9s de Internet superan..."
+}

@@ -255,7 +255,14 @@
       "children": [
         {
           "name": "18",
-          "children": [],
+          "children": [
+            {
+              "name": "51873",
+              "value": 100,
+              "text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las personas, si tenemos insalubridad en una ciudad corremos mucho riesgo en todos los aspectos, os env\u00edo un enlace para que entr\u00e9is a leerlo si os parece correcto votarlo, los puntos a tratar sobre la limpieza son bastante interesantes, no hace falta hacer inversiones exageradas, es m\u00e1s, todo ello est\u00e1 sobradamente probado y funciona, votar la idea si os parece bien para conseguir el m\u00e1ximo posible de votos para poder reaccionar frente a la limpieza de Madrid.",
+              "short_text": "[51873] Buenos d\u00edas a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepci\u00f3n, es tan importante como la seguridad de una ciudad o la sanidad para las person..."
+            }
+          ],
           "text": "[SUPPORT] Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras.",
           "short_text": "[SUPPORT] Algo que creo que beneficiar\u00eda ampliamente a la limpieza de la ciudad es el aumento de m\u00e1quinas limpiadoras de aceras."
         },

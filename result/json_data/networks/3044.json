@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 3044",
+      "group": 0
+    },
+    {
+      "id": "Red de Vigilancia",
+      "group": -3
+    },
+    {
+      "id": "Red de Vigilancia_support",
+      "group": -1
+    },
+    {
+      "id": "Red de Vigilancia_attack",
+      "group": -2
+    },
+    {
+      "id": "En su d\u00eda el gobierno italiano encarg\u00f3 varias consultor\u00edas... que buscaban algo m\u00e1s.",
+      "group": -1
+    },
+    {
+      "id": "La decisi\u00f3n de desplegar la red nacional de monitorizaci\u00f3n de EMF se tom\u00f3 para contrarrestar el ampliamente extendido temor... de peligros sobre la salud debidos a la exposici\u00f3n a la EMF.",
+      "group": -1
+    },
+    {
+      "id": "Seg\u00fan este video son torres de destrucci\u00f3n masiva... Mensaje de Anonymous en relaci\u00f3n con el WiFi.",
+      "group": -1
+    },
+    {
+      "id": "El progreso conlleva un declive en la calidad de vida... es un motivo m\u00e1s para redoblar la lucha, contra la comida basura y las radiaciones peligrosas.",
+      "group": -1
+    },
+    {
+      "id": "Lo de Italia es de uso militar y policial... lo que detectan son las interferencias en las se\u00f1ales de telefon\u00eda producidas por aeronaves volando a baja altitud.",
+      "group": -1
+    },
+    {
+      "id": "Esto es una patra\u00f1a que nos quieren hacer creer algunos charlatanes.",
+      "group": -2
+    },
+    {
+      "id": "Hay miles de se\u00f1ales de radiofrecuencia, que atraviesan nuestros cuerpos diariamente, tanto naturales como provocadas por el hombre... El progreso trae consigo estas cosas, y es inevitable.",
+      "group": -2
+    },
+    {
+      "id": "Riesgos para la salud",
+      "group": -3
+    },
+    {
+      "id": "Riesgos para la salud_support",
+      "group": -1
+    },
+    {
+      "id": "Riesgos para la salud_attack",
+      "group": -2
+    },
+    {
+      "id": "\u00bfSabes si alguna autoridad se ha molestado en hacer un mapa epidemiol\u00f3gico, que vincule los casos de c\u00e1ncer y de leucemia con la situaci\u00f3n geogr\u00e1fica del individuo?",
+      "group": -1
+    },
+    {
+      "id": "Hay una diferencia. Si usted conecta un aparato a la red y se estropea por sobrevoltaje... la radiaci\u00f3n nos penetra y a muchos, perd\u00f3n por la expresi\u00f3n, les da por culo a tod@s por igual.",
+      "group": -1
+    },
+    {
+      "id": "La radiofrecuencia no es contaminaci\u00f3n, al menos la que provocan las instalaciones normales en las ciudades.",
+      "group": -2
+    },
+    {
+      "id": "No hay ninguna forma de evitar las radiofrecuencias, es que hasta los microondas las producen.",
+      "group": -2
+    },
+    {
+      "id": "Impacto social y econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto social y econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto social y econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "Me parece malgastar el dinero de todos los contribuyentes... las ondas van por el aire y te atraviesan, y es lo que hay.",
+      "group": -2
+    },
+    {
+      "id": "Si hombre, si lo que tu digas. Vamos que es inevitable y nos tenemos que morir de c\u00e1ncer y leucemia para que otros se forren, en nombre del progreso.",
+      "group": -2
+    },
+    {
+      "id": "Hay que poner tambi\u00e9n un medidor de gases de efecto invernadero en el culo de las vacas... Esa tasa de la que hablas acabaremos pag\u00e1ndola los de siempre.",
+      "group": -2
+    },
+    {
+      "id": "Viabilidad y necesidad de regulaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Viabilidad y necesidad de regulaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Viabilidad y necesidad de regulaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Esto no es un informe hecho por una consultora, de parecerse a algo se parece m\u00e1s a las c\u00e1maras de vigilancia para hacer cumplir con la normativa de velocidad m\u00e1xima.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 3044",
+      "target": "Red de Vigilancia",
+      "value": 1
+    },
+    {
+      "source": "Red de Vigilancia",
+      "target": "Red de Vigilancia_support",
+      "value": 2
+    },
+    {
+      "source": "Red de Vigilancia",
+      "target": "Red de Vigilancia_attack",
+      "value": 2
+    },
+    {
+      "source": "Red de Vigilancia_support",
+      "target": "En su d\u00eda el gobierno italiano encarg\u00f3 varias consultor\u00edas... que buscaban algo m\u00e1s.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_support",
+      "target": "La decisi\u00f3n de desplegar la red nacional de monitorizaci\u00f3n de EMF se tom\u00f3 para contrarrestar el ampliamente extendido temor... de peligros sobre la salud debidos a la exposici\u00f3n a la EMF.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_support",
+      "target": "Seg\u00fan este video son torres de destrucci\u00f3n masiva... Mensaje de Anonymous en relaci\u00f3n con el WiFi.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_support",
+      "target": "El progreso conlleva un declive en la calidad de vida... es un motivo m\u00e1s para redoblar la lucha, contra la comida basura y las radiaciones peligrosas.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_support",
+      "target": "Lo de Italia es de uso militar y policial... lo que detectan son las interferencias en las se\u00f1ales de telefon\u00eda producidas por aeronaves volando a baja altitud.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_attack",
+      "target": "Esto es una patra\u00f1a que nos quieren hacer creer algunos charlatanes.",
+      "value": 3
+    },
+    {
+      "source": "Red de Vigilancia_attack",
+      "target": "Hay miles de se\u00f1ales de radiofrecuencia, que atraviesan nuestros cuerpos diariamente, tanto naturales como provocadas por el hombre... El progreso trae consigo estas cosas, y es inevitable.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3044",
+      "target": "Riesgos para la salud",
+      "value": 1
+    },
+    {
+      "source": "Riesgos para la salud",
+      "target": "Riesgos para la salud_support",
+      "value": 2
+    },
+    {
+      "source": "Riesgos para la salud",
+      "target": "Riesgos para la salud_attack",
+      "value": 2
+    },
+    {
+      "source": "Riesgos para la salud_support",
+      "target": "\u00bfSabes si alguna autoridad se ha molestado en hacer un mapa epidemiol\u00f3gico, que vincule los casos de c\u00e1ncer y de leucemia con la situaci\u00f3n geogr\u00e1fica del individuo?",
+      "value": 3
+    },
+    {
+      "source": "Riesgos para la salud_support",
+      "target": "Hay una diferencia. Si usted conecta un aparato a la red y se estropea por sobrevoltaje... la radiaci\u00f3n nos penetra y a muchos, perd\u00f3n por la expresi\u00f3n, les da por culo a tod@s por igual.",
+      "value": 3
+    },
+    {
+      "source": "Riesgos para la salud_attack",
+      "target": "La radiofrecuencia no es contaminaci\u00f3n, al menos la que provocan las instalaciones normales en las ciudades.",
+      "value": 3
+    },
+    {
+      "source": "Riesgos para la salud_attack",
+      "target": "No hay ninguna forma de evitar las radiofrecuencias, es que hasta los microondas las producen.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3044",
+      "target": "Impacto social y econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto social y econ\u00f3mico",
+      "target": "Impacto social y econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto social y econ\u00f3mico",
+      "target": "Impacto social y econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto social y econ\u00f3mico_attack",
+      "target": "Me parece malgastar el dinero de todos los contribuyentes... las ondas van por el aire y te atraviesan, y es lo que hay.",
+      "value": 3
+    },
+    {
+      "source": "Impacto social y econ\u00f3mico_attack",
+      "target": "Si hombre, si lo que tu digas. Vamos que es inevitable y nos tenemos que morir de c\u00e1ncer y leucemia para que otros se forren, en nombre del progreso.",
+      "value": 3
+    },
+    {
+      "source": "Impacto social y econ\u00f3mico_attack",
+      "target": "Hay que poner tambi\u00e9n un medidor de gases de efecto invernadero en el culo de las vacas... Esa tasa de la que hablas acabaremos pag\u00e1ndola los de siempre.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3044",
+      "target": "Viabilidad y necesidad de regulaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Viabilidad y necesidad de regulaci\u00f3n",
+      "target": "Viabilidad y necesidad de regulaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad y necesidad de regulaci\u00f3n",
+      "target": "Viabilidad y necesidad de regulaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad y necesidad de regulaci\u00f3n_support",
+      "target": "Esto no es un informe hecho por una consultora, de parecerse a algo se parece m\u00e1s a las c\u00e1maras de vigilancia para hacer cumplir con la normativa de velocidad m\u00e1xima.",
+      "value": 3
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "name": "2524",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "35505",
+              "value": 100,
+              "text": "[35505] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria. \u00a1Lo que hay que leer y o\u00edr! Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.",
+              "short_text": "[35505] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria. \u00a1Lo que hay que leer y o\u00edr!..."
+            }
+          ],
+          "text": "[ATTACK] Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.",
+          "short_text": "[ATTACK] Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado i..."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "29595",
+              "value": 100,
+              "text": "[29595] Eres libre de opinar, otra cosa es hacer. Es curioso que incidas en la discriminaci\u00f3n por raz\u00f3n de sexo. Supongo que no has le\u00eddo con atenci\u00f3n el texto que tanto me ha costado redactar. Es s\u00f3lo un borrado pero refleja perfectamente un hecho: las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente. No voy a a\u00f1adir nada m\u00e1s porque creo que t\u00fa no eres mujer ni tienes esa edad ni has sufrido las humillaciones ni vejaciones que sufrimos algunas. Por eso me empe\u00f1o en este proyecto y espero que muchas y muchos lo apoyen porque todas y todos tenemos familiares y amigas que est\u00e1n en situaciones de vulnerabilidad, con especiales difcultades econ\u00f3micas, personales o sociales y al borde de ka exclusi\u00f3n social.",
+              "short_text": "[29595] Eres libre de opinar, otra cosa es hacer. Es curioso que incidas en la discriminaci\u00f3n por raz\u00f3n de sexo. Supongo que no has le\u00eddo con atenci\u00f3n el texto que tanto me ha costado redactar. Es s\u00f3l..."
+            },
+            {
+              "name": "29598",
+              "value": 100,
+              "text": "[29598] Repito el comentario porque no me dio tiempo a corregirlo, Oporto: Eres libre de opinar, otra cosa es hacer. Es curioso que incidas en la discriminaci\u00f3n por raz\u00f3n de sexo. Supongo que no has le\u00eddo con atenci\u00f3n el texto que tanto me ha costado redactar. Es s\u00f3lo un borrador pero refleja perfectamente un hecho: las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente. No voy a a\u00f1adir nada m\u00e1s porque creo que t\u00fa no eres mujer ni tienes esa edad ni has sufrido las humillaciones, ning\u00faneos y vejaciones que sufrimos algunas, en todos y cada uno de los ciclos de nuestra vida. Por eso he reflexionado durante a\u00f1os, he planteado este proyecto y me empe\u00f1o en implementarlo. Espero que muchas y muchos lo apoyen porque todas y todos tenemos familiares y amigas que est\u00e1n en situaciones de vulnerabilidad, con especiales dificultades econ\u00f3micas, personales o sociales y al borde de la exclusi\u00f3n social.",
+              "short_text": "[29598] Repito el comentario porque no me dio tiempo a corregirlo, Oporto: Eres libre de opinar, otra cosa es hacer. Es curioso que incidas en la discriminaci\u00f3n por raz\u00f3n de sexo. Supongo que no has l..."
+            }
+          ],
+          "text": "[ATTACK] las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente.",
+          "short_text": "[ATTACK] las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "35505",
+              "value": 100,
+              "text": "[35505] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria. \u00a1Lo que hay que leer y o\u00edr! Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.",
+              "short_text": "[35505] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria. \u00a1Lo que hay que leer y o\u00edr!..."
+            }
+          ],
+          "text": "[ATTACK] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria.",
+          "short_text": "[ATTACK] Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria."
+        }
+      ],
+      "text": "Discriminaci\u00f3n y Exclusi\u00f3n",
+      "short_text": "Discriminaci\u00f3n y Exclusi\u00f3n"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "56320",
+              "value": 100,
+              "text": "[56320] Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar.",
+              "short_text": "[56320] Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar."
+            }
+          ],
+          "text": "[ATTACK] Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar.",
+          "short_text": "[ATTACK] Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar."
+        },
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "29589",
+              "value": 100,
+              "text": "[29589] Iniciativa interesante y, sobre todo, necesaria. Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil. Cuando hay menos opciones de acceso al mercado laboral, y cuando las hay son en condiciones m\u00e1s desfavorables; cuando la pr\u00e1ctica de los cuidados se ejerce fundamentalmente por las mujeres y se contempla como trabajo no remunerado y no reconocido; cuando las separaciones o divorcios conllevan una precarizaci\u00f3n de sus vidas peques a cargo, dificultades para encontrar trabajo, econom\u00eda endeble cuando existen tantos vac\u00edos que no se llenan y tantas necesidades que el Estado no cubre, no queda otra que poner en marcha este tipo de propuestas. Todo mi apoyo, Celia.",
+              "short_text": "[29589] Iniciativa interesante y, sobre todo, necesaria. Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil. Cuando hay menos opciones de..."
+            }
+          ],
+          "text": "[ATTACK] Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil.",
+          "short_text": "[ATTACK] Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil."
+        }
+      ],
+      "text": "Apoyo y Necesidad",
+      "short_text": "Apoyo y Necesidad"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "47081",
+              "value": 100,
+              "text": "[47081] Buenas noches, Silviasa: Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo. No basta con publicarlo en esta web, votarlo y difundirlo. Hay que buscar el inmueble adecuado, seleccionar a las personas que quieran convivir all\u00ed, realizar el acondicionamiento y la rehabilitaci\u00f3n de la vivienda o viviendas y otras muchas cuestiones, incluyendo las jur\u00eddicas. Por eso, agradecer\u00eda a todas las personas que les interese esta propuesta que se pongan en contacto conmigo en el e-mail celestevez@gmail. Com. En la pr\u00f3xima reuni\u00f3n se sentar\u00e1n las bases de la casa autogestionada para que tengamos claros los pasos a seguir.",
+              "short_text": "[47081] Buenas noches, Silviasa: Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo. No basta con publicarlo en esta web, votarlo y difundirlo. Hay que buscar el i..."
+            }
+          ],
+          "text": "[ATTACK] Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo.",
+          "short_text": "[ATTACK] Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo."
+        }
+      ],
+      "text": "Viabilidad y Ejecuci\u00f3n",
+      "short_text": "Viabilidad y Ejecuci\u00f3n"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "31986",
+              "value": 100,
+              "text": "[31986] Enhorabuena, Celia, por una iniciativa tan buena. LLevo mucho tiempo pensando en la necesidad de un espacio como este en Madrid. No estoy empadronada aqu\u00ed, pero s\u00ed resido en los alrededores de la ciudad. Me gustar\u00eda sumarme al proyecto y a lo que haya que hacer para conseguirlo. No tengo trabajo, s\u00ed un subsidio para mayores de 55 a\u00f1os y de vez en cuando trabajos ocasionales. Precariedad total y necesidad de vivienda. Una como la que propones me parece un sue\u00f1o. Cuenta conmigo.",
+              "short_text": "[31986] Enhorabuena, Celia, por una iniciativa tan buena. LLevo mucho tiempo pensando en la necesidad de un espacio como este en Madrid. No estoy empadronada aqu\u00ed, pero s\u00ed resido en los alrededores de..."
+            }
+          ],
+          "text": "[ATTACK] Me gustar\u00eda sumarme al proyecto y a lo que haya que hacer para conseguirlo.",
+          "short_text": "[ATTACK] Me gustar\u00eda sumarme al proyecto y a lo que haya que hacer para conseguirlo."
+        },
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "32240",
+              "value": 100,
+              "text": "[32240] Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente. Saludos cordiales Irenea.",
+              "short_text": "[32240] Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente. Saludos cordiales Irenea."
+            }
+          ],
+          "text": "[ATTACK] Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente.",
+          "short_text": "[ATTACK] Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente."
+        }
+      ],
+      "text": "Integraci\u00f3n y Participaci\u00f3n",
+      "short_text": "Integraci\u00f3n y Participaci\u00f3n"
+    },
+    {
+      "name": "5",
+      "children": [
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "29543",
+              "value": 100,
+              "text": "[29543] La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza \u00bfte parecer\u00eda progresista?.",
+              "short_text": "[29543] La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza \u00bf..."
+            }
+          ],
+          "text": "[ATTACK] La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza \u00bfte parecer\u00eda progresista?",
+          "short_text": "[ATTACK] La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza..."
+        }
+      ],
+      "text": "Discriminaci\u00f3n por G\u00e9nero",
+      "short_text": "Discriminaci\u00f3n por G\u00e9nero"
+    }
+  ],
+  "text": "Casa autogestionada autosuficiente de mujeres mayores de 50 a\u00f1os. Propiciar un espacio com\u00fan autogestionado para mujeres mayores de 50 a\u00f1os que quieren convivir con personas con inquietudes ecol\u00f3gicas, creativas y culturales. La propuesta est\u00e1 inspirada en la Casa Babayaga sita en Montreuil Francia cuya fundadora se llama Th\u00e9r\u00e9se Clerc. Muchas mujeres, debido a su situaci\u00f3n personal, laboral, familiar, emocional o\u00a0f\u00edsica, est\u00e1n abocadas a vivir con precariedad, solas o con personas que no las apoyan. A veces no disponen de casa propia ni de trabajo estable y su situaci\u00f3n empeora con los a\u00f1os por cuestiones de salud, por problemas emocionales y por falta de ilusi\u00f3n y esperanza en un futuro mejor. Algunas est\u00e1n separadas o\u00a0solteras\u00a0o son viudas. Teniendo en cuenta la cantidad de edificios vac\u00edos y en desuso que hay en la Comunidad de Madrid, de protecci\u00f3n oficial o las casas inutilizadas que tienen algunos bancos, podr\u00edan\u00a0acondicionarse estos inmuebles con peque\u00f1os estudios de unos 35 o 40 metros cuadrados, con alquileres asequibles no m\u00e1s de 200 \u20ac con ba\u00f1o, cocina, dormitorio y con zonas comunes, sala-comedor, biblioteca, zona para eventos y para hacer gimnasia. Se tendr\u00eda en cuenta la movilidad reducida de algunas de estas mujeres y sus especiales caracter\u00edsticas f\u00edsicas y emocionales. Podr\u00edan hacerse gestiones, con la intermediaci\u00f3n de la persona\u00a0responsable que acuerde el\u00a0actual Ayuntamiento de Madrid, con alguna sareb de alg\u00fan banco o caja que tienen en stock un buen n\u00famero de inmuebles que nadie utiliza y que se deterioran seg\u00fan transcurre el tiempo. La propuesta no se asemejar\u00eda a las residencias de personas mayores actuales ni a los pisos tutelados, si bien se puede\u00a0considerar una soluci\u00f3n alternativa\u00a0a esta demanda\u00a0habitacional para personas con estas caracter\u00edsticas. Muchas de estas mujeres\u00a0a\u00fan trabajan pero tienen salarios muy bajos. Y\u00a0las que no pueden o no encuentran ocupaci\u00f3n, podr\u00edan contribuir de diversas maneras al mantenimiento del inmueble acondicionado para este fin. Aunque\u00a0se necesitar\u00eda apoyo institucional, para que el proyecto no sea gravoso a la Administraci\u00f3n local y municipal, \u00a0se podr\u00edan sufragar los gastos que se generen en esta casa autogestionada feminera\u00a0a la que llamar\u00e9 la Morada de Themcelvez, \u00a0creando un vivero, un huerto colectivo, con plantas medicinales y\u00a0arom\u00e1ticas, hortalizas y\u00a0\u00e1rboles frutales, se cultivar\u00edan flores, incluso podr\u00eda contar con colmenas o con alg\u00fan animal de corral. Tambi\u00e9n\u00a0podr\u00eda\u00a0acondicionarse un techo verde, aislar el edificio suficientemente\u00a0para evitar las diferencias de temperatura, las inclemencias del tiempo y los ruidos externos e instalar paneles solares, alg\u00fan dispositivo para generar energ\u00eda e\u00f3lica, calefacci\u00f3n con\u00a0biomasa, cocina solar o similar para que el consumo de electricidad y agua caliente no sea demasiado costoso. Por supuesto podr\u00eda reciclarse toda la basura generando compost, reutilizando todo lo que se pueda y creando conciencia en este sentido en el barrio o localidad donde se implemente este proyecto. La labor creativa, divulgativa y cultural ser\u00eda tambi\u00e9n muy importante. Podr\u00edan celebrarse peri\u00f3dicamente lo que yo llamo \u00c1gapes art\u00edstico-culturales, presentaciones de libros, exposiciones de escultura y pintura, conciertos, \u00a0recitales\u00a0y conferencias de todo tipo, en la l\u00ednea del espacio que estoy describiendo. Tambi\u00e9n podr\u00edan convocarse sesiones de Yoga, Tai Chi, Fisioterapia, Hidroterapia, talleres artesanales y\u00a0de bricolage y de distinto tipo. Y de tanto en tanto, se podr\u00edan acoger de forma espor\u00e1dica a visitantes y familiares de estas mujeres por una m\u00f3dica cantidad para cubrir los gastos de gesti\u00f3n, estancia y manutenci\u00f3n. El proyecto es factible si se implican m\u00e1s personas. En Espa\u00f1a, no s\u00e9 si hay algo parecido. En otros pa\u00edses s\u00ed, concretamente en Francia, en Montreuil y en Toulouse. Conf\u00edo en poder llevar a buen t\u00e9rmino La Morada de Themcelvez con la ayuda de todas vosotras. Y vosotros. Es posible hacerlo, tengo la energ\u00eda, la idea factible, s\u00f3lo necesito las personas adecuadas, \u00a0el apoyo suficiente y una\u00a0difusi\u00f3n eficaz. Si hiciese falta un dinero inicial, podr\u00eda pedirse un cr\u00e9dito a un\u00a0banco\u00a0\u00e9tico\u00a0como\u00a0Triodos Bank, se podr\u00edan conseguir aportaciones personales, donaciones o realizarse un crowdfunding o micromecenazgo para financiar el proyecto en sus primeras etapas. Todas las personas somos interdependientes y casi todas lleg\u00e1remos a la edad madura y a la senectud. De nosotras depende c\u00f3mo queramos vivir esa \u00faltima etapa. Gracias por tu atento tiempo. Cuento con tu cooperaci\u00f3n participativa.",
+  "short_text": "Casa autogestionada autosuficiente de mujeres mayores de 50 a\u00f1os. Propiciar un espacio com\u00fan autogestionado para mujeres mayores de 50 a\u00f1os que quieren convivir con personas con inquietudes ecol\u00f3gicas..."
+}

@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 7382",
+      "group": 0
+    },
+    {
+      "id": "Practicidad",
+      "group": -3
+    },
+    {
+      "id": "Practicidad_support",
+      "group": -1
+    },
+    {
+      "id": "Practicidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro.",
+      "group": -1
+    },
+    {
+      "id": "Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",
+      "group": -1
+    },
+    {
+      "id": "Disculpe pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombres para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "Los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero.",
+      "group": -2
+    },
+    {
+      "id": "Est\u00e9tica y Tradici\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Est\u00e9tica y Tradici\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Est\u00e9tica y Tradici\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando.",
+      "group": -1
+    },
+    {
+      "id": "En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
+      "group": -2
+    },
+    {
+      "id": "Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por car\u00e1cter que se cambia sino por el cambio en s\u00ed.",
+      "group": -2
+    },
+    {
+      "id": "Efectividad",
+      "group": -3
+    },
+    {
+      "id": "Efectividad_support",
+      "group": -1
+    },
+    {
+      "id": "Efectividad_attack",
+      "group": -2
+    },
+    {
+      "id": "Inform\u00e1ticamente, \u00bfno es m\u00e1s sencillo de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas?",
+      "group": -1
+    },
+    {
+      "id": "Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos?",
+      "group": -1
+    },
+    {
+      "id": "Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone.",
+      "group": -2
+    },
+    {
+      "id": "No es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse.",
+      "group": -2
+    },
+    {
+      "id": "Costo",
+      "group": -3
+    },
+    {
+      "id": "Costo_support",
+      "group": -1
+    },
+    {
+      "id": "Costo_attack",
+      "group": -2
+    },
+    {
+      "id": "Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos si nos cambian el nombre de la calle.",
+      "group": -1
+    },
+    {
+      "id": "Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos, \u00bfdiez minutos?",
+      "group": -1
+    },
+    {
+      "id": "El espacio que ocupa en ficheros, que no es ni apreciable.",
+      "group": -2
+    },
+    {
+      "id": "Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 7382",
+      "target": "Practicidad",
+      "value": 1
+    },
+    {
+      "source": "Practicidad",
+      "target": "Practicidad_support",
+      "value": 2
+    },
+    {
+      "source": "Practicidad",
+      "target": "Practicidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Practicidad_support",
+      "target": "Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro.",
+      "value": 3
+    },
+    {
+      "source": "Practicidad_support",
+      "target": "Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",
+      "value": 3
+    },
+    {
+      "source": "Practicidad_attack",
+      "target": "Disculpe pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombres para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Practicidad_attack",
+      "target": "Los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7382",
+      "target": "Est\u00e9tica y Tradici\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Est\u00e9tica y Tradici\u00f3n",
+      "target": "Est\u00e9tica y Tradici\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Est\u00e9tica y Tradici\u00f3n",
+      "target": "Est\u00e9tica y Tradici\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Est\u00e9tica y Tradici\u00f3n_support",
+      "target": "Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando.",
+      "value": 3
+    },
+    {
+      "source": "Est\u00e9tica y Tradici\u00f3n_attack",
+      "target": "En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
+      "value": 3
+    },
+    {
+      "source": "Est\u00e9tica y Tradici\u00f3n_attack",
+      "target": "Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por car\u00e1cter que se cambia sino por el cambio en s\u00ed.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7382",
+      "target": "Efectividad",
+      "value": 1
+    },
+    {
+      "source": "Efectividad",
+      "target": "Efectividad_support",
+      "value": 2
+    },
+    {
+      "source": "Efectividad",
+      "target": "Efectividad_attack",
+      "value": 2
+    },
+    {
+      "source": "Efectividad_support",
+      "target": "Inform\u00e1ticamente, \u00bfno es m\u00e1s sencillo de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas?",
+      "value": 3
+    },
+    {
+      "source": "Efectividad_support",
+      "target": "Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos?",
+      "value": 3
+    },
+    {
+      "source": "Efectividad_attack",
+      "target": "Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone.",
+      "value": 3
+    },
+    {
+      "source": "Efectividad_attack",
+      "target": "No es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7382",
+      "target": "Costo",
+      "value": 1
+    },
+    {
+      "source": "Costo",
+      "target": "Costo_support",
+      "value": 2
+    },
+    {
+      "source": "Costo",
+      "target": "Costo_attack",
+      "value": 2
+    },
+    {
+      "source": "Costo_support",
+      "target": "Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos si nos cambian el nombre de la calle.",
+      "value": 3
+    },
+    {
+      "source": "Costo_support",
+      "target": "Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos, \u00bfdiez minutos?",
+      "value": 3
+    },
+    {
+      "source": "Costo_attack",
+      "target": "El espacio que ocupa en ficheros, que no es ni apreciable.",
+      "value": 3
+    },
+    {
+      "source": "Costo_attack",
+      "target": "Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales.",
+      "value": 3
+    }
+  ]
+}

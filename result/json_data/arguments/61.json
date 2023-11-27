@@ -8,6 +8,65 @@
           "name": "1",
           "children": [
             {
+              "name": "37090",
+              "value": 100,
+              "text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches. Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc. , no tienen iluminaci\u00f3n alguna en las carreteras.",
+              "short_text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con lo..."
+            }
+          ],
+          "text": "[SUPPORT] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
+          "short_text": "[SUPPORT] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con..."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "37090",
+              "value": 100,
+              "text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches. Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc. , no tienen iluminaci\u00f3n alguna en las carreteras.",
+              "short_text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con lo..."
+            }
+          ],
+          "text": "[SUPPORT] Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
+          "short_text": "[SUPPORT] Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "59781",
+              "value": 100,
+              "text": "[59781] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+              "short_text": "[59781] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada ha..."
+            }
+          ],
+          "text": "[ATTACK] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+          "short_text": "[ATTACK] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada h..."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "40216",
+              "value": 100,
+              "text": "[40216] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz. La regulaci\u00f3n por horarios es una opci\u00f3n, pero hay que dealizarlo de manera cient\u00edfica: .",
+              "short_text": "[40216] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz. La regulaci\u00f3n por horarios es una opci\u00f3n, pero hay q..."
+            }
+          ],
+          "text": "[ATTACK] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
+          "short_text": "[ATTACK] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz."
+        }
+      ],
+      "text": "Seguridad Vial",
+      "short_text": "Seguridad Vial"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
               "name": "18539",
               "value": 100,
               "text": "[18539] Incluso propondr\u00eda dentro de esta propuesta que se abasteciera con energ\u00edas renovables, preferentemente peque\u00f1as placas solares en cada farola.",
@@ -18,14 +77,14 @@
           "short_text": "[SUPPORT] Incluso propondr\u00eda dentro de esta propuesta que se abasteciera con energ\u00edas renovables, preferentemente peque\u00f1as placas solares en cada farola."
         }
       ],
-      "text": "Uso de energ\u00edas renovables",
-      "short_text": "Uso de energ\u00edas renovables"
+      "text": "Energ\u00eda y Sostenibilidad",
+      "short_text": "Energ\u00eda y Sostenibilidad"
     },
     {
-      "name": "2",
+      "name": "3",
       "children": [
         {
-          "name": "2",
+          "name": "6",
           "children": [
             {
               "name": "29897",
@@ -42,95 +101,16 @@
           ],
           "text": "[SUPPORT] O encender una farola de cada dos, pero en toda la autopista.",
           "short_text": "[SUPPORT] O encender una farola de cada dos, pero en toda la autopista."
-        },
-        {
-          "name": "3",
-          "children": [
-            {
-              "name": "72359",
-              "value": 100,
-              "text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz. En la zona de Pozuelo de momento hay alumbrado. 2 Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed. El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
-              "short_text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopis..."
-            }
-          ],
-          "text": "[SUPPORT] El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
-          "short_text": "[SUPPORT] El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta e..."
         }
       ],
-      "text": "Eficiencia energ\u00e9tica",
-      "short_text": "Eficiencia energ\u00e9tica"
-    },
-    {
-      "name": "3",
-      "children": [
-        {
-          "name": "4",
-          "children": [
-            {
-              "name": "37090",
-              "value": 100,
-              "text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches. Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc. , no tienen iluminaci\u00f3n alguna en las carreteras.",
-              "short_text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con lo..."
-            }
-          ],
-          "text": "[ATTACK] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
-          "short_text": "[ATTACK] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con l..."
-        },
-        {
-          "name": "5",
-          "children": [
-            {
-              "name": "37090",
-              "value": 100,
-              "text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches. Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc. , no tienen iluminaci\u00f3n alguna en las carreteras.",
-              "short_text": "[37090] La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con lo..."
-            }
-          ],
-          "text": "[ATTACK] Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
-          "short_text": "[ATTACK] Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras."
-        },
-        {
-          "name": "6",
-          "children": [
-            {
-              "name": "40216",
-              "value": 100,
-              "text": "[40216] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz. La regulaci\u00f3n por horarios es una opci\u00f3n, pero hay que dealizarlo de manera cient\u00edfica: .",
-              "short_text": "[40216] Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz. La regulaci\u00f3n por horarios es una opci\u00f3n, pero hay q..."
-            }
-          ],
-          "text": "[ATTACK] Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
-          "short_text": "[ATTACK] Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz."
-        }
-      ],
-      "text": "Seguridad vial",
-      "short_text": "Seguridad vial"
+      "text": "Eficiencia Energ\u00e9tica",
+      "short_text": "Eficiencia Energ\u00e9tica"
     },
     {
       "name": "4",
       "children": [
         {
           "name": "7",
-          "children": [
-            {
-              "name": "59781",
-              "value": 100,
-              "text": "[59781] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
-              "short_text": "[59781] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada ha..."
-            }
-          ],
-          "text": "[SUPPORT] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
-          "short_text": "[SUPPORT] Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada..."
-        }
-      ],
-      "text": "Visibilidad y peligro",
-      "short_text": "Visibilidad y peligro"
-    },
-    {
-      "name": "5",
-      "children": [
-        {
-          "name": "8",
           "children": [
             {
               "name": "125975",
@@ -157,16 +137,29 @@
               "short_text": "[125979] Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid. Veras que hemos incluido en el documento el tema de seguridad. Con apoyo de 21 organ..."
             }
           ],
-          "text": "[ATTACK] Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
-          "short_text": "[ATTACK] Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid."
+          "text": "[SUPPORT] Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
+          "short_text": "[SUPPORT] Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid."
         }
       ],
-      "text": "Contaminaci\u00f3n lum\u00ednica",
-      "short_text": "Contaminaci\u00f3n lum\u00ednica"
+      "text": "Impacto Ambiental",
+      "short_text": "Impacto Ambiental"
     },
     {
-      "name": "6",
+      "name": "5",
       "children": [
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "72359",
+              "value": 100,
+              "text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz. En la zona de Pozuelo de momento hay alumbrado. 2 Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed. El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
+              "short_text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopis..."
+            }
+          ],
+          "text": "[ATTACK] El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado.",
+          "short_text": "[ATTACK] El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado."
+        },
         {
           "name": "9",
           "children": [
@@ -177,9 +170,16 @@
               "short_text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopis..."
             }
           ],
-          "text": "[ATTACK] En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",
-          "short_text": "[ATTACK] En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura..."
-        },
+          "text": "[ATTACK] La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed.",
+          "short_text": "[ATTACK] La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed."
+        }
+      ],
+      "text": "Gesti\u00f3n P\u00fablica",
+      "short_text": "Gesti\u00f3n P\u00fablica"
+    },
+    {
+      "name": "6",
+      "children": [
         {
           "name": "10",
           "children": [
@@ -190,12 +190,12 @@
               "short_text": "[72359] Este comentario no tendr\u00eda lugar en un pa\u00eds civilizado, pero esto es Espa\u00f1a. Los problemas son varios: 1 En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopis..."
             }
           ],
-          "text": "[ATTACK] En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas.",
-          "short_text": "[ATTACK] En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transform..."
+          "text": "[SUPPORT] El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
+          "short_text": "[SUPPORT] El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta e..."
         }
       ],
-      "text": "Problemas administrativos y de mantenimiento",
-      "short_text": "Problemas administrativos y de mantenimiento"
+      "text": "Eficiencia Regulatoria",
+      "short_text": "Eficiencia Regulatoria"
     }
   ],
   "text": "Restablecer iluminaci\u00f3n en carreteras. Hace unos a\u00f1os el ayuntamiento decidi\u00f3 apagar farolas en distintas zonas de carretera para as\u00ed poder ahorrar en la factura de la luz. Creo que se deber\u00eda restablecer la iluminaci\u00f3n en estos puntos. Creo que es bastante importante que las carreteras de nuestra ciudad est\u00e9n bien iluminadas, sobre todo en tramos de gran afluencia de tr\u00e1fico. \u00a0 Mi propuesta es la de restablecer la iluminaci\u00f3n en las zonas donde fue suprimida. Es cierto que puede haber zonas\u00a0o franjas horarias con muy poco tr\u00e1fico, para lo cual se podr\u00eda establecer un horario de iluminaci\u00f3n, como por ejemplo, mantener las farolas encendidas hasta las 0.30h y apagarlas de nuevo hasta primera hora de la ma\u00f1ana las 6.00h, por ejemplo cuando el tr\u00e1fico vuelva a intensificarse.",

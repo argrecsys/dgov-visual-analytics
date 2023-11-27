@@ -1,0 +1,271 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 3905",
+      "group": 0
+    },
+    {
+      "id": "Ruido de Motos",
+      "group": -3
+    },
+    {
+      "id": "Ruido de Motos_support",
+      "group": -1
+    },
+    {
+      "id": "Ruido de Motos_attack",
+      "group": -2
+    },
+    {
+      "id": "las motos, especialmente las m\u00e1s peque\u00f1as, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable.",
+      "group": -1
+    },
+    {
+      "id": "a quien haga ruido innecesario que se le sancione.",
+      "group": -1
+    },
+    {
+      "id": "todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
+      "group": -1
+    },
+    {
+      "id": "El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos.",
+      "group": -2
+    },
+    {
+      "id": "si a esa itv voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha t\u00e9cnica y el nivel de ruidos que es permitible por industria.",
+      "group": -2
+    },
+    {
+      "id": "Regulaci\u00f3n y Control",
+      "group": -3
+    },
+    {
+      "id": "Regulaci\u00f3n y Control_support",
+      "group": -1
+    },
+    {
+      "id": "Regulaci\u00f3n y Control_attack",
+      "group": -2
+    },
+    {
+      "id": "La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos.",
+      "group": -1
+    },
+    {
+      "id": "se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad pueden darse, ya que afectar\u00edan otros factores.",
+      "group": -1
+    },
+    {
+      "id": "No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados.",
+      "group": -2
+    },
+    {
+      "id": "esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle.",
+      "group": -2
+    },
+    {
+      "id": "Impacto en la Salud y Bienestar",
+      "group": -3
+    },
+    {
+      "id": "Impacto en la Salud y Bienestar_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en la Salud y Bienestar_attack",
+      "group": -2
+    },
+    {
+      "id": "Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas.",
+      "group": -1
+    },
+    {
+      "id": "No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa.",
+      "group": -1
+    },
+    {
+      "id": "Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir.",
+      "group": -2
+    },
+    {
+      "id": "Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito.",
+      "group": -2
+    },
+    {
+      "id": "Desaf\u00edos de Medici\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Desaf\u00edos de Medici\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Desaf\u00edos de Medici\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "El principal problema de las mediciones con son\u00f3metro se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad no pueden darse.",
+      "group": -1
+    },
+    {
+      "id": "las tablas de control se empezaron a hacer a partir de 1985, todos los veh\u00edculos anteriores no tienen l\u00edmite por antig\u00fcedad.",
+      "group": -1
+    },
+    {
+      "id": "si a esa ITV voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha t\u00e9cnica.",
+      "group": -2
+    },
+    {
+      "id": "no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no exist\u00edan estas medidas.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 3905",
+      "target": "Ruido de Motos",
+      "value": 1
+    },
+    {
+      "source": "Ruido de Motos",
+      "target": "Ruido de Motos_support",
+      "value": 2
+    },
+    {
+      "source": "Ruido de Motos",
+      "target": "Ruido de Motos_attack",
+      "value": 2
+    },
+    {
+      "source": "Ruido de Motos_support",
+      "target": "las motos, especialmente las m\u00e1s peque\u00f1as, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable.",
+      "value": 3
+    },
+    {
+      "source": "Ruido de Motos_support",
+      "target": "a quien haga ruido innecesario que se le sancione.",
+      "value": 3
+    },
+    {
+      "source": "Ruido de Motos_support",
+      "target": "todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
+      "value": 3
+    },
+    {
+      "source": "Ruido de Motos_attack",
+      "target": "El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos.",
+      "value": 3
+    },
+    {
+      "source": "Ruido de Motos_attack",
+      "target": "si a esa itv voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha t\u00e9cnica y el nivel de ruidos que es permitible por industria.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3905",
+      "target": "Regulaci\u00f3n y Control",
+      "value": 1
+    },
+    {
+      "source": "Regulaci\u00f3n y Control",
+      "target": "Regulaci\u00f3n y Control_support",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n y Control",
+      "target": "Regulaci\u00f3n y Control_attack",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n y Control_support",
+      "target": "La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n y Control_support",
+      "target": "se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad pueden darse, ya que afectar\u00edan otros factores.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n y Control_attack",
+      "target": "No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n y Control_attack",
+      "target": "esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3905",
+      "target": "Impacto en la Salud y Bienestar",
+      "value": 1
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar",
+      "target": "Impacto en la Salud y Bienestar_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar",
+      "target": "Impacto en la Salud y Bienestar_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar_support",
+      "target": "Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar_support",
+      "target": "No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar_attack",
+      "target": "Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en la Salud y Bienestar_attack",
+      "target": "Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3905",
+      "target": "Desaf\u00edos de Medici\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n",
+      "target": "Desaf\u00edos de Medici\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n",
+      "target": "Desaf\u00edos de Medici\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n_support",
+      "target": "El principal problema de las mediciones con son\u00f3metro se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad no pueden darse.",
+      "value": 3
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n_support",
+      "target": "las tablas de control se empezaron a hacer a partir de 1985, todos los veh\u00edculos anteriores no tienen l\u00edmite por antig\u00fcedad.",
+      "value": 3
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n_attack",
+      "target": "si a esa ITV voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha t\u00e9cnica.",
+      "value": 3
+    },
+    {
+      "source": "Desaf\u00edos de Medici\u00f3n_attack",
+      "target": "no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no exist\u00edan estas medidas.",
+      "value": 3
+    }
+  ]
+}

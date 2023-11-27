@@ -1,0 +1,245 @@
+{
+  "name": "2513",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [
+            {
+              "name": "29129",
+              "value": 100,
+              "text": "[29129] El caso es que en las ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague la gente convive con las bicicletas de otra manera. Se ven un mont\u00f3n de calles peatonales y plazas donde pasan bicicletas a ritmo de peat\u00f3n y los peatones no se alteran ni se enfadan porque est\u00e1n en su derecho ya que all\u00ed se les permite en este tipo de lugares. Se puede ver en un mont\u00f3n de v\u00eddeos en Youtube.",
+              "short_text": "[29129] El caso es que en las ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague la gente convive con las bicicletas de otra manera. Se ven un mont\u00f3n de calles peatonales y plazas..."
+            }
+          ],
+          "text": "[SUPPORT] En ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague, se ven calles peatonales y plazas donde pasan bicicletas a ritmo de peat\u00f3n y los peatones no se alteran.",
+          "short_text": "[SUPPORT] En ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague, se ven calles peatonales y plazas donde pasan bicicletas a ritmo de peat\u00f3n y los peatones no se alteran."
+        },
+        {
+          "name": "2",
+          "children": [
+            {
+              "name": "29131",
+              "value": 100,
+              "text": "[29131] Si yo quisiera tener bronca, me puedo encontrar con cincuenta o sesenta peatones en un tramo de 4 o 5 km invadiendo el carril bicicleta en la zona del parque las cruces y tienen su paseo al lado. Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras.",
+              "short_text": "[29131] Si yo quisiera tener bronca, me puedo encontrar con cincuenta o sesenta peatones en un tramo de 4 o 5 km invadiendo el carril bicicleta en la zona del parque las cruces y tienen su paseo al la..."
+            }
+          ],
+          "text": "[ATTACK] Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras.",
+          "short_text": "[ATTACK] Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras."
+        }
+      ],
+      "text": "Convivencia en espacios compartidos",
+      "short_text": "Convivencia en espacios compartidos"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "74914",
+              "value": 100,
+              "text": "[74914] Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.",
+              "short_text": "[74914] Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones."
+            }
+          ],
+          "text": "[SUPPORT] Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.",
+          "short_text": "[SUPPORT] Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones."
+        },
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "28911",
+              "value": 100,
+              "text": "[28911] Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, s saltan los sem\u00e1foros provocando sobre saltos en los transe\u00fantes e incluso cuando van por la acera se permiten el tocar el claxon para que nos apartemos.",
+              "short_text": "[28911] Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, s saltan los sem\u00e1foros provocando sobre saltos en los transe\u00fantes e incluso cu..."
+            }
+          ],
+          "text": "[ATTACK] Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, saltan los sem\u00e1foros provocando sobresaltos en los transe\u00fantes.",
+          "short_text": "[ATTACK] Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, saltan los sem\u00e1foros provocando sobresaltos en los transe\u00fantes."
+        }
+      ],
+      "text": "Seguridad y accidentes",
+      "short_text": "Seguridad y accidentes"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "28970",
+              "value": 100,
+              "text": "[28970] Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. A lo mejor la gente que va por la acera prefiere no jugarse la vida mientras respira a pulm\u00f3n limpio el tubo de escape del que va delante, en determinados tramos. Soluci\u00f3n carriles bicicleta de verdad y no de paseo.",
+              "short_text": "[28970] Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. A lo mejor la gente que va por la acera prefiere no jugarse la vida mientras respira a pulm\u00f3n limpio e..."
+            }
+          ],
+          "text": "[SUPPORT] Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Soluci\u00f3n carriles bicicleta de verdad y no de paseo.",
+          "short_text": "[SUPPORT] Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Soluci\u00f3n carriles bicicleta de verdad y no de paseo."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "28928",
+              "value": 100,
+              "text": "[28928] Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches. Teniendo en cuenta que Madrid est\u00e1 plagado de polic\u00edas municipales, estos deber\u00edan sancionar con cursos obligatorios de educaci\u00f3n v\u00edal a los ciclistas que circulen por las aceras o pago de una multa alta En resumen, la educaci\u00f3n es la \u00fanica v\u00eda para los comportamientos inc\u00edvicos.",
+              "short_text": "[28928] Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches. Teniendo en cuenta que Madrid est\u00e1 plagado de polic\u00edas municipales, estos deber\u00edan sancionar con c..."
+            }
+          ],
+          "text": "[ATTACK] Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches.",
+          "short_text": "[ATTACK] Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches."
+        }
+      ],
+      "text": "Infraestructura vial",
+      "short_text": "Infraestructura vial"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "29064",
+              "value": 100,
+              "text": "[29064] Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educaci\u00f3n vial. Yo llevo 20 a\u00f1os en Madrid montando en bicicleta y con patines tambi\u00e9n he ido a muchas bicicr\u00edticas, y he visto de todo, tanto en coches como en bicicletas, pero lo de las bicicletas en las aceras me parece muy mal, sobre todo las el\u00e9ctricas.",
+              "short_text": "[29064] Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancio..."
+            }
+          ],
+          "text": "[SUPPORT] Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educaci\u00f3n vial.",
+          "short_text": "[SUPPORT] Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sanc..."
+        }
+      ],
+      "text": "Educaci\u00f3n vial",
+      "short_text": "Educaci\u00f3n vial"
+    },
+    {
+      "name": "5",
+      "children": [
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "29939",
+              "value": 100,
+              "text": "[29939] Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados. Todo mi apoyo.",
+              "short_text": "[29939] Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados. Todo mi apoyo."
+            }
+          ],
+          "text": "[SUPPORT] Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados.",
+          "short_text": "[SUPPORT] Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados."
+        }
+      ],
+      "text": "Identificaci\u00f3n y sanciones",
+      "short_text": "Identificaci\u00f3n y sanciones"
+    },
+    {
+      "name": "6",
+      "children": [
+        {
+          "name": "9",
+          "children": [],
+          "text": "[SUPPORT] Es curioso que molesten m\u00e1s las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos contaminante que los coches.",
+          "short_text": "[SUPPORT] Es curioso que molesten m\u00e1s las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos con..."
+        }
+      ],
+      "text": "Contaminaci\u00f3n y salud",
+      "short_text": "Contaminaci\u00f3n y salud"
+    },
+    {
+      "name": "7",
+      "children": [
+        {
+          "name": "10",
+          "children": [
+            {
+              "name": "28995",
+              "value": 100,
+              "text": "[28995] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la acera. Creo que hay que empezar a tomar la bicicleta en serio a nivel infraestructuras. Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas. Desgraciadamente muchas veces es as\u00ed y lo que pasa es que quienes son intolerantes lo son siempre. Quede claro que del mismo modo pido a los ciclistas que intenten evitar ir por las aceras y que sean respetuosos para que tambi\u00e9n lo sean los dem\u00e1s con nosotros.",
+              "short_text": "[28995] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la..."
+            }
+          ],
+          "text": "[SUPPORT] Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas.",
+          "short_text": "[SUPPORT] Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas."
+        }
+      ],
+      "text": "Tolerancia y convivencia",
+      "short_text": "Tolerancia y convivencia"
+    },
+    {
+      "name": "8",
+      "children": [
+        {
+          "name": "11",
+          "children": [
+            {
+              "name": "29141",
+              "value": 100,
+              "text": "[29141] Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se podr\u00eda identificar m\u00e1s f\u00e1cilmente.",
+              "short_text": "[29141] Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se p..."
+            }
+          ],
+          "text": "[SUPPORT] Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se podr\u00eda identificar m\u00e1s f\u00e1cilmente.",
+          "short_text": "[SUPPORT] Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se..."
+        }
+      ],
+      "text": "Costo de matriculaci\u00f3n",
+      "short_text": "Costo de matriculaci\u00f3n"
+    },
+    {
+      "name": "9",
+      "children": [
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "28995",
+              "value": 100,
+              "text": "[28995] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la acera. Creo que hay que empezar a tomar la bicicleta en serio a nivel infraestructuras. Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas. Desgraciadamente muchas veces es as\u00ed y lo que pasa es que quienes son intolerantes lo son siempre. Quede claro que del mismo modo pido a los ciclistas que intenten evitar ir por las aceras y que sean respetuosos para que tambi\u00e9n lo sean los dem\u00e1s con nosotros.",
+              "short_text": "[28995] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la..."
+            }
+          ],
+          "text": "[SUPPORT] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la acera.",
+          "short_text": "[SUPPORT] Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por l..."
+        },
+        {
+          "name": "13",
+          "children": [],
+          "text": "[ATTACK] De ah\u00ed la intolerancia. El que va en coche piensa que la bicicleta va muy despacio, el peat\u00f3n piensa que va muy deprisa, el que va en bicicleta piensa que el del coche es impaciente y contamina.",
+          "short_text": "[ATTACK] De ah\u00ed la intolerancia. El que va en coche piensa que la bicicleta va muy despacio, el peat\u00f3n piensa que va muy deprisa, el que va en bicicleta piensa que el del coche es impaciente y contami..."
+        }
+      ],
+      "text": "Percepci\u00f3n social de la bicicleta",
+      "short_text": "Percepci\u00f3n social de la bicicleta"
+    },
+    {
+      "name": "10",
+      "children": [
+        {
+          "name": "14",
+          "children": [
+            {
+              "name": "65482",
+              "value": 100,
+              "text": "[65482] En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n.",
+              "short_text": "[65482] En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n."
+            }
+          ],
+          "text": "[SUPPORT] En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n.",
+          "short_text": "[SUPPORT] En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n."
+        }
+      ],
+      "text": "Impacto ambiental",
+      "short_text": "Impacto ambiental"
+    }
+  ],
+  "text": "Identificaci\u00f3n de bicicletas. Cada vez circulan m\u00e1s bicicletas por las aceras y se saltan normas de tr\u00e1fico. Para evitar la impunidad se puede tomar los datos de la matr\u00edcula para poner la oportuna denuncia.",
+  "short_text": "Identificaci\u00f3n de bicicletas. Cada vez circulan m\u00e1s bicicletas por las aceras y se saltan normas de tr\u00e1fico. Para evitar la impunidad se puede tomar los datos de la matr\u00edcula para poner la oportuna de..."
+}
