@@ -1,0 +1,262 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2551",
+      "group": 0
+    },
+    {
+      "id": "Celebraciones en el centro de la ciudad",
+      "group": -3
+    },
+    {
+      "id": "Celebraciones en el centro de la ciudad_support",
+      "group": -1
+    },
+    {
+      "id": "Celebraciones en el centro de la ciudad_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo voto para que no se c\u00e9lebre nunca m\u00e1s ninguna victoria deportiva dentro de la capital...",
+      "group": -1
+    },
+    {
+      "id": "A trabajar como Dios manda y a circular todos correctamente...",
+      "group": -1
+    },
+    {
+      "id": "Si pero eso solo lo sabe el vecino que lo sufre...",
+      "group": -1
+    },
+    {
+      "id": "Por supuesto que trasladar\u00eda toda aquella celebraci\u00f3n que cause problemas y molestias a los que lo sufren...",
+      "group": -1
+    },
+    {
+      "id": "Usted lanza esta iniciativa porque no quiere que los homosexuales... festejen en el centro de la ciudad...",
+      "group": -2
+    },
+    {
+      "id": "Por cierto, la fiesta del orgullo gay fomenta la tolerancia...",
+      "group": -2
+    },
+    {
+      "id": "Yo quiero que todas las celebraciones se queden donde est\u00e1n y que se regulen debidamente...",
+      "group": -2
+    },
+    {
+      "id": "Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas...",
+      "group": -2
+    },
+    {
+      "id": "Tolerancia y respeto en celebraciones",
+      "group": -3
+    },
+    {
+      "id": "Tolerancia y respeto en celebraciones_support",
+      "group": -1
+    },
+    {
+      "id": "Tolerancia y respeto en celebraciones_attack",
+      "group": -2
+    },
+    {
+      "id": "Estoy muy de acuerdo, la \u00faltima fue insufrible para los vecinos de Centro, por lo largo, la suciedad y el ruido...",
+      "group": -1
+    },
+    {
+      "id": "Tachar de homofobia como argumento es un sin argumento...",
+      "group": -1
+    },
+    {
+      "id": "Ruidos, suciedades, cortes de tr\u00e1fico etc. Y no hablamos de un par de horas, son d\u00edas y horas interminables para los que lo sufrimos...",
+      "group": -1
+    },
+    {
+      "id": "Que se generan en cualquier fiesta y para lo que podr\u00eda haber lanzado una propuesta para una mayor regulaci\u00f3n...",
+      "group": -2
+    },
+    {
+      "id": "A dem\u00e1s que la tolerancia es cosa de ambas partes, nosotros tenemos que aguantar no entiendo la fiesta porque tampoco hay la fiesta del orgullo heterosexual...",
+      "group": -2
+    },
+    {
+      "id": "Me temo que como intolerante se acaba de retratar usted mismo con sus comentarios...",
+      "group": -2
+    },
+    {
+      "id": "Regulaci\u00f3n de Fiestas P\u00fablicas",
+      "group": -3
+    },
+    {
+      "id": "Regulaci\u00f3n de Fiestas P\u00fablicas_support",
+      "group": -1
+    },
+    {
+      "id": "Regulaci\u00f3n de Fiestas P\u00fablicas_attack",
+      "group": -2
+    },
+    {
+      "id": "Invitar\u00eda a los responsables municipales en este \u00e1rea a que vengan a oler por las calles aleda\u00f1as a la Plaza de Espa\u00f1a...",
+      "group": -1
+    },
+    {
+      "id": "Nadie en mi barrio quiere esas fiestas, pregunten a comerciantes, tambi\u00e9n de bares y restaurantes...",
+      "group": -1
+    },
+    {
+      "id": "Es la imposici\u00f3n de un colectivo. Espero que se pueda actuar por parte del ayuntamiento para evitar las m\u00faltiples incomodidades que tendremos que aguantar los vecinos.",
+      "group": -1
+    },
+    {
+      "id": "Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas y durante aproximadamente una semana los vecinos tienen que aguantar los inconvenientes que conlleva...",
+      "group": -2
+    },
+    {
+      "id": "Yo quiero que todas las celebraciones se queden donde est\u00e1n y que se regulen debidamente de forma que todos los madrile\u00f1os tengamos opci\u00f3n a participar en aquellas que m\u00e1s se adecuen a nuestros gustos y preferencias...",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2551",
+      "target": "Celebraciones en el centro de la ciudad",
+      "value": 1
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad",
+      "target": "Celebraciones en el centro de la ciudad_support",
+      "value": 2
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad",
+      "target": "Celebraciones en el centro de la ciudad_attack",
+      "value": 2
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_support",
+      "target": "Yo voto para que no se c\u00e9lebre nunca m\u00e1s ninguna victoria deportiva dentro de la capital...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_support",
+      "target": "A trabajar como Dios manda y a circular todos correctamente...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_support",
+      "target": "Si pero eso solo lo sabe el vecino que lo sufre...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_support",
+      "target": "Por supuesto que trasladar\u00eda toda aquella celebraci\u00f3n que cause problemas y molestias a los que lo sufren...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_attack",
+      "target": "Usted lanza esta iniciativa porque no quiere que los homosexuales... festejen en el centro de la ciudad...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_attack",
+      "target": "Por cierto, la fiesta del orgullo gay fomenta la tolerancia...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_attack",
+      "target": "Yo quiero que todas las celebraciones se queden donde est\u00e1n y que se regulen debidamente...",
+      "value": 3
+    },
+    {
+      "source": "Celebraciones en el centro de la ciudad_attack",
+      "target": "Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas...",
+      "value": 3
+    },
+    {
+      "source": "proposal 2551",
+      "target": "Tolerancia y respeto en celebraciones",
+      "value": 1
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones",
+      "target": "Tolerancia y respeto en celebraciones_support",
+      "value": 2
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones",
+      "target": "Tolerancia y respeto en celebraciones_attack",
+      "value": 2
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_support",
+      "target": "Estoy muy de acuerdo, la \u00faltima fue insufrible para los vecinos de Centro, por lo largo, la suciedad y el ruido...",
+      "value": 3
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_support",
+      "target": "Tachar de homofobia como argumento es un sin argumento...",
+      "value": 3
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_support",
+      "target": "Ruidos, suciedades, cortes de tr\u00e1fico etc. Y no hablamos de un par de horas, son d\u00edas y horas interminables para los que lo sufrimos...",
+      "value": 3
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_attack",
+      "target": "Que se generan en cualquier fiesta y para lo que podr\u00eda haber lanzado una propuesta para una mayor regulaci\u00f3n...",
+      "value": 3
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_attack",
+      "target": "A dem\u00e1s que la tolerancia es cosa de ambas partes, nosotros tenemos que aguantar no entiendo la fiesta porque tampoco hay la fiesta del orgullo heterosexual...",
+      "value": 3
+    },
+    {
+      "source": "Tolerancia y respeto en celebraciones_attack",
+      "target": "Me temo que como intolerante se acaba de retratar usted mismo con sus comentarios...",
+      "value": 3
+    },
+    {
+      "source": "proposal 2551",
+      "target": "Regulaci\u00f3n de Fiestas P\u00fablicas",
+      "value": 1
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas",
+      "target": "Regulaci\u00f3n de Fiestas P\u00fablicas_support",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas",
+      "target": "Regulaci\u00f3n de Fiestas P\u00fablicas_attack",
+      "value": 2
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas_support",
+      "target": "Invitar\u00eda a los responsables municipales en este \u00e1rea a que vengan a oler por las calles aleda\u00f1as a la Plaza de Espa\u00f1a...",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas_support",
+      "target": "Nadie en mi barrio quiere esas fiestas, pregunten a comerciantes, tambi\u00e9n de bares y restaurantes...",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas_support",
+      "target": "Es la imposici\u00f3n de un colectivo. Espero que se pueda actuar por parte del ayuntamiento para evitar las m\u00faltiples incomodidades que tendremos que aguantar los vecinos.",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas_attack",
+      "target": "Por supuesto las de los barrios. Hay multitud de barrios que celebran sus fiestas y durante aproximadamente una semana los vecinos tienen que aguantar los inconvenientes que conlleva...",
+      "value": 3
+    },
+    {
+      "source": "Regulaci\u00f3n de Fiestas P\u00fablicas_attack",
+      "target": "Yo quiero que todas las celebraciones se queden donde est\u00e1n y que se regulen debidamente de forma que todos los madrile\u00f1os tengamos opci\u00f3n a participar en aquellas que m\u00e1s se adecuen a nuestros gustos y preferencias...",
+      "value": 3
+    }
+  ]
+}

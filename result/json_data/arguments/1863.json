@@ -8,89 +8,17 @@
           "name": "1",
           "children": [
             {
-              "name": "24270",
+              "name": "33489",
               "value": 100,
-              "text": "[24270] El retiro es para descansar del ruido y estr\u00e9s de la ciudad. Me molesta sobremanera ir a El Retiro a descansar el esp\u00edritu, y que un rumano me ponga el acorde\u00f3n en la oreja. No digo nada de la moda de los tambores. Imagina lo que opino. Y ojo, de tradici\u00f3n Nada de nada. Esto no es \u00c1frica. En Madrid, nunca hubo tambores.",
-              "short_text": "[24270] El retiro es para descansar del ruido y estr\u00e9s de la ciudad. Me molesta sobremanera ir a El Retiro a descansar el esp\u00edritu, y que un rumano me ponga el acorde\u00f3n en la oreja. No digo nada de la..."
+              "text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tipo de transaci\u00f3n comercial o por el requerimiento de alguna autorizaci\u00f3n administrativa. Esta prohibici\u00f3n ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresi\u00f3n y de reuni\u00f3n. Un precedente de la ley mordaza ensayado sobre el indefenso colectivo de quienes, sin ning\u00fan tipo de organizaci\u00f3n, estructura, asociaci\u00f3n. Nos encontr\u00e1bamos all\u00ed cada domingo. Todav\u00eda no hab\u00edan empezado los recortes en la econom\u00eda, y ya le dieron este hachazo a nuestra alegr\u00eda.",
+              "short_text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tip..."
             }
           ],
-          "text": "[ATTACK] El retiro es para descansar del ruido y estr\u00e9s de la ciudad.",
-          "short_text": "[ATTACK] El retiro es para descansar del ruido y estr\u00e9s de la ciudad."
+          "text": "[SUPPORT] Todo est\u00e1 mediado por alg\u00fan tipo de transaci\u00f3n comercial o por el requerimiento de alguna autorizaci\u00f3n administrativa.",
+          "short_text": "[SUPPORT] Todo est\u00e1 mediado por alg\u00fan tipo de transaci\u00f3n comercial o por el requerimiento de alguna autorizaci\u00f3n administrativa."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "24356",
-              "value": 100,
-              "text": "[24356] Creo que el parque del Retiro debe ser un refugio ante el ruido que nos rodea y acompa\u00f1a todos los d\u00edas. Creo que no se deb\u00eda permitir ni tambores ni otros instrumentos. Tampoco entiendo por qu\u00e9 en cuando hay alg\u00fan evento en el Retiro, ponen la m\u00fasica muy alta, probablemente muy por encima de los niveles permitidos.",
-              "short_text": "[24356] Creo que el parque del Retiro debe ser un refugio ante el ruido que nos rodea y acompa\u00f1a todos los d\u00edas. Creo que no se deb\u00eda permitir ni tambores ni otros instrumentos. Tampoco entiendo por q..."
-            }
-          ],
-          "text": "[ATTACK] Creo que el parque del Retiro debe ser un refugio ante el ruido que nos rodea.",
-          "short_text": "[ATTACK] Creo que el parque del Retiro debe ser un refugio ante el ruido que nos rodea."
-        },
-        {
-          "name": "3",
-          "children": [
-            {
-              "name": "34914",
-              "value": 100,
-              "text": "[34914] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza.",
-              "short_text": "[34914] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza."
-            }
-          ],
-          "text": "[ATTACK] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza.",
-          "short_text": "[ATTACK] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza."
-        },
-        {
-          "name": "4",
-          "children": [
-            {
-              "name": "25048",
-              "value": 100,
-              "text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores. Los vecinos est\u00e1bamos artos. YPsana es un pesado poniendo varias veces esta propuesta molesta.",
-              "short_text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores..."
-            }
-          ],
-          "text": "[ATTACK] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta.",
-          "short_text": "[ATTACK] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta."
-        },
-        {
-          "name": "5",
-          "children": [
-            {
-              "name": "25048",
-              "value": 100,
-              "text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores. Los vecinos est\u00e1bamos artos. YPsana es un pesado poniendo varias veces esta propuesta molesta.",
-              "short_text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores..."
-            }
-          ],
-          "text": "[ATTACK] A un parque no se va a escuchar ruido y tambores.",
-          "short_text": "[ATTACK] A un parque no se va a escuchar ruido y tambores."
-        }
-      ],
-      "text": "Tranquilidad y descanso",
-      "short_text": "Tranquilidad y descanso"
-    },
-    {
-      "name": "2",
-      "children": [
-        {
-          "name": "6",
-          "children": [
-            {
-              "name": "24699",
-              "value": 100,
-              "text": "[24699] Nada de restingir. Lo mejor es que surja expont\u00e1neo sea el d\u00eda que sea. Y si es los domingos por la tarde u otro d\u00eda que as\u00ed sea. La m\u00fasica, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresi\u00f3n universal que todos entendemos aunque no hablemos el mismo idioma. Y adem\u00e1s une culturas, sentimientos positivos. Todo lo bueno.",
-              "short_text": "[24699] Nada de restingir. Lo mejor es que surja expont\u00e1neo sea el d\u00eda que sea. Y si es los domingos por la tarde u otro d\u00eda que as\u00ed sea. La m\u00fasica, las canciones no solo amasan las fieras como se dic..."
-            }
-          ],
-          "text": "[SUPPORT] La m\u00fasica, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresi\u00f3n universal que todos entendemos.",
-          "short_text": "[SUPPORT] La m\u00fasica, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresi\u00f3n universal que todos entendemos."
-        },
-        {
-          "name": "7",
           "children": [
             {
               "name": "35055",
@@ -103,27 +31,86 @@
           "short_text": "[SUPPORT] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor."
         },
         {
+          "name": "3",
+          "children": [
+            {
+              "name": "65135",
+              "value": 100,
+              "text": "[65135] La m\u00fasica para bien o para mal, es psicoactiva. Y no debe resultar una imposici\u00f3n. Limitarla es una buena pol\u00edtica.",
+              "short_text": "[65135] La m\u00fasica para bien o para mal, es psicoactiva. Y no debe resultar una imposici\u00f3n. Limitarla es una buena pol\u00edtica."
+            }
+          ],
+          "text": "[ATTACK] La m\u00fasica para bien o para mal, es psicoactiva. Y no debe resultar una imposici\u00f3n.",
+          "short_text": "[ATTACK] La m\u00fasica para bien o para mal, es psicoactiva. Y no debe resultar una imposici\u00f3n."
+        },
+        {
+          "name": "4",
+          "children": [],
+          "text": "[ATTACK] Por favor hago un llamamiento a la moderaci\u00f3n.",
+          "short_text": "[ATTACK] Por favor hago un llamamiento a la moderaci\u00f3n."
+        }
+      ],
+      "text": "Libertad de expresi\u00f3n y reuni\u00f3n",
+      "short_text": "Libertad de expresi\u00f3n y reuni\u00f3n"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "35055",
+              "value": 100,
+              "text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes estoy tambi\u00e9n seguro que gustan del silencio y la naturaleza. Esto no es una cuesti\u00f3n de bandos partidarios del silencio y el disfrute de la naturaleza y otros que no lo son. Un conflicto inventado para justificar una prohibici\u00f3n arbitraria. El parque es muy grande y nos puede acoger a tod@s en armon\u00eda.",
+              "short_text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes e..."
+            }
+          ],
+          "text": "[SUPPORT] El parque es muy grande y nos puede acoger a tod@s en armon\u00eda.",
+          "short_text": "[SUPPORT] El parque es muy grande y nos puede acoger a tod@s en armon\u00eda."
+        },
+        {
+          "name": "6",
+          "children": [
+            {
+              "name": "35055",
+              "value": 100,
+              "text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes estoy tambi\u00e9n seguro que gustan del silencio y la naturaleza. Esto no es una cuesti\u00f3n de bandos partidarios del silencio y el disfrute de la naturaleza y otros que no lo son. Un conflicto inventado para justificar una prohibici\u00f3n arbitraria. El parque es muy grande y nos puede acoger a tod@s en armon\u00eda.",
+              "short_text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes e..."
+            }
+          ],
+          "text": "[SUPPORT] Un conflicto inventado para justificar una prohibici\u00f3n arbitraria.",
+          "short_text": "[SUPPORT] Un conflicto inventado para justificar una prohibici\u00f3n arbitraria."
+        },
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "34914",
+              "value": 100,
+              "text": "[34914] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza.",
+              "short_text": "[34914] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza."
+            }
+          ],
+          "text": "[ATTACK] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza.",
+          "short_text": "[ATTACK] Para el que toca el tambor puede ser divertid\u00edsimo pero es un tormento para los que nos gusta el silencio y la naturaleza."
+        },
+        {
           "name": "8",
           "children": [
             {
-              "name": "31314",
+              "name": "76173",
               "value": 100,
-              "text": "[31314] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no solo no tendr\u00eda que no ser perseguido, sino cuidado y respetado all\u00ed donde se produzca.",
-              "short_text": "[31314] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no..."
-            },
-            {
-              "name": "35756",
-              "value": 100,
-              "text": "[35756] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no solo no tendr\u00eda que no ser perseguido, sino cuidado y respetado all\u00ed donde se produzca.",
-              "short_text": "[35756] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no..."
+              "text": "[76173] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se podr\u00e1n llevar a cabo aquellas que sean adecuadas a ese entorno. El Parque del Retiro no parece el lugar m\u00e1s indicado para ponerse a tocar unos tambores, como tampoco lo es la pr\u00e1ctica del motocross o las carreras de caballos, por ejemplo.",
+              "short_text": "[76173] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se po..."
             }
           ],
-          "text": "[SUPPORT] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid.",
-          "short_text": "[SUPPORT] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid."
+          "text": "[ATTACK] El Parque del Retiro no parece el lugar m\u00e1s indicado para ponerse a tocar unos tambores.",
+          "short_text": "[ATTACK] El Parque del Retiro no parece el lugar m\u00e1s indicado para ponerse a tocar unos tambores."
         }
       ],
-      "text": "Diversidad cultural",
-      "short_text": "Diversidad cultural"
+      "text": "Convivencia y uso del espacio p\u00fablico",
+      "short_text": "Convivencia y uso del espacio p\u00fablico"
     },
     {
       "name": "3",
@@ -138,8 +125,8 @@
               "short_text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores..."
             }
           ],
-          "text": "[ATTACK] Los vecinos est\u00e1bamos artos.",
-          "short_text": "[ATTACK] Los vecinos est\u00e1bamos artos."
+          "text": "[ATTACK] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque.",
+          "short_text": "[ATTACK] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque."
         },
         {
           "name": "10",
@@ -156,327 +143,26 @@
         },
         {
           "name": "11",
-          "children": [
-            {
-              "name": "25397",
-              "value": 100,
-              "text": "[25397] M\u00fasica en la calle que a unos gusta y a otros molesta. Toca el tambor en tu casa y no molestes al resto.",
-              "short_text": "[25397] M\u00fasica en la calle que a unos gusta y a otros molesta. Toca el tambor en tu casa y no molestes al resto."
-            }
-          ],
-          "text": "[ATTACK] M\u00fasica en la calle que a unos gusta y a otros molesta.",
-          "short_text": "[ATTACK] M\u00fasica en la calle que a unos gusta y a otros molesta."
-        },
-        {
-          "name": "12",
-          "children": [],
-          "text": "[ATTACK] Tu y tu amigo el peana dejad de dar la vara con los tamborcitos.",
-          "short_text": "[ATTACK] Tu y tu amigo el peana dejad de dar la vara con los tamborcitos."
-        },
-        {
-          "name": "13",
           "children": [],
           "text": "[ATTACK] Los tambores molestaban mucho a los vecinos.",
           "short_text": "[ATTACK] Los tambores molestaban mucho a los vecinos."
+        },
+        {
+          "name": "12",
+          "children": [
+            {
+              "name": "45456",
+              "value": 100,
+              "text": "[45456] Lo afirmo y lo reitero, no he pedido que sean excluidas las manifestaciones espont\u00e1neas del espacio p\u00fablico, disfruto de ellas, eso lo pone usted yo no lo he expresado ni es lo que quiero expresar. He o\u00eddo y disfrutado a m\u00fasicos con hang drum, arpas, violines, guitarras, digeridoo, clarinetes, saxofones, etc. , ning\u00fan problema con ellos. Tampoco es molesto el ritmo de los yemb\u00e9s, me encantan los ritmos, a no ser que est\u00e9n horas y horas que es lo que se estaba haciendo. Es mi experiencia y mi opini\u00f3n. Que le parezca consistente o que no he entendido su propuesta es cosa suya.",
+              "short_text": "[45456] Lo afirmo y lo reitero, no he pedido que sean excluidas las manifestaciones espont\u00e1neas del espacio p\u00fablico, disfruto de ellas, eso lo pone usted yo no lo he expresado ni es lo que quiero expr..."
+            }
+          ],
+          "text": "[ATTACK] Tampoco es molesto el ritmo de los yemb\u00e9s, me encantan los ritmos, a no ser que est\u00e9n horas y horas.",
+          "short_text": "[ATTACK] Tampoco es molesto el ritmo de los yemb\u00e9s, me encantan los ritmos, a no ser que est\u00e9n horas y horas."
         }
       ],
-      "text": "Perturbaci\u00f3n y molestia",
-      "short_text": "Perturbaci\u00f3n y molestia"
-    },
-    {
-      "name": "4",
-      "children": [
-        {
-          "name": "14",
-          "children": [
-            {
-              "name": "33489",
-              "value": 100,
-              "text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tipo de transaci\u00f3n comercial o por el requerimiento de alguna autorizaci\u00f3n administrativa. Esta prohibici\u00f3n ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresi\u00f3n y de reuni\u00f3n. Un precedente de la ley mordaza ensayado sobre el indefenso colectivo de quienes, sin ning\u00fan tipo de organizaci\u00f3n, estructura, asociaci\u00f3n. Nos encontr\u00e1bamos all\u00ed cada domingo. Todav\u00eda no hab\u00edan empezado los recortes en la econom\u00eda, y ya le dieron este hachazo a nuestra alegr\u00eda.",
-              "short_text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tip..."
-            }
-          ],
-          "text": "[SUPPORT] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda.",
-          "short_text": "[SUPPORT] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda."
-        },
-        {
-          "name": "15",
-          "children": [
-            {
-              "name": "33489",
-              "value": 100,
-              "text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tipo de transaci\u00f3n comercial o por el requerimiento de alguna autorizaci\u00f3n administrativa. Esta prohibici\u00f3n ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresi\u00f3n y de reuni\u00f3n. Un precedente de la ley mordaza ensayado sobre el indefenso colectivo de quienes, sin ning\u00fan tipo de organizaci\u00f3n, estructura, asociaci\u00f3n. Nos encontr\u00e1bamos all\u00ed cada domingo. Todav\u00eda no hab\u00edan empezado los recortes en la econom\u00eda, y ya le dieron este hachazo a nuestra alegr\u00eda.",
-              "short_text": "[33489] Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participaci\u00f3n espont\u00e1nea de la ciudadan\u00eda en lo que ocurre en el espacio p\u00fablico. Todo est\u00e1 mediado por alg\u00fan tip..."
-            }
-          ],
-          "text": "[SUPPORT] Esta prohibici\u00f3n ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresi\u00f3n y de reuni\u00f3n.",
-          "short_text": "[SUPPORT] Esta prohibici\u00f3n ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresi\u00f3n y de reuni\u00f3n."
-        },
-        {
-          "name": "16",
-          "children": [
-            {
-              "name": "31314",
-              "value": 100,
-              "text": "[31314] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no solo no tendr\u00eda que no ser perseguido, sino cuidado y respetado all\u00ed donde se produzca.",
-              "short_text": "[31314] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no..."
-            },
-            {
-              "name": "35756",
-              "value": 100,
-              "text": "[35756] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no solo no tendr\u00eda que no ser perseguido, sino cuidado y respetado all\u00ed donde se produzca.",
-              "short_text": "[35756] Me parece una propuesta muy oportuna y coherente con la ciudad de los abrazos que la nueva alcaldesa quiere que sea Madrid. Era una expresi\u00f3n de cultura de calle viva y no comercial, y eso no..."
-            }
-          ],
-          "text": "[SUPPORT] Era una expresi\u00f3n de cultura de calle viva y no comercial.",
-          "short_text": "[SUPPORT] Era una expresi\u00f3n de cultura de calle viva y no comercial."
-        }
-      ],
-      "text": "Libertad de expresi\u00f3n",
-      "short_text": "Libertad de expresi\u00f3n"
-    },
-    {
-      "name": "5",
-      "children": [
-        {
-          "name": "17",
-          "children": [
-            {
-              "name": "24388",
-              "value": 100,
-              "text": "[24388] Yo estoy de acuerdo en que se haga un domingo al mes y no todos, porque tiene que haber para todo el mundo. No se puede pretender usar el espacio para esa actividad todo el rato, al igual que est\u00e1 mal qie el gobierno del Partido Popular lo prohubiera siempre. Una propuesta equilibrada es que sea un domingo al mes.",
-              "short_text": "[24388] Yo estoy de acuerdo en que se haga un domingo al mes y no todos, porque tiene que haber para todo el mundo. No se puede pretender usar el espacio para esa actividad todo el rato, al igual que..."
-            }
-          ],
-          "text": "[ATTACK] Yo estoy de acuerdo en que se haga un domingo al mes y no todos, porque tiene que haber para todo el mundo.",
-          "short_text": "[ATTACK] Yo estoy de acuerdo en que se haga un domingo al mes y no todos, porque tiene que haber para todo el mundo."
-        },
-        {
-          "name": "18",
-          "children": [
-            {
-              "name": "76173",
-              "value": 100,
-              "text": "[76173] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se podr\u00e1n llevar a cabo aquellas que sean adecuadas a ese entorno. El Parque del Retiro no parece el lugar m\u00e1s indicado para ponerse a tocar unos tambores, como tampoco lo es la pr\u00e1ctica del motocross o las carreras de caballos, por ejemplo.",
-              "short_text": "[76173] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se po..."
-            }
-          ],
-          "text": "[ATTACK] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se podr\u00e1n llevar a cabo aquellas que sean adecuadas a ese entorno.",
-          "short_text": "[ATTACK] En contra de esta propuesta: Podemos ser tolerantes con la practica de casi todas las actividades culturales o deportivas que a cualquiera se le puedan ocurrir, pero eso s\u00ed en cada lugar se p..."
-        },
-        {
-          "name": "19",
-          "children": [
-            {
-              "name": "45452",
-              "value": 100,
-              "text": "[45452] Saludos psana, afirma que no es cierto que la vecindad del parque se vea afectada, est\u00e1 en un error, al ruido de la calle se sumaba el de los tambores. Como se\u00f1al\u00e9 antes era un problema la duraci\u00f3n ininterrumpida durante horas, recalco, ininterrumpida, sobre todo los fines de semana. En el Retiro hay m\u00fasicos de todo tipo unos muy buenos otros no tanto, que ensayan o deleitan con variedad de piezas, hay t\u00edteres, grupos de baile, magos, etc. , no molestan, por qu\u00e9 ser\u00e1? Hay muchas maneras de disfrutar el parque y de compartir ese espacio s\u00ed, hay que regular su uso. \u00bfQu\u00e9 le parece a usted que mientras hay una funci\u00f3n de t\u00edteres en el teatro de t\u00edteres est\u00e9n un grupo de veinte deportistas colg\u00e1ndose de las barandillas del teatro, mientras est\u00e1n las familias con sus hijos en las gradas y la compa\u00f1\u00eda de teatro en plena representaci\u00f3n? \u00bfEso es compartir, o es invadir? He entendido el sentido de la propuesta pero no estoy de acuerdo en como se ven\u00edan realizando los encuentros.",
-              "short_text": "[45452] Saludos psana, afirma que no es cierto que la vecindad del parque se vea afectada, est\u00e1 en un error, al ruido de la calle se sumaba el de los tambores. Como se\u00f1al\u00e9 antes era un problema la dur..."
-            }
-          ],
-          "text": "[ATTACK] Hay muchas maneras de disfrutar el parque y de compartir ese espacio s\u00ed, hay que regular su uso.",
-          "short_text": "[ATTACK] Hay muchas maneras de disfrutar el parque y de compartir ese espacio s\u00ed, hay que regular su uso."
-        }
-      ],
-      "text": "Regulaci\u00f3n y equilibrio",
-      "short_text": "Regulaci\u00f3n y equilibrio"
-    },
-    {
-      "name": "6",
-      "children": [
-        {
-          "name": "20",
-          "children": [
-            {
-              "name": "25048",
-              "value": 100,
-              "text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores. Los vecinos est\u00e1bamos artos. YPsana es un pesado poniendo varias veces esta propuesta molesta.",
-              "short_text": "[25048] Fuera tambores del Retiro, ruido molesto, y ego\u00edsta. Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque. A un parque no se va a escuchar ruido y tambores..."
-            }
-          ],
-          "text": "[ATTACK] Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque.",
-          "short_text": "[ATTACK] Maltrata a los vecinos, perjudica a la fauna del parque y estropea el silencio del parque."
-        },
-        {
-          "name": "21",
-          "children": [
-            {
-              "name": "44817",
-              "value": 100,
-              "text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace insoportable para la fauna, para los paseantes y para los vecinos del barrio, se puede hacer en salas insonorizadas, que las hay baratitas. El parque es grande y acoge a todos pero el sonido se expande, viaja, llegando m\u00e1s all\u00e1 de los l\u00edmites del propio parque. Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de m\u00fasicas con altavoces, estridentes, repetitivas, etc. , estar\u00edamos perjudic\u00e1ndonos, necesitamos esos espacios. Comprendo su planteamiento, y no me importar\u00eda que hubiera un tiempo para esos encuentros, un poco est\u00e1 bien, pero la realidad es que no ponen l\u00edmite y por eso es molesto. Me parece bien que existiera un espacio dedicado a esas alternativa de ocio espont\u00e1neo, pero no en el parque. Pensemos d\u00f3nde.",
-              "short_text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace..."
-            }
-          ],
-          "text": "[ATTACK] estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace insoportable para la fauna.",
-          "short_text": "[ATTACK] estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace insoportable para la fauna."
-        },
-        {
-          "name": "22",
-          "children": [
-            {
-              "name": "44817",
-              "value": 100,
-              "text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace insoportable para la fauna, para los paseantes y para los vecinos del barrio, se puede hacer en salas insonorizadas, que las hay baratitas. El parque es grande y acoge a todos pero el sonido se expande, viaja, llegando m\u00e1s all\u00e1 de los l\u00edmites del propio parque. Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de m\u00fasicas con altavoces, estridentes, repetitivas, etc. , estar\u00edamos perjudic\u00e1ndonos, necesitamos esos espacios. Comprendo su planteamiento, y no me importar\u00eda que hubiera un tiempo para esos encuentros, un poco est\u00e1 bien, pero la realidad es que no ponen l\u00edmite y por eso es molesto. Me parece bien que existiera un espacio dedicado a esas alternativa de ocio espont\u00e1neo, pero no en el parque. Pensemos d\u00f3nde.",
-              "short_text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace..."
-            }
-          ],
-          "text": "[ATTACK] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado.",
-          "short_text": "[ATTACK] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado."
-        }
-      ],
-      "text": "Impacto en la fauna",
-      "short_text": "Impacto en la fauna"
-    },
-    {
-      "name": "7",
-      "children": [
-        {
-          "name": "23",
-          "children": [
-            {
-              "name": "24699",
-              "value": 100,
-              "text": "[24699] Nada de restingir. Lo mejor es que surja expont\u00e1neo sea el d\u00eda que sea. Y si es los domingos por la tarde u otro d\u00eda que as\u00ed sea. La m\u00fasica, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresi\u00f3n universal que todos entendemos aunque no hablemos el mismo idioma. Y adem\u00e1s une culturas, sentimientos positivos. Todo lo bueno.",
-              "short_text": "[24699] Nada de restingir. Lo mejor es que surja expont\u00e1neo sea el d\u00eda que sea. Y si es los domingos por la tarde u otro d\u00eda que as\u00ed sea. La m\u00fasica, las canciones no solo amasan las fieras como se dic..."
-            }
-          ],
-          "text": "[SUPPORT] Lo mejor es que surja espont\u00e1neo sea el d\u00eda que sea.",
-          "short_text": "[SUPPORT] Lo mejor es que surja espont\u00e1neo sea el d\u00eda que sea."
-        },
-        {
-          "name": "24",
-          "children": [
-            {
-              "name": "25563",
-              "value": 100,
-              "text": "[25563] Bien! Que vuelva la percusi\u00f3n. Era el mejor sitio de Madrid para pillar costo, y encima te avisaban si ven\u00edan los maderos con los cambios de ritmo! Siiii, que vuelva. Fdo: percusionista.",
-              "short_text": "[25563] Bien! Que vuelva la percusi\u00f3n. Era el mejor sitio de Madrid para pillar costo, y encima te avisaban si ven\u00edan los maderos con los cambios de ritmo! Siiii, que vuelva. Fdo: percusionista."
-            }
-          ],
-          "text": "[SUPPORT] Era el mejor sitio de Madrid para pillar costo, y encima te avisaban si ven\u00edan los maderos con los cambios de ritmo!",
-          "short_text": "[SUPPORT] Era el mejor sitio de Madrid para pillar costo, y encima te avisaban si ven\u00edan los maderos con los cambios de ritmo!"
-        }
-      ],
-      "text": "Espontaneidad y alegr\u00eda",
-      "short_text": "Espontaneidad y alegr\u00eda"
-    },
-    {
-      "name": "8",
-      "children": [
-        {
-          "name": "25",
-          "children": [
-            {
-              "name": "53632",
-              "value": 100,
-              "text": "[53632] Tengo entendido que lo prohibieron porque avisaban cambiando el ritmo y la m\u00fasica a los camellos, cuando la polic\u00eda se acercaba al punto en el que se encontraban.",
-              "short_text": "[53632] Tengo entendido que lo prohibieron porque avisaban cambiando el ritmo y la m\u00fasica a los camellos, cuando la polic\u00eda se acercaba al punto en el que se encontraban."
-            }
-          ],
-          "text": "[ATTACK] Tengo entendido que lo prohibieron porque avisaban cambiando el ritmo y la m\u00fasica a los camellos, cuando la polic\u00eda se acercaba.",
-          "short_text": "[ATTACK] Tengo entendido que lo prohibieron porque avisaban cambiando el ritmo y la m\u00fasica a los camellos, cuando la polic\u00eda se acercaba."
-        },
-        {
-          "name": "26",
-          "children": [
-            {
-              "name": "44097",
-              "value": 100,
-              "text": "[44097] Y yo no s\u00e9 si los tambores los usan los camellos para avisarse pero en la zona pr\u00f3xima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranquilamente. M\u00e1s guardas forestales necesita el parque.",
-              "short_text": "[44097] Y yo no s\u00e9 si los tambores los usan los camellos para avisarse pero en la zona pr\u00f3xima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranquil..."
-            }
-          ],
-          "text": "[ATTACK] Y yo no s\u00e9 si los tambores los usan los camellos para avisarse pero en la zona pr\u00f3xima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranquilamente.",
-          "short_text": "[ATTACK] Y yo no s\u00e9 si los tambores los usan los camellos para avisarse pero en la zona pr\u00f3xima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranqui..."
-        },
-        {
-          "name": "27",
-          "children": [],
-          "text": "[ATTACK] Respetad la legislaci\u00f3n y iros a pillar a otro lado.",
-          "short_text": "[ATTACK] Respetad la legislaci\u00f3n y iros a pillar a otro lado."
-        }
-      ],
-      "text": "Disturbios y seguridad",
-      "short_text": "Disturbios y seguridad"
-    },
-    {
-      "name": "9",
-      "children": [
-        {
-          "name": "28",
-          "children": [
-            {
-              "name": "45473",
-              "value": 100,
-              "text": "[45473] Mi propuesta dice claramente en la tarde del domingo. Y convendr\u00e1 conmigo en que la m\u00fasica hecha con los instumentos que mencionan genera una situaci\u00f3n de escucha diferente, m\u00e1s pasiva por parte del p\u00fablico, mientras que la percusi\u00f3n invita al baile, a acercarse a los m\u00fasicos, a comprarse un djemb\u00e9 y animarse a aprender. Y por supuesto, a bailar.",
-              "short_text": "[45473] Mi propuesta dice claramente en la tarde del domingo. Y convendr\u00e1 conmigo en que la m\u00fasica hecha con los instumentos que mencionan genera una situaci\u00f3n de escucha diferente, m\u00e1s pasiva por par..."
-            }
-          ],
-          "text": "[SUPPORT] mientras que la percusi\u00f3n invita al baile, a acercarse a los m\u00fasicos, a comprarse un djemb\u00e9 y animarse a aprender.",
-          "short_text": "[SUPPORT] mientras que la percusi\u00f3n invita al baile, a acercarse a los m\u00fasicos, a comprarse un djemb\u00e9 y animarse a aprender."
-        },
-        {
-          "name": "29",
-          "children": [
-            {
-              "name": "35055",
-              "value": 100,
-              "text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes estoy tambi\u00e9n seguro que gustan del silencio y la naturaleza. Esto no es una cuesti\u00f3n de bandos partidarios del silencio y el disfrute de la naturaleza y otros que no lo son. Un conflicto inventado para justificar una prohibici\u00f3n arbitraria. El parque es muy grande y nos puede acoger a tod@s en armon\u00eda.",
-              "short_text": "[35055] Este espont\u00e1neo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor. La prueba est\u00e1 en los v\u00eddeos que cualquiera puede encontrar en youtube. Y a todos los asistentes e..."
-            }
-          ],
-          "text": "[SUPPORT] El parque es muy grande y nos puede acoger a tod@s en armon\u00eda.",
-          "short_text": "[SUPPORT] El parque es muy grande y nos puede acoger a tod@s en armon\u00eda."
-        }
-      ],
-      "text": "Inclusi\u00f3n y participaci\u00f3n",
-      "short_text": "Inclusi\u00f3n y participaci\u00f3n"
-    },
-    {
-      "name": "10",
-      "children": [
-        {
-          "name": "30",
-          "children": [
-            {
-              "name": "44095",
-              "value": 100,
-              "text": "[44095] Totalmente de acuerdo, . El Retiro es un refugio para la poblaci\u00f3n de Madrid harta del stress de la ciudad. Fuera tambores!.",
-              "short_text": "[44095] Totalmente de acuerdo, . El Retiro es un refugio para la poblaci\u00f3n de Madrid harta del stress de la ciudad. Fuera tambores!."
-            }
-          ],
-          "text": "[ATTACK] El Retiro es un refugio para la poblaci\u00f3n de Madrid harta del stress de la ciudad. Fuera tambores!",
-          "short_text": "[ATTACK] El Retiro es un refugio para la poblaci\u00f3n de Madrid harta del stress de la ciudad. Fuera tambores!"
-        },
-        {
-          "name": "31",
-          "children": [
-            {
-              "name": "44096",
-              "value": 100,
-              "text": "[44096] Pero de qu\u00e9 hablas! S\u00f3lo queremos que el parque del Retiro sea un lugar tranquilo. Aceptamos compartirlo con otras culturas pero ellos tienen que respetar tambi\u00e9n nuestras costumbres entre las que no entran los tambores junto al estanque.",
-              "short_text": "[44096] Pero de qu\u00e9 hablas! S\u00f3lo queremos que el parque del Retiro sea un lugar tranquilo. Aceptamos compartirlo con otras culturas pero ellos tienen que respetar tambi\u00e9n nuestras costumbres entre las..."
-            }
-          ],
-          "text": "[ATTACK] S\u00f3lo queremos que el parque del Retiro sea un lugar tranquilo.",
-          "short_text": "[ATTACK] S\u00f3lo queremos que el parque del Retiro sea un lugar tranquilo."
-        },
-        {
-          "name": "32",
-          "children": [
-            {
-              "name": "44817",
-              "value": 100,
-              "text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace insoportable para la fauna, para los paseantes y para los vecinos del barrio, se puede hacer en salas insonorizadas, que las hay baratitas. El parque es grande y acoge a todos pero el sonido se expande, viaja, llegando m\u00e1s all\u00e1 de los l\u00edmites del propio parque. Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de m\u00fasicas con altavoces, estridentes, repetitivas, etc. , estar\u00edamos perjudic\u00e1ndonos, necesitamos esos espacios. Comprendo su planteamiento, y no me importar\u00eda que hubiera un tiempo para esos encuentros, un poco est\u00e1 bien, pero la realidad es que no ponen l\u00edmite y por eso es molesto. Me parece bien que existiera un espacio dedicado a esas alternativa de ocio espont\u00e1neo, pero no en el parque. Pensemos d\u00f3nde.",
-              "short_text": "[44817] Buenas tardes, me encanta la multiculturalidad, la diversidad, el compartir, la m\u00fasica pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusi\u00f3n se hace..."
-            }
-          ],
-          "text": "[ATTACK] Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de m\u00fasicas con altavoces, estridentes, repetitivas, etc., estar\u00edamos perjudic\u00e1ndonos.",
-          "short_text": "[ATTACK] Hay mucho ruido en nuestras vidas y pocos espacios de esparcimiento sereno, si los llenamos de m\u00fasicas con altavoces, estridentes, repetitivas, etc., estar\u00edamos perjudic\u00e1ndonos."
-        }
-      ],
-      "text": "Conservaci\u00f3n del espacio p\u00fablico",
-      "short_text": "Conservaci\u00f3n del espacio p\u00fablico"
+      "text": "Impacto en los vecinos y medio ambiente",
+      "short_text": "Impacto en los vecinos y medio ambiente"
     }
   ],
   "text": "Tambores en el Parque del Retiro en la tarde del domingo. Lo que nos jugamos en esto, es apostar o no por una ciudad tolerante con la diversidad y con la manifestaci\u00f3n espont\u00e1nea de la creatividad y la sociabilidad ciudadana. Pedimos el levantamiento de esta prohibici\u00f3n y\u00a0 la puesta en valor de lo que all\u00ed se producia como espacio tiempo de participaci\u00f3n ciudadana en una actividad que enriquece el clima convivencial y amplia las opciones de ocio gratuito en nuestra ciudad. Esta actividad, constitu\u00eda una suerte de joven tradici\u00f3n, emblem\u00e1tica del talante abierto, multicultural y cosmopolita de Madrid y aportaba al clima convivencial de esta ciudad un espacio-tiempo de encuentro y distensi\u00f3n, que quienes lo frecuent\u00e1bamos apreci\u00e1bamos como una estupenda manera de disfrutar de las tardes de los domingos. Muchas personas han crecido acudiendo con regularidad a ese espont\u00e1neo encuentro, a disfrutar de la atm\u00f3sfera que all\u00ed se creaba. Muchas tambi\u00e9n acompa\u00f1ando a sus hij@s y niet@s. No se trata de algo fr\u00edvolo. La buena diversi\u00f3n de l@s ciudadan@s la que les sirve para regenerarse en medio de las dificultades de la vida cotidiana es un asunto de salud p\u00fablica y clima convivencial La actividad musical facilita, a nivel colectivo, que se produzcan din\u00e1micas de socializaci\u00f3n m\u00e1s fluidas, pues convence a nuestros afectos de que la armon\u00eda con otros es un gozo posible. Org\u00e1nicamente estimula la producci\u00f3n de serotonina, agente esencial en nuestro equilibrio psico-org\u00e1nico. Nadie lo convocaba. Unas personas acud\u00edamos con m\u00e1s regularidad, otras con menos, unas en grupo, otras en solitario. Y la pluralidad humana que componen la ciudadan\u00eda madrile\u00f1a y sus visitantes estaba all\u00ed congregada, para disfrutar de la m\u00fasica y el baile, en una proximidad y unas combinaciones de perfiles humanos y biogr\u00e1ficos que no se produc\u00edan en ning\u00fan otro contexto de la vida urbana. Una vida urbana que tiende a articularse exclusivamente sobre el eje del trabajo y el consumo, porque el tiempo libre ha quedado reducido a consumo: Una vida urbana en la que la expresi\u00f3n musical y la pulsi\u00f3n a la danza permanecen enclaustradas, restringidas a circuitos comerciales, explotadas por la industria de las macrofiestas, por los excluyentes circuitos de after- hours. O los eventos promocionales de marcas realizados en la v\u00eda p\u00fablica. Solo las verbenas populares representan un modo semejante de darse la m\u00fasica en la calle no troquelado o encapsulado en lo comercial. Y nosotr@s sin pretenderlo, hab\u00edamos inventado nuestra verbena semanal. Una verbena de fin de siglo en el coraz\u00f3n verde de Madrid. Una verbena en la que no sonaba el chotis pero que era tan madrile\u00f1a como lo son sus multicolores habitantes.",

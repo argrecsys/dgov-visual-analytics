@@ -1,0 +1,289 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 7482",
+      "group": 0
+    },
+    {
+      "id": "Laicismo-Antilaicismo",
+      "group": -3
+    },
+    {
+      "id": "Laicismo-Antilaicismo_support",
+      "group": -1
+    },
+    {
+      "id": "Laicismo-Antilaicismo_attack",
+      "group": -2
+    },
+    {
+      "id": "No hay necesidad de cambio, porque el nombre es hist\u00f3rico y no es ofensivo.",
+      "group": -1
+    },
+    {
+      "id": "Es una reminiscencia hist\u00f3rica, cuando se cambi\u00f3 el nombre a la Plaza, no se hizo lo mismo con la parada de metro, que se lleva llamando as\u00ed desde su fundaci\u00f3n en 1919.",
+      "group": -1
+    },
+    {
+      "id": "El verdadero problema detr\u00e1s de esta propuesta est\u00e1 en que por desgracia, es muy f\u00e1cil caer en la pol\u00e9mica del laicismo-antilaicismo.",
+      "group": -2
+    },
+    {
+      "id": "Historia y Tradici\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Historia y Tradici\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Historia y Tradici\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "La duda de la gente puede estar en que si se llamase Santa Engracia o Eloy Gonzalo podr\u00eda no haber problema a priori, pero se llama Iglesia. Y es porque hay y hab\u00eda una Iglesia muy llamativa en el momento de la creaci\u00f3n de la que fue la segunda parada del Metro de Madrid.",
+      "group": -1
+    },
+    {
+      "id": "La plaza se llamaba as\u00ed antes debido a la iglesia que est\u00e1 en dicha plaza.",
+      "group": -1
+    },
+    {
+      "id": "Me parece una propuesta absurd\u00edsima, y que tiene 107 absurd\u00edsimos apoyos.",
+      "group": -2
+    },
+    {
+      "id": "No vamos a dejar de omitir obviedades para tener raz\u00f3n, si t\u00fa dices estoy en Iglesias todos saben d\u00f3nde est\u00e1s.",
+      "group": -2
+    },
+    {
+      "id": "Cambio y Modernizaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Cambio y Modernizaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Cambio y Modernizaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Hay una propuesta cultural con base detr\u00e1s coherencia nominal que podr\u00eda atraer a cierto p\u00fablico que desconoce la existencia del museo, sin entrar en cu\u00e1nto.",
+      "group": -1
+    },
+    {
+      "id": "No entiendo por qu\u00e9 hemos de cambiarlo ahora.",
+      "group": -2
+    },
+    {
+      "id": "Por favor, dediquemos tiempo y dinero a mejorar la vida de los ciudadanos. Y no a tonter\u00edas que no nos aportan nada.",
+      "group": -2
+    },
+    {
+      "id": "Confusi\u00f3n y Complejidad",
+      "group": -3
+    },
+    {
+      "id": "Confusi\u00f3n y Complejidad_support",
+      "group": -1
+    },
+    {
+      "id": "Confusi\u00f3n y Complejidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Cambiar estas cosas lo hace confuso. Voto no.",
+      "group": -2
+    },
+    {
+      "id": "En vez de gastar el dinero en nuevos carteles para las calles, \u00bfno ser\u00e1 mejor dedicarlo en otras cosas?",
+      "group": -2
+    },
+    {
+      "id": "Identidad y Reconocimiento",
+      "group": -3
+    },
+    {
+      "id": "Identidad y Reconocimiento_support",
+      "group": -1
+    },
+    {
+      "id": "Identidad y Reconocimiento_attack",
+      "group": -2
+    },
+    {
+      "id": "El barrio se llama Iglesia y no me parece mal que persista el nombre si persiste el nombre de barrio.",
+      "group": -1
+    },
+    {
+      "id": "La iglesia est\u00e1 a 0 metros de las bocas del metro, mientras que el museo sorrolla est\u00e1 a 600 metros.",
+      "group": -1
+    },
+    {
+      "id": "La propuesta incita a eliminar cualquier cosa en relaci\u00f3n a la otra Espa\u00f1a.",
+      "group": -2
+    },
+    {
+      "id": "Es que ante iniciativas sin sentido y no necesarias. Yo no me dedico a poner que cambien el nombre de mi calle porque a mi no me gusta.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 7482",
+      "target": "Laicismo-Antilaicismo",
+      "value": 1
+    },
+    {
+      "source": "Laicismo-Antilaicismo",
+      "target": "Laicismo-Antilaicismo_support",
+      "value": 2
+    },
+    {
+      "source": "Laicismo-Antilaicismo",
+      "target": "Laicismo-Antilaicismo_attack",
+      "value": 2
+    },
+    {
+      "source": "Laicismo-Antilaicismo_support",
+      "target": "No hay necesidad de cambio, porque el nombre es hist\u00f3rico y no es ofensivo.",
+      "value": 3
+    },
+    {
+      "source": "Laicismo-Antilaicismo_support",
+      "target": "Es una reminiscencia hist\u00f3rica, cuando se cambi\u00f3 el nombre a la Plaza, no se hizo lo mismo con la parada de metro, que se lleva llamando as\u00ed desde su fundaci\u00f3n en 1919.",
+      "value": 3
+    },
+    {
+      "source": "Laicismo-Antilaicismo_attack",
+      "target": "El verdadero problema detr\u00e1s de esta propuesta est\u00e1 en que por desgracia, es muy f\u00e1cil caer en la pol\u00e9mica del laicismo-antilaicismo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7482",
+      "target": "Historia y Tradici\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Historia y Tradici\u00f3n",
+      "target": "Historia y Tradici\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Historia y Tradici\u00f3n",
+      "target": "Historia y Tradici\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Historia y Tradici\u00f3n_support",
+      "target": "La duda de la gente puede estar en que si se llamase Santa Engracia o Eloy Gonzalo podr\u00eda no haber problema a priori, pero se llama Iglesia. Y es porque hay y hab\u00eda una Iglesia muy llamativa en el momento de la creaci\u00f3n de la que fue la segunda parada del Metro de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "Historia y Tradici\u00f3n_support",
+      "target": "La plaza se llamaba as\u00ed antes debido a la iglesia que est\u00e1 en dicha plaza.",
+      "value": 3
+    },
+    {
+      "source": "Historia y Tradici\u00f3n_attack",
+      "target": "Me parece una propuesta absurd\u00edsima, y que tiene 107 absurd\u00edsimos apoyos.",
+      "value": 3
+    },
+    {
+      "source": "Historia y Tradici\u00f3n_attack",
+      "target": "No vamos a dejar de omitir obviedades para tener raz\u00f3n, si t\u00fa dices estoy en Iglesias todos saben d\u00f3nde est\u00e1s.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7482",
+      "target": "Cambio y Modernizaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Cambio y Modernizaci\u00f3n",
+      "target": "Cambio y Modernizaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Cambio y Modernizaci\u00f3n",
+      "target": "Cambio y Modernizaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Cambio y Modernizaci\u00f3n_support",
+      "target": "Hay una propuesta cultural con base detr\u00e1s coherencia nominal que podr\u00eda atraer a cierto p\u00fablico que desconoce la existencia del museo, sin entrar en cu\u00e1nto.",
+      "value": 3
+    },
+    {
+      "source": "Cambio y Modernizaci\u00f3n_attack",
+      "target": "No entiendo por qu\u00e9 hemos de cambiarlo ahora.",
+      "value": 3
+    },
+    {
+      "source": "Cambio y Modernizaci\u00f3n_attack",
+      "target": "Por favor, dediquemos tiempo y dinero a mejorar la vida de los ciudadanos. Y no a tonter\u00edas que no nos aportan nada.",
+      "value": 3
+    },
+    {
+      "source": "proposal 7482",
+      "target": "Confusi\u00f3n y Complejidad",
+      "value": 1
+    },
+    {
+      "source": "Confusi\u00f3n y Complejidad",
+      "target": "Confusi\u00f3n y Complejidad_support",
+      "value": 2
+    },
+    {
+      "source": "Confusi\u00f3n y Complejidad",
+      "target": "Confusi\u00f3n y Complejidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Confusi\u00f3n y Complejidad_attack",
+      "target": "Cambiar estas cosas lo hace confuso. Voto no.",
+      "value": 3
+    },
+    {
+      "source": "Confusi\u00f3n y Complejidad_attack",
+      "target": "En vez de gastar el dinero en nuevos carteles para las calles, \u00bfno ser\u00e1 mejor dedicarlo en otras cosas?",
+      "value": 3
+    },
+    {
+      "source": "proposal 7482",
+      "target": "Identidad y Reconocimiento",
+      "value": 1
+    },
+    {
+      "source": "Identidad y Reconocimiento",
+      "target": "Identidad y Reconocimiento_support",
+      "value": 2
+    },
+    {
+      "source": "Identidad y Reconocimiento",
+      "target": "Identidad y Reconocimiento_attack",
+      "value": 2
+    },
+    {
+      "source": "Identidad y Reconocimiento_support",
+      "target": "El barrio se llama Iglesia y no me parece mal que persista el nombre si persiste el nombre de barrio.",
+      "value": 3
+    },
+    {
+      "source": "Identidad y Reconocimiento_support",
+      "target": "La iglesia est\u00e1 a 0 metros de las bocas del metro, mientras que el museo sorrolla est\u00e1 a 600 metros.",
+      "value": 3
+    },
+    {
+      "source": "Identidad y Reconocimiento_attack",
+      "target": "La propuesta incita a eliminar cualquier cosa en relaci\u00f3n a la otra Espa\u00f1a.",
+      "value": 3
+    },
+    {
+      "source": "Identidad y Reconocimiento_attack",
+      "target": "Es que ante iniciativas sin sentido y no necesarias. Yo no me dedico a poner que cambien el nombre de mi calle porque a mi no me gusta.",
+      "value": 3
+    }
+  ]
+}

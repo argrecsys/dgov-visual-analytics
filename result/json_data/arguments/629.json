@@ -104,7 +104,14 @@
       "children": [
         {
           "name": "8",
-          "children": [],
+          "children": [
+            {
+              "name": "26417",
+              "value": 100,
+              "text": "[26417] Una propuesta a seguir: .",
+              "short_text": "[26417] Una propuesta a seguir: ."
+            }
+          ],
           "text": "[SUPPORT] Una soluci\u00f3n a largo plazo: educaci\u00f3n y desafortunadamente muchas veces solo entendemos cuando se nos sanciona.",
           "short_text": "[SUPPORT] Una soluci\u00f3n a largo plazo: educaci\u00f3n y desafortunadamente muchas veces solo entendemos cuando se nos sanciona."
         },

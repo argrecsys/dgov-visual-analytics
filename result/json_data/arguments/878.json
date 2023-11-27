@@ -91,7 +91,14 @@
       "children": [
         {
           "name": "7",
-          "children": [],
+          "children": [
+            {
+              "name": "29991",
+              "value": 100,
+              "text": "[29991] Est\u00e1 muy bien introducir depredadores naturales, que es un m\u00e9todo de control poblacional complementario, pero el caso no es dejar de alimentarlas y que mueran de hambre, sino al igual que la Gesti\u00f3n de las Colonias Felinas se puede hacer a trav\u00e9s del CES bc hay que controlar su poblaci\u00f3n controlando su cr\u00eda, mediante pienso anticonceptivo y cerrando lugares de nidada. La soluci\u00f3n no pasa por que los animales mueran de hambre, eso no soluciona nada, sino que su n\u00famero sea estable y est\u00e9n sanas y cr\u00eden lo justo para mantener la poblaci\u00f3n que queremos en nuestras ciudades. El hambre no es la soluci\u00f3n, eso s\u00f3lo mata pichones y enferma a todos. Es un caso parecido a no dar de comer a los gatos, lo \u00fanico que pasa es que las cr\u00edas mueren, los j\u00f3venes enferman y los adultos sobreviven de manera lamentable, pero en ning\u00fan caso se reduce la poblaci\u00f3n.",
+              "short_text": "[29991] Est\u00e1 muy bien introducir depredadores naturales, que es un m\u00e9todo de control poblacional complementario, pero el caso no es dejar de alimentarlas y que mueran de hambre, sino al igual que la G..."
+            }
+          ],
           "text": "[SUPPORT] Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos.",
           "short_text": "[SUPPORT] Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos."
         }

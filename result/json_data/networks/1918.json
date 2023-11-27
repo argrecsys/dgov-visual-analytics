@@ -97,7 +97,7 @@
       "group": -2
     },
     {
-      "id": "\u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u0080 por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido!",
+      "id": "\u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido!",
       "group": -1
     },
     {
@@ -113,7 +113,7 @@
       "group": -2
     },
     {
-      "id": "\u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u0080 al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
+      "id": "\u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u20ac al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
       "group": -1
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "source": "Impacto econ\u00f3mico_support",
-      "target": "\u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u0080 por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido!",
+      "target": "\u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido!",
       "value": 3
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "source": "Justicia social_support",
-      "target": "\u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u0080 al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
+      "target": "\u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u20ac al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
       "value": 3
     },
     {

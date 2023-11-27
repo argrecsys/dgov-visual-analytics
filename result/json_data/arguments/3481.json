@@ -1,0 +1,131 @@
+{
+  "name": "3481",
+  "children": [
+    {
+      "name": "1",
+      "children": [
+        {
+          "name": "1",
+          "children": [],
+          "text": "[SUPPORT] No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio.",
+          "short_text": "[SUPPORT] No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio."
+        },
+        {
+          "name": "2",
+          "children": [],
+          "text": "[SUPPORT] Una persona con casa en propiedad hereda una casa, esta persona tiene hijos y quiere que esa casa sea para ellos, como no te puedes fiar de la gentuza de este pa\u00eds decides no alquilarla y dejarla vacia hasta que tengan edad de independizarse.",
+          "short_text": "[SUPPORT] Una persona con casa en propiedad hereda una casa, esta persona tiene hijos y quiere que esa casa sea para ellos, como no te puedes fiar de la gentuza de este pa\u00eds decides no alquilarla y de..."
+        },
+        {
+          "name": "3",
+          "children": [
+            {
+              "name": "35493",
+              "value": 100,
+              "text": "[35493] Considero la vivienda como una necesidad, esta propuesta implicaria a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar. Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo.",
+              "short_text": "[35493] Considero la vivienda como una necesidad, esta propuesta implicaria a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y..."
+            }
+          ],
+          "text": "[ATTACK] Considero la vivienda como una necesidad, esta propuesta implicar\u00eda a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar.",
+          "short_text": "[ATTACK] Considero la vivienda como una necesidad, esta propuesta implicar\u00eda a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas..."
+        }
+      ],
+      "text": "Impacto en Propietarios Particulares",
+      "short_text": "Impacto en Propietarios Particulares"
+    },
+    {
+      "name": "2",
+      "children": [
+        {
+          "name": "4",
+          "children": [
+            {
+              "name": "35448",
+              "value": 100,
+              "text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta \u00bfPor qu\u00e9 tienes que meter a gente que destroce tu casa S\u00ed, hay gente que lo hace y no, no es raro que te encuentres casos as\u00ed. El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones. Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio. Esa situaci\u00f3n no es buena en todos los casos.",
+              "short_text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a..."
+            }
+          ],
+          "text": "[SUPPORT] Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio.",
+          "short_text": "[SUPPORT] Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio."
+        },
+        {
+          "name": "5",
+          "children": [
+            {
+              "name": "35493",
+              "value": 100,
+              "text": "[35493] Considero la vivienda como una necesidad, esta propuesta implicaria a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar. Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo.",
+              "short_text": "[35493] Considero la vivienda como una necesidad, esta propuesta implicaria a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y..."
+            }
+          ],
+          "text": "[ATTACK] Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo.",
+          "short_text": "[ATTACK] Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo."
+        }
+      ],
+      "text": "Impacto Econ\u00f3mico",
+      "short_text": "Impacto Econ\u00f3mico"
+    },
+    {
+      "name": "3",
+      "children": [
+        {
+          "name": "6",
+          "children": [],
+          "text": "[SUPPORT] Especula el que alquila a precios abusivos.",
+          "short_text": "[SUPPORT] Especula el que alquila a precios abusivos."
+        },
+        {
+          "name": "7",
+          "children": [
+            {
+              "name": "35448",
+              "value": 100,
+              "text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta \u00bfPor qu\u00e9 tienes que meter a gente que destroce tu casa S\u00ed, hay gente que lo hace y no, no es raro que te encuentres casos as\u00ed. El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones. Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio. Esa situaci\u00f3n no es buena en todos los casos.",
+              "short_text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a..."
+            }
+          ],
+          "text": "[ATTACK] El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones.",
+          "short_text": "[ATTACK] El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones."
+        }
+      ],
+      "text": "Especulaci\u00f3n Inmobiliaria",
+      "short_text": "Especulaci\u00f3n Inmobiliaria"
+    },
+    {
+      "name": "4",
+      "children": [
+        {
+          "name": "8",
+          "children": [
+            {
+              "name": "95742",
+              "value": 100,
+              "text": "[95742] Yo he creado mi propia propuesta al respecto, me ha llevado tiempo y. Sorpresa, ya hay iniciativas en marcha, l\u00e1stima que no haya grandes apoyos, no lo entiendo, no entiendo lo corto de miras que se puede llegar a ser. \u00bfPorqu\u00e9 no perdamos lo poco que hemos conseguido dejamos de apoyar un bien com\u00fan? y lo que podr\u00edamos ganar todos, incluso nuestros hijos, nietos, . ? Impuesto para todos y todas particulares, entidades financieras, administraciones p\u00fablicas, . Y hablo siendo propietario.",
+              "short_text": "[95742] Yo he creado mi propia propuesta al respecto, me ha llevado tiempo y. Sorpresa, ya hay iniciativas en marcha, l\u00e1stima que no haya grandes apoyos, no lo entiendo, no entiendo lo corto de miras..."
+            }
+          ],
+          "text": "[SUPPORT] Impuesto para todos y todas particulares, entidades financieras, administraciones p\u00fablicas.",
+          "short_text": "[SUPPORT] Impuesto para todos y todas particulares, entidades financieras, administraciones p\u00fablicas."
+        },
+        {
+          "name": "9",
+          "children": [
+            {
+              "name": "35448",
+              "value": 100,
+              "text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta \u00bfPor qu\u00e9 tienes que meter a gente que destroce tu casa S\u00ed, hay gente que lo hace y no, no es raro que te encuentres casos as\u00ed. El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones. Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio. Esa situaci\u00f3n no es buena en todos los casos.",
+              "short_text": "[35448] \u00bfTu propuesta implica a particulares y a bancos, o solo a los bancos? Matiza mejor tu propuesta, a quien va dirigida, cuanto tiempo m\u00e1ximo puede estar vac\u00eda, etc. Estoy de acuerdo en multar a..."
+            }
+          ],
+          "text": "[ATTACK] Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta.",
+          "short_text": "[ATTACK] Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta."
+        }
+      ],
+      "text": "Inclusi\u00f3n de Entidades Financieras",
+      "short_text": "Inclusi\u00f3n de Entidades Financieras"
+    }
+  ],
+  "text": "Impuestos a viviendas vacias. Esta propuesta es para fomentar el alquiler de las viviendas vacias, se les ponga un impuesto que sea proporcional al tiempo que este desocupada esa vivienda.",
+  "short_text": "Impuestos a viviendas vacias. Esta propuesta es para fomentar el alquiler de las viviendas vacias, se les ponga un impuesto que sea proporcional al tiempo que este desocupada esa vivienda."
+}

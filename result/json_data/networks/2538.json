@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2538",
+      "group": 0
+    },
+    {
+      "id": "Efectividad de la tasa",
+      "group": -3
+    },
+    {
+      "id": "Efectividad de la tasa_support",
+      "group": -1
+    },
+    {
+      "id": "Efectividad de la tasa_attack",
+      "group": -2
+    },
+    {
+      "id": "Estoy totalmente de acuerdo con esta propuesta, ya que estos animales generan una serie de gastos a la comunidad es justo que paguemos una tasa.",
+      "group": -1
+    },
+    {
+      "id": "una tasa podr\u00eda tener el efecto contrario al buscado, porque el que la pague dir\u00e1 ah pues ahora paso de recoger la defecaci\u00f3n.",
+      "group": -2
+    },
+    {
+      "id": "No es justo que todos los propietarios de perros paguen una tasa, ya que hay mucha gente que s\u00ed recoge los excrementos e incluso amonesta a quienes no lo hacen.",
+      "group": -2
+    },
+    {
+      "id": "Impacto econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "El que tiene perro tiene para pagar una tasa. A mi me parece bien.",
+      "group": -1
+    },
+    {
+      "id": "una tasa ser\u00eda a cara de recaudar; b regresiva pagan todos igual, tambi\u00e9n gente con poca renta a la que a lo mejor el perro le hace necesaria compa\u00f1\u00eda",
+      "group": -2
+    },
+    {
+      "id": "Los due\u00f1os de perros pagamos una tasa cuando ponemos el chip a nuestros perros, y todos los a\u00f1os pagamos una tasa cuando ponemos a nuestros perros las vacunas obligatorias.",
+      "group": -2
+    },
+    {
+      "id": "Alternativas a la tasa",
+      "group": -3
+    },
+    {
+      "id": "Alternativas a la tasa_support",
+      "group": -1
+    },
+    {
+      "id": "Alternativas a la tasa_attack",
+      "group": -2
+    },
+    {
+      "id": "La mejor propuesta creo es la del ADN que anda por ah\u00ed, y un sistema de multas eficaz.",
+      "group": -1
+    },
+    {
+      "id": "Me parece una buena idea lo de pagar una tasa. Y tambi\u00e9n el que quierra perro que acarre con todos sus gastos, incluidas las bolsitas para recoger las heces, que pagamos todos.",
+      "group": -2
+    },
+    {
+      "id": "Impacto social",
+      "group": -3
+    },
+    {
+      "id": "Impacto social_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto social_attack",
+      "group": -2
+    },
+    {
+      "id": "Me parece que la intolerancia con lo que respecta a los que tenemos un perro da que pensar.",
+      "group": -1
+    },
+    {
+      "id": "Me alegro que comparta la propuesta! Enhorabuena por ser buen due\u00f1o de perro y su civismo! Ojal\u00e1 hubiera muchas m\u00e1s personas como usted.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2538",
+      "target": "Efectividad de la tasa",
+      "value": 1
+    },
+    {
+      "source": "Efectividad de la tasa",
+      "target": "Efectividad de la tasa_support",
+      "value": 2
+    },
+    {
+      "source": "Efectividad de la tasa",
+      "target": "Efectividad de la tasa_attack",
+      "value": 2
+    },
+    {
+      "source": "Efectividad de la tasa_support",
+      "target": "Estoy totalmente de acuerdo con esta propuesta, ya que estos animales generan una serie de gastos a la comunidad es justo que paguemos una tasa.",
+      "value": 3
+    },
+    {
+      "source": "Efectividad de la tasa_attack",
+      "target": "una tasa podr\u00eda tener el efecto contrario al buscado, porque el que la pague dir\u00e1 ah pues ahora paso de recoger la defecaci\u00f3n.",
+      "value": 3
+    },
+    {
+      "source": "Efectividad de la tasa_attack",
+      "target": "No es justo que todos los propietarios de perros paguen una tasa, ya que hay mucha gente que s\u00ed recoge los excrementos e incluso amonesta a quienes no lo hacen.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2538",
+      "target": "Impacto econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto econ\u00f3mico",
+      "target": "Impacto econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto econ\u00f3mico",
+      "target": "Impacto econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto econ\u00f3mico_support",
+      "target": "El que tiene perro tiene para pagar una tasa. A mi me parece bien.",
+      "value": 3
+    },
+    {
+      "source": "Impacto econ\u00f3mico_attack",
+      "target": "una tasa ser\u00eda a cara de recaudar; b regresiva pagan todos igual, tambi\u00e9n gente con poca renta a la que a lo mejor el perro le hace necesaria compa\u00f1\u00eda",
+      "value": 3
+    },
+    {
+      "source": "Impacto econ\u00f3mico_attack",
+      "target": "Los due\u00f1os de perros pagamos una tasa cuando ponemos el chip a nuestros perros, y todos los a\u00f1os pagamos una tasa cuando ponemos a nuestros perros las vacunas obligatorias.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2538",
+      "target": "Alternativas a la tasa",
+      "value": 1
+    },
+    {
+      "source": "Alternativas a la tasa",
+      "target": "Alternativas a la tasa_support",
+      "value": 2
+    },
+    {
+      "source": "Alternativas a la tasa",
+      "target": "Alternativas a la tasa_attack",
+      "value": 2
+    },
+    {
+      "source": "Alternativas a la tasa_support",
+      "target": "La mejor propuesta creo es la del ADN que anda por ah\u00ed, y un sistema de multas eficaz.",
+      "value": 3
+    },
+    {
+      "source": "Alternativas a la tasa_attack",
+      "target": "Me parece una buena idea lo de pagar una tasa. Y tambi\u00e9n el que quierra perro que acarre con todos sus gastos, incluidas las bolsitas para recoger las heces, que pagamos todos.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2538",
+      "target": "Impacto social",
+      "value": 1
+    },
+    {
+      "source": "Impacto social",
+      "target": "Impacto social_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto social",
+      "target": "Impacto social_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto social_support",
+      "target": "Me parece que la intolerancia con lo que respecta a los que tenemos un perro da que pensar.",
+      "value": 3
+    },
+    {
+      "source": "Impacto social_attack",
+      "target": "Me alegro que comparta la propuesta! Enhorabuena por ser buen due\u00f1o de perro y su civismo! Ojal\u00e1 hubiera muchas m\u00e1s personas como usted.",
+      "value": 3
+    }
+  ]
+}

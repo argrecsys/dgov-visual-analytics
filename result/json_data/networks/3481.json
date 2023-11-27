@@ -1,0 +1,199 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 3481",
+      "group": 0
+    },
+    {
+      "id": "Impacto en Propietarios Particulares",
+      "group": -3
+    },
+    {
+      "id": "Impacto en Propietarios Particulares_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto en Propietarios Particulares_attack",
+      "group": -2
+    },
+    {
+      "id": "No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio.",
+      "group": -1
+    },
+    {
+      "id": "Una persona con casa en propiedad hereda una casa, esta persona tiene hijos y quiere que esa casa sea para ellos, como no te puedes fiar de la gentuza de este pa\u00eds decides no alquilarla y dejarla vacia hasta que tengan edad de independizarse.",
+      "group": -1
+    },
+    {
+      "id": "Considero la vivienda como una necesidad, esta propuesta implicar\u00eda a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar.",
+      "group": -2
+    },
+    {
+      "id": "Impacto Econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto Econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio.",
+      "group": -1
+    },
+    {
+      "id": "Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo.",
+      "group": -2
+    },
+    {
+      "id": "Especulaci\u00f3n Inmobiliaria",
+      "group": -3
+    },
+    {
+      "id": "Especulaci\u00f3n Inmobiliaria_support",
+      "group": -1
+    },
+    {
+      "id": "Especulaci\u00f3n Inmobiliaria_attack",
+      "group": -2
+    },
+    {
+      "id": "Especula el que alquila a precios abusivos.",
+      "group": -1
+    },
+    {
+      "id": "El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones.",
+      "group": -2
+    },
+    {
+      "id": "Inclusi\u00f3n de Entidades Financieras",
+      "group": -3
+    },
+    {
+      "id": "Inclusi\u00f3n de Entidades Financieras_support",
+      "group": -1
+    },
+    {
+      "id": "Inclusi\u00f3n de Entidades Financieras_attack",
+      "group": -2
+    },
+    {
+      "id": "Impuesto para todos y todas particulares, entidades financieras, administraciones p\u00fablicas.",
+      "group": -1
+    },
+    {
+      "id": "Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 3481",
+      "target": "Impacto en Propietarios Particulares",
+      "value": 1
+    },
+    {
+      "source": "Impacto en Propietarios Particulares",
+      "target": "Impacto en Propietarios Particulares_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto en Propietarios Particulares",
+      "target": "Impacto en Propietarios Particulares_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto en Propietarios Particulares_support",
+      "target": "No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en Propietarios Particulares_support",
+      "target": "Una persona con casa en propiedad hereda una casa, esta persona tiene hijos y quiere que esa casa sea para ellos, como no te puedes fiar de la gentuza de este pa\u00eds decides no alquilarla y dejarla vacia hasta que tengan edad de independizarse.",
+      "value": 3
+    },
+    {
+      "source": "Impacto en Propietarios Particulares_attack",
+      "target": "Considero la vivienda como una necesidad, esta propuesta implicar\u00eda a todos, gente hay muy buena como mala, esto se solucionar\u00eda creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3481",
+      "target": "Impacto Econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico",
+      "target": "Impacto Econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_support",
+      "target": "Bajar\u00edas el precio, efectivamente, pero obligar\u00edas a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio.",
+      "value": 3
+    },
+    {
+      "source": "Impacto Econ\u00f3mico_attack",
+      "target": "Bajar\u00eda s\u00ed el alquiler y la venta, pero de esta forma todo el mundo podr\u00eda tener un techo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3481",
+      "target": "Especulaci\u00f3n Inmobiliaria",
+      "value": 1
+    },
+    {
+      "source": "Especulaci\u00f3n Inmobiliaria",
+      "target": "Especulaci\u00f3n Inmobiliaria_support",
+      "value": 2
+    },
+    {
+      "source": "Especulaci\u00f3n Inmobiliaria",
+      "target": "Especulaci\u00f3n Inmobiliaria_attack",
+      "value": 2
+    },
+    {
+      "source": "Especulaci\u00f3n Inmobiliaria_support",
+      "target": "Especula el que alquila a precios abusivos.",
+      "value": 3
+    },
+    {
+      "source": "Especulaci\u00f3n Inmobiliaria_attack",
+      "target": "El que quiere alquilar su casa o venderla lo hace, pero con sus condiciones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 3481",
+      "target": "Inclusi\u00f3n de Entidades Financieras",
+      "value": 1
+    },
+    {
+      "source": "Inclusi\u00f3n de Entidades Financieras",
+      "target": "Inclusi\u00f3n de Entidades Financieras_support",
+      "value": 2
+    },
+    {
+      "source": "Inclusi\u00f3n de Entidades Financieras",
+      "target": "Inclusi\u00f3n de Entidades Financieras_attack",
+      "value": 2
+    },
+    {
+      "source": "Inclusi\u00f3n de Entidades Financieras_support",
+      "target": "Impuesto para todos y todas particulares, entidades financieras, administraciones p\u00fablicas.",
+      "value": 3
+    },
+    {
+      "source": "Inclusi\u00f3n de Entidades Financieras_attack",
+      "target": "Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no deber\u00eda de estar obligado a alquilar su casa aunque tenga mucha pasta.",
+      "value": 3
+    }
+  ]
+}

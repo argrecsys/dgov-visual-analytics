@@ -5,15 +5,43 @@
       "group": 0
     },
     {
-      "id": "Uso de energ\u00edas renovables",
+      "id": "Seguridad Vial",
       "group": -3
     },
     {
-      "id": "Uso de energ\u00edas renovables_support",
+      "id": "Seguridad Vial_support",
       "group": -1
     },
     {
-      "id": "Uso de energ\u00edas renovables_attack",
+      "id": "Seguridad Vial_attack",
+      "group": -2
+    },
+    {
+      "id": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
+      "group": -1
+    },
+    {
+      "id": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
+      "group": -1
+    },
+    {
+      "id": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+      "group": -2
+    },
+    {
+      "id": "Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
+      "group": -2
+    },
+    {
+      "id": "Energ\u00eda y Sostenibilidad",
+      "group": -3
+    },
+    {
+      "id": "Energ\u00eda y Sostenibilidad_support",
+      "group": -1
+    },
+    {
+      "id": "Energ\u00eda y Sostenibilidad_attack",
       "group": -2
     },
     {
@@ -21,15 +49,15 @@
       "group": -1
     },
     {
-      "id": "Eficiencia energ\u00e9tica",
+      "id": "Eficiencia Energ\u00e9tica",
       "group": -3
     },
     {
-      "id": "Eficiencia energ\u00e9tica_support",
+      "id": "Eficiencia Energ\u00e9tica_support",
       "group": -1
     },
     {
-      "id": "Eficiencia energ\u00e9tica_attack",
+      "id": "Eficiencia Energ\u00e9tica_attack",
       "group": -2
     },
     {
@@ -37,225 +65,197 @@
       "group": -1
     },
     {
-      "id": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
-      "group": -1
-    },
-    {
-      "id": "Seguridad vial",
+      "id": "Impacto Ambiental",
       "group": -3
     },
     {
-      "id": "Seguridad vial_support",
+      "id": "Impacto Ambiental_support",
       "group": -1
     },
     {
-      "id": "Seguridad vial_attack",
-      "group": -2
-    },
-    {
-      "id": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
-      "group": -2
-    },
-    {
-      "id": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
-      "group": -2
-    },
-    {
-      "id": "Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
-      "group": -2
-    },
-    {
-      "id": "Visibilidad y peligro",
-      "group": -3
-    },
-    {
-      "id": "Visibilidad y peligro_support",
-      "group": -1
-    },
-    {
-      "id": "Visibilidad y peligro_attack",
-      "group": -2
-    },
-    {
-      "id": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
-      "group": -1
-    },
-    {
-      "id": "Contaminaci\u00f3n lum\u00ednica",
-      "group": -3
-    },
-    {
-      "id": "Contaminaci\u00f3n lum\u00ednica_support",
-      "group": -1
-    },
-    {
-      "id": "Contaminaci\u00f3n lum\u00ednica_attack",
+      "id": "Impacto Ambiental_attack",
       "group": -2
     },
     {
       "id": "Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
-      "group": -2
-    },
-    {
-      "id": "Problemas administrativos y de mantenimiento",
-      "group": -3
-    },
-    {
-      "id": "Problemas administrativos y de mantenimiento_support",
       "group": -1
     },
     {
-      "id": "Problemas administrativos y de mantenimiento_attack",
+      "id": "Gesti\u00f3n P\u00fablica",
+      "group": -3
+    },
+    {
+      "id": "Gesti\u00f3n P\u00fablica_support",
+      "group": -1
+    },
+    {
+      "id": "Gesti\u00f3n P\u00fablica_attack",
       "group": -2
     },
     {
-      "id": "En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",
+      "id": "El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado.",
       "group": -2
     },
     {
-      "id": "En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas.",
+      "id": "La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed.",
       "group": -2
+    },
+    {
+      "id": "Eficiencia Regulatoria",
+      "group": -3
+    },
+    {
+      "id": "Eficiencia Regulatoria_support",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia Regulatoria_attack",
+      "group": -2
+    },
+    {
+      "id": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
+      "group": -1
     }
   ],
   "links": [
     {
       "source": "proposal 61",
-      "target": "Uso de energ\u00edas renovables",
+      "target": "Seguridad Vial",
       "value": 1
     },
     {
-      "source": "Uso de energ\u00edas renovables",
-      "target": "Uso de energ\u00edas renovables_support",
+      "source": "Seguridad Vial",
+      "target": "Seguridad Vial_support",
       "value": 2
     },
     {
-      "source": "Uso de energ\u00edas renovables",
-      "target": "Uso de energ\u00edas renovables_attack",
+      "source": "Seguridad Vial",
+      "target": "Seguridad Vial_attack",
       "value": 2
     },
     {
-      "source": "Uso de energ\u00edas renovables_support",
+      "source": "Seguridad Vial_support",
+      "target": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad Vial_support",
+      "target": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad Vial_attack",
+      "target": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad Vial_attack",
+      "target": "Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Energ\u00eda y Sostenibilidad",
+      "value": 1
+    },
+    {
+      "source": "Energ\u00eda y Sostenibilidad",
+      "target": "Energ\u00eda y Sostenibilidad_support",
+      "value": 2
+    },
+    {
+      "source": "Energ\u00eda y Sostenibilidad",
+      "target": "Energ\u00eda y Sostenibilidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Energ\u00eda y Sostenibilidad_support",
       "target": "Incluso propondr\u00eda dentro de esta propuesta que se abasteciera con energ\u00edas renovables, preferentemente peque\u00f1as placas solares en cada farola.",
       "value": 3
     },
     {
       "source": "proposal 61",
-      "target": "Eficiencia energ\u00e9tica",
+      "target": "Eficiencia Energ\u00e9tica",
       "value": 1
     },
     {
-      "source": "Eficiencia energ\u00e9tica",
-      "target": "Eficiencia energ\u00e9tica_support",
+      "source": "Eficiencia Energ\u00e9tica",
+      "target": "Eficiencia Energ\u00e9tica_support",
       "value": 2
     },
     {
-      "source": "Eficiencia energ\u00e9tica",
-      "target": "Eficiencia energ\u00e9tica_attack",
+      "source": "Eficiencia Energ\u00e9tica",
+      "target": "Eficiencia Energ\u00e9tica_attack",
       "value": 2
     },
     {
-      "source": "Eficiencia energ\u00e9tica_support",
+      "source": "Eficiencia Energ\u00e9tica_support",
       "target": "O encender una farola de cada dos, pero en toda la autopista.",
       "value": 3
     },
     {
-      "source": "Eficiencia energ\u00e9tica_support",
-      "target": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
-      "value": 3
-    },
-    {
       "source": "proposal 61",
-      "target": "Seguridad vial",
+      "target": "Impacto Ambiental",
       "value": 1
     },
     {
-      "source": "Seguridad vial",
-      "target": "Seguridad vial_support",
+      "source": "Impacto Ambiental",
+      "target": "Impacto Ambiental_support",
       "value": 2
     },
     {
-      "source": "Seguridad vial",
-      "target": "Seguridad vial_attack",
+      "source": "Impacto Ambiental",
+      "target": "Impacto Ambiental_attack",
       "value": 2
     },
     {
-      "source": "Seguridad vial_attack",
-      "target": "La seguridad mejora en carreteras sin iluminaci\u00f3n externa, ya que los conductores centran la atenci\u00f3n en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.",
-      "value": 3
-    },
-    {
-      "source": "Seguridad vial_attack",
-      "target": "Pa\u00edses m\u00e1s seguros como Alemania, Reino Unido, etc., no tienen iluminaci\u00f3n alguna en las carreteras.",
-      "value": 3
-    },
-    {
-      "source": "Seguridad vial_attack",
-      "target": "Varios estudios indican que en las autopistas, por ejemplo, hay m\u00e1s accidentes cuando hay luz.",
-      "value": 3
-    },
-    {
-      "source": "proposal 61",
-      "target": "Visibilidad y peligro",
-      "value": 1
-    },
-    {
-      "source": "Visibilidad y peligro",
-      "target": "Visibilidad y peligro_support",
-      "value": 2
-    },
-    {
-      "source": "Visibilidad y peligro",
-      "target": "Visibilidad y peligro_attack",
-      "value": 2
-    },
-    {
-      "source": "Visibilidad y peligro_support",
-      "target": "Creo que es de vital importancia pues hay muchos tramos de carreteras y v\u00edas en las que es muy peligroso circular por su poca visibilidad y m\u00e1s aun cuando existe ya la iluminaci\u00f3n instalada hace tiempo.",
-      "value": 3
-    },
-    {
-      "source": "proposal 61",
-      "target": "Contaminaci\u00f3n lum\u00ednica",
-      "value": 1
-    },
-    {
-      "source": "Contaminaci\u00f3n lum\u00ednica",
-      "target": "Contaminaci\u00f3n lum\u00ednica_support",
-      "value": 2
-    },
-    {
-      "source": "Contaminaci\u00f3n lum\u00ednica",
-      "target": "Contaminaci\u00f3n lum\u00ednica_attack",
-      "value": 2
-    },
-    {
-      "source": "Contaminaci\u00f3n lum\u00ednica_attack",
+      "source": "Impacto Ambiental_support",
       "target": "Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminaci\u00f3n lum\u00ednica de Madrid.",
       "value": 3
     },
     {
       "source": "proposal 61",
-      "target": "Problemas administrativos y de mantenimiento",
+      "target": "Gesti\u00f3n P\u00fablica",
       "value": 1
     },
     {
-      "source": "Problemas administrativos y de mantenimiento",
-      "target": "Problemas administrativos y de mantenimiento_support",
+      "source": "Gesti\u00f3n P\u00fablica",
+      "target": "Gesti\u00f3n P\u00fablica_support",
       "value": 2
     },
     {
-      "source": "Problemas administrativos y de mantenimiento",
-      "target": "Problemas administrativos y de mantenimiento_attack",
+      "source": "Gesti\u00f3n P\u00fablica",
+      "target": "Gesti\u00f3n P\u00fablica_attack",
       "value": 2
     },
     {
-      "source": "Problemas administrativos y de mantenimiento_attack",
-      "target": "En la M40 no hay iluminaci\u00f3n debido a que cuando se construy\u00f3, Fomento hac\u00eda la autopista y los Ayuntamientos de Madrid y Pozuelo ejecutaban al alumbrado y su mantenimiento pasando la factura a Fomento, pues bien el Ministerio no paga y el Ayuntamiento de Madrid ha cortado la luz.",
+      "source": "Gesti\u00f3n P\u00fablica_attack",
+      "target": "El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado.",
       "value": 3
     },
     {
-      "source": "Problemas administrativos y de mantenimiento_attack",
-      "target": "En la zona de Pozuelo de momento hay alumbrado. Pero el principal problema es, por ejemplo, la m31 donde est\u00e1 totalmente a oscuras. La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas.",
+      "source": "Gesti\u00f3n P\u00fablica_attack",
+      "target": "La raz\u00f3n muy simple, han desvalijado el centro de transformaci\u00f3n, no quedan ni las puertas. No habr\u00e1 luz, pero tampoco funcionan los radares. Espa\u00f1a es as\u00ed.",
+      "value": 3
+    },
+    {
+      "source": "proposal 61",
+      "target": "Eficiencia Regulatoria",
+      "value": 1
+    },
+    {
+      "source": "Eficiencia Regulatoria",
+      "target": "Eficiencia Regulatoria_support",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia Regulatoria",
+      "target": "Eficiencia Regulatoria_attack",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia Regulatoria_support",
+      "target": "El Reglamento de Eficiencia Energ\u00e9tica de Alumbrado Exterior ya establece que en funci\u00f3n del tr\u00e1fico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de veh\u00edculos y personas.",
       "value": 3
     }
   ]

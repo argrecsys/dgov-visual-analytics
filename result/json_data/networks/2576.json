@@ -1,0 +1,217 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2576",
+      "group": 0
+    },
+    {
+      "id": "Limpieza P\u00fablica",
+      "group": -3
+    },
+    {
+      "id": "Limpieza P\u00fablica_support",
+      "group": -1
+    },
+    {
+      "id": "Limpieza P\u00fablica_attack",
+      "group": -2
+    },
+    {
+      "id": "No se trata de obligarles a limpiar por supuesto, pero s\u00ed a concienciar a todos los que ensucian de forma innecesaria su entorno lo que no deben hacer.",
+      "group": -1
+    },
+    {
+      "id": "Aplaudo tu iniciativa, y creo que podr\u00eda tener una repercusi\u00f3n social importante.",
+      "group": -1
+    },
+    {
+      "id": "Los que hacen botellones deber\u00edan recoger los desperdicios y adem\u00e1s no mear en v\u00eda p\u00fablica.",
+      "group": -1
+    },
+    {
+      "id": "No hay que generalizar con todo el colectivo universitario.",
+      "group": -2
+    },
+    {
+      "id": "La alcaldesa no tiene legitimidad para hacerles limpiar las calles.",
+      "group": -2
+    },
+    {
+      "id": "Es injusto, pues la mayor\u00eda no ha podido votar la composici\u00f3n del Ayuntamiento de Madrid.",
+      "group": -2
+    },
+    {
+      "id": "Empleo P\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Empleo P\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Empleo P\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "Los empleos p\u00fablicos se deben ofrecer a todos los ciudadanos.",
+      "group": -1
+    },
+    {
+      "id": "Si saliera una oferta de empleo p\u00fablico para limpiar un colegio, la solicitar\u00edas en la zona que m\u00e1s cerca te pille.",
+      "group": -1
+    },
+    {
+      "id": "No se deber\u00edan ofrecer empleos p\u00fablicos en funci\u00f3n de en qu\u00e9 colectivo te encuentres, sino a todos los ciudadanos por igual.",
+      "group": -2
+    },
+    {
+      "id": "Mu\u00e9strame una encuesta que diga que s\u00f3lo los universitarios ensucian la calle.",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n Ambiental",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n Ambiental_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n Ambiental_attack",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n! Concienciar a todos los que ensucian de forma innecesaria su entorno.",
+      "group": -1
+    },
+    {
+      "id": "En el colegio de mi hijo hacen batall\u00f3n de reciclaje, conciencian al resto informando y vigilando que cumplen con las normas de limpieza.",
+      "group": -1
+    },
+    {
+      "id": "No hay que ense\u00f1ar s\u00f3lo a los j\u00f3venes estudiantes, sino a todos, para evitar convertir a nuestros hijos en unos guarros.",
+      "group": -2
+    },
+    {
+      "id": "No solo la gente que hace botell\u00f3n ensucia, sino tambi\u00e9n los propios alumnos durante el d\u00eda.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2576",
+      "target": "Limpieza P\u00fablica",
+      "value": 1
+    },
+    {
+      "source": "Limpieza P\u00fablica",
+      "target": "Limpieza P\u00fablica_support",
+      "value": 2
+    },
+    {
+      "source": "Limpieza P\u00fablica",
+      "target": "Limpieza P\u00fablica_attack",
+      "value": 2
+    },
+    {
+      "source": "Limpieza P\u00fablica_support",
+      "target": "No se trata de obligarles a limpiar por supuesto, pero s\u00ed a concienciar a todos los que ensucian de forma innecesaria su entorno lo que no deben hacer.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza P\u00fablica_support",
+      "target": "Aplaudo tu iniciativa, y creo que podr\u00eda tener una repercusi\u00f3n social importante.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza P\u00fablica_support",
+      "target": "Los que hacen botellones deber\u00edan recoger los desperdicios y adem\u00e1s no mear en v\u00eda p\u00fablica.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza P\u00fablica_attack",
+      "target": "No hay que generalizar con todo el colectivo universitario.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza P\u00fablica_attack",
+      "target": "La alcaldesa no tiene legitimidad para hacerles limpiar las calles.",
+      "value": 3
+    },
+    {
+      "source": "Limpieza P\u00fablica_attack",
+      "target": "Es injusto, pues la mayor\u00eda no ha podido votar la composici\u00f3n del Ayuntamiento de Madrid.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2576",
+      "target": "Empleo P\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Empleo P\u00fablico",
+      "target": "Empleo P\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Empleo P\u00fablico",
+      "target": "Empleo P\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Empleo P\u00fablico_support",
+      "target": "Los empleos p\u00fablicos se deben ofrecer a todos los ciudadanos.",
+      "value": 3
+    },
+    {
+      "source": "Empleo P\u00fablico_support",
+      "target": "Si saliera una oferta de empleo p\u00fablico para limpiar un colegio, la solicitar\u00edas en la zona que m\u00e1s cerca te pille.",
+      "value": 3
+    },
+    {
+      "source": "Empleo P\u00fablico_attack",
+      "target": "No se deber\u00edan ofrecer empleos p\u00fablicos en funci\u00f3n de en qu\u00e9 colectivo te encuentres, sino a todos los ciudadanos por igual.",
+      "value": 3
+    },
+    {
+      "source": "Empleo P\u00fablico_attack",
+      "target": "Mu\u00e9strame una encuesta que diga que s\u00f3lo los universitarios ensucian la calle.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2576",
+      "target": "Educaci\u00f3n Ambiental",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental",
+      "target": "Educaci\u00f3n Ambiental_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental",
+      "target": "Educaci\u00f3n Ambiental_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental_support",
+      "target": "Educaci\u00f3n! Concienciar a todos los que ensucian de forma innecesaria su entorno.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental_support",
+      "target": "En el colegio de mi hijo hacen batall\u00f3n de reciclaje, conciencian al resto informando y vigilando que cumplen con las normas de limpieza.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental_attack",
+      "target": "No hay que ense\u00f1ar s\u00f3lo a los j\u00f3venes estudiantes, sino a todos, para evitar convertir a nuestros hijos en unos guarros.",
+      "value": 3
+    },
+    {
+      "source": "Educaci\u00f3n Ambiental_attack",
+      "target": "No solo la gente que hace botell\u00f3n ensucia, sino tambi\u00e9n los propios alumnos durante el d\u00eda.",
+      "value": 3
+    }
+  ]
+}

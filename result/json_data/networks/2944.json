@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2944",
+      "group": 0
+    },
+    {
+      "id": "Utilizaci\u00f3n de recursos",
+      "group": -3
+    },
+    {
+      "id": "Utilizaci\u00f3n de recursos_support",
+      "group": -1
+    },
+    {
+      "id": "Utilizaci\u00f3n de recursos_attack",
+      "group": -2
+    },
+    {
+      "id": "el encontrar en que pueden ayudar a esos pa\u00edses cos sus muy enormes recursos y que se visibiliza una vez al a\u00f1o en el antiguo d\u00eda de la hispanidad mediante actos de entrega de material o de reuni\u00f3n con las autoridades de estos pa\u00edses en relaci\u00f3n a las actividades de colaboraci\u00f3n no militar.",
+      "group": -1
+    },
+    {
+      "id": "La cuesti\u00f3n es que ese dinero proviene del Ministerio de Defensa. Si ese ministerio no invirtiese ese dinero en el desfile, se invertir\u00eda en otra cosa relacionada con defensa, no en los parados.",
+      "group": -2
+    },
+    {
+      "id": "Impacto econ\u00f3mico",
+      "group": -3
+    },
+    {
+      "id": "Impacto econ\u00f3mico_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto econ\u00f3mico_attack",
+      "group": -2
+    },
+    {
+      "id": "A m\u00ed opini\u00f3n 800 mil euros dar\u00eda de comer a muchas familias y a crear alg\u00fan puesto de trabajo ya sea funcionarios o privados, se que el ej\u00e9rcito cumple su funci\u00f3n pero ese dineral es de todos y deber\u00eda usarse para todos por ejemplo.",
+      "group": -1
+    },
+    {
+      "id": "No estoy de acuerdo con el desfile militar, pero tampoco estoy de acuerdo con lo que dices. Si por gasto fuera, el actual desfile cuesta menos de la mitad que otros a\u00f1os, y no llega ni a la mitad de los que se gastan otros pa\u00edses en lo mismo.",
+      "group": -2
+    },
+    {
+      "id": "Relevancia cultural",
+      "group": -3
+    },
+    {
+      "id": "Relevancia cultural_support",
+      "group": -1
+    },
+    {
+      "id": "Relevancia cultural_attack",
+      "group": -2
+    },
+    {
+      "id": "Bueno, pues es que se me hab\u00eda pasado poner lo m\u00e1s importante: en el d\u00eda de hermanamiento entre Espa\u00f1a y los pa\u00edses de LatinoAm\u00e9rica el ej\u00e9rcito no tiene nada que ver ni nada que hacer.",
+      "group": -1
+    },
+    {
+      "id": "No lo s\u00e9, pero en el d\u00eda nacional de Espa\u00f1a, que coincide con la fiesta de la hispanidad y del Pilar el desfile estaba petado de madrile\u00f1os. Yo no fui pero un acto a nivel espa\u00f1ol, que se retransmite por cadenas principales y de repercusi\u00f3n internacional excelente para el turismo de Madrid.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2944",
+      "target": "Utilizaci\u00f3n de recursos",
+      "value": 1
+    },
+    {
+      "source": "Utilizaci\u00f3n de recursos",
+      "target": "Utilizaci\u00f3n de recursos_support",
+      "value": 2
+    },
+    {
+      "source": "Utilizaci\u00f3n de recursos",
+      "target": "Utilizaci\u00f3n de recursos_attack",
+      "value": 2
+    },
+    {
+      "source": "Utilizaci\u00f3n de recursos_support",
+      "target": "el encontrar en que pueden ayudar a esos pa\u00edses cos sus muy enormes recursos y que se visibiliza una vez al a\u00f1o en el antiguo d\u00eda de la hispanidad mediante actos de entrega de material o de reuni\u00f3n con las autoridades de estos pa\u00edses en relaci\u00f3n a las actividades de colaboraci\u00f3n no militar.",
+      "value": 3
+    },
+    {
+      "source": "Utilizaci\u00f3n de recursos_attack",
+      "target": "La cuesti\u00f3n es que ese dinero proviene del Ministerio de Defensa. Si ese ministerio no invirtiese ese dinero en el desfile, se invertir\u00eda en otra cosa relacionada con defensa, no en los parados.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2944",
+      "target": "Impacto econ\u00f3mico",
+      "value": 1
+    },
+    {
+      "source": "Impacto econ\u00f3mico",
+      "target": "Impacto econ\u00f3mico_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto econ\u00f3mico",
+      "target": "Impacto econ\u00f3mico_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto econ\u00f3mico_support",
+      "target": "A m\u00ed opini\u00f3n 800 mil euros dar\u00eda de comer a muchas familias y a crear alg\u00fan puesto de trabajo ya sea funcionarios o privados, se que el ej\u00e9rcito cumple su funci\u00f3n pero ese dineral es de todos y deber\u00eda usarse para todos por ejemplo.",
+      "value": 3
+    },
+    {
+      "source": "Impacto econ\u00f3mico_attack",
+      "target": "No estoy de acuerdo con el desfile militar, pero tampoco estoy de acuerdo con lo que dices. Si por gasto fuera, el actual desfile cuesta menos de la mitad que otros a\u00f1os, y no llega ni a la mitad de los que se gastan otros pa\u00edses en lo mismo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2944",
+      "target": "Relevancia cultural",
+      "value": 1
+    },
+    {
+      "source": "Relevancia cultural",
+      "target": "Relevancia cultural_support",
+      "value": 2
+    },
+    {
+      "source": "Relevancia cultural",
+      "target": "Relevancia cultural_attack",
+      "value": 2
+    },
+    {
+      "source": "Relevancia cultural_support",
+      "target": "Bueno, pues es que se me hab\u00eda pasado poner lo m\u00e1s importante: en el d\u00eda de hermanamiento entre Espa\u00f1a y los pa\u00edses de LatinoAm\u00e9rica el ej\u00e9rcito no tiene nada que ver ni nada que hacer.",
+      "value": 3
+    },
+    {
+      "source": "Relevancia cultural_attack",
+      "target": "No lo s\u00e9, pero en el d\u00eda nacional de Espa\u00f1a, que coincide con la fiesta de la hispanidad y del Pilar el desfile estaba petado de madrile\u00f1os. Yo no fui pero un acto a nivel espa\u00f1ol, que se retransmite por cadenas principales y de repercusi\u00f3n internacional excelente para el turismo de Madrid.",
+      "value": 3
+    }
+  ]
+}

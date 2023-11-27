@@ -1,0 +1,406 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2513",
+      "group": 0
+    },
+    {
+      "id": "Convivencia en espacios compartidos",
+      "group": -3
+    },
+    {
+      "id": "Convivencia en espacios compartidos_support",
+      "group": -1
+    },
+    {
+      "id": "Convivencia en espacios compartidos_attack",
+      "group": -2
+    },
+    {
+      "id": "En ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague, se ven calles peatonales y plazas donde pasan bicicletas a ritmo de peat\u00f3n y los peatones no se alteran.",
+      "group": -1
+    },
+    {
+      "id": "Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras.",
+      "group": -2
+    },
+    {
+      "id": "Seguridad y accidentes",
+      "group": -3
+    },
+    {
+      "id": "Seguridad y accidentes_support",
+      "group": -1
+    },
+    {
+      "id": "Seguridad y accidentes_attack",
+      "group": -2
+    },
+    {
+      "id": "Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.",
+      "group": -1
+    },
+    {
+      "id": "Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, saltan los sem\u00e1foros provocando sobresaltos en los transe\u00fantes.",
+      "group": -2
+    },
+    {
+      "id": "Infraestructura vial",
+      "group": -3
+    },
+    {
+      "id": "Infraestructura vial_support",
+      "group": -1
+    },
+    {
+      "id": "Infraestructura vial_attack",
+      "group": -2
+    },
+    {
+      "id": "Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Soluci\u00f3n carriles bicicleta de verdad y no de paseo.",
+      "group": -1
+    },
+    {
+      "id": "Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches.",
+      "group": -2
+    },
+    {
+      "id": "Educaci\u00f3n vial",
+      "group": -3
+    },
+    {
+      "id": "Educaci\u00f3n vial_support",
+      "group": -1
+    },
+    {
+      "id": "Educaci\u00f3n vial_attack",
+      "group": -2
+    },
+    {
+      "id": "Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educaci\u00f3n vial.",
+      "group": -1
+    },
+    {
+      "id": "Identificaci\u00f3n y sanciones",
+      "group": -3
+    },
+    {
+      "id": "Identificaci\u00f3n y sanciones_support",
+      "group": -1
+    },
+    {
+      "id": "Identificaci\u00f3n y sanciones_attack",
+      "group": -2
+    },
+    {
+      "id": "Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados.",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud",
+      "group": -3
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud_support",
+      "group": -1
+    },
+    {
+      "id": "Contaminaci\u00f3n y salud_attack",
+      "group": -2
+    },
+    {
+      "id": "Es curioso que molesten m\u00e1s las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos contaminante que los coches.",
+      "group": -1
+    },
+    {
+      "id": "Tolerancia y convivencia",
+      "group": -3
+    },
+    {
+      "id": "Tolerancia y convivencia_support",
+      "group": -1
+    },
+    {
+      "id": "Tolerancia y convivencia_attack",
+      "group": -2
+    },
+    {
+      "id": "Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas.",
+      "group": -1
+    },
+    {
+      "id": "Costo de matriculaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Costo de matriculaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Costo de matriculaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se podr\u00eda identificar m\u00e1s f\u00e1cilmente.",
+      "group": -1
+    },
+    {
+      "id": "Percepci\u00f3n social de la bicicleta",
+      "group": -3
+    },
+    {
+      "id": "Percepci\u00f3n social de la bicicleta_support",
+      "group": -1
+    },
+    {
+      "id": "Percepci\u00f3n social de la bicicleta_attack",
+      "group": -2
+    },
+    {
+      "id": "Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la acera.",
+      "group": -1
+    },
+    {
+      "id": "De ah\u00ed la intolerancia. El que va en coche piensa que la bicicleta va muy despacio, el peat\u00f3n piensa que va muy deprisa, el que va en bicicleta piensa que el del coche es impaciente y contamina.",
+      "group": -2
+    },
+    {
+      "id": "Impacto ambiental",
+      "group": -3
+    },
+    {
+      "id": "Impacto ambiental_support",
+      "group": -1
+    },
+    {
+      "id": "Impacto ambiental_attack",
+      "group": -2
+    },
+    {
+      "id": "En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n.",
+      "group": -1
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2513",
+      "target": "Convivencia en espacios compartidos",
+      "value": 1
+    },
+    {
+      "source": "Convivencia en espacios compartidos",
+      "target": "Convivencia en espacios compartidos_support",
+      "value": 2
+    },
+    {
+      "source": "Convivencia en espacios compartidos",
+      "target": "Convivencia en espacios compartidos_attack",
+      "value": 2
+    },
+    {
+      "source": "Convivencia en espacios compartidos_support",
+      "target": "En ciudades donde la bicicleta es mayoritaria, como Amsterdam o Copenhague, se ven calles peatonales y plazas donde pasan bicicletas a ritmo de peat\u00f3n y los peatones no se alteran.",
+      "value": 3
+    },
+    {
+      "source": "Convivencia en espacios compartidos_attack",
+      "target": "Personalmente no me molesta mientras no tenga que parar para pasar, pero seguro que alguno de ellos son los que se molestan tanto con las bicicletas por las aceras.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Seguridad y accidentes",
+      "value": 1
+    },
+    {
+      "source": "Seguridad y accidentes",
+      "target": "Seguridad y accidentes_support",
+      "value": 2
+    },
+    {
+      "source": "Seguridad y accidentes",
+      "target": "Seguridad y accidentes_attack",
+      "value": 2
+    },
+    {
+      "source": "Seguridad y accidentes_support",
+      "target": "Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.",
+      "value": 3
+    },
+    {
+      "source": "Seguridad y accidentes_attack",
+      "target": "Tienes toda la raz\u00f3n, cada vez hay m\u00e1s bicicletas que se saltan todo tipo de se\u00f1ales, van en direcci\u00f3n contraria, saltan los sem\u00e1foros provocando sobresaltos en los transe\u00fantes.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Infraestructura vial",
+      "value": 1
+    },
+    {
+      "source": "Infraestructura vial",
+      "target": "Infraestructura vial_support",
+      "value": 2
+    },
+    {
+      "source": "Infraestructura vial",
+      "target": "Infraestructura vial_attack",
+      "value": 2
+    },
+    {
+      "source": "Infraestructura vial_support",
+      "target": "Quiz\u00e1s, y s\u00f3lo quiz\u00e1s, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Soluci\u00f3n carriles bicicleta de verdad y no de paseo.",
+      "value": 3
+    },
+    {
+      "source": "Infraestructura vial_attack",
+      "target": "Yo creo que la mayor\u00eda de gente que va por las aceras en bicicleta es por miedo a los coches.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Educaci\u00f3n vial",
+      "value": 1
+    },
+    {
+      "source": "Educaci\u00f3n vial",
+      "target": "Educaci\u00f3n vial_support",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n vial",
+      "target": "Educaci\u00f3n vial_attack",
+      "value": 2
+    },
+    {
+      "source": "Educaci\u00f3n vial_support",
+      "target": "Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educaci\u00f3n vial.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Identificaci\u00f3n y sanciones",
+      "value": 1
+    },
+    {
+      "source": "Identificaci\u00f3n y sanciones",
+      "target": "Identificaci\u00f3n y sanciones_support",
+      "value": 2
+    },
+    {
+      "source": "Identificaci\u00f3n y sanciones",
+      "target": "Identificaci\u00f3n y sanciones_attack",
+      "value": 2
+    },
+    {
+      "source": "Identificaci\u00f3n y sanciones_support",
+      "target": "Muy buena propuesta. Ya est\u00e1 bien de que una bicicleta, que es un veh\u00edculo como otros, cometan infracciones sin posibilidad de ser identificados.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Contaminaci\u00f3n y salud",
+      "value": 1
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud",
+      "target": "Contaminaci\u00f3n y salud_support",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud",
+      "target": "Contaminaci\u00f3n y salud_attack",
+      "value": 2
+    },
+    {
+      "source": "Contaminaci\u00f3n y salud_support",
+      "target": "Es curioso que molesten m\u00e1s las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos contaminante que los coches.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Tolerancia y convivencia",
+      "value": 1
+    },
+    {
+      "source": "Tolerancia y convivencia",
+      "target": "Tolerancia y convivencia_support",
+      "value": 2
+    },
+    {
+      "source": "Tolerancia y convivencia",
+      "target": "Tolerancia y convivencia_attack",
+      "value": 2
+    },
+    {
+      "source": "Tolerancia y convivencia_support",
+      "target": "Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Costo de matriculaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Costo de matriculaci\u00f3n",
+      "target": "Costo de matriculaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Costo de matriculaci\u00f3n",
+      "target": "Costo de matriculaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Costo de matriculaci\u00f3n_support",
+      "target": "Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculaci\u00f3n no ser\u00e1 gratis. Como ventaja veo m\u00e1s interesante que en caso de robo se podr\u00eda identificar m\u00e1s f\u00e1cilmente.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Percepci\u00f3n social de la bicicleta",
+      "value": 1
+    },
+    {
+      "source": "Percepci\u00f3n social de la bicicleta",
+      "target": "Percepci\u00f3n social de la bicicleta_support",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n social de la bicicleta",
+      "target": "Percepci\u00f3n social de la bicicleta_attack",
+      "value": 2
+    },
+    {
+      "source": "Percepci\u00f3n social de la bicicleta_support",
+      "target": "Pues yo creo que hay un gran inter\u00e9s por parte de los ciclistas en convertir Madrid en una ciudad amigable con la bicicleta, pero el miedo al tr\u00e1fico rodado hace que algunos se decidan por la acera.",
+      "value": 3
+    },
+    {
+      "source": "Percepci\u00f3n social de la bicicleta_attack",
+      "target": "De ah\u00ed la intolerancia. El que va en coche piensa que la bicicleta va muy despacio, el peat\u00f3n piensa que va muy deprisa, el que va en bicicleta piensa que el del coche es impaciente y contamina.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2513",
+      "target": "Impacto ambiental",
+      "value": 1
+    },
+    {
+      "source": "Impacto ambiental",
+      "target": "Impacto ambiental_support",
+      "value": 2
+    },
+    {
+      "source": "Impacto ambiental",
+      "target": "Impacto ambiental_attack",
+      "value": 2
+    },
+    {
+      "source": "Impacto ambiental_support",
+      "target": "En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminaci\u00f3n.",
+      "value": 3
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2524",
+      "group": 0
+    },
+    {
+      "id": "Discriminaci\u00f3n y Exclusi\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Discriminaci\u00f3n y Exclusi\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Discriminaci\u00f3n y Exclusi\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.",
+      "group": -2
+    },
+    {
+      "id": "las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente.",
+      "group": -2
+    },
+    {
+      "id": "Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria.",
+      "group": -2
+    },
+    {
+      "id": "Apoyo y Necesidad",
+      "group": -3
+    },
+    {
+      "id": "Apoyo y Necesidad_support",
+      "group": -1
+    },
+    {
+      "id": "Apoyo y Necesidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar.",
+      "group": -2
+    },
+    {
+      "id": "Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil.",
+      "group": -2
+    },
+    {
+      "id": "Viabilidad y Ejecuci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Viabilidad y Ejecuci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Viabilidad y Ejecuci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo.",
+      "group": -2
+    },
+    {
+      "id": "Integraci\u00f3n y Participaci\u00f3n",
+      "group": -3
+    },
+    {
+      "id": "Integraci\u00f3n y Participaci\u00f3n_support",
+      "group": -1
+    },
+    {
+      "id": "Integraci\u00f3n y Participaci\u00f3n_attack",
+      "group": -2
+    },
+    {
+      "id": "Me gustar\u00eda sumarme al proyecto y a lo que haya que hacer para conseguirlo.",
+      "group": -2
+    },
+    {
+      "id": "Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente.",
+      "group": -2
+    },
+    {
+      "id": "Discriminaci\u00f3n por G\u00e9nero",
+      "group": -3
+    },
+    {
+      "id": "Discriminaci\u00f3n por G\u00e9nero_support",
+      "group": -1
+    },
+    {
+      "id": "Discriminaci\u00f3n por G\u00e9nero_attack",
+      "group": -2
+    },
+    {
+      "id": "La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza \u00bfte parecer\u00eda progresista?",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2524",
+      "target": "Discriminaci\u00f3n y Exclusi\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Discriminaci\u00f3n y Exclusi\u00f3n",
+      "target": "Discriminaci\u00f3n y Exclusi\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Discriminaci\u00f3n y Exclusi\u00f3n",
+      "target": "Discriminaci\u00f3n y Exclusi\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Discriminaci\u00f3n y Exclusi\u00f3n_attack",
+      "target": "Nunca se me hubiera ocurrido la idea de implementar una casa autogestionada de mujeres si no me hubieran relegado a un segundo t\u00e9rmino s\u00f3lo por el hecho de ser mujer y me hubieran intentado inculcar unos roles y unos estereotipos con los que no comulgo y que no pienso secundar.",
+      "value": 3
+    },
+    {
+      "source": "Discriminaci\u00f3n y Exclusi\u00f3n_attack",
+      "target": "las mujeres sufren una discriminaci\u00f3n intolerable en nuestra sociedad. Y si son mayores de 50 a\u00f1os, la cuesti\u00f3n se acent\u00faa terriblemente.",
+      "value": 3
+    },
+    {
+      "source": "Discriminaci\u00f3n y Exclusi\u00f3n_attack",
+      "target": "Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2524",
+      "target": "Apoyo y Necesidad",
+      "value": 1
+    },
+    {
+      "source": "Apoyo y Necesidad",
+      "target": "Apoyo y Necesidad_support",
+      "value": 2
+    },
+    {
+      "source": "Apoyo y Necesidad",
+      "target": "Apoyo y Necesidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Apoyo y Necesidad_attack",
+      "target": "Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan a\u00fan muchos valores escondidos por desarrollar.",
+      "value": 3
+    },
+    {
+      "source": "Apoyo y Necesidad_attack",
+      "target": "Es un hecho que las mujeres son m\u00e1s pobres que los hombres, y esto afecta de forma directa al colectivo infantil.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2524",
+      "target": "Viabilidad y Ejecuci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Viabilidad y Ejecuci\u00f3n",
+      "target": "Viabilidad y Ejecuci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad y Ejecuci\u00f3n",
+      "target": "Viabilidad y Ejecuci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Viabilidad y Ejecuci\u00f3n_attack",
+      "target": "Este proyecto prosperar\u00e1 si trabajamos en \u00e9l y si hay implicaci\u00f3n y compromiso efectivo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2524",
+      "target": "Integraci\u00f3n y Participaci\u00f3n",
+      "value": 1
+    },
+    {
+      "source": "Integraci\u00f3n y Participaci\u00f3n",
+      "target": "Integraci\u00f3n y Participaci\u00f3n_support",
+      "value": 2
+    },
+    {
+      "source": "Integraci\u00f3n y Participaci\u00f3n",
+      "target": "Integraci\u00f3n y Participaci\u00f3n_attack",
+      "value": 2
+    },
+    {
+      "source": "Integraci\u00f3n y Participaci\u00f3n_attack",
+      "target": "Me gustar\u00eda sumarme al proyecto y a lo que haya que hacer para conseguirlo.",
+      "value": 3
+    },
+    {
+      "source": "Integraci\u00f3n y Participaci\u00f3n_attack",
+      "target": "Gracias por escribir este comentario. Cuento contigo y espero que participes en la pr\u00f3xima reuni\u00f3n, presencial o virtualmente.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2524",
+      "target": "Discriminaci\u00f3n por G\u00e9nero",
+      "value": 1
+    },
+    {
+      "source": "Discriminaci\u00f3n por G\u00e9nero",
+      "target": "Discriminaci\u00f3n por G\u00e9nero_support",
+      "value": 2
+    },
+    {
+      "source": "Discriminaci\u00f3n por G\u00e9nero",
+      "target": "Discriminaci\u00f3n por G\u00e9nero_attack",
+      "value": 2
+    },
+    {
+      "source": "Discriminaci\u00f3n por G\u00e9nero_attack",
+      "target": "La apoyar\u00eda si no fuera discriminatoria y excluyente hacia la mitad de la poblaci\u00f3n. Quiz\u00e1s te parezca muy progresista pero, si en vez de excluir a las personas por su sexo fuera por su raza \u00bfte parecer\u00eda progresista?",
+      "value": 3
+    }
+  ]
+}

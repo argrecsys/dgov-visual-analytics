@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "id": "proposal 2412",
+      "group": 0
+    },
+    {
+      "id": "Accesibilidad",
+      "group": -3
+    },
+    {
+      "id": "Accesibilidad_support",
+      "group": -1
+    },
+    {
+      "id": "Accesibilidad_attack",
+      "group": -2
+    },
+    {
+      "id": "Es muy necesario poner ascensores y/o escaleras mec\u00e1nicas por la cantidad de turismo que hay sobretodo en la zona centro.",
+      "group": -1
+    },
+    {
+      "id": "Damos muy mala imagen a turistas y estudiantes extranjeros que llegan a la ciudad con sus maletas, intentando subir y bajar con ellas por las escaleras.",
+      "group": -1
+    },
+    {
+      "id": "La realidad con el turismo la veo yo todos los d\u00edas en la parada de metro Gran V\u00eda. Me da verg\u00fcenza ajena ver diariamente c\u00f3mo cientos de personas van acarreando como pueden sus maletas para llegar a sus hoteles.",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia del transporte p\u00fablico",
+      "group": -3
+    },
+    {
+      "id": "Eficiencia del transporte p\u00fablico_support",
+      "group": -1
+    },
+    {
+      "id": "Eficiencia del transporte p\u00fablico_attack",
+      "group": -2
+    },
+    {
+      "id": "Si no hay un buen transporte p\u00fablico, Madrid seguir\u00e1 siendo un caos circulatorio. Por eso promocionan el transporte p\u00fablico pero si no cubre las necesidades que cada tramo requiere, no servir\u00e1 de nada.",
+      "group": -1
+    },
+    {
+      "id": "Creo que todo es susceptible de mejora, claramente, pero que disponemos de uno de los mejores servicios p\u00fablicos de enlace con el aeropuerto, de todo el mundo.",
+      "group": -2
+    },
+    {
+      "id": "Coordinaci\u00f3n de propuestas",
+      "group": -3
+    },
+    {
+      "id": "Coordinaci\u00f3n de propuestas_support",
+      "group": -1
+    },
+    {
+      "id": "Coordinaci\u00f3n de propuestas_attack",
+      "group": -2
+    },
+    {
+      "id": "Tambi\u00e9n cabe que haya un moderador aqu\u00ed que se dedicase a unificar propuestas similares que abarcasen todas las opciones planteadas.",
+      "group": -1
+    },
+    {
+      "id": "He entrado en los cuatro enlaces, he comentado que tengo una propuesta similar para intentar unificarlas.",
+      "group": -1
+    },
+    {
+      "id": "Responsabilidad institucional",
+      "group": -3
+    },
+    {
+      "id": "Responsabilidad institucional_support",
+      "group": -1
+    },
+    {
+      "id": "Responsabilidad institucional_attack",
+      "group": -2
+    },
+    {
+      "id": "El 90% de los usuarios de Metro viven en Madrid capital, algo tendr\u00e1 que decir nuestro Ayuntamiento. A eso me refiero, a que presione pues, si puede acudir a las inauguraciones a bombo y platillo, \u00bfc\u00f3mo no va a poder presionar si el 90% de los usuarios residen en la ciudad de Madrid?",
+      "group": -1
+    },
+    {
+      "id": "El ayuntamiento podr\u00e1 presionar pero no tiene competencias. El Metro es de la Comunidad de Madrid. La inauguraci\u00f3n de la l8 la hicieron conjuntamente Aguire y Gallard\u00f3n. Si lo es para inaugurar, que lo sea para arreglar problemas o exigir a la Comunidad dichas soluciones.",
+      "group": -2
+    },
+    {
+      "id": "Costo y comodidad del transporte",
+      "group": -3
+    },
+    {
+      "id": "Costo y comodidad del transporte_support",
+      "group": -1
+    },
+    {
+      "id": "Costo y comodidad del transporte_attack",
+      "group": -2
+    },
+    {
+      "id": "Metro 3\u20ac con las incidencias indicadas en mi comentario. Bus: deja en el centro y luego hay que ir al metro. Vaya soluci\u00f3n. Si no hacen un transporte p\u00fablico adecuado para las distintas circunstancias, de nada sirve recomendarlo.",
+      "group": -1
+    },
+    {
+      "id": "Taxi: 50\u20ac \u00bfComodidad? para eso utilizo el veh\u00edculo privado. Si quieren comodidad en el transporte al aeropuerto el metro no es el medio m\u00e1s adecuado. Existen otros mucho m\u00e1s c\u00f3modos.",
+      "group": -2
+    }
+  ],
+  "links": [
+    {
+      "source": "proposal 2412",
+      "target": "Accesibilidad",
+      "value": 1
+    },
+    {
+      "source": "Accesibilidad",
+      "target": "Accesibilidad_support",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad",
+      "target": "Accesibilidad_attack",
+      "value": 2
+    },
+    {
+      "source": "Accesibilidad_support",
+      "target": "Es muy necesario poner ascensores y/o escaleras mec\u00e1nicas por la cantidad de turismo que hay sobretodo en la zona centro.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad_support",
+      "target": "Damos muy mala imagen a turistas y estudiantes extranjeros que llegan a la ciudad con sus maletas, intentando subir y bajar con ellas por las escaleras.",
+      "value": 3
+    },
+    {
+      "source": "Accesibilidad_support",
+      "target": "La realidad con el turismo la veo yo todos los d\u00edas en la parada de metro Gran V\u00eda. Me da verg\u00fcenza ajena ver diariamente c\u00f3mo cientos de personas van acarreando como pueden sus maletas para llegar a sus hoteles.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2412",
+      "target": "Eficiencia del transporte p\u00fablico",
+      "value": 1
+    },
+    {
+      "source": "Eficiencia del transporte p\u00fablico",
+      "target": "Eficiencia del transporte p\u00fablico_support",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia del transporte p\u00fablico",
+      "target": "Eficiencia del transporte p\u00fablico_attack",
+      "value": 2
+    },
+    {
+      "source": "Eficiencia del transporte p\u00fablico_support",
+      "target": "Si no hay un buen transporte p\u00fablico, Madrid seguir\u00e1 siendo un caos circulatorio. Por eso promocionan el transporte p\u00fablico pero si no cubre las necesidades que cada tramo requiere, no servir\u00e1 de nada.",
+      "value": 3
+    },
+    {
+      "source": "Eficiencia del transporte p\u00fablico_attack",
+      "target": "Creo que todo es susceptible de mejora, claramente, pero que disponemos de uno de los mejores servicios p\u00fablicos de enlace con el aeropuerto, de todo el mundo.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2412",
+      "target": "Coordinaci\u00f3n de propuestas",
+      "value": 1
+    },
+    {
+      "source": "Coordinaci\u00f3n de propuestas",
+      "target": "Coordinaci\u00f3n de propuestas_support",
+      "value": 2
+    },
+    {
+      "source": "Coordinaci\u00f3n de propuestas",
+      "target": "Coordinaci\u00f3n de propuestas_attack",
+      "value": 2
+    },
+    {
+      "source": "Coordinaci\u00f3n de propuestas_support",
+      "target": "Tambi\u00e9n cabe que haya un moderador aqu\u00ed que se dedicase a unificar propuestas similares que abarcasen todas las opciones planteadas.",
+      "value": 3
+    },
+    {
+      "source": "Coordinaci\u00f3n de propuestas_support",
+      "target": "He entrado en los cuatro enlaces, he comentado que tengo una propuesta similar para intentar unificarlas.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2412",
+      "target": "Responsabilidad institucional",
+      "value": 1
+    },
+    {
+      "source": "Responsabilidad institucional",
+      "target": "Responsabilidad institucional_support",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad institucional",
+      "target": "Responsabilidad institucional_attack",
+      "value": 2
+    },
+    {
+      "source": "Responsabilidad institucional_support",
+      "target": "El 90% de los usuarios de Metro viven en Madrid capital, algo tendr\u00e1 que decir nuestro Ayuntamiento. A eso me refiero, a que presione pues, si puede acudir a las inauguraciones a bombo y platillo, \u00bfc\u00f3mo no va a poder presionar si el 90% de los usuarios residen en la ciudad de Madrid?",
+      "value": 3
+    },
+    {
+      "source": "Responsabilidad institucional_attack",
+      "target": "El ayuntamiento podr\u00e1 presionar pero no tiene competencias. El Metro es de la Comunidad de Madrid. La inauguraci\u00f3n de la l8 la hicieron conjuntamente Aguire y Gallard\u00f3n. Si lo es para inaugurar, que lo sea para arreglar problemas o exigir a la Comunidad dichas soluciones.",
+      "value": 3
+    },
+    {
+      "source": "proposal 2412",
+      "target": "Costo y comodidad del transporte",
+      "value": 1
+    },
+    {
+      "source": "Costo y comodidad del transporte",
+      "target": "Costo y comodidad del transporte_support",
+      "value": 2
+    },
+    {
+      "source": "Costo y comodidad del transporte",
+      "target": "Costo y comodidad del transporte_attack",
+      "value": 2
+    },
+    {
+      "source": "Costo y comodidad del transporte_support",
+      "target": "Metro 3\u20ac con las incidencias indicadas en mi comentario. Bus: deja en el centro y luego hay que ir al metro. Vaya soluci\u00f3n. Si no hacen un transporte p\u00fablico adecuado para las distintas circunstancias, de nada sirve recomendarlo.",
+      "value": 3
+    },
+    {
+      "source": "Costo y comodidad del transporte_attack",
+      "target": "Taxi: 50\u20ac \u00bfComodidad? para eso utilizo el veh\u00edculo privado. Si quieren comodidad en el transporte al aeropuerto el metro no es el medio m\u00e1s adecuado. Existen otros mucho m\u00e1s c\u00f3modos.",
+      "value": 3
+    }
+  ]
+}

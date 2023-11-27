@@ -403,7 +403,14 @@
         },
         {
           "name": "25",
-          "children": [],
+          "children": [
+            {
+              "name": "24256",
+              "value": 100,
+              "text": "[24256] Tambi\u00e9n est\u00e1 la propuesta en la secci\u00f3n debates: apoya un museo de metro.",
+              "short_text": "[24256] Tambi\u00e9n est\u00e1 la propuesta en la secci\u00f3n debates: apoya un museo de metro."
+            }
+          ],
           "text": "[ATTACK] Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La poblaci\u00f3n tiene que considerar esas cocheras un bien de patrimonio hist\u00f3rico.",
           "short_text": "[ATTACK] Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La poblaci\u00f3n tiene que considerar esas cocheras un bien de patrimonio hist\u00f3rico."
         },
@@ -562,8 +569,8 @@
               "short_text": "[55070] Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u2026 Todo lo que dices son acusaciones muy graves contra actuacio..."
             }
           ],
-          "text": "[SUPPORT] Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u0085 Todo lo que dices son acusaciones muy graves contra actuaciones de organismos p\u00fablicos.",
-          "short_text": "[SUPPORT] Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u0085 Todo lo que dices son acusaciones muy graves contra actuac..."
+          "text": "[SUPPORT] Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u2026 Todo lo que dices son acusaciones muy graves contra actuaciones de organismos p\u00fablicos.",
+          "short_text": "[SUPPORT] Que los informes no son m\u00e1s que una mera excusa para justificar la venta de un terreno; Expropiaci\u00f3n forzosa; Nulidad del concurso\u2026 Todo lo que dices son acusaciones muy graves contra actuac..."
         },
         {
           "name": "36",
