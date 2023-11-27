@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.2
+    Version: 0.3
     Created on: Nov 24, 2023
-    Updated on: Nov 24, 2023
+    Updated on: Nov 27, 2023
     Description: Generate network data.
 """
 
 import util_libs as ul
+import datetime
 
 
 def create_argument_data(proposal_id: int, arg_data: dict):
@@ -103,6 +104,8 @@ def main():
 ### START PROGRAM ###
 #####################
 if __name__ == "__main__":
+    now = datetime.datetime.now()
+    print(f">> Run generate network data ETL- {now}")
     main()
 #####################
 #### END PROGRAM ####

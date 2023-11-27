@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.1
+    Version: 0.3
     Created on: Nov 21, 2023
-    Updated on: Nov 23, 2023
-    Description: Generate word cloud images.
+    Updated on: Nov 27, 2023
+    Description: Generate word cloud resources.
 """
 
 import util_libs as ul
-from wordcloud import WordCloud
+import datetime
 import spacy
+from wordcloud import WordCloud
 
 # Load the spaCy model for Spanish
 nlp = spacy.load("es_core_news_lg")
@@ -70,6 +71,8 @@ def main():
 ### START PROGRAM ###
 #####################
 if __name__ == "__main__":
+    now = datetime.datetime.now()
+    print(f">> Run generate word cloud data ETL- {now}")
     main()
 #####################
 #### END PROGRAM ####

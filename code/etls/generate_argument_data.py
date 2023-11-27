@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.2
+    Version: 0.3
     Created on: Nov 23, 2023
-    Updated on: Nov 24, 2023
+    Updated on: Nov 27, 2023
     Description: Generate argument data.
 """
 
 import util_libs as ul
+import datetime
 
 MAX_TEXT_SIZE = 200
 
@@ -67,7 +68,7 @@ def create_argument_data(proposal_id: int, arg_data: dict, comments: dict):
                         arg_item["children"].append(comment_item)
                 else:
                     print(
-                        f"- Comment id icorrect: {comment_id} for proposal: {proposal_id}"
+                        f"- Incorrect comment id: {comment_id} for proposal: {proposal_id}"
                     )
 
             arg_cat_item["children"].append(arg_item)
@@ -169,6 +170,8 @@ def main():
 ### START PROGRAM ###
 #####################
 if __name__ == "__main__":
+    now = datetime.datetime.now()
+    print(f">> Run generate argument data ETL- {now}")
     main()
 #####################
 #### END PROGRAM ####

@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.2
+    Version: 0.3
     Created on: Nov 23, 2023
-    Updated on: Nov 24, 2023
+    Updated on: Nov 27, 2023
     Description: Generate proposal data.
 """
 
 import util_libs as ul
+import datetime
 
 MAX_TEXT_SIZE = 200
 
@@ -140,6 +141,8 @@ def main():
 ### START PROGRAM ###
 #####################
 if __name__ == "__main__":
+    now = datetime.datetime.now()
+    print(f">> Run generate proposal data ETL- {now}")
     main()
 #####################
 #### END PROGRAM ####

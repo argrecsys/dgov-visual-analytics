@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.2
+    Version: 0.3
     Created on: Nov 24, 2023
-    Updated on: Nov 24, 2023
+    Updated on: Nov 27, 2023
     Description: Run all ETL processes.
 """
 
