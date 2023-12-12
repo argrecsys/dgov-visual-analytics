@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.3
+    Version: 0.4
     Created on: Nov 23, 2023
-    Updated on: Nov 27, 2023
-    Description: Generate argument data.
+    Updated on: Dec 12, 2023
+    Description: Generate argument data by topics.
 """
 
 import util_libs as ul
@@ -13,8 +13,8 @@ import datetime
 MAX_TEXT_SIZE = 200
 
 
-def create_argument_data(proposal_id: int, arg_data: dict, comments: dict):
-    prop_text = get_comment_text(comments[proposal_id])
+def create_argument_data(proposal_id: int, prop_data: dict, arg_data: dict):
+    prop_text = get_comment_text(prop_data["text"])
     prop_short_text = get_comment_short_text(prop_text)
 
     argument_data = {
@@ -37,7 +37,6 @@ def create_argument_data(proposal_id: int, arg_data: dict, comments: dict):
 
         for argument in arguments:
             arg_desc = argument["arg_description"]
-            comment_ids = argument["comment_ids"]
             arg_intent = "support" if argument["arg_intent"] == "A favor" else "attack"
             arg_text = get_comment_text(f"[{arg_intent.upper()}] {arg_desc}")
             arg_short_text = get_comment_short_text(arg_text)
@@ -50,46 +49,11 @@ def create_argument_data(proposal_id: int, arg_data: dict, comments: dict):
                 "short_text": arg_short_text,
             }
 
-            for comment_id in comment_ids:
-                comment_id = int(comment_id)
-
-                if comment_id in comments:
-                    comment_text = get_comment_text(comments[comment_id])
-                    comment_text = f"[{comment_id}] " + comment_text
-                    comment_short_text = get_comment_short_text(comment_text)
-
-                    if len(comment_text) > 0:
-                        comment_item = {
-                            "name": str(comment_id),
-                            "value": 100,
-                            "text": comment_text,
-                            "short_text": comment_short_text,
-                        }
-                        arg_item["children"].append(comment_item)
-                else:
-                    print(
-                        f"- Incorrect comment id: {comment_id} for proposal: {proposal_id}"
-                    )
-
             arg_cat_item["children"].append(arg_item)
 
         argument_data["children"].append(arg_cat_item)
 
     return argument_data
-
-
-def get_proposal_comments(prop_data: list):
-    comments = {}
-
-    for item in prop_data:
-        text = item["text"].strip()
-        id = int(item["proposal_id"] if "proposal_id" in item else item["comment_id"])
-        if id in comments:
-            comments[id] += ". " + text
-        else:
-            comments[id] = text
-
-    return comments
 
 
 def get_comment_text(comment: str, size: int = 10000):
@@ -147,6 +111,7 @@ def main():
 
     for prop_name, prop_data in proposals.items():
         prop_id = int(prop_name)
+        print(f"Proposal: {prop_id}")
 
         # Filters
         if prop_id not in arguments:
@@ -155,13 +120,9 @@ def main():
         arg_data = arguments[prop_id]
         print(f"Argument types: {len(arg_data)}")
 
-        comments = get_proposal_comments(prop_data)
-        print(f"Number of comments: {len(comments)}")
-
-        json_data = create_argument_data(prop_id, arg_data, comments)
+        json_data = create_argument_data(prop_id, prop_data[0], arg_data)
         print(f"Number of items: {len(json_data)}")
 
-        output_file = f"{solution_path}/result/json_data/{prop_name}.json"
         output_file = f"{solution_path}/result/json_data/arguments/{prop_name}.json"
         ul.save_dict_to_json(output_file, json_data, 2)
 

@@ -32,7 +32,7 @@
         }
       ],
       "text": "Pueden convivir ambos systemas, no es necesario quitar uno para implanter el otro.",
-      "short_text": "Pueden convivir ambos systemas, no es necesario quitar uno para implanter el otro."
+      "short_text": "[SUPPORT - Practicidad] Pueden convivir ambos systemas, no es necesario quitar uno para implanter el otro."
     },
     {
       "name": "53195",
@@ -62,11 +62,11 @@
                                       "name": "53561",
                                       "value": 100,
                                       "text": "Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos \u00bfdiez minutos? y luego, como gasto real, la comunicaci\u00f3n a las fincas, por correo de papel.",
-                                      "short_text": "Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos \u00bfdiez minutos? y luego, como gasto real, la comunicaci\u00f3n a las fincas, por correo de papel."
+                                      "short_text": "[SUPPORT - Costo] Tomar el Callejero, abrir una columna y numerar las calles lleva, digamos \u00bfdiez minutos? y luego, como gasto real, la comunicaci\u00f3n a las fincas, por correo de papel."
                                     }
                                   ],
                                   "text": "Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle. Adem\u00e1s, le he explicado el espacio que ocupa en ficheros, que no es ni apreciable.",
-                                  "short_text": "Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian..."
+                                  "short_text": "[ATTACK - Costo] Parece que no me ha entendido. Claro que no es un telegrama, me referia al coste de cambio de nombre que ha puesto usted. : Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian..."
                                 }
                               ],
                               "text": "Para nasa va de hablar de cobrar por car\u00e1cter, no es un telegrama, est\u00e1 referido al espacio total que ocupan el nombre de calles en ficheros y su tratamiento.",
@@ -74,7 +74,7 @@
                             }
                           ],
                           "text": "Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero empleado en el cambio de nombre ser\u00eda el mismo, ya que no se cobra por caracter que se cambia sino por el cambio en s\u00ed. Si alguien m\u00e1s opina como usted le felicito y animo a que apoye esta propuesta, pero a mi no me ha convencido.",
-                          "short_text": "Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero empleado e..."
+                          "short_text": "[ATTACK - Efectividad] Pero eso no es fallo del sistema sino del taxista. Adem\u00e1s los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que porpone. Con respecto al dinero empleado e..."
                         },
                         {
                           "name": "53559",
@@ -84,25 +84,25 @@
                         }
                       ],
                       "text": "Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s crecen de manera exponencial y no lineal, por cualidades de la f\u00edsica. Como comprender\u00e1 es despreciable el ahorro en almacenamiento. Como comprender\u00e1 no es un problema grave la ordenaci\u00f3n ya que hoy en d\u00eda se realiza de manera autom\u00e1tica, el propio sistema te dice el lugar donde debe ocuparse, y si no es as\u00ed, sistemas de almacenamiento primitivos o anticuados, no creo que suponga mucho problema a una persona acostumbrada a ello, al igual que si usted revisa el diccionario impreso frecuentemente sabr\u00e1 que es muy f\u00e1cil encontrar las palabras buscadas, la pr\u00e1ctica es lo que tiene jeje. Por \u00faltimo y no menos importante los taxistas tienen examen para sacar su licencia y la pr\u00e1ctica por el uso diario del callejero. Como todo siempre hay alguna calle que se les puede escapar.",
-                      "short_text": "Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s..."
+                      "short_text": "[ATTACK - Costo] Inform\u00e1ticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprender\u00e1 que es un espacio p\u00edrrico en comparaci\u00f3n con los sistemas de almacenamiento actuales, que adem\u00e1s..."
                     }
                   ],
                   "text": "\u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso si las traducimos a numerales. \u00ba En ficheros manuales \u00bfno es m\u00e1s sencillos de ordenar carpetas a base de numerales que hacerlo pele\u00e1ndonos con las 28 letras alfab\u00e9ticas \u00ba Cuando tome un taxi y le indique la direcci\u00f3n \u00bfno preferir\u00e1 el conductor teclear 4 n\u00fameros en su navegador que andar tecleando textos? Tambi\u00e9n los conductores que est\u00e1n detr\u00e1s del taxi, esperando. Podr\u00edamos seguir, pero ya tiene para pensar.",
-                  "short_text": "\u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso si las..."
+                  "short_text": "[SUPPORT - Efectividad] \u00ba Inform\u00e1ticamente, en los ficheros \u00bfcu\u00e1ntos espacios se necesitan para anotar con letras Islas H\u00e9bridas o Nuestra Se\u00f1ora de la Consolaci\u00f3n? : Num\u00e9ricamente ser\u00edan 4 ampliable a 5 en cada caso si las..."
                 },
                 {
                   "name": "53472",
                   "value": 100,
                   "text": "Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo citar unos cuantos ejemplos de padecerlo. Tampoco ser\u00eda horterada ya que no es igual al modelo que cita. Como guinda de regalo, al ser numerales nos evitar\u00edamos gastos sinos cambian el nombre de la calle, y no digo cuando tomemos una direcci\u00f3n de nuestra agenda y tratemos de buscar el nombre de una calle que ya ha desaparecido como tal. No le parece.",
-                  "short_text": "Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo citar unos..."
+                  "short_text": "[SUPPORT - Costo] Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando. Lo de belleza de la direcci\u00f3n no siempre se cumple, que le puedo citar unos..."
                 }
               ],
               "text": "Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la 5\u00aa avenida con la 43.",
-              "short_text": "Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la 5\u00aa aven..."
+              "short_text": "[ATTACK - Est\u00e9tica y Tradici\u00f3n] Disculpeme pero me parece una propuesta sin sentido pr\u00e1ctico, olvidar los nombre para memorizar n\u00fameros, y que le quita toda la belleza a la direcci\u00f3n. En mi opini\u00f3n es una horterada eso de la 5\u00aa aven..."
             }
           ],
           "text": "S\u00ed, es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.",
-          "short_text": "S\u00ed, es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle."
+          "short_text": "[SUPPORT - Practicidad] S\u00ed, es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle."
         }
       ],
       "text": "No se si le entend\u00ed bien pero quiere cambiar el nombre de la calle por un numeral? La calle Pintor rosales pasaria allamarse 001 por ejemplo?.",

@@ -6,92 +6,43 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "22695",
-              "value": 100,
-              "text": "[22695] Cualquiera que visite ciudades como Amsterdam o Copenhague, sabe lo que es una red segura de carriles bicicleta. Lo que no se entiende es que los ciclistas compartan carril con autobuses o taxis, atravesando cruces junto a todos los veh\u00edculos. Es muy peligroso.",
-              "short_text": "[22695] Cualquiera que visite ciudades como Amsterdam o Copenhague, sabe lo que es una red segura de carriles bicicleta. Lo que no se entiende es que los ciclistas compartan carril con autobuses o tax..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Cualquiera que visite ciudades como Amsterdam o Copenhague, sabe lo que es una red segura de carriles bicicleta.",
           "short_text": "[SUPPORT] Cualquiera que visite ciudades como Amsterdam o Copenhague, sabe lo que es una red segura de carriles bicicleta."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "22764",
-              "value": 100,
-              "text": "[22764] No eres miedoso, simplemente te imaginas a ti mismo llevando esa bicicleta, sientes en tu ser la vulnerabilidad del intr\u00e9pido ciclista. Las bicicletas necesitan un carril propio o casi propio por ejemplo, carril autob\u00fas En teor\u00eda del tr\u00e1fico recibe el nombre de sub-flujo y en general la eficiencia de la infraestrutura se va al carajo cuando estos sub-flujos son muy diferentes. Por no hablar de los accidentes.",
-              "short_text": "[22764] No eres miedoso, simplemente te imaginas a ti mismo llevando esa bicicleta, sientes en tu ser la vulnerabilidad del intr\u00e9pido ciclista. Las bicicletas necesitan un carril propio o casi propio..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Las bicicletas necesitan un carril propio o casi propio por ejemplo, carril autob\u00fas.",
           "short_text": "[SUPPORT] Las bicicletas necesitan un carril propio o casi propio por ejemplo, carril autob\u00fas."
         },
         {
           "name": "3",
-          "children": [
-            {
-              "name": "74956",
-              "value": 100,
-              "text": "[74956] Realmente eso ser\u00eda lo ideal. Una red carril-bici segura. As\u00ed habr\u00eda mucha m\u00e1s gente que utilizar\u00eda la bicicleta como medio de trasporte sin temer por su integridad.",
-              "short_text": "[74956] Realmente eso ser\u00eda lo ideal. Una red carril-bici segura. As\u00ed habr\u00eda mucha m\u00e1s gente que utilizar\u00eda la bicicleta como medio de trasporte sin temer por su integridad."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Realmente eso ser\u00eda lo ideal. Una red carril-bici segura. As\u00ed habr\u00eda mucha m\u00e1s gente que utilizar\u00eda la bicicleta como medio de trasporte sin temer por su integridad.",
           "short_text": "[SUPPORT] Realmente eso ser\u00eda lo ideal. Una red carril-bici segura. As\u00ed habr\u00eda mucha m\u00e1s gente que utilizar\u00eda la bicicleta como medio de trasporte sin temer por su integridad."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "61151",
-              "value": 100,
-              "text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon\u00edendonos en peligro por apertura de puertas, cruces de peatones despistados, etc. A su vez, quien est\u00e1 convencido de que simplemente estar en un carril bicicleta a\u00f1ade seguridad pone menos atenci\u00f3n a su seguridad, por lo que cometer\u00e1 m\u00e1s imprudencias. - Los carriles bicicleta fomentan la idea de que la calzada no es el lugar de la bicicleta, lo cual incrementa la pasividad con la que sus usuarios ignoran las normas de tr\u00e1fico cuando necesitan usar la calzada, puesto que interiorizan que su simple presencia es ileg\u00edtima y total ya qu\u00e9 m\u00e1s da. - Los carriles bicicleta son una forma m\u00e1s de asentar el status-quo de los coches en la ciudad, deslegitimando a aquellos que no queremos usar dichos carriles bicicleta por sus problemas de seguridad: Los conductores increpan a todo ciclista que no vaya por su carril.",
-              "short_text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones.",
           "short_text": "[ATTACK] Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "61151",
-              "value": 100,
-              "text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon\u00edendonos en peligro por apertura de puertas, cruces de peatones despistados, etc. A su vez, quien est\u00e1 convencido de que simplemente estar en un carril bicicleta a\u00f1ade seguridad pone menos atenci\u00f3n a su seguridad, por lo que cometer\u00e1 m\u00e1s imprudencias. - Los carriles bicicleta fomentan la idea de que la calzada no es el lugar de la bicicleta, lo cual incrementa la pasividad con la que sus usuarios ignoran las normas de tr\u00e1fico cuando necesitan usar la calzada, puesto que interiorizan que su simple presencia es ileg\u00edtima y total ya qu\u00e9 m\u00e1s da. - Los carriles bicicleta son una forma m\u00e1s de asentar el status-quo de los coches en la ciudad, deslegitimando a aquellos que no queremos usar dichos carriles bicicleta por sus problemas de seguridad: Los conductores increpan a todo ciclista que no vaya por su carril.",
-              "short_text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los carriles bicicleta fomentan la idea de que la calzada no es el lugar de la bicicleta.",
           "short_text": "[ATTACK] Los carriles bicicleta fomentan la idea de que la calzada no es el lugar de la bicicleta."
         },
         {
           "name": "6",
-          "children": [
-            {
-              "name": "61151",
-              "value": 100,
-              "text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon\u00edendonos en peligro por apertura de puertas, cruces de peatones despistados, etc. A su vez, quien est\u00e1 convencido de que simplemente estar en un carril bicicleta a\u00f1ade seguridad pone menos atenci\u00f3n a su seguridad, por lo que cometer\u00e1 m\u00e1s imprudencias. - Los carriles bicicleta fomentan la idea de que la calzada no es el lugar de la bicicleta, lo cual incrementa la pasividad con la que sus usuarios ignoran las normas de tr\u00e1fico cuando necesitan usar la calzada, puesto que interiorizan que su simple presencia es ileg\u00edtima y total ya qu\u00e9 m\u00e1s da. - Los carriles bicicleta son una forma m\u00e1s de asentar el status-quo de los coches en la ciudad, deslegitimando a aquellos que no queremos usar dichos carriles bicicleta por sus problemas de seguridad: Los conductores increpan a todo ciclista que no vaya por su carril.",
-              "short_text": "[61151] - Los carriles bicicleta son inseguros por definici\u00f3n. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los veh\u00edculos pon..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los carriles bicicleta son una forma m\u00e1s de asentar el status-quo de los coches en la ciudad.",
           "short_text": "[ATTACK] Los carriles bicicleta son una forma m\u00e1s de asentar el status-quo de los coches en la ciudad."
         },
         {
           "name": "7",
-          "children": [
-            {
-              "name": "61152",
-              "value": 100,
-              "text": "[61152] - Los carriles bicicleta limitan los trayectos que un ciclista podr\u00e1 realizar a aquellos en los que las administraciones de turno han considerado oportunos. Nunca podr\u00e1s tener carril bicicleta de casa al trabajo salvo que casualmente trabajes y vivas en calles anchas. No hablemos ya para ir a cuealquier otro sitio.",
-              "short_text": "[61152] - Los carriles bicicleta limitan los trayectos que un ciclista podr\u00e1 realizar a aquellos en los que las administraciones de turno han considerado oportunos. Nunca podr\u00e1s tener carril bicicleta..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los carriles bicicleta limitan los trayectos que un ciclista podr\u00e1 realizar.",
           "short_text": "[ATTACK] Los carriles bicicleta limitan los trayectos que un ciclista podr\u00e1 realizar."
         }
@@ -104,27 +55,13 @@
       "children": [
         {
           "name": "8",
-          "children": [
-            {
-              "name": "74744",
-              "value": 100,
-              "text": "[74744] Una media de 70 ciclistas muertos al a\u00f1o en toda Espa\u00f1a no parece suficiente para que el gobierno central tome medidas para atajar el problema de raiz \u00bfEst\u00e1 el ayuntamiento de Madrid comprometido con esta lacra? \u00bfSe ve como un problema real o l@s se\u00f1or@s concejales tambi\u00e9n les molesta frenar cuando se encuentran con un ciclista por la ciudad?.",
-              "short_text": "[74744] Una media de 70 ciclistas muertos al a\u00f1o en toda Espa\u00f1a no parece suficiente para que el gobierno central tome medidas para atajar el problema de raiz \u00bfEst\u00e1 el ayuntamiento de Madrid compromet..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Una media de 70 ciclistas muertos al a\u00f1o en toda Espa\u00f1a no parece suficiente para que el gobierno central tome medidas para atajar el problema de raiz.",
           "short_text": "[SUPPORT] Una media de 70 ciclistas muertos al a\u00f1o en toda Espa\u00f1a no parece suficiente para que el gobierno central tome medidas para atajar el problema de raiz."
         },
         {
           "name": "9",
-          "children": [
-            {
-              "name": "47207",
-              "value": 100,
-              "text": "[47207] Gran idea, es necesario, mejoraria la calidad de vida, la salud de los madrile\u00f1os, atraer\u00eda turismo la bicicleta es la soluci\u00f3n!.",
-              "short_text": "[47207] Gran idea, es necesario, mejoraria la calidad de vida, la salud de los madrile\u00f1os, atraer\u00eda turismo la bicicleta es la soluci\u00f3n!."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Gran idea, es necesario, mejorar\u00eda la calidad de vida, la salud de los madrile\u00f1os, atraer\u00eda turismo la bicicleta es la soluci\u00f3n!",
           "short_text": "[SUPPORT] Gran idea, es necesario, mejorar\u00eda la calidad de vida, la salud de los madrile\u00f1os, atraer\u00eda turismo la bicicleta es la soluci\u00f3n!"
         }
@@ -137,66 +74,31 @@
       "children": [
         {
           "name": "10",
-          "children": [
-            {
-              "name": "54318",
-              "value": 100,
-              "text": "[54318] Ya se ha aprobado un presupuesto de 45 millones para hacer una verdadera Red ciclista. Se har\u00e1n 35 nuevos carriles bicicleta.",
-              "short_text": "[54318] Ya se ha aprobado un presupuesto de 45 millones para hacer una verdadera Red ciclista. Se har\u00e1n 35 nuevos carriles bicicleta."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Ya se ha aprobado un presupuesto de 45 millones para hacer una verdadera Red ciclista. Se har\u00e1n 35 nuevos carriles bicicleta.",
           "short_text": "[SUPPORT] Ya se ha aprobado un presupuesto de 45 millones para hacer una verdadera Red ciclista. Se har\u00e1n 35 nuevos carriles bicicleta."
         },
         {
           "name": "11",
-          "children": [
-            {
-              "name": "54319",
-              "value": 100,
-              "text": "[54319] Pues me alegro mucho. Cada d\u00eda veo m\u00e1s gente con bicicletas por la calle, pese a los muchos h\u00e1ndicap que dicen algunos que tiene Madrid para las bicicletas, ya sabes, el tiempo, las cuestas. La realidad es que hay una infinidad de personas de todas las edades que est\u00e1n deseando moverse en bicicleta por la ciudad y que hacer una buena red de carril bicicleta ser\u00e1 un \u00e9xito en muchos sentidos para la ciudad.",
-              "short_text": "[54319] Pues me alegro mucho. Cada d\u00eda veo m\u00e1s gente con bicicletas por la calle, pese a los muchos h\u00e1ndicap que dicen algunos que tiene Madrid para las bicicletas, ya sabes, el tiempo, las cuestas. L..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Cada d\u00eda veo m\u00e1s gente con bicicletas por la calle, pese a los muchos h\u00e1ndicap que dicen algunos que tiene Madrid para las bicicletas.",
           "short_text": "[SUPPORT] Cada d\u00eda veo m\u00e1s gente con bicicletas por la calle, pese a los muchos h\u00e1ndicap que dicen algunos que tiene Madrid para las bicicletas."
         },
         {
           "name": "12",
-          "children": [
-            {
-              "name": "55462",
-              "value": 100,
-              "text": "[55462] Apoyo tu propuesta y pido el apoyo a todos para propuesta para propuesta de bicimad en M-40 para conexi\u00f3n de barrios y transportes p\u00fablicos en.",
-              "short_text": "[55462] Apoyo tu propuesta y pido el apoyo a todos para propuesta para propuesta de bicimad en M-40 para conexi\u00f3n de barrios y transportes p\u00fablicos en."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Apoyo tu propuesta y pido el apoyo a todos para propuesta de bicimad en M-40 para conexi\u00f3n de barrios y transportes p\u00fablicos en.",
           "short_text": "[SUPPORT] Apoyo tu propuesta y pido el apoyo a todos para propuesta de bicimad en M-40 para conexi\u00f3n de barrios y transportes p\u00fablicos en."
         },
         {
           "name": "13",
-          "children": [
-            {
-              "name": "54875",
-              "value": 100,
-              "text": "[54875] Si bien apoyo esta idea, cuanto estar\u00edamos dispuestos a pagar por las mejoras y la creaci\u00f3n de los carriles bicicleta? Los veh\u00edculos a motor pagan un impuesto por poder circular.",
-              "short_text": "[54875] Si bien apoyo esta idea, cuanto estar\u00edamos dispuestos a pagar por las mejoras y la creaci\u00f3n de los carriles bicicleta? Los veh\u00edculos a motor pagan un impuesto por poder circular."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Si bien apoyo esta idea, cuanto estar\u00edamos dispuestos a pagar por las mejoras y la creaci\u00f3n de los carriles bicicleta? Los veh\u00edculos a motor pagan un impuesto por poder circular.",
           "short_text": "[ATTACK] Si bien apoyo esta idea, cuanto estar\u00edamos dispuestos a pagar por las mejoras y la creaci\u00f3n de los carriles bicicleta? Los veh\u00edculos a motor pagan un impuesto por poder circular."
         },
         {
           "name": "14",
-          "children": [
-            {
-              "name": "97434",
-              "value": 100,
-              "text": "[97434] Por favor, el autor o alguien que entienda bien de qu\u00e9 va esto, que relance esta propuesta animando a que los 10255 que la han apoyado durante un a\u00f1o, vuelvan a hacerlo y cada uno animar a otro nuevo a poyarla y as\u00ed se alcanzar\u00e1 el nuevo l\u00edmite.",
-              "short_text": "[97434] Por favor, el autor o alguien que entienda bien de qu\u00e9 va esto, que relance esta propuesta animando a que los 10255 que la han apoyado durante un a\u00f1o, vuelvan a hacerlo y cada uno animar a otr..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Por favor, el autor o alguien que entienda bien de qu\u00e9 va esto, que relance esta propuesta animando a que los fuera de Madrid con posibilidad de dejar la bicicleta protegida en los mismos.",
           "short_text": "[ATTACK] Por favor, el autor o alguien que entienda bien de qu\u00e9 va esto, que relance esta propuesta animando a que los fuera de Madrid con posibilidad de dejar la bicicleta protegida en los mismos."
         }
@@ -209,27 +111,13 @@
       "children": [
         {
           "name": "15",
-          "children": [
-            {
-              "name": "93176",
-              "value": 100,
-              "text": "[93176] Optemos por una ciudad m\u00e1s sana o por lo menos apoyemos a quienes queramos trasladarnos en bicicleta. Es en beneficio de todos.",
-              "short_text": "[93176] Optemos por una ciudad m\u00e1s sana o por lo menos apoyemos a quienes queramos trasladarnos en bicicleta. Es en beneficio de todos."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Optemos por una ciudad m\u00e1s sana o por lo menos apoyemos a quienes queramos trasladarnos en bicicleta. Es en beneficio de todos.",
           "short_text": "[SUPPORT] Optemos por una ciudad m\u00e1s sana o por lo menos apoyemos a quienes queramos trasladarnos en bicicleta. Es en beneficio de todos."
         },
         {
           "name": "16",
-          "children": [
-            {
-              "name": "46769",
-              "value": 100,
-              "text": "[46769] Cuesta imaginarse un Madrid hermoso con montones de bicicletas circulando pero este portal ya nos permite so\u00f1ar. Y participar. \u00a1Apoyo la propuesta!.",
-              "short_text": "[46769] Cuesta imaginarse un Madrid hermoso con montones de bicicletas circulando pero este portal ya nos permite so\u00f1ar. Y participar. \u00a1Apoyo la propuesta!."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Cuesta imaginarse un Madrid hermoso con montones de bicicletas circulando pero este portal ya nos permite so\u00f1ar. Y participar. \u00a1Apoyo la propuesta!",
           "short_text": "[SUPPORT] Cuesta imaginarse un Madrid hermoso con montones de bicicletas circulando pero este portal ya nos permite so\u00f1ar. Y participar. \u00a1Apoyo la propuesta!"
         }
@@ -242,14 +130,7 @@
       "children": [
         {
           "name": "17",
-          "children": [
-            {
-              "name": "22451",
-              "value": 100,
-              "text": "[22451] Entiendo que al peat\u00f3n hay que respetarla, por supuesto. Todos somos peatones en alg\u00fan momento. Precisamente los que indebidamente circulan con la bicicleta por la acera lo hacen por miedo a circular entre los coches. La red de carril bicicleta subsanaria este problema.",
-              "short_text": "[22451] Entiendo que al peat\u00f3n hay que respetarla, por supuesto. Todos somos peatones en alg\u00fan momento. Precisamente los que indebidamente circulan con la bicicleta por la acera lo hacen por miedo a c..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Precisamente los que indebidamente circulan con la bicicleta por la acera lo hacen por miedo a circular entre los coches. La red de carril bicicleta subsanar\u00eda este problema.",
           "short_text": "[SUPPORT] Precisamente los que indebidamente circulan con la bicicleta por la acera lo hacen por miedo a circular entre los coches. La red de carril bicicleta subsanar\u00eda este problema."
         },
@@ -268,27 +149,13 @@
       "children": [
         {
           "name": "19",
-          "children": [
-            {
-              "name": "22859",
-              "value": 100,
-              "text": "[22859] Durante un a\u00f1o estuve viviendo en San Sebasti\u00e1n e iba a todos lados en bicicleta. Las calles m\u00e1s importantes ten\u00edan un carril bicicleta separados de coches y de peatones, o un itinerario alternativo por calles m\u00e1s tranquilas. La plaza delante de la universidad llena de bicicletas, gente en traje en bicicleta, mayores, peque\u00f1os. Incluso muchos valientes en d\u00edas de lluvia, lo bueno es que aqu\u00ed llueve menos. \u00a1Qu\u00e9 envidia!.",
-              "short_text": "[22859] Durante un a\u00f1o estuve viviendo en San Sebasti\u00e1n e iba a todos lados en bicicleta. Las calles m\u00e1s importantes ten\u00edan un carril bicicleta separados de coches y de peatones, o un itinerario alter..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Durante un a\u00f1o estuve viviendo en San Sebasti\u00e1n e iba a todos lados en bicicleta. Las calles m\u00e1s importantes ten\u00edan un carril bicicleta separados de coches y de peatones.",
           "short_text": "[SUPPORT] Durante un a\u00f1o estuve viviendo en San Sebasti\u00e1n e iba a todos lados en bicicleta. Las calles m\u00e1s importantes ten\u00edan un carril bicicleta separados de coches y de peatones."
         },
         {
           "name": "20",
-          "children": [
-            {
-              "name": "61575",
-              "value": 100,
-              "text": "[61575] Estoy totalmente de acuerdo. He vivido durante a\u00f1os en Sevilla y all\u00ed lograron crear una verdadera red de carriles bicicleta, no unos inconexos pasillos verdes como en Madrid. A este paso, Madrid quedar\u00e1 como la \u00fanica capital europea sin verdaderos carriles bicicleta. Tambi\u00e9n hay que crear aparcamientos para bicicletas, que actualmente tampoco existen.",
-              "short_text": "[61575] Estoy totalmente de acuerdo. He vivido durante a\u00f1os en Sevilla y all\u00ed lograron crear una verdadera red de carriles bicicleta, no unos inconexos pasillos verdes como en Madrid. A este paso, Mad..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] He vivido durante a\u00f1os en Sevilla y all\u00ed lograron crear una verdadera red de carriles bicicleta, no unos inconexos pasillos verdes como en Madrid.",
           "short_text": "[SUPPORT] He vivido durante a\u00f1os en Sevilla y all\u00ed lograron crear una verdadera red de carriles bicicleta, no unos inconexos pasillos verdes como en Madrid."
         }
@@ -297,6 +164,6 @@
       "short_text": "Accesibilidad y Conectividad"
     }
   ],
-  "text": "Crear una verdadera red de carril bicicleta seguro en Madrid. Bien sea segregado del tr\u00e1fico motorizado o aprovechando la calzada es imprescindible crear una red segura para bicicletas si pretendemos que esta ocupe un lugar importante como medio de transporte. Bien sea segregado del tr\u00e1fico motorizado o aprovechando la calzada es imprescindible crear una red segura para bicicletas si pretendemos que esta ocupe un lugar importante como medio de transporte eficaz. Pensando en que estos carriles deber\u00edan poder ser usados por ni\u00f1os, adultos y tambi\u00e9n tercera edad, deben garantizar la seguridad y permitir circular por ellos sin la presi\u00f3n de estar rodeado de coches o motos, ya que no todo el mundo tiene un estado de forma que le permita ir a una velocidad considerable, o simplemente se quiere ir a un ritmo tranquilo. Uno no puede pasear tranquilamente por la calzada porque, seamos realistas, entorpecemos el tr\u00e1fico y somos una lacra para los conductores de coches. \u00a0No se trata de perjudicar al autom\u00f3vil y tampoco al peat\u00f3n, por lo tanto opino que para no estorbarse la mejor soluci\u00f3n es que vayan por diferentes carriles. Adem\u00e1s el tr\u00e1fico motorizado se beneficiar\u00eda tambi\u00e9n porque se reducir\u00eda el n\u00famero de veh\u00edculos a motor. \u00a0 El mejor ejemplo de funcionamiento es Amsterdam. Si aportas un breve comentario subiremos la propuesta a las m\u00e1s comentadas y recibiremos m\u00e1s apoyos. Gracias.",
-  "short_text": "Crear una verdadera red de carril bicicleta seguro en Madrid. Bien sea segregado del tr\u00e1fico motorizado o aprovechando la calzada es imprescindible crear una red segura para bicicletas si pretendemos..."
+  "text": "Crear una verdadera red de carril bicicleta seguro en Madrid",
+  "short_text": "Crear una verdadera red de carril bicicleta seguro en Madrid"
 }

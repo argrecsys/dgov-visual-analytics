@@ -11,8 +11,7 @@ import util_libs as ul
 import datetime
 
 
-def create_argument_data(proposal_id: int, arg_data: dict):
-    proposal_name = f"proposal {proposal_id}"
+def create_argument_data(proposal_name: str, arg_data: dict):
     nodes = [{"id": proposal_name, "group": 0}]
     links = []
 
@@ -89,15 +88,31 @@ def load_arguments(input_path: str):
 def main():
     solution_path = "C:/Dev Projects/dgov-visual-analytics"
     input_path = f"{solution_path}/data/gpt_data"
+    output_path = f"{solution_path}/result/json_data/networks"
     arguments = load_arguments(input_path)
     print(f"Number of arguments: {len(arguments)}")
 
+    graph_root = "decide madrid"
+    nodes = [{"id": graph_root, "group": 0}]
+    links = []
+
     for prop_id, arg_data in arguments.items():
-        json_data = create_argument_data(prop_id, arg_data)
+        prop_name = f"proposal {prop_id}"
+        json_data = create_argument_data(prop_name, arg_data)
         print(f"Number of items: {len(json_data)}")
 
-        output_file = f"{solution_path}/result/json_data/networks/{prop_id}.json"
+        output_file = f"{output_path}/{prop_id}.json"
         ul.save_dict_to_json(output_file, json_data, 2)
+
+        # Create super graph
+        nodes.extend(json_data["nodes"])
+        link = {"source": graph_root, "target": prop_name, "value": 3}
+        links.append(link)
+        links.extend(json_data["links"])
+
+    super_graph = {"nodes": nodes, "links": links}
+    output_file = f"{output_path}/super_graph.json"
+    ul.save_dict_to_json(output_file, super_graph, 2)
 
 
 #####################

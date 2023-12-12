@@ -6,79 +6,37 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "17210",
-              "value": 100,
-              "text": "[17210] Tienes un carril de la Castellana y de otras muchas calles que es para ir en bicicleta. Lo sabr\u00e1s porque tiene un dibujo de una bicicleta y una se\u00f1al de prohibido ir a m\u00e1s de 30 Lo que hay que hacer es obligar a los coches a cumplir las normas de circulaci\u00f3n adelantar a 1,5m. , respetar el l\u00edmite de velocidad, etc.",
-              "short_text": "[17210] Tienes un carril de la Castellana y de otras muchas calles que es para ir en bicicleta. Lo sabr\u00e1s porque tiene un dibujo de una bicicleta y una se\u00f1al de prohibido ir a m\u00e1s de 30 Lo que hay que..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Tienes un carril de la Castellana y de otras muchas calles que es para ir en bicicleta.",
           "short_text": "[SUPPORT] Tienes un carril de la Castellana y de otras muchas calles que es para ir en bicicleta."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "17234",
-              "value": 100,
-              "text": "[17234] Conozco los ciclocarriles y son muy v\u00e1lidos para la mayor parte de Madrid donde hay calles m\u00e1s estrechas y menos tr\u00e1fico, pero creo que en una v\u00eda con tanta circulaci\u00f3n y habiendo suficiente espacio para poner un carril bicicleta, ser\u00eda m\u00e1s seguro y conveniente separar el tr\u00e1fico.",
-              "short_text": "[17234] Conozco los ciclocarriles y son muy v\u00e1lidos para la mayor parte de Madrid donde hay calles m\u00e1s estrechas y menos tr\u00e1fico, pero creo que en una v\u00eda con tanta circulaci\u00f3n y habiendo suficiente e..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En una v\u00eda con tanta circulaci\u00f3n y habiendo suficiente espacio para poner un carril bicicleta, ser\u00eda m\u00e1s seguro y conveniente separar el tr\u00e1fico.",
           "short_text": "[SUPPORT] En una v\u00eda con tanta circulaci\u00f3n y habiendo suficiente espacio para poner un carril bicicleta, ser\u00eda m\u00e1s seguro y conveniente separar el tr\u00e1fico."
         },
         {
           "name": "3",
-          "children": [
-            {
-              "name": "61333",
-              "value": 100,
-              "text": "[61333] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os. Sinceramente no se que riesgos a\u00f1ade un carril bicicleta que aparta al tr\u00e1fico de ciclistas, me muevo por ciudad y tambi\u00e9n por carriles bicicleta San Mart\u00edn de la Vega, Burgos, anillo. Y el nivel de seguridad en un carril bicicleta es casi pleno si lo comp\u00e1ramos rodando con tr\u00e1fico. En la cuesta de San Vicente hay un tramo en el que, o te metes por la acera molestando a peatones te metes por carril autob\u00fas que en teor\u00eda no se debe, o te metes por el carril del resto de tr\u00e1fico porque est\u00e1 separado por una aleta de tibur\u00f3n con el bus/taxi. Explicame como lo haces porque en la parte de subida, como mucho y siendo bueno vas a 2025 que haces te metes en el carril de tr\u00e1fico por el medio del carril y llevas a todos los coches detr\u00e1s de ti a esa velocidad?.",
-              "short_text": "[61333] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os. Sinceramente no se que riesgos a\u00f1ade un carril bicicleta que aparta al tr\u00e1fico de cicli..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] El nivel de seguridad en un carril bicicleta es casi pleno si lo comparamos rodando con tr\u00e1fico.",
           "short_text": "[SUPPORT] El nivel de seguridad en un carril bicicleta es casi pleno si lo comparamos rodando con tr\u00e1fico."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "39363",
-              "value": 100,
-              "text": "[39363] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones. No respetan sem\u00e1foros, pasos de cebra, van indistintamente por la calzada o por la acera, atropellan a gente por la acera. Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educaci\u00f3n de los usuarios de las mismas.",
-              "short_text": "[39363] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones. No r..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones.",
           "short_text": "[ATTACK] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "61333",
-              "value": 100,
-              "text": "[61333] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os. Sinceramente no se que riesgos a\u00f1ade un carril bicicleta que aparta al tr\u00e1fico de ciclistas, me muevo por ciudad y tambi\u00e9n por carriles bicicleta San Mart\u00edn de la Vega, Burgos, anillo. Y el nivel de seguridad en un carril bicicleta es casi pleno si lo comp\u00e1ramos rodando con tr\u00e1fico. En la cuesta de San Vicente hay un tramo en el que, o te metes por la acera molestando a peatones te metes por carril autob\u00fas que en teor\u00eda no se debe, o te metes por el carril del resto de tr\u00e1fico porque est\u00e1 separado por una aleta de tibur\u00f3n con el bus/taxi. Explicame como lo haces porque en la parte de subida, como mucho y siendo bueno vas a 2025 que haces te metes en el carril de tr\u00e1fico por el medio del carril y llevas a todos los coches detr\u00e1s de ti a esa velocidad?.",
-              "short_text": "[61333] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os. Sinceramente no se que riesgos a\u00f1ade un carril bicicleta que aparta al tr\u00e1fico de cicli..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os.",
           "short_text": "[ATTACK] El riesgo real existe y si quieres te saco la estad\u00edstica de ciclistas atropellados en los \u00faltimos a\u00f1os."
         },
         {
           "name": "6",
-          "children": [
-            {
-              "name": "59674",
-              "value": 100,
-              "text": "[59674] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces. Adem\u00e1s deslegitiman al ciclista en el resto de v\u00edas. Considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico antes que gastarse esta burrada en segregarnos y quitarnos del medio Las bicicletas somos tr\u00e1fico.",
-              "short_text": "[59674] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces. Adem\u00e1s deslegitiman al ciclista en el resto de v\u00edas. Considero mejor otras opciones educaci\u00f3n via..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces.",
           "short_text": "[ATTACK] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces."
         }
@@ -91,53 +49,25 @@
       "children": [
         {
           "name": "7",
-          "children": [
-            {
-              "name": "17277",
-              "value": 100,
-              "text": "[17277] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos.",
-              "short_text": "[17277] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos.",
           "short_text": "[SUPPORT] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos."
         },
         {
           "name": "8",
-          "children": [
-            {
-              "name": "21852",
-              "value": 100,
-              "text": "[21852] El miedo es subjetivo y depende de cada uno. Yo no me atrevo y creo que habiendo tanto sitio no deber\u00eda ser un problema, adem\u00e1s as\u00ed se le dar\u00eda m\u00e1s importancia Yo creo que por ejemplo, en el tramo norte de Joaqu\u00edn Costa a Pza de Castilla se puede quitar todo el aparcamiento en bater\u00eda y entre los \u00e1rboles plantados hacer un buen carril bicicleta en ambos lados. Incluso en ese caso concreto creo que los bulevares est\u00e1n sobre dimensionados puesto que no pasea casi nadie por ellos Es incomodo por los cruces y deber\u00edan usarse por tranv\u00eda o carril bicicleta si fuese necesario. En cualquier caso los carriles laterales para transporte p\u00fablico y entrada de garajes solamente.",
-              "short_text": "[21852] El miedo es subjetivo y depende de cada uno. Yo no me atrevo y creo que habiendo tanto sitio no deber\u00eda ser un problema, adem\u00e1s as\u00ed se le dar\u00eda m\u00e1s importancia Yo creo que por ejemplo, en el t..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Yo creo que por ejemplo, en el tramo norte de Joaqu\u00edn Costa a Pza de Castilla se puede quitar todo el aparcamiento en bater\u00eda y entre los \u00e1rboles plantados hacer un buen carril bicicleta en ambos lados.",
           "short_text": "[SUPPORT] Yo creo que por ejemplo, en el tramo norte de Joaqu\u00edn Costa a Pza de Castilla se puede quitar todo el aparcamiento en bater\u00eda y entre los \u00e1rboles plantados hacer un buen carril bicicleta en..."
         },
         {
           "name": "9",
-          "children": [
-            {
-              "name": "41561",
-              "value": 100,
-              "text": "[41561] Para quien no se acuerde del accidente que sufri\u00f3 Cristina Cifuentes, fue en su moto circulando por una v\u00eda segregada el carril autob\u00fas Impact\u00f3 contra un coche que giraba a la derecha. Quien pida un carril segregado bicicleta por seguridad se equivoca completamente. Le aconsejo que pregunte a los motoristas.",
-              "short_text": "[41561] Para quien no se acuerde del accidente que sufri\u00f3 Cristina Cifuentes, fue en su moto circulando por una v\u00eda segregada el carril autob\u00fas Impact\u00f3 contra un coche que giraba a la derecha. Quien p..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Quien pida un carril segregado los conductores les puede impacientar tener un veh\u00edculo m\u00e1s lento.",
           "short_text": "[ATTACK] Quien pida un carril segregado los conductores les puede impacientar tener un veh\u00edculo m\u00e1s lento."
         },
         {
           "name": "10",
-          "children": [
-            {
-              "name": "61761",
-              "value": 100,
-              "text": "[61761] T\u00fa mismo lo dices; el incremento de ciclistas hace que haya m\u00e1s siniestros en general. Hay una necesidad real de crear una red de v\u00edas ciclistas porque todo apunta a que siga incrementando. El tramo que digo si existe, b\u00fascalo en street view, son m\u00e1s de 300 metros de subida y los coches que vayan detr\u00e1s de ti, supuestamente no te pueden adelantar por los 2 carriles que se suman porque hay una l\u00ednea continua que se lo impide hasta el sem\u00e1foro. Has visto el nuevo carril bicicleta en la casa de campo, no est\u00e1 en la acera se separa del tr\u00e1fico y ocupa muy poco. En la cuesta de San Vicente se podr\u00eda unificar carril autob\u00fas con tr\u00e1fico en ese tramo, por ejemplo. En Madrid no hay casi rotondas, la mayor\u00eda son glorietas, los ciclistas respetar\u00edan sem\u00e1foros igual que los coches. Me cuesta creer que utilices la bicicleta por Madrid y est\u00e9s en contra de esta medida, si visitas otras ciudades como Barcelona te das cuenta que aqu\u00ed los ciclistas estamos vendidos.",
-              "short_text": "[61761] T\u00fa mismo lo dices; el incremento de ciclistas hace que haya m\u00e1s siniestros en general. Hay una necesidad real de crear una red de v\u00edas ciclistas porque todo apunta a que siga incrementando. El..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Me cuesta creer que utilices la bicicleta por Madrid y est\u00e9s en contra de esta medida, si visitas otras ciudades como Barcelona te das cuenta que aqu\u00ed los ciclistas estamos vendidos.",
           "short_text": "[ATTACK] Me cuesta creer que utilices la bicicleta por Madrid y est\u00e9s en contra de esta medida, si visitas otras ciudades como Barcelona te das cuenta que aqu\u00ed los ciclistas estamos vendidos."
         }
@@ -150,52 +80,19 @@
       "children": [
         {
           "name": "11",
-          "children": [
-            {
-              "name": "17162",
-              "value": 100,
-              "text": "[17162] Yo tambi\u00e9n utilizo la bicicleta en Madrid y creo que el ayuntamiento deber\u00eda incidir m\u00e1s en crear infraestructuras en las arteria principales de Madrid para animar a todos cambiar el coche por la bicicleta.",
-              "short_text": "[17162] Yo tambi\u00e9n utilizo la bicicleta en Madrid y creo que el ayuntamiento deber\u00eda incidir m\u00e1s en crear infraestructuras en las arteria principales de Madrid para animar a todos cambiar el coche por..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Yo tambi\u00e9n utilizo la bicicleta en Madrid y creo que el ayuntamiento deber\u00eda incidir m\u00e1s en crear infraestructuras en las arteria principales de Madrid para animar a todos cambiar el coche por la bicicleta.",
           "short_text": "[SUPPORT] Yo tambi\u00e9n utilizo la bicicleta en Madrid y creo que el ayuntamiento deber\u00eda incidir m\u00e1s en crear infraestructuras en las arteria principales de Madrid para animar a todos cambiar el coche p..."
         },
         {
           "name": "12",
-          "children": [
-            {
-              "name": "54812",
-              "value": 100,
-              "text": "[54812] Completamente de acuerdo: carril bicicleta y m\u00e1s carril bicicleta en las arterias de Madrid y veremos c\u00f3mo los madrile\u00f1os se suben a la bicicleta en lugar del coche.",
-              "short_text": "[54812] Completamente de acuerdo: carril bicicleta y m\u00e1s carril bicicleta en las arterias de Madrid y veremos c\u00f3mo los madrile\u00f1os se suben a la bicicleta en lugar del coche."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Completamente de acuerdo: carril bicicleta y m\u00e1s carril bicicleta en las arterias de Madrid y veremos c\u00f3mo los madrile\u00f1os se suben a la bicicleta en lugar del coche.",
           "short_text": "[SUPPORT] Completamente de acuerdo: carril bicicleta y m\u00e1s carril bicicleta en las arterias de Madrid y veremos c\u00f3mo los madrile\u00f1os se suben a la bicicleta en lugar del coche."
         },
         {
           "name": "13",
-          "children": [
-            {
-              "name": "18866",
-              "value": 100,
-              "text": "[18866] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta.",
-              "short_text": "[18866] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta."
-            },
-            {
-              "name": "23967",
-              "value": 100,
-              "text": "[23967] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta.",
-              "short_text": "[23967] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta."
-            },
-            {
-              "name": "54614",
-              "value": 100,
-              "text": "[54614] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta.",
-              "short_text": "[54614] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta.",
           "short_text": "[ATTACK] Si te importa el Medio Ambiente igual apoyar\u00edas tambi\u00e9n esta propuesta."
         }
@@ -208,40 +105,19 @@
       "children": [
         {
           "name": "14",
-          "children": [
-            {
-              "name": "35969",
-              "value": 100,
-              "text": "[35969] Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulaci\u00f3n real de veh\u00edculos el\u00e9ctricos ligeros, que ya se comercializan y que actualmente, en Madrid est\u00e1n en un limbo, cuando en otras ciudades y pa\u00edses son una realidad realmente efectiva, ecol\u00f3gica y sostenible.",
-              "short_text": "[35969] Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulaci\u00f3n real de veh\u00edculos el\u00e9ctricos ligeros, que ya se comercializan y que actualmente, en Madrid est\u00e1n en un limbo, cuando..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulaci\u00f3n real de veh\u00edculos el\u00e9ctricos ligeros, que ya se comercializan y que actualmente, en Madrid est\u00e1n en un limbo, cuando en otras ciudades y pa\u00edses son una realidad realmente efectiva, ecol\u00f3gica y sostenible.",
           "short_text": "[SUPPORT] Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulaci\u00f3n real de veh\u00edculos el\u00e9ctricos ligeros, que ya se comercializan y que actualmente, en Madrid est\u00e1n en un limbo, cuan..."
         },
         {
           "name": "15",
-          "children": [
-            {
-              "name": "32458",
-              "value": 100,
-              "text": "[32458] La segunda opci\u00f3n es la que mejor resuelve el problema sin duda.",
-              "short_text": "[32458] La segunda opci\u00f3n es la que mejor resuelve el problema sin duda."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] La segunda opci\u00f3n es la que mejor resuelve el problema sin duda.",
           "short_text": "[SUPPORT] La segunda opci\u00f3n es la que mejor resuelve el problema sin duda."
         },
         {
           "name": "16",
-          "children": [
-            {
-              "name": "39363",
-              "value": 100,
-              "text": "[39363] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones. No respetan sem\u00e1foros, pasos de cebra, van indistintamente por la calzada o por la acera, atropellan a gente por la acera. Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educaci\u00f3n de los usuarios de las mismas.",
-              "short_text": "[39363] Como viandante diaria entre semana del Paseo de la Castellana, no s\u00e9 si esta propuesta mejorar\u00eda o empeorar\u00eda el problema, viendo el incivismo por parte de los ciclistas con los peatones. No r..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educaci\u00f3n de los usuarios de las mismas.",
           "short_text": "[ATTACK] Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educaci\u00f3n de los usuarios de las mismas."
         },
@@ -253,14 +129,7 @@
         },
         {
           "name": "18",
-          "children": [
-            {
-              "name": "59674",
-              "value": 100,
-              "text": "[59674] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces. Adem\u00e1s deslegitiman al ciclista en el resto de v\u00edas. Considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico antes que gastarse esta burrada en segregarnos y quitarnos del medio Las bicicletas somos tr\u00e1fico.",
-              "short_text": "[59674] Miedo me da, en algunos casos los carriles bicicleta son m\u00e1s peligrosos, sobre todo en cruces. Adem\u00e1s deslegitiman al ciclista en el resto de v\u00edas. Considero mejor otras opciones educaci\u00f3n via..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico en ese tramo, por ejemplo.",
           "short_text": "[ATTACK] Considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico en ese tramo, por ejemplo."
         }
@@ -273,79 +142,37 @@
       "children": [
         {
           "name": "19",
-          "children": [
-            {
-              "name": "17228",
-              "value": 100,
-              "text": "[17228] Totalmente de acuerdo. Lo cierto es que mucho subimos en bicicleta por la castellana. Desde Legazpi o desde atocha. Y nos la jugamos todo el rato. Agradecer\u00edamos este gesto del nuevo Ayuntamiento para con la movilidad y el aire de Madrid.",
-              "short_text": "[17228] Totalmente de acuerdo. Lo cierto es que mucho subimos en bicicleta por la castellana. Desde Legazpi o desde atocha. Y nos la jugamos todo el rato. Agradecer\u00edamos este gesto del nuevo Ayuntamie..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Totalmente de acuerdo. Lo cierto es que mucho subimos en bicicleta por la castellana. Desde Legazpi o desde atocha. Y nos la jugamos todo el rato. Agradecer\u00edamos este gesto del nuevo Ayuntamiento para con la movilidad y el aire de Madrid.",
           "short_text": "[SUPPORT] Totalmente de acuerdo. Lo cierto es que mucho subimos en bicicleta por la castellana. Desde Legazpi o desde atocha. Y nos la jugamos todo el rato. Agradecer\u00edamos este gesto del nuevo Ayuntam..."
         },
         {
           "name": "20",
-          "children": [
-            {
-              "name": "32474",
-              "value": 100,
-              "text": "[32474] Tambi\u00e9n carriles bicicleta para conectar a Madrid capital con los municipios cercanos como Rivas: .",
-              "short_text": "[32474] Tambi\u00e9n carriles bicicleta para conectar a Madrid capital con los municipios cercanos como Rivas: ."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Tambi\u00e9n carriles bicicleta para conectar a Madrid capital con los municipios cercanos como Rivas.",
           "short_text": "[SUPPORT] Tambi\u00e9n carriles bicicleta para conectar a Madrid capital con los municipios cercanos como Rivas."
         },
         {
           "name": "21",
-          "children": [
-            {
-              "name": "89374",
-              "value": 100,
-              "text": "[89374] Apoyo la propuestas, pero mientras me gustar\u00eda compartir una alternativa que yo uso: las calles paralelas como Modesto Lafuente y Ponzano para bajar y Alonso Cano para subir tienen poco tr\u00e1fico, son anchas y se circula bien en bicicleta salvo por algunos baches Para m\u00ed el problema est\u00e1 sobretodo en Recoletos \u00bfse puede circular por el bulevar? no lo tengo claro y especialmente en Paseo del Prado que es una autentica pesadilla y no hay ning\u00fana alternativa que no te obligue a dar rodeo por el Barrio de las Letras.",
-              "short_text": "[89374] Apoyo la propuestas, pero mientras me gustar\u00eda compartir una alternativa que yo uso: las calles paralelas como Modesto Lafuente y Ponzano para bajar y Alonso Cano para subir tienen poco tr\u00e1fic..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Apoyo la propuestas, pero mientras me gustar\u00eda compartir una alternativa que yo uso: las calles paralelas como Modesto Lafuente y Ponzano para bajar y Alonso Cano para subir tienen poco tr\u00e1fico, son anchas y se circula bien en bicicleta.",
           "short_text": "[SUPPORT] Apoyo la propuestas, pero mientras me gustar\u00eda compartir una alternativa que yo uso: las calles paralelas como Modesto Lafuente y Ponzano para bajar y Alonso Cano para subir tienen poco tr\u00e1f..."
         },
         {
           "name": "22",
-          "children": [
-            {
-              "name": "32769",
-              "value": 100,
-              "text": "[32769] A Rivas se puede iren bicicleta por caminos. De momento es la soluci\u00f3n. De todas formas es competencia de la Comunidad, y habr\u00eda que presionar al Ayuntamiento para que solicitara algo as\u00ed a Cifuentes.",
-              "short_text": "[32769] A Rivas se puede iren bicicleta por caminos. De momento es la soluci\u00f3n. De todas formas es competencia de la Comunidad, y habr\u00eda que presionar al Ayuntamiento para que solicitara algo as\u00ed a Ci..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] A Rivas se puede iren bicicleta por caminos. De momento es la soluci\u00f3n. De todas formas es competencia de la Comunidad, y habr\u00eda que presionar al Ayuntamiento para que solicitara algo as\u00ed a Cifuentes.",
           "short_text": "[ATTACK] A Rivas se puede iren bicicleta por caminos. De momento es la soluci\u00f3n. De todas formas es competencia de la Comunidad, y habr\u00eda que presionar al Ayuntamiento para que solicitara algo as\u00ed a C..."
         },
         {
           "name": "23",
-          "children": [
-            {
-              "name": "58843",
-              "value": 100,
-              "text": "[58843] La clave es usar rutas alternativas. La castellana con carril bicicleta seguir\u00e1 siendo una mala alternativa para los colectivos que describes. Son muy peligrosos en cruces e incorporaciones. Pienso que tenemos es que evitar que se siga superando los l\u00edmites de velocidad y calmar el tr\u00e1fico.",
-              "short_text": "[58843] La clave es usar rutas alternativas. La castellana con carril bicicleta seguir\u00e1 siendo una mala alternativa para los colectivos que describes. Son muy peligrosos en cruces e incorporaciones. P..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] La clave es usar rutas alternativas. La castellana con carril bicicleta seguir\u00e1 siendo una mala alternativa para los colectivos que describes.",
           "short_text": "[ATTACK] La clave es usar rutas alternativas. La castellana con carril bicicleta seguir\u00e1 siendo una mala alternativa para los colectivos que describes."
         },
         {
           "name": "24",
-          "children": [
-            {
-              "name": "59597",
-              "value": 100,
-              "text": "[59597] Esta programado para 2016 un plan de 33 v\u00edas ciclistas, entre ellas se encuentra el paseo de la Castellana, .",
-              "short_text": "[59597] Esta programado para 2016 un plan de 33 v\u00edas ciclistas, entre ellas se encuentra el paseo de la Castellana, ."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Esta programado para 2016 un plan de 33 v\u00edas ciclistas, entre ellas se encuentra el paseo de la Castellana, pero considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico.",
           "short_text": "[ATTACK] Esta programado para 2016 un plan de 33 v\u00edas ciclistas, entre ellas se encuentra el paseo de la Castellana, pero considero mejor otras opciones educaci\u00f3n vial, calmado de tr\u00e1fico."
         }
@@ -358,53 +185,25 @@
       "children": [
         {
           "name": "25",
-          "children": [
-            {
-              "name": "17277",
-              "value": 100,
-              "text": "[17277] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos.",
-              "short_text": "[17277] Una opci\u00f3n muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Una propuesta muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos.",
           "short_text": "[SUPPORT] Una propuesta muy buena que no generar\u00eda peligros en las intersecciones ser\u00eda limitar el uso de los laterales a bicicletas permitiendo el paso a coches s\u00f3lo para aparcamientos."
         },
         {
           "name": "26",
-          "children": [
-            {
-              "name": "22329",
-              "value": 100,
-              "text": "[22329] Ya es la hora de hacer esto. Me parece una verg\u00fcenza que no se lo ha hecho hace a\u00f1os, no ser\u00eda por falta de espacio.",
-              "short_text": "[22329] Ya es la hora de hacer esto. Me parece una verg\u00fcenza que no se lo ha hecho hace a\u00f1os, no ser\u00eda por falta de espacio."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Ya es la hora de hacer esto. Me parece una verg\u00fcenza que no se lo ha hecho hace a\u00f1os, no ser\u00eda por falta de espacio.",
           "short_text": "[SUPPORT] Ya es la hora de hacer esto. Me parece una verg\u00fcenza que no se lo ha hecho hace a\u00f1os, no ser\u00eda por falta de espacio."
         },
         {
           "name": "27",
-          "children": [
-            {
-              "name": "22685",
-              "value": 100,
-              "text": "[22685] Estoy de acuerdo con ABG 4 carriles en cada sentido para los veh\u00edculos motorizados convierten un bulevar en una autopista. Quitar un carril en cada sentido para d\u00e1rselo a las bicicletas es beneficioso para todos.",
-              "short_text": "[22685] Estoy de acuerdo con ABG 4 carriles en cada sentido para los veh\u00edculos motorizados convierten un bulevar en una autopista. Quitar un carril en cada sentido para d\u00e1rselo a las bicicletas es ben..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Estoy de acuerdo con ABG 4 carriles en cada sentido para los veh\u00edculos motorizados convierten un bulevar en una autopista. Quitar un carril en cada sentido para d\u00e1rselo a las bicicletas es beneficioso para todos.",
           "short_text": "[SUPPORT] Estoy de acuerdo con ABG 4 carriles en cada sentido para los veh\u00edculos motorizados convierten un bulevar en una autopista. Quitar un carril en cada sentido para d\u00e1rselo a las bicicletas es b..."
         },
         {
           "name": "28",
-          "children": [
-            {
-              "name": "32457",
-              "value": 100,
-              "text": "[32457] El colectivo en bicicleta por Madrid propone varias alternativas al problema. Podeis echarle un vistazo en esta web.",
-              "short_text": "[32457] El colectivo en bicicleta por Madrid propone varias alternativas al problema. Podeis echarle un vistazo en esta web."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El colectivo en bicicleta por Madrid propone varias alternativas al problema. Podeis echarle un vistazo en esta web.",
           "short_text": "[ATTACK] El colectivo en bicicleta por Madrid propone varias alternativas al problema. Podeis echarle un vistazo en esta web."
         },
@@ -416,14 +215,7 @@
         },
         {
           "name": "30",
-          "children": [
-            {
-              "name": "20921",
-              "value": 100,
-              "text": "[20921] El uso de la bicicleta, no tiene que conllevar un perjuicio para el peat\u00f3n. La bicicleta es un medio de transporte m\u00e1s, muy \u00fatil en la ciudad de Madrid, y puede sustituir al coche como opci\u00f3n para moverse dentro de la ciudad.",
-              "short_text": "[20921] El uso de la bicicleta, no tiene que conllevar un perjuicio para el peat\u00f3n. La bicicleta es un medio de transporte m\u00e1s, muy \u00fatil en la ciudad de Madrid, y puede sustituir al coche como opci\u00f3n..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El uso de la bicicleta, no tiene que conllevar un perjuicio para el peat\u00f3n. La bicicleta es un medio de transporte m\u00e1s, muy \u00fatil en la ciudad de Madrid, y puede sustituir al coche como opci\u00f3n para moverse dentro de la ciudad.",
           "short_text": "[ATTACK] El uso de la bicicleta, no tiene que conllevar un perjuicio para el peat\u00f3n. La bicicleta es un medio de transporte m\u00e1s, muy \u00fatil en la ciudad de Madrid, y puede sustituir al coche como opci\u00f3n..."
         }
@@ -436,79 +228,37 @@
       "children": [
         {
           "name": "31",
-          "children": [
-            {
-              "name": "59598",
-              "value": 100,
-              "text": "[59598] El Ayuntamiento de Madrid invertir\u00e1 m\u00e1s de 40 millones en completar la red de ciclo-carriles.",
-              "short_text": "[59598] El Ayuntamiento de Madrid invertir\u00e1 m\u00e1s de 40 millones en completar la red de ciclo-carriles."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] El Ayuntamiento de Madrid invertir\u00e1 m\u00e1s de 40 millones en completar la red de ciclo-carriles.",
           "short_text": "[SUPPORT] El Ayuntamiento de Madrid invertir\u00e1 m\u00e1s de 40 millones en completar la red de ciclo-carriles."
         },
         {
           "name": "32",
-          "children": [
-            {
-              "name": "19578",
-              "value": 100,
-              "text": "[19578] Con este dinero se podr\u00eda hacer el carril: .",
-              "short_text": "[19578] Con este dinero se podr\u00eda hacer el carril: ."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Con este dinero se podr\u00eda hacer el carril: [enlace a propuesta].",
           "short_text": "[SUPPORT] Con este dinero se podr\u00eda hacer el carril: [enlace a propuesta]."
         },
         {
           "name": "33",
-          "children": [
-            {
-              "name": "52584",
-              "value": 100,
-              "text": "[52584] Hola Sergio. Quitarle el espacio a los peatones no es la soluci\u00f3n. Precisamente lo que hay que intentar es que gente que utilice el coche se pase a la bicicleta, por el bien de la salud de todos. Si quitas un carril en cada sentido a los coches, adquiere mucha m\u00e1s visibilidad a la vez que bloquea el tr\u00e1fico. Por tanto, si una persona se queda parada en un atasco y ve gente circular mucho m\u00e1s r\u00e1pido por el carril bicicleta, quiz\u00e1s se replantee el uso del veh\u00edculo motorizado. Saludos.",
-              "short_text": "[52584] Hola Sergio. Quitarle el espacio a los peatones no es la soluci\u00f3n. Precisamente lo que hay que intentar es que gente que utilice el coche se pase a la bicicleta, por el bien de la salud de tod..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Si quitas un carril en cada sentido a los coches, adquiere mucha m\u00e1s visibilidad a la vez que bloquea el tr\u00e1fico. Por tanto, si una persona se queda parada en un atasco y ve gente circular mucho m\u00e1s r\u00e1pido por el carril bicicleta, quiz\u00e1s se replantee el uso del veh\u00edculo motorizado.",
           "short_text": "[SUPPORT] Si quitas un carril en cada sentido a los coches, adquiere mucha m\u00e1s visibilidad a la vez que bloquea el tr\u00e1fico. Por tanto, si una persona se queda parada en un atasco y ve gente circular m..."
         },
         {
           "name": "34",
-          "children": [
-            {
-              "name": "54874",
-              "value": 100,
-              "text": "[54874] Cuanto estas dispuesto a pagar por tener un bulevar o m\u00e1s kil\u00f3metros de carril bicicleta? Los autom\u00f3viles pagan un impuesto.",
-              "short_text": "[54874] Cuanto estas dispuesto a pagar por tener un bulevar o m\u00e1s kil\u00f3metros de carril bicicleta? Los autom\u00f3viles pagan un impuesto."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Cuanto estas dispuesto a pagar por tener un bulevar o m\u00e1s kil\u00f3metros de carril bicicleta? Los autom\u00f3viles pagan un impuesto.",
           "short_text": "[ATTACK] Cuanto estas dispuesto a pagar por tener un bulevar o m\u00e1s kil\u00f3metros de carril bicicleta? Los autom\u00f3viles pagan un impuesto."
         },
         {
           "name": "35",
-          "children": [
-            {
-              "name": "18279",
-              "value": 100,
-              "text": "[18279] Plan anti grafitis. Acabemos con esta lacra: .",
-              "short_text": "[18279] Plan anti grafitis. Acabemos con esta lacra: ."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Plan anti grafitis. Acabemos con esta lacra: [enlace a propuesta].",
           "short_text": "[ATTACK] Plan anti grafitis. Acabemos con esta lacra: [enlace a propuesta]."
         },
         {
           "name": "36",
-          "children": [
-            {
-              "name": "19705",
-              "value": 100,
-              "text": "[19705] Yo estoy de acuerdo en que ser\u00eda importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se ha hecho actualmente pintando una bicicleta en un carril de los dos que tiene el lateral es una chapuza que esta ocasionando accidentes tanto para los ciclistas sobretodo turistas como con los conductores.",
-              "short_text": "[19705] Yo estoy de acuerdo en que ser\u00eda importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se ha..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Yo estoy de acuerdo en que ser\u00eda importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se ha hecho actualmente pintando una bicicleta en un carril de los dos que tiene el lateral es una chapuza que esta ocasionando accidentes tanto para los ciclistas sobretodo turistas como con los conductores.",
           "short_text": "[ATTACK] Yo estoy de acuerdo en que ser\u00eda importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se h..."
         }
@@ -517,6 +267,6 @@
       "short_text": "Viabilidad Econ\u00f3mica"
     }
   ],
-  "text": "Carril bicicleta por la Castellana. Ir en bicicleta por la Castellana es peligroso, y dado que hay suficiente espacio en el bulevar peatonal o en la calzada lateral ser\u00eda sencillo y barato hacer un carril bicicleta. La Castellana es el eje central\u00a0y fundamental para la movilidad en Madrid. No obstante ir en bicicleta es muy peligroso dado la intensidad del tr\u00e1fico y la velocidad que alcanzan los veh\u00edculos. \u00a0 Es por esto que ser\u00eda importante para mejorar la movilidad de los ciclistas y de los propios veh\u00edculos a motor crear una v\u00eda separada para ciclistas\u00a0ya sea en el bulervar peatonal o en la calzada lateral.",
-  "short_text": "Carril bicicleta por la Castellana. Ir en bicicleta por la Castellana es peligroso, y dado que hay suficiente espacio en el bulevar peatonal o en la calzada lateral ser\u00eda sencillo y barato hacer un ca..."
+  "text": "Carril bicicleta por la Castellana",
+  "short_text": "Carril bicicleta por la Castellana"
 }

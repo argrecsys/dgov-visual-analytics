@@ -6,53 +6,25 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "37642",
-              "value": 100,
-              "text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable. Si es la ITV la que tiene que poner los medios, fant\u00e1stico, pero a quien haga ruido innecesario que se le sancione. Lamentablemente en este pa\u00eds si no es con sanciones que afecten al bolsillo no respetamos nada. Por cierto, todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
-              "short_text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] las motos, especialmente las m\u00e1s peque\u00f1as, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable.",
           "short_text": "[SUPPORT] las motos, especialmente las m\u00e1s peque\u00f1as, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "37642",
-              "value": 100,
-              "text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable. Si es la ITV la que tiene que poner los medios, fant\u00e1stico, pero a quien haga ruido innecesario que se le sancione. Lamentablemente en este pa\u00eds si no es con sanciones que afecten al bolsillo no respetamos nada. Por cierto, todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
-              "short_text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] a quien haga ruido innecesario que se le sancione.",
           "short_text": "[SUPPORT] a quien haga ruido innecesario que se le sancione."
         },
         {
           "name": "3",
-          "children": [
-            {
-              "name": "37642",
-              "value": 100,
-              "text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy molesto y, creo, f\u00e1cilmente subsanable. Si es la ITV la que tiene que poner los medios, fant\u00e1stico, pero a quien haga ruido innecesario que se le sancione. Lamentablemente en este pa\u00eds si no es con sanciones que afecten al bolsillo no respetamos nada. Por cierto, todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
-              "short_text": "[37642] Un sitio mudo no, pero s\u00ed un lugar lo m\u00e1s agradable posible. Y estoy seguro de que tendr\u00e1s que reconocer que las motos, especialmente las m\u00e1s peque\u00f1as, pero no solo ellas, emiten un ruido muy..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n.",
           "short_text": "[SUPPORT] todos los ejemplos que pones en alg\u00fan pa\u00eds europeo ser\u00edan sancionables tambi\u00e9n."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "81777",
-              "value": 100,
-              "text": "[81777] El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos.",
-              "short_text": "[81777] El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos.",
           "short_text": "[ATTACK] El problema es que para algunos moteros, el ruido de su moto les parece m\u00fasica, pero solo a ellos."
         },
@@ -71,14 +43,7 @@
       "children": [
         {
           "name": "6",
-          "children": [
-            {
-              "name": "40952",
-              "value": 100,
-              "text": "[40952] El problema que el nivel de ruido no pueden multar lo por la. Opini\u00f3n del agente. Tienen que llevar la moto y no en ese momento. Si no a los d\u00edas. Conclusi\u00f3n le quitan ese escape ruidoso ponen el de serie y la pasan completamente. Para la itv pasa igual. La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos incluso hay algunos antiguos que no tienen l\u00edmite por antig\u00fcedad. Y luego est\u00e1n las motos de 2t que hacen ruido y no hay tablas de control ya que cuando salieron a la venta no exist\u00edan todas estas medidas.",
-              "short_text": "[40952] El problema que el nivel de ruido no pueden multar lo por la. Opini\u00f3n del agente. Tienen que llevar la moto y no en ese momento. Si no a los d\u00edas. Conclusi\u00f3n le quitan ese escape ruidoso ponen..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos.",
           "short_text": "[SUPPORT] La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos."
         },
@@ -90,27 +55,13 @@
         },
         {
           "name": "8",
-          "children": [
-            {
-              "name": "37236",
-              "value": 100,
-              "text": "[37236] A ver, esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle. No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados.",
-              "short_text": "[37236] A ver, esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle. No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer un..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados.",
           "short_text": "[ATTACK] No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados."
         },
         {
           "name": "9",
-          "children": [
-            {
-              "name": "37236",
-              "value": 100,
-              "text": "[37236] A ver, esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle. No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer una campa\u00f1a policial expresa dotando a los agentes de son\u00f3metros homologados.",
-              "short_text": "[37236] A ver, esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle. No es necesaria iniciativa alguna para ello. Bastar\u00eda con hacer un..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle.",
           "short_text": "[ATTACK] esto ya se puede hacer. Si un veh\u00edculo circula emitiendo m\u00e1s decibelios de los permitidos, la polic\u00eda podr\u00eda multarle."
         }
@@ -123,53 +74,25 @@
       "children": [
         {
           "name": "10",
-          "children": [
-            {
-              "name": "37346",
-              "value": 100,
-              "text": "[37346] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas. No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa.",
-              "short_text": "[37346] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas. No se puede aguantar y da igual la h..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas.",
           "short_text": "[SUPPORT] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas."
         },
         {
           "name": "11",
-          "children": [
-            {
-              "name": "37346",
-              "value": 100,
-              "text": "[37346] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas. No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa.",
-              "short_text": "[37346] Deber\u00edan prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas. No se puede aguantar y da igual la h..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa.",
           "short_text": "[SUPPORT] No se puede aguantar y da igual la hora para rugir en el sem\u00e1foro que hay debajo de casa."
         },
         {
           "name": "12",
-          "children": [
-            {
-              "name": "37528",
-              "value": 100,
-              "text": "[37528] No es un problema de la polic\u00eda, es una atribuci\u00f3n perteneciente a la ITV y todos los veh\u00edculos tienen la obligaci\u00f3n de pasar el examen. Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir. Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito. Que la ni\u00f1a de arriba no toque la flauta en la siesta, que la saquen del conservatorio.",
-              "short_text": "[37528] No es un problema de la polic\u00eda, es una atribuci\u00f3n perteneciente a la ITV y todos los veh\u00edculos tienen la obligaci\u00f3n de pasar el examen. Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivi..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir.",
           "short_text": "[ATTACK] Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir."
         },
         {
           "name": "13",
-          "children": [
-            {
-              "name": "37528",
-              "value": 100,
-              "text": "[37528] No es un problema de la polic\u00eda, es una atribuci\u00f3n perteneciente a la ITV y todos los veh\u00edculos tienen la obligaci\u00f3n de pasar el examen. Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivimos muchos y hay que transigir. Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito. Que la ni\u00f1a de arriba no toque la flauta en la siesta, que la saquen del conservatorio.",
-              "short_text": "[37528] No es un problema de la polic\u00eda, es una atribuci\u00f3n perteneciente a la ITV y todos los veh\u00edculos tienen la obligaci\u00f3n de pasar el examen. Parece que la ciudad ha de ser un sitio mudo, aqu\u00ed vivi..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito.",
           "short_text": "[ATTACK] Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de m\u00e1s de 20 cm de alto, que ladren flojito."
         }
@@ -200,14 +123,7 @@
         },
         {
           "name": "17",
-          "children": [
-            {
-              "name": "40952",
-              "value": 100,
-              "text": "[40952] El problema que el nivel de ruido no pueden multar lo por la. Opini\u00f3n del agente. Tienen que llevar la moto y no en ese momento. Si no a los d\u00edas. Conclusi\u00f3n le quitan ese escape ruidoso ponen el de serie y la pasan completamente. Para la itv pasa igual. La regulaci\u00f3n de los ruidos de escape no es igual para todos ya que seg\u00fan cada moto tienen un nivel de ruidos incluso hay algunos antiguos que no tienen l\u00edmite por antig\u00fcedad. Y luego est\u00e1n las motos de 2t que hacen ruido y no hay tablas de control ya que cuando salieron a la venta no exist\u00edan todas estas medidas.",
-              "short_text": "[40952] El problema que el nivel de ruido no pueden multar lo por la. Opini\u00f3n del agente. Tienen que llevar la moto y no en ese momento. Si no a los d\u00edas. Conclusi\u00f3n le quitan ese escape ruidoso ponen..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no exist\u00edan estas medidas.",
           "short_text": "[ATTACK] no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no exist\u00edan estas medidas."
         }
@@ -216,6 +132,6 @@
       "short_text": "Desaf\u00edos de Medici\u00f3n"
     }
   ],
-  "text": "Multa motos excesivamente ruidosas. Deber\u00eda multarse a aquellos motoristas que tengan las motos trucadas para que el ruido que hagan sea m\u00e1s alto.",
-  "short_text": "Multa motos excesivamente ruidosas. Deber\u00eda multarse a aquellos motoristas que tengan las motos trucadas para que el ruido que hagan sea m\u00e1s alto."
+  "text": "Multa motos excesivamente ruidosas",
+  "short_text": "Multa motos excesivamente ruidosas"
 }

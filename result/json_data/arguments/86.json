@@ -6,79 +6,37 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "17231",
-              "value": 100,
-              "text": "[17231] Actualmente s\u00f3lo se puede reciclar el aceite de cocina usado en los puntos limpios, en muchas ocasiones alejados de las viviendas. Acercarlo a las comunidades de vecinos facilitar\u00eda el reciclaje.",
-              "short_text": "[17231] Actualmente s\u00f3lo se puede reciclar el aceite de cocina usado en los puntos limpios, en muchas ocasiones alejados de las viviendas. Acercarlo a las comunidades de vecinos facilitar\u00eda el recicla..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Acercarlo a las comunidades de vecinos facilitar\u00eda el reciclaje.",
           "short_text": "[SUPPORT] Acercarlo a las comunidades de vecinos facilitar\u00eda el reciclaje."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "17669",
-              "value": 100,
-              "text": "[17669] Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel que ya tenemos en Madrid, como ya hay en muchas otras provincias.",
-              "short_text": "[17669] Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel que ya tenemos en Madrid, como ya hay en muchas otras provincias."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel.",
           "short_text": "[SUPPORT] Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel."
         },
         {
           "name": "3",
-          "children": [
-            {
-              "name": "79423",
-              "value": 100,
-              "text": "[79423] Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no se que hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce.",
-              "short_text": "[79423] Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no se que hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no s\u00e9 qu\u00e9 hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce.",
           "short_text": "[SUPPORT] Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no s\u00e9 qu\u00e9 hacer con tanto bote con aceite usado porque me niego a tirarlo por el desag\u00fce."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "82364",
-              "value": 100,
-              "text": "[82364] Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies.",
-              "short_text": "[82364] Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies.",
           "short_text": "[SUPPORT] Ser\u00eda interesante que instalasen los contenedores en mercados municipales y grandes superficies."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "90290",
-              "value": 100,
-              "text": "[90290] El aceite es un producto de mucho uso y si lo dej\u00e1semos para una vez al a\u00f1o o dos acumular\u00edamos muchisimo. Tambi\u00e9n me parece muy buena la idea de una recogida periodica especial como se hacia con los muebles.",
-              "short_text": "[90290] El aceite es un producto de mucho uso y si lo dej\u00e1semos para una vez al a\u00f1o o dos acumular\u00edamos muchisimo. Tambi\u00e9n me parece muy buena la idea de una recogida periodica especial como se hacia..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Tambi\u00e9n me parece muy buena la idea de una recogida peri\u00f3dica especial como se hac\u00eda con los muebles.",
           "short_text": "[SUPPORT] Tambi\u00e9n me parece muy buena la idea de una recogida peri\u00f3dica especial como se hac\u00eda con los muebles."
         },
         {
           "name": "6",
-          "children": [
-            {
-              "name": "17371",
-              "value": 100,
-              "text": "[17371] Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos. No se genera tal cantidad de aceites como para tener que colocar otro contenedor en zonas tan limitadas actualmente.",
-              "short_text": "[17371] Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos. No se genera tal cantidad de aceites como para tener que colocar otro contenedor en zonas ta..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos.",
           "short_text": "[ATTACK] Creo que ser\u00eda m\u00e1s f\u00e1cil aumentar el n\u00famero de puntos limpios m\u00f3viles y los horarios de los mismos."
         }
@@ -91,14 +49,7 @@
       "children": [
         {
           "name": "7",
-          "children": [
-            {
-              "name": "17631",
-              "value": 100,
-              "text": "[17631] Es una propuesta muy interesante. En otros Ayuntamientos ya est\u00e1 operativo. Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1. Os paso un link del Ayuntamiento de Zaragoza. Ser\u00edan contenedores que se podr\u00edan poner junto a los org\u00e1nicos, papel o vidrio. Cuidemos Madrid.",
-              "short_text": "[17631] Es una propuesta muy interesante. En otros Ayuntamientos ya est\u00e1 operativo. Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1. Os paso un link del Ayuntamiento de Zar..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1.",
           "short_text": "[SUPPORT] Cuanto m\u00e1s cerca de las viviendas se coloque m\u00e1s cultura de reciclaje habr\u00e1."
         }
@@ -111,53 +62,25 @@
       "children": [
         {
           "name": "8",
-          "children": [
-            {
-              "name": "18054",
-              "value": 100,
-              "text": "[18054] Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados, con lo que es muy f\u00e1cil reciclar el aceite: .",
-              "short_text": "[18054] Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados, con lo que es muy f\u00e1cil reciclar el aceite: ."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados.",
           "short_text": "[SUPPORT] Muy importante esta propuesta. Soy de Gij\u00f3n y all\u00ed el Ayuntamiento hace a\u00f1os que instal\u00f3 contenedores a la entrada de muchos supermercados."
         },
         {
           "name": "9",
-          "children": [
-            {
-              "name": "52786",
-              "value": 100,
-              "text": "[52786] En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc. Est\u00e1 muy bien pensado.",
-              "short_text": "[52786] En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc. Est\u00e1 muy bien pensado."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc.",
           "short_text": "[SUPPORT] En Benicassim, los jueves que hay mercadillo, el ayuntamiento coloca una unidad m\u00f3vil de reciclaje de productos sensibles c\u00f3mo puede ser el aceite, pilas etc."
         },
         {
           "name": "10",
-          "children": [
-            {
-              "name": "29033",
-              "value": 100,
-              "text": "[29033] Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso.",
-              "short_text": "[29033] Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso.",
           "short_text": "[ATTACK] Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que s\u00ed por alguna causa ardiera por vandalismo o fortuito podr\u00eda ser muy peligroso."
         },
         {
           "name": "11",
-          "children": [
-            {
-              "name": "32125",
-              "value": 100,
-              "text": "[32125] Hay cooperqtivas que recogen el aceite a domicilio para hacer jab\u00f3n industrial etc. Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso, No estoy de acuredo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos, y de forma limpia. Por ejemplo estas propuestas proponen el soterramentohttps: //decide. Madrid. Es/proposals/2709 -.",
-              "short_text": "[32125] Hay cooperqtivas que recogen el aceite a domicilio para hacer jab\u00f3n industrial etc. Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso.",
           "short_text": "[ATTACK] Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso."
         }
@@ -170,92 +93,43 @@
       "children": [
         {
           "name": "12",
-          "children": [
-            {
-              "name": "17854",
-              "value": 100,
-              "text": "[17854] Hace poco descubri que tengo un punto limpio movil en la calle paralela donde vivo. Pero no me sirve de mucho o de nada porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a trabajar. No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.",
-              "short_text": "[17854] Hace poco descubri que tengo un punto limpio movil en la calle paralela donde vivo. Pero no me sirve de mucho o de nada porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Hace poco descubr\u00ed que tengo un punto limpio m\u00f3vil en la calle paralela donde vivo. Pero no me sirve de mucho porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a trabajar.",
           "short_text": "[SUPPORT] Hace poco descubr\u00ed que tengo un punto limpio m\u00f3vil en la calle paralela donde vivo. Pero no me sirve de mucho porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a tra..."
         },
         {
           "name": "13",
-          "children": [
-            {
-              "name": "17854",
-              "value": 100,
-              "text": "[17854] Hace poco descubri que tengo un punto limpio movil en la calle paralela donde vivo. Pero no me sirve de mucho o de nada porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que ir a trabajar. No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.",
-              "short_text": "[17854] Hace poco descubri que tengo un punto limpio movil en la calle paralela donde vivo. Pero no me sirve de mucho o de nada porque es un d\u00eda a la semana y a una hora en la que ya me he tenido que..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.",
           "short_text": "[SUPPORT] No estar\u00eda mal dejar un contenedor para ello que suelen ser m\u00e1s peque\u00f1os que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios."
         },
         {
           "name": "14",
-          "children": [
-            {
-              "name": "90365",
-              "value": 100,
-              "text": "[90365] En los puntos limpios de Madrid hay contenedores para este aceite.",
-              "short_text": "[90365] En los puntos limpios de Madrid hay contenedores para este aceite."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En los puntos limpios de Madrid hay contenedores para este aceite.",
           "short_text": "[SUPPORT] En los puntos limpios de Madrid hay contenedores para este aceite."
         },
         {
           "name": "15",
-          "children": [
-            {
-              "name": "71085",
-              "value": 100,
-              "text": "[71085] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio veh\u00edculo, que parece que eres un vago porque no quieres ir con la basura en el autob\u00fas para llevarla a tirar. En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite, hm recoge tejidos para reciclar no solo ropa en buen estado para donarla, sino tambi\u00e9n la que este rota y muy deteriorada en los Bricor de El Corte Ingles hay contenedores para peque\u00f1os electrodomesticos y lamparas. Quizas lo que se le pod\u00eda pedir al Ayuntamiento es que recopile la informaci\u00f3n sobre la localizaci\u00f3n todos estos micro puntos limpios p\u00fablicos y privados en la web del Ayuntamiento, ordenados por distritos o situados en un mapa para que sea m\u00e1s f\u00e1cil reciclar.",
-              "short_text": "[71085] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite.",
           "short_text": "[SUPPORT] En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite."
         },
         {
           "name": "16",
-          "children": [
-            {
-              "name": "66361",
-              "value": 100,
-              "text": "[66361] Yo tambi\u00e9n hab\u00eda hecho esta propuesta, pero acabo de ver que ya hay \u00e9sta y otras. Como creo que es la que m\u00e1s votos tiene, retirar\u00e9 la m\u00eda. Esto es sumamente importante por favor. Los puntos limpios no son suficiente alternativa. Est\u00e1n bien para tirar teles, otros tipos de aceites o residuos contaminantes, etc. , pero para algo tan cotidiano y abundante como el aceite de las cocinas de nuestros hogares y restaurantes no olvidemos todo lo que estos producen tambi\u00e9n no basta con puntos limpios porque: mucha gente no es si quiera consciente de que tirar aceite al desag\u00fce sea contaminante; otros tiran el aceite en un envase de pl\u00e1stico a los residuos org\u00e1nicos, mezclando diferentes tipos de reciclaje; es absurdo tener que irse a las afueras en coche, y por tanto contaminando para tirar 5l de aceite; y como bien dec\u00eds muchos, los puntos limpios itinerantes tienen unos horarios que se hacen inaccesibles para mucha gente. Muchas ciudades lo tienen, a qu\u00e9 estamos esperando?.",
-              "short_text": "[66361] Yo tambi\u00e9n hab\u00eda hecho esta propuesta, pero acabo de ver que ya hay \u00e9sta y otras. Como creo que es la que m\u00e1s votos tiene, retirar\u00e9 la m\u00eda. Esto es sumamente importante por favor. Los puntos l..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los puntos limpios itinerantes tienen unos horarios que se hacen inaccesibles para mucha gente.",
           "short_text": "[ATTACK] Los puntos limpios itinerantes tienen unos horarios que se hacen inaccesibles para mucha gente."
         },
         {
           "name": "17",
-          "children": [
-            {
-              "name": "71085",
-              "value": 100,
-              "text": "[71085] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio veh\u00edculo, que parece que eres un vago porque no quieres ir con la basura en el autob\u00fas para llevarla a tirar. En el Mercado de los Mostenses hay un contenedor para reciclaje de aceite, hm recoge tejidos para reciclar no solo ropa en buen estado para donarla, sino tambi\u00e9n la que este rota y muy deteriorada en los Bricor de El Corte Ingles hay contenedores para peque\u00f1os electrodomesticos y lamparas. Quizas lo que se le pod\u00eda pedir al Ayuntamiento es que recopile la informaci\u00f3n sobre la localizaci\u00f3n todos estos micro puntos limpios p\u00fablicos y privados en la web del Ayuntamiento, ordenados por distritos o situados en un mapa para que sea m\u00e1s f\u00e1cil reciclar.",
-              "short_text": "[71085] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio veh\u00edculo.",
           "short_text": "[ATTACK] Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada d\u00eda est\u00e1n en un sitio, as\u00ed que es complicado poder llevar algo a los puntos limpio..."
         },
         {
           "name": "18",
-          "children": [
-            {
-              "name": "60708",
-              "value": 100,
-              "text": "[60708] No es t\u00e1n sencilllo sobre todo para la gente que trabaja y no tiene coche propio. Los puntos limpios est\u00e1n bastante alejados de los barrios. Tened en cuenta que el aceite contamina incluso m\u00e1s que el plastico y el vidrio y en todos los domicilios se hace uso de \u00e9l. Porque no crear un servicio especial como se hace con la recogida de muebles. Me parece muy buena idea que en los Supermercados existan contenedores de recogida de aceite, si no es posible actualmente en los propios barrios.",
-              "short_text": "[60708] No es t\u00e1n sencilllo sobre todo para la gente que trabaja y no tiene coche propio. Los puntos limpios est\u00e1n bastante alejados de los barrios. Tened en cuenta que el aceite contamina incluso m\u00e1s..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Los puntos limpios est\u00e1n bastante alejados de los barrios.",
           "short_text": "[ATTACK] Los puntos limpios est\u00e1n bastante alejados de los barrios."
         }
@@ -268,40 +142,19 @@
       "children": [
         {
           "name": "19",
-          "children": [
-            {
-              "name": "60708",
-              "value": 100,
-              "text": "[60708] No es t\u00e1n sencilllo sobre todo para la gente que trabaja y no tiene coche propio. Los puntos limpios est\u00e1n bastante alejados de los barrios. Tened en cuenta que el aceite contamina incluso m\u00e1s que el plastico y el vidrio y en todos los domicilios se hace uso de \u00e9l. Porque no crear un servicio especial como se hace con la recogida de muebles. Me parece muy buena idea que en los Supermercados existan contenedores de recogida de aceite, si no es posible actualmente en los propios barrios.",
-              "short_text": "[60708] No es t\u00e1n sencilllo sobre todo para la gente que trabaja y no tiene coche propio. Los puntos limpios est\u00e1n bastante alejados de los barrios. Tened en cuenta que el aceite contamina incluso m\u00e1s..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Tened en cuenta que el aceite contamina incluso m\u00e1s que el pl\u00e1stico y el vidrio y en todos los domicilios se hace uso de \u00e9l.",
           "short_text": "[SUPPORT] Tened en cuenta que el aceite contamina incluso m\u00e1s que el pl\u00e1stico y el vidrio y en todos los domicilios se hace uso de \u00e9l."
         },
         {
           "name": "20",
-          "children": [
-            {
-              "name": "21401",
-              "value": 100,
-              "text": "[21401] Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras.",
-              "short_text": "[21401] Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras.",
           "short_text": "[SUPPORT] Muy buena propuesta! Tambi\u00e9n os animo a que aprend\u00e1is a hacer jab\u00f3n casero con el aceite usado para lavar los platos, etc. Es muy f\u00e1cil, reciclas el aceite y ahorras."
         },
         {
           "name": "21",
-          "children": [
-            {
-              "name": "67278",
-              "value": 100,
-              "text": "[67278] Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y colocados junto los de vidrio y papel, por toda la ciudad y que se pueda tirar con la botella incluida.",
-              "short_text": "[67278] Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y colocad..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y colocados junto los de vidrio y papel, por toda la ciudad y que se pueda tirar con la botella incluida.",
           "short_text": "[ATTACK] Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero s\u00ed me parece bien, dar m\u00e1s facilidades para que podamos tirarlo en contenedores repartidos y coloca..."
         }
@@ -314,27 +167,13 @@
       "children": [
         {
           "name": "22",
-          "children": [
-            {
-              "name": "37969",
-              "value": 100,
-              "text": "[37969] Hola no se si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han. Puesto al principio del parque de Entrev\u00edas.",
-              "short_text": "[37969] Hola no se si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han. Puesto al principio del parque de Entrev\u00edas."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Hola no s\u00e9 si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han puesto al principio del parque de Entrev\u00edas.",
           "short_text": "[SUPPORT] Hola no s\u00e9 si esta propuesta habr\u00e1 salido adelante pero en mi barrio ya he visto dos contenedores para recoger aceite, vivo en el pozo y los han puesto al principio del parque de Entrev\u00edas."
         },
         {
           "name": "23",
-          "children": [
-            {
-              "name": "36892",
-              "value": 100,
-              "text": "[36892] Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante complicado llegar a ellos. Y los puntos limpios m\u00f3viles tienen horarios restringidos. Es algo que existe, adem\u00e1s, en muchas ciudades m\u00e1s peque\u00f1as y con un acceso m\u00e1s sencillo a los puntos limpios y que sin duda facilita que la gente realmente recicle el aceite usado de una manera responsable.",
-              "short_text": "[36892] Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante complicado llegar a ellos.",
           "short_text": "[ATTACK] Tiene todo el sentido del mundo porque los puntos limpios no son lugares de f\u00e1cil acceso. No es molestarse en ir a ellos, es que puede ser una excursi\u00f3n e incluso as\u00ed sin un coche es bastante..."
         }
@@ -347,53 +186,25 @@
       "children": [
         {
           "name": "24",
-          "children": [
-            {
-              "name": "17773",
-              "value": 100,
-              "text": "[17773] QEn Pais Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer.",
-              "short_text": "[17773] QEn Pais Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En Pa\u00eds Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer.",
           "short_text": "[SUPPORT] En Pa\u00eds Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vac\u00edo y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer."
         },
         {
           "name": "25",
-          "children": [
-            {
-              "name": "33090",
-              "value": 100,
-              "text": "[33090] Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo.",
-              "short_text": "[33090] Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo.",
           "short_text": "[ATTACK] Claro, la recogida de aceite ya se hace en los puntos limpios. Esta propuesta no tiene mucho sentido, creo yo."
         },
         {
           "name": "26",
-          "children": [
-            {
-              "name": "28528",
-              "value": 100,
-              "text": "[28528] Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos.",
-              "short_text": "[28528] Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos.",
           "short_text": "[ATTACK] Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos."
         },
         {
           "name": "27",
-          "children": [
-            {
-              "name": "27165",
-              "value": 100,
-              "text": "[27165] Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura.",
-              "short_text": "[27165] Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura.",
           "short_text": "[ATTACK] Si mi pueblo Montijo -ba los tiene, \u00bfpor qu\u00e9 no Madrid? Hasta ahora, tengo que meter el aceite en botellitas de agua, cerrarlas bien y a la basura."
         }
@@ -406,53 +217,25 @@
       "children": [
         {
           "name": "28",
-          "children": [
-            {
-              "name": "66362",
-              "value": 100,
-              "text": "[66362] Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos. Ya estamos tardando!.",
-              "short_text": "[66362] Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos. Ya estamos tardando!."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos.",
           "short_text": "[SUPPORT] Con esto se podr\u00eda contribuir adem\u00e1s a la producci\u00f3n de biodiesel. Generando cultura de reciclaje del aceite, podr\u00edamos bajar el precio del petroleo y contaminar menos."
         },
         {
           "name": "29",
-          "children": [
-            {
-              "name": "37840",
-              "value": 100,
-              "text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y vidrio y para lo dem\u00e1s tener un centro donde se puedan dejar el resto de cosas para reciclar o sea un punto limpio El problema es que la gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas. Seguramente usted y otras personas vayan m\u00e1s lejos para otras cosas, no creo que ir al punto limpio de su distrito una vez al a\u00f1o por decir algo sea para tanto.",
-              "short_text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y v..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El problema es que la gente es vaga a la hora de reciclar.",
           "short_text": "[ATTACK] El problema es que la gente es vaga a la hora de reciclar."
         },
         {
           "name": "30",
-          "children": [
-            {
-              "name": "37979",
-              "value": 100,
-              "text": "[37979] Aparte de las consideraciones de tipo personal sobre el tipo de cosas en las que invierto mi tiempo, cosa que me parece completamente fuera de lugar en este debate, la propuesta me parece oportuna porque este tipo de contenedores se utilizan, adem\u00e1s, en muchas ciudades, generalmente en lugares como supermercados en la calle puede resultar m\u00e1s peligroso y realmente es la manera de animar a que algo tan contaminante como el aceite no acabe en la basura general en el mejor de los casos o directamente en las tuber\u00edas y por tanto en el agua. No creo que apelar a la pereza de los ciudadanos para reciclar sea una excusa para no apoyar la propuesta, pero si es su motivo, perfecto. Por \u00faltimo a\u00f1adir que hace no muchos a\u00f1os solo hab\u00eda un cubo de basura para todo. Siguiendo su l\u00f3gica y teniendo en cuenta la viabilidad ser\u00eda absurdo a\u00f1adir m\u00e1s cubos, se podr\u00eda hacer todo por v\u00eda punto limpio. He vivido en pa\u00edses donde no solo se reciclaba el vidrio, se hac\u00eda por colores, y no era lo \u00fanico.",
-              "short_text": "[37979] Aparte de las consideraciones de tipo personal sobre el tipo de cosas en las que invierto mi tiempo, cosa que me parece completamente fuera de lugar en este debate, la propuesta me parece opor..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] No creo que apelar a la pereza de los ciudadanos para reciclar sea una excusa para no apoyar la propuesta.",
           "short_text": "[ATTACK] No creo que apelar a la pereza de los ciudadanos para reciclar sea una excusa para no apoyar la propuesta."
         },
         {
           "name": "31",
-          "children": [
-            {
-              "name": "37840",
-              "value": 100,
-              "text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y vidrio y para lo dem\u00e1s tener un centro donde se puedan dejar el resto de cosas para reciclar o sea un punto limpio El problema es que la gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas. Seguramente usted y otras personas vayan m\u00e1s lejos para otras cosas, no creo que ir al punto limpio de su distrito una vez al a\u00f1o por decir algo sea para tanto.",
-              "short_text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y v..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] La gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas.",
           "short_text": "[ATTACK] La gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas c..."
         }
@@ -465,40 +248,19 @@
       "children": [
         {
           "name": "32",
-          "children": [
-            {
-              "name": "37840",
-              "value": 100,
-              "text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y vidrio y para lo dem\u00e1s tener un centro donde se puedan dejar el resto de cosas para reciclar o sea un punto limpio El problema es que la gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas tambi\u00e9n se pueden acumular e ir a tirarlas cuando tengamos unas cuantas. Seguramente usted y otras personas vayan m\u00e1s lejos para otras cosas, no creo que ir al punto limpio de su distrito una vez al a\u00f1o por decir algo sea para tanto.",
-              "short_text": "[37840] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico. Lo l\u00f3gico es tener los contenedores de las cosas m\u00e1s habituales org\u00e1nico, envases, papel y v..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico.",
           "short_text": "[ATTACK] Entonces habr\u00eda que llenar las calles de contenedores de todo tipo, lo cual no es viable ni l\u00f3gico."
         },
         {
           "name": "33",
-          "children": [
-            {
-              "name": "32125",
-              "value": 100,
-              "text": "[32125] Hay cooperqtivas que recogen el aceite a domicilio para hacer jab\u00f3n industrial etc. Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso, No estoy de acuredo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos, y de forma limpia. Por ejemplo estas propuestas proponen el soterramentohttps: //decide. Madrid. Es/proposals/2709 -.",
-              "short_text": "[32125] Hay cooperqtivas que recogen el aceite a domicilio para hacer jab\u00f3n industrial etc. Para recoger el aceite se requiere atenci\u00f3n personal porque depende de donde lo traiga cada cual y se puede..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] No estoy de acuerdo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos.",
           "short_text": "[ATTACK] No estoy de acuerdo con lo de los contenedores a no ser que est\u00e9n muy bien dise\u00f1ados asegurando que no son peligrosos."
         },
         {
           "name": "34",
-          "children": [
-            {
-              "name": "33338",
-              "value": 100,
-              "text": "[33338] El problema que muchos lo usaran para hechar el aceite de los coches, que para eso es un punto diferente, a dem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel a\u00f1ado otra propuesta.",
-              "short_text": "[33338] El problema que muchos lo usaran para hechar el aceite de los coches, que para eso es un punto diferente, a dem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel a\u00f1ado otra propuesta..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El problema que muchos lo usar\u00e1n para echar el aceite de los coches, que para eso es un punto diferente, adem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel.",
           "short_text": "[ATTACK] El problema que muchos lo usar\u00e1n para echar el aceite de los coches, que para eso es un punto diferente, adem\u00e1s que hay empresas que lo hacen para conseguir el biodiesel."
         }
@@ -507,6 +269,6 @@
       "short_text": "Impacto en la gesti\u00f3n de residuos"
     }
   ],
-  "text": "Reciclaje aceite de cocina. Instalaci\u00f3n de contenedores para el reciclaje del aceite de cocina.",
-  "short_text": "Reciclaje aceite de cocina. Instalaci\u00f3n de contenedores para el reciclaje del aceite de cocina."
+  "text": "Reciclaje aceite de cocina",
+  "short_text": "Reciclaje aceite de cocina"
 }

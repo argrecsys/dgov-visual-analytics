@@ -1,6 +1,6 @@
 # Digital Government - DM Visual Analytics with ChatGPT
-![version](https://img.shields.io/badge/version-0.3.0-blue)
-![last-update](https://img.shields.io/badge/last_update-11/27/2023-orange)
+![version](https://img.shields.io/badge/version-0.3.5-blue)
+![last-update](https://img.shields.io/badge/last_update-12/12/2023-orange)
 ![license](https://img.shields.io/badge/license-Apache_2.0-brightgreen)
 
 ## Dependencies
