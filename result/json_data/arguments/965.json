@@ -6,27 +6,13 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "84560",
-              "value": 100,
-              "text": "[84560] La iglesia dispone de sufiiente economia como para pagar el IBI.",
-              "short_text": "[84560] La iglesia dispone de sufiiente economia como para pagar el IBI."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] La iglesia dispone de suficiente econom\u00eda como para pagar el IBI.",
           "short_text": "[SUPPORT] La iglesia dispone de suficiente econom\u00eda como para pagar el IBI."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "84562",
-              "value": 100,
-              "text": "[84562] \u00bftambi\u00e9n aplicamos ibi a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?.",
-              "short_text": "[84562] \u00bftambi\u00e9n aplicamos ibi a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] \u00bfTambi\u00e9n aplicamos IBI a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?",
           "short_text": "[ATTACK] \u00bfTambi\u00e9n aplicamos IBI a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los d\u00edas?"
         }
@@ -39,40 +25,19 @@
       "children": [
         {
           "name": "3",
-          "children": [
-            {
-              "name": "49011",
-              "value": 100,
-              "text": "[49011] Creo que los inmuebles de titularidad eclesi\u00e1stica deber\u00edan estar obligados al pago del IBI como las viviendas de los ciudadanos, salvo aquellos que se beneficien de una exenci\u00f3n prevista por la ley ense\u00f1anza, etc. Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios. Cuesti\u00f3n aparte, y bastante relevante, es la gran cantidad de transacciones econ\u00f3micas que se producen en la Iglesia sin satisfacer los correspondientes impuestos: bodas, bautizos, etc. Hay parroquias del centro de las grandes ciudades con verdaderas listas de tarifas, en negro, por supuesto y la complicidad social es muy grande, por desgracia. Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos. Cuesti\u00f3n de equidad.",
-              "short_text": "[49011] Creo que los inmuebles de titularidad eclesi\u00e1stica deber\u00edan estar obligados al pago del IBI como las viviendas de los ciudadanos, salvo aquellos que se beneficien de una exenci\u00f3n prevista por..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios.",
           "short_text": "[SUPPORT] Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "49011",
-              "value": 100,
-              "text": "[49011] Creo que los inmuebles de titularidad eclesi\u00e1stica deber\u00edan estar obligados al pago del IBI como las viviendas de los ciudadanos, salvo aquellos que se beneficien de una exenci\u00f3n prevista por la ley ense\u00f1anza, etc. Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios. Cuesti\u00f3n aparte, y bastante relevante, es la gran cantidad de transacciones econ\u00f3micas que se producen en la Iglesia sin satisfacer los correspondientes impuestos: bodas, bautizos, etc. Hay parroquias del centro de las grandes ciudades con verdaderas listas de tarifas, en negro, por supuesto y la complicidad social es muy grande, por desgracia. Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos. Cuesti\u00f3n de equidad.",
-              "short_text": "[49011] Creo que los inmuebles de titularidad eclesi\u00e1stica deber\u00edan estar obligados al pago del IBI como las viviendas de los ciudadanos, salvo aquellos que se beneficien de una exenci\u00f3n prevista por..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos.",
           "short_text": "[SUPPORT] Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad econ\u00f3mica, las parroquias no deben ser menos."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "54791",
-              "value": 100,
-              "text": "[54791] Todas aquellas organizaciones sin animo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones.",
-              "short_text": "[54791] Todas aquellas organizaciones sin animo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Todas aquellas organizaciones sin \u00e1nimo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones.",
           "short_text": "[SUPPORT] Todas aquellas organizaciones sin \u00e1nimo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones."
         }
@@ -85,45 +50,13 @@
       "children": [
         {
           "name": "6",
-          "children": [
-            {
-              "name": "84839",
-              "value": 100,
-              "text": "[84839] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica y, como consecuencia, la extensi\u00f3n de ese tratamiento al resto de confesiones religiosas. La cuesti\u00f3n es que mientras se mantenga el marco legal que ampar\u00f3 a la i. C. Desde la dictadura no se modificar\u00e1 la legislaci\u00f3n posterior que ampara a las dem\u00e1s confesiones en la exenci\u00f3n del impuesto.",
-              "short_text": "[84839] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Pr..."
-            },
-            {
-              "name": "85033",
-              "value": 100,
-              "text": "[85033] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica y, como consecuencia, la extensi\u00f3n de ese tratamiento al resto de confesiones religiosas. La cuesti\u00f3n es que mientras se mantenga el marco legal que ampar\u00f3 a la i. C. Desde la dictadura no se modificar\u00e1 la legislaci\u00f3n posterior que ampara a las dem\u00e1s confesiones en la exenci\u00f3n del impuesto. Por lo dem\u00e1s, es ud. Muy due\u00f1o de no estar de acuerdo o de proponer que el Ayuntamiento inste al Estado la modificaci\u00f3n de la Ley de Mecenazgo.",
-              "short_text": "[85033] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Pr..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide.",
           "short_text": "[SUPPORT] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide."
         },
         {
           "name": "7",
-          "children": [
-            {
-              "name": "84839",
-              "value": 100,
-              "text": "[84839] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica y, como consecuencia, la extensi\u00f3n de ese tratamiento al resto de confesiones religiosas. La cuesti\u00f3n es que mientras se mantenga el marco legal que ampar\u00f3 a la i. C. Desde la dictadura no se modificar\u00e1 la legislaci\u00f3n posterior que ampara a las dem\u00e1s confesiones en la exenci\u00f3n del impuesto.",
-              "short_text": "[84839] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Pr..."
-            },
-            {
-              "name": "84853",
-              "value": 100,
-              "text": "[84853] Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica y, como consecuencia, la extensi\u00f3n de ese tratamiento al resto de confesiones religiosas. La cuesti\u00f3n es que mientras se mantenga el marco legal que ampar\u00f3 a la i. C. Desde la dictadura no se modificar\u00e1 la legislaci\u00f3n posterior que ampara a las dem\u00e1s confesiones en la exenci\u00f3n del impuesto.",
-              "short_text": "[84853] Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal qu..."
-            },
-            {
-              "name": "85033",
-              "value": 100,
-              "text": "[85033] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica y, como consecuencia, la extensi\u00f3n de ese tratamiento al resto de confesiones religiosas. La cuesti\u00f3n es que mientras se mantenga el marco legal que ampar\u00f3 a la i. C. Desde la dictadura no se modificar\u00e1 la legislaci\u00f3n posterior que ampara a las dem\u00e1s confesiones en la exenci\u00f3n del impuesto. Por lo dem\u00e1s, es ud. Muy due\u00f1o de no estar de acuerdo o de proponer que el Ayuntamiento inste al Estado la modificaci\u00f3n de la Ley de Mecenazgo.",
-              "short_text": "[85033] Es obvio que la aplicaci\u00f3n del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiaci\u00f3n de 1979 lo impide. Pr..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal que las normas preconstitucionales otorgaron a la iglesia cat\u00f3lica.",
           "short_text": "[ATTACK] Precisamente se trata de impulsar la actuaci\u00f3n del Ayuntamiento de Madrid, en sinton\u00eda con otros consistorios, para actuar ante el gobierno del Estado a fin de revisar el tratamiento fiscal q..."
         }
@@ -136,40 +69,19 @@
       "children": [
         {
           "name": "8",
-          "children": [
-            {
-              "name": "84566",
-              "value": 100,
-              "text": "[84566] Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa.",
-              "short_text": "[84566] Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa.",
           "short_text": "[SUPPORT] Lo suyo ser\u00eda que pagara el IBI desconozco si lo hace o no por todos aquellos inmuebles que no est\u00e9n destinados al culto o relacionados directamente con la actividad religiosa."
         },
         {
           "name": "9",
-          "children": [
-            {
-              "name": "52718",
-              "value": 100,
-              "text": "[52718] Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI.",
-              "short_text": "[52718] Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI.",
           "short_text": "[SUPPORT] Los pisos y viviendas personales, de las organizaciones religiosas, que no se dedican a las labores de ayuda deber\u00edan de pagar el IBI."
         },
         {
           "name": "10",
-          "children": [
-            {
-              "name": "24055",
-              "value": 100,
-              "text": "[24055] Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios que no tengan un uso religioso o con fines sociales. No estar\u00eda de acuerdo en que lo pague por los edificios con uso social o de culto, igual que con los que est\u00e1n declarados como BIC que no pagan IBI sean propiedad de la Iglesia o de cualquier otra organizaci\u00f3n o particular.",
-              "short_text": "[24055] Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios q..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios que no tengan un uso religioso o con fines sociales.",
           "short_text": "[SUPPORT] Yo estar\u00eda de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios..."
         }
@@ -178,6 +90,6 @@
       "short_text": "Uso de los bienes inmuebles"
     }
   ],
-  "text": "Aplicaci\u00f3n del IBI a los bienes inmuebles de la Iglesia. Se propone que el Ayuntamiento estudie los mecanismos jur\u00eddicos necesarios para que pueda asumir la competencia que le permita aplicar el IBI a los bienes inmuebles de la Iglesia Cat\u00f3lica. La Iglesia Cat\u00f3lica no paga el Impuesto de Bienes Inmuebles a pesar de contar con un patrimonio inmobiliario cuantioso que, si cumpliera con sus obligaciones impositivas como todo el mundo, reportar\u00eda un importante aumento en los ingresos del Ayuntamiento por esta v\u00eda. Hace a\u00f1os, algunas ciudades no Madrid iban a estudiar la posibilidad de buscar los mecanismos jur\u00eddicos que le permitieran ejercer la competencia respecto a este impuesto municipal. Todo sigue igual. \u00a0El trato de favor que, a este respecto como a otros, recibe la Iglesia Cat\u00f3lica en un estado formalmente aconfesional es inaceptablemente discriminatorio.",
-  "short_text": "Aplicaci\u00f3n del IBI a los bienes inmuebles de la Iglesia. Se propone que el Ayuntamiento estudie los mecanismos jur\u00eddicos necesarios para que pueda asumir la competencia que le permita aplicar el IBI a..."
+  "text": "Aplicaci\u00f3n del IBI a los bienes inmuebles de la Iglesia",
+  "short_text": "Aplicaci\u00f3n del IBI a los bienes inmuebles de la Iglesia"
 }

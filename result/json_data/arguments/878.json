@@ -6,79 +6,37 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "20737",
-              "value": 100,
-              "text": "[20737] En Barcelona se usa, y est\u00e1 dando buenos resultados.",
-              "short_text": "[20737] En Barcelona se usa, y est\u00e1 dando buenos resultados."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] En Barcelona se usa, y est\u00e1 dando buenos resultados.",
           "short_text": "[SUPPORT] En Barcelona se usa, y est\u00e1 dando buenos resultados."
         },
         {
           "name": "2",
-          "children": [
-            {
-              "name": "25817",
-              "value": 100,
-              "text": "[25817] Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse.",
-              "short_text": "[25817] Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse.",
           "short_text": "[SUPPORT] Lo mejor es el pienso y no matar a los animales como si no importaran, eso deber\u00eda prohibirse."
         },
         {
           "name": "3",
-          "children": [
-            {
-              "name": "97005",
-              "value": 100,
-              "text": "[97005] HOla Ciudadana25, te comento. Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en \u00cftalia y en otros pa\u00edses. As\u00ed que su eficacia a d\u00eda de hoy no se cuestiona. El pienso viene adminstr\u00e1ndose ya por 15-20 a\u00f1os. En el video que hay adjunto a la entrada se muestran algunos datos sobre los estudios. MIra, hay tres piensos actualmente en uso en diferentes pa\u00edses: .",
-              "short_text": "[97005] HOla Ciudadana25, te comento. Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en \u00cftalia y en otros pa\u00edses. As\u00ed que su eficacia a d\u00eda de hoy no se cuestiona. El pienso viene adm..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en Italia y en otros pa\u00edses.",
           "short_text": "[SUPPORT] Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en Italia y en otros pa\u00edses."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "97005",
-              "value": 100,
-              "text": "[97005] HOla Ciudadana25, te comento. Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en \u00cftalia y en otros pa\u00edses. As\u00ed que su eficacia a d\u00eda de hoy no se cuestiona. El pienso viene adminstr\u00e1ndose ya por 15-20 a\u00f1os. En el video que hay adjunto a la entrada se muestran algunos datos sobre los estudios. MIra, hay tres piensos actualmente en uso en diferentes pa\u00edses: .",
-              "short_text": "[97005] HOla Ciudadana25, te comento. Hay estudios cient\u00edficos probados sobre la eficacia del pienso, en \u00cftalia y en otros pa\u00edses. As\u00ed que su eficacia a d\u00eda de hoy no se cuestiona. El pienso viene adm..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] El pienso viene administr\u00e1ndose ya por 15-20 a\u00f1os.",
           "short_text": "[SUPPORT] El pienso viene administr\u00e1ndose ya por 15-20 a\u00f1os."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "97006",
-              "value": 100,
-              "text": "[97006] El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental.",
-              "short_text": "[97006] El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental.",
           "short_text": "[SUPPORT] El pienso est\u00e1 estudiado eficacia y protocolo de administraci\u00f3n as\u00ed como su seguridad sanitaria y medioambiental."
         },
         {
           "name": "6",
-          "children": [
-            {
-              "name": "96997",
-              "value": 100,
-              "text": "[96997] Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos y que incluso est\u00e1n en peligro de extinci\u00f3n. Y tambi\u00e9n me gustar\u00eda saber si se ha avanzado algo en el cuidado de las enfermas, pues si vosotros no ten\u00e9is disponibilidad, la \u00fanica opci\u00f3n es el pagar a un veterinario particular, lo cual no tiene cabida en la econom\u00eda de muchos particulares sensibles a los animales.",
-              "short_text": "[96997] Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos y que incluso est\u00e1n en peligro de extinci\u00f3n.",
           "short_text": "[ATTACK] Mi preocupaci\u00f3n con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto e..."
         }
@@ -91,14 +49,7 @@
       "children": [
         {
           "name": "7",
-          "children": [
-            {
-              "name": "29991",
-              "value": 100,
-              "text": "[29991] Est\u00e1 muy bien introducir depredadores naturales, que es un m\u00e9todo de control poblacional complementario, pero el caso no es dejar de alimentarlas y que mueran de hambre, sino al igual que la Gesti\u00f3n de las Colonias Felinas se puede hacer a trav\u00e9s del CES bc hay que controlar su poblaci\u00f3n controlando su cr\u00eda, mediante pienso anticonceptivo y cerrando lugares de nidada. La soluci\u00f3n no pasa por que los animales mueran de hambre, eso no soluciona nada, sino que su n\u00famero sea estable y est\u00e9n sanas y cr\u00eden lo justo para mantener la poblaci\u00f3n que queremos en nuestras ciudades. El hambre no es la soluci\u00f3n, eso s\u00f3lo mata pichones y enferma a todos. Es un caso parecido a no dar de comer a los gatos, lo \u00fanico que pasa es que las cr\u00edas mueren, los j\u00f3venes enferman y los adultos sobreviven de manera lamentable, pero en ning\u00fan caso se reduce la poblaci\u00f3n.",
-              "short_text": "[29991] Est\u00e1 muy bien introducir depredadores naturales, que es un m\u00e9todo de control poblacional complementario, pero el caso no es dejar de alimentarlas y que mueran de hambre, sino al igual que la G..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos.",
           "short_text": "[SUPPORT] Existe una soluci\u00f3n \u00e9tica que pasa por la administraci\u00f3n de pienso anticonceptivo y uso de huevos falsos palomares ecol\u00f3gicos."
         }
@@ -126,6 +77,6 @@
       "short_text": "Cierre de huecos de nidada"
     }
   ],
-  "text": "Gesti\u00f3n \u00e9tica de la poblaci\u00f3n de palomas urbanas. Para gestionar la poblaci\u00f3n de palomas urbanas existen m\u00e9todos \u00e9ticos que no incurren en maltrato animal, como incurre la captura de estas aves y posterior sacrifico. Pienso anticonceptivo. Hola amigos, lanzamos de nuevo la propuesta ya que fue archivada, a ver si podemos recabar m\u00e1s votos esta vez C\u00f3digo de la propuesta: mad-2016-12-14890 Gesti\u00f3n \u00e9tica de la poblaci\u00f3n de palomas urbanas 2016 os dejo el link para que la apoy\u00e9is si a\u00fan segu\u00eds pensando en esta cohabitaci\u00f3n con la fauna urbana y en especial con las palomas. GRacias Patricia\u00a0 no a la captura y sacrificio de palomas urbanas en Madrid. Aplicaci\u00f3n del pienso anticonceptivo, palomares ecol\u00f3gicos y otros m\u00e9todos de disuasi\u00f3n y medidas por parte de urbanismo y parques. \u00a0 En todas las ciudades de Espa\u00f1a se est\u00e1n realizando campa\u00f1as sistem\u00e1ticas de exterminio de palomas urbanas, caz\u00e1ndolas mediante redes autom\u00e1ticas o jaulas trampa para su posterior sacrificio por gaseamiento mediante CO2 S\u00f3lo en la ciudad de Barcelona se exterminan cada a\u00f1o m\u00e1s de 60000 palomas. Esta masacre lleva m\u00e1s de 20 a\u00f1os realiz\u00e1ndose, sin ning\u00fan resultado salvo que ciertas empresas se lucren. Este sistema aparte de ser cruel, no reduce o controla la poblaci\u00f3n de palomas urbanas. Est\u00e1 demostrado que es esta masacre es ineficaz y supone que\u00a0nuestros ayuntamientos est\u00e1n malgastando nuestro dinero en maltrato animal gratuito Hay estudios europeos y estadounidenses demuestran que la utilizaci\u00f3n de pienso anticonceptivo es una opci\u00f3n eficaz y viable. En las localidades del estado espa\u00f1ol que se ha puesto en pr\u00e1ctica el uso de anticonceptivos en palomas se ha reducido hasta un 80 la poblaci\u00f3n en pocos a\u00f1os, como en los municipios de Cardona y Molins de Rei. Este sistema de control de la natalidad en palomas es totalmente indoloro y no implica muerte, no como los m\u00e9todos que se est\u00e1n llevando a cabo ahora. Ventajas del pienso anticonceptivo como m\u00e9todo de control de la poblaci\u00f3n de palomas urbanas El video enlazado a esta propuesta explica las alternativas con claridad: \u00a0https: //youtu. Be/u1wSN1isBy8 Desde malp reclamamos un cambio en la pol\u00edtica de control de la poblaci\u00f3n de palomas para una gesti\u00f3n \u00e9tica y eficaz de su poblaci\u00f3n ahora en Madrid Tambi\u00e9n existen otros m\u00e9todos complementarios como son la instalaci\u00f3n de palomares ecol\u00f3gicos educativos y de control y medidas disuasorias o urban\u00edsticas que ayudan a mantener una poblaci\u00f3n de palomas estable y sana. \u00a0 Si quieres saber m\u00e1s sobre captura y sacrificio de palomas urbanas y las posibles alternativas, puedes ver este\u00a0v\u00eddeo\u00a0o ir a nuestra p\u00e1gina\u00a0web. Ya han firmado la campa\u00f1a a nivel nacional m\u00e1s de 10000 personas: y a nivel local en Madrid, ya la han firmado m\u00e1s de 3600 personas: Acabemos con el maltrato animal en Madrid. \u00a0Madrid, cuidad amiga de los animales nuevo video explicativo: \u00a0https: //youtu. Be/8rd5ih_ReJ4 140716 El pasado 14 de julio se aprob\u00f3 en la Asamblea de Madrid la nueva ley 42016 sobre protecci\u00f3n animal en toda nuestra Comunidad de Madrid. En ella, en su disposici\u00f3n adicional se promueve la gesti\u00f3n de palomar urbanas a trav\u00e9s de pienso anticonceptivo y huevos falsos palomares ecol\u00f3gicos ergo, si contamos con que la nueva ley trae una dotaci\u00f3n econ\u00f3mica, ahora no quedan escusas para que los ayuntamientos de la Comunidad de Madrid y menos el de Madrid Capital, sigan capturando y matando palomas. Al menos ya no habr\u00e1 m\u00e1s captura urbana en la Comunidad de Madrid. Un peque\u00f1o paso. Por fin una gesti\u00f3n \u00e9tica de palomas urbanas, al igual que en la misma ley se incluye la gesti\u00f3n de \u00e9tica de perros y gatos feral o abandonados o de todo tipo. No obstante, sigamos pidi\u00e9ndoselo a Carmena para que no dude en aplicar el pienso anticonceptivo para aves lo antes posible firma y difunde porfa, ya van 2000 firmantes Picos y Plumas Mis Amigas Las Palomas \u00a0.",
-  "short_text": "Gesti\u00f3n \u00e9tica de la poblaci\u00f3n de palomas urbanas. Para gestionar la poblaci\u00f3n de palomas urbanas existen m\u00e9todos \u00e9ticos que no incurren en maltrato animal, como incurre la captura de estas aves y post..."
+  "text": "Gesti\u00f3n \u00e9tica de la poblaci\u00f3n de palomas urbanas",
+  "short_text": "Gesti\u00f3n \u00e9tica de la poblaci\u00f3n de palomas urbanas"
 }

@@ -6,14 +6,7 @@
       "children": [
         {
           "name": "1",
-          "children": [
-            {
-              "name": "33547",
-              "value": 100,
-              "text": "[33547] Totalmente apoyada. He sufrido en mis carnes el doloroso impuesto, que es un atraco, m\u00e1s que un impuesto. Mis hermanos y yo, hemos tenido que pagar nada menos que 8000 euros que no ten\u00edamos por la mitad de la herencia del piso de mi madre fallecida. Ocho mil euros Por un piso que debe estar tasado en unos 200000 euros. Y cuando fallezca mi padre, si no cambian esto, tendremos que pagar la otra mitad, o sea otros ocho mil euros As\u00ed ha habido tantas renuncias a herencias en Espa\u00f1a, que son expropiaciones forzosas por no poder pagar el impuesto revolucionario de gobiernos de derechas.",
-              "short_text": "[33547] Totalmente apoyada. He sufrido en mis carnes el doloroso impuesto, que es un atraco, m\u00e1s que un impuesto. Mis hermanos y yo, hemos tenido que pagar nada menos que 8000 euros que no ten\u00edamos po..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Mis hermanos y yo, hemos tenido que pagar nada menos que 8000 euros que no ten\u00edamos por la mitad de la herencia del piso de mi madre fallecida. Ocho mil euros Por un piso que debe estar tasado en unos 200000 euros.",
           "short_text": "[ATTACK] Mis hermanos y yo, hemos tenido que pagar nada menos que 8000 euros que no ten\u00edamos por la mitad de la herencia del piso de mi madre fallecida. Ocho mil euros Por un piso que debe estar tasad..."
         }
@@ -26,14 +19,7 @@
       "children": [
         {
           "name": "2",
-          "children": [
-            {
-              "name": "25213",
-              "value": 100,
-              "text": "[25213] En mi caso aunque se trataba de otra comunidad tras fallecer mi padre y para poder heredar las dos propiedades de escaso valor que con tanto esfuerzo me dej\u00f3, me vi obligado con 18 a\u00f1os a aparcar los estudios y ponerme a trabajar para pagar la burrada de dinero que me exig\u00eda la comunidad. Al menos tuvieron la decencia de fraccionarme el pago. A mi juicio deber\u00eda ser suficiente con el pago del IBI pero si tiene sentido tributar por algo as\u00ed al menos deber\u00eda existir un mecanismo para que ning\u00fan chaval tenga que pasar por una situaci\u00f3n tan injusta como la que pas\u00e9 yo.",
-              "short_text": "[25213] En mi caso aunque se trataba de otra comunidad tras fallecer mi padre y para poder heredar las dos propiedades de escaso valor que con tanto esfuerzo me dej\u00f3, me vi obligado con 18 a\u00f1os a apar..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] En mi caso aunque se trataba de otra comunidad tras fallecer mi padre y para poder heredar las dos propiedades de escaso valor que con tanto esfuerzo me dej\u00f3, me vi obligado con 18 a\u00f1os a aparcar los estudios y ponerme a trabajar para pagar la burrada de dinero que me exig\u00eda la comunidad.",
           "short_text": "[ATTACK] En mi caso aunque se trataba de otra comunidad tras fallecer mi padre y para poder heredar las dos propiedades de escaso valor que con tanto esfuerzo me dej\u00f3, me vi obligado con 18 a\u00f1os a apa..."
         }
@@ -46,40 +32,19 @@
       "children": [
         {
           "name": "3",
-          "children": [
-            {
-              "name": "105347",
-              "value": 100,
-              "text": "[105347] No es un impuesto de derechas. Lo formulo el gobierno socialista en el a\u00f1o 1988 Lo formul\u00f3 de forma que despu\u00e9s de 20 a\u00f1os de tener la posesi\u00f3n no se produce el hecho imponible.",
-              "short_text": "[105347] No es un impuesto de derechas. Lo formulo el gobierno socialista en el a\u00f1o 1988 Lo formul\u00f3 de forma que despu\u00e9s de 20 a\u00f1os de tener la posesi\u00f3n no se produce el hecho imponible."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] No es un impuesto de derechas. Lo formulo el gobierno socialista en el a\u00f1o 1988 Lo formul\u00f3 de forma que despu\u00e9s de 20 a\u00f1os de tener la posesi\u00f3n no se produce el hecho imponible.",
           "short_text": "[SUPPORT] No es un impuesto de derechas. Lo formulo el gobierno socialista en el a\u00f1o 1988 Lo formul\u00f3 de forma que despu\u00e9s de 20 a\u00f1os de tener la posesi\u00f3n no se produce el hecho imponible."
         },
         {
           "name": "4",
-          "children": [
-            {
-              "name": "37810",
-              "value": 100,
-              "text": "[37810] La subida de este impuesto es abusiva tantos en transmisiones intervivos como mortis causa. Los propios funcionarios del ayuntamiento te preguntan si conoces m\u00e1s o menos la cantidad que tienes que pagar, para que te sientes si no lo sabes, no sea que te vaya a dar un infarto. He tenido que pagar 9000 euros por la venta de un piso de 145000 euros. \u00a1Es una aut\u00e9ntica verg\u00fcenza!.",
-              "short_text": "[37810] La subida de este impuesto es abusiva tantos en transmisiones intervivos como mortis causa. Los propios funcionarios del ayuntamiento te preguntan si conoces m\u00e1s o menos la cantidad que tienes..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] La subida de este impuesto es abusiva tantos en transmisiones intervivos como mortis causa. Los propios funcionarios del ayuntamiento te preguntan si conoces m\u00e1s o menos la cantidad que tienes que pagar, para que te sientes si no lo sabes, no sea que te vaya a dar un infarto.",
           "short_text": "[ATTACK] La subida de este impuesto es abusiva tantos en transmisiones intervivos como mortis causa. Los propios funcionarios del ayuntamiento te preguntan si conoces m\u00e1s o menos la cantidad que tiene..."
         },
         {
           "name": "5",
-          "children": [
-            {
-              "name": "105337",
-              "value": 100,
-              "text": "[105337] El hecho imponible del IIVTNU es de naturaleza instant\u00e1nea y para el caso de herencias no se manifiesta el incremento despu\u00e9s de 20 a\u00f1os. Lo dice a ordenanza del Ayuntamiento de Madrid. Art. 21 El per\u00edodo de imposici\u00f3n comprende el n\u00famero de a\u00f1os a lo largo de los cuales se pone de manifiesto el incremento del valor de los terrenos y se computar\u00e1 desde el devengo inmediato anterior del impuesto, con el l\u00edmite m\u00e1ximo de veinte a\u00f1os. Por lo tanto en el a\u00f1o 21 no se pone de manifiesto y no se produce el hecho imponible del IIVTNU Nadie puede calcular la plusval\u00eda pasados 20 a\u00f1os porque como dice dicho art\u00edculo se computar\u00e1 que solamente se manifiesta durante 20 a\u00f1os. Despu\u00e9s de 20 no hay manifiesto del incremento y por lo tanto no se cumple la formulaci\u00f3n del hecho imponible el incremento de ponga de manifiesto a consecuencia de su transmisi\u00f3n.",
-              "short_text": "[105337] El hecho imponible del IIVTNU es de naturaleza instant\u00e1nea y para el caso de herencias no se manifiesta el incremento despu\u00e9s de 20 a\u00f1os. Lo dice a ordenanza del Ayuntamiento de Madrid. Art...."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] El hecho imponible del IIVTNU es de naturaleza instant\u00e1nea y para el caso de herencias no se manifiesta el incremento despu\u00e9s de 20 a\u00f1os. Lo dice a ordenanza del Ayuntamiento de Madrid.",
           "short_text": "[ATTACK] El hecho imponible del IIVTNU es de naturaleza instant\u00e1nea y para el caso de herencias no se manifiesta el incremento despu\u00e9s de 20 a\u00f1os. Lo dice a ordenanza del Ayuntamiento de Madrid."
         }
@@ -92,40 +57,19 @@
       "children": [
         {
           "name": "6",
-          "children": [
-            {
-              "name": "127332",
-              "value": 100,
-              "text": "[127332] Propongo crear una plataforma entre todas las personas que est\u00e1n de acuerdo con eliminar estos impuestos abusivos y conseguir firmas y apoyos para que finalmente se apliquen terminos impositivos m\u00e1s justos a la realidad, tanto de trasmisiones en vida como despu\u00e9s de la muerte a los hijos o no, pues ya se paga el IBI que grava anualmente al contribuyente, en todo caso que el incremento de patrimonio este regulado en funci\u00f3n de ingresos, no es lo mismo para un pensionista o trabajador mileurista que para los due\u00f1os de las torres kio, etc.",
-              "short_text": "[127332] Propongo crear una plataforma entre todas las personas que est\u00e1n de acuerdo con eliminar estos impuestos abusivos y conseguir firmas y apoyos para que finalmente se apliquen terminos impositi..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] Creo que esto aclara todas las dudas. Propongo crear una plataforma entre todas las personas que est\u00e1n de acuerdo con eliminar estos impuestos abusivos y conseguir firmas y apoyos para que finalmente se apliquen t\u00e9rminos impositivos m\u00e1s justos a la realidad.",
           "short_text": "[SUPPORT] Creo que esto aclara todas las dudas. Propongo crear una plataforma entre todas las personas que est\u00e1n de acuerdo con eliminar estos impuestos abusivos y conseguir firmas y apoyos para que f..."
         },
         {
           "name": "7",
-          "children": [
-            {
-              "name": "25521",
-              "value": 100,
-              "text": "[25521] \u00a1Pero Ram\u00f3n Maynou Ferreres qu\u00e9 dices! Se nota que no tienes problemas, dificultades para pagar impuestos que por si ya son algunos abusivos por lo que recibimos despu\u00e9s en servicios. \u00bfNo es suficiente que el que recibe por herencia y dem\u00e1s un inmueble para su uso como la vivienda pagar el IBI Yo creo que si.",
-              "short_text": "[25521] \u00a1Pero Ram\u00f3n Maynou Ferreres qu\u00e9 dices! Se nota que no tienes problemas, dificultades para pagar impuestos que por si ya son algunos abusivos por lo que recibimos despu\u00e9s en servicios. \u00bfNo es s..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] \u00a1Pero Ram\u00f3n Maynou Ferreres qu\u00e9 dices! Se nota que no tienes problemas, dificultades para pagar impuestos que por si ya son algunos abusivos por lo que recibimos despu\u00e9s en servicios. \u00bfNo es suficiente que el que recibe por herencia y dem\u00e1s un inmueble para su uso como la vivienda pagar el IBI Yo creo que si.",
           "short_text": "[ATTACK] \u00a1Pero Ram\u00f3n Maynou Ferreres qu\u00e9 dices! Se nota que no tienes problemas, dificultades para pagar impuestos que por si ya son algunos abusivos por lo que recibimos despu\u00e9s en servicios. \u00bfNo es..."
         },
         {
           "name": "8",
-          "children": [
-            {
-              "name": "25115",
-              "value": 100,
-              "text": "[25115] Entiendo que debe ser proporcional al valor de la herencia recibida relicto hereditario, no solo hay que tener en cuenta los inmuebles sino el total recibido. Se deber\u00eda establecer una tabla de la suma de los valores, en el que superando una cantidad ejemplo 1 mill\u00f3n Si se debe abonar impuesto de plus val\u00eda.",
-              "short_text": "[25115] Entiendo que debe ser proporcional al valor de la herencia recibida relicto hereditario, no solo hay que tener en cuenta los inmuebles sino el total recibido. Se deber\u00eda establecer una tabla d..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Entiendo que debe ser proporcional al valor de la herencia recibida relicto hereditario, no solo hay que tener en cuenta los inmuebles sino el total recibido. Se deber\u00eda establecer una tabla de la suma de los valores, en el que superando una cantidad ejemplo 1 mill\u00f3n Si se debe abonar impuesto de plus val\u00eda.",
           "short_text": "[ATTACK] Entiendo que debe ser proporcional al valor de la herencia recibida relicto hereditario, no solo hay que tener en cuenta los inmuebles sino el total recibido. Se deber\u00eda establecer una tabla..."
         }
@@ -138,14 +82,7 @@
       "children": [
         {
           "name": "9",
-          "children": [
-            {
-              "name": "25530",
-              "value": 100,
-              "text": "[25530] \u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido! \u00a1Pero a partir de tenerlo a su nombre legalmente, no antes de esto!.",
-              "short_text": "[25530] \u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecid..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] \u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallecido!",
           "short_text": "[SUPPORT] \u00a1No a tener que pagar impuestos al recibir un inmueble a 0 \u20ac por herencia o donaci\u00f3n! \u00a1Si a pagar el impuesto del IBI cuando ya esta realizada la transmisi\u00f3n a nombre del heredero del fallec..."
         }
@@ -158,40 +95,19 @@
       "children": [
         {
           "name": "10",
-          "children": [
-            {
-              "name": "25528",
-              "value": 100,
-              "text": "[25528] \u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u20ac al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
-              "short_text": "[25528] \u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar..."
-            }
-          ],
+          "children": [],
           "text": "[SUPPORT] \u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para ganar dinero por \u00e9l por 0 \u20ac al fallecer y que en su momento compr\u00f3 para que vivieran en el piso o vivienda toda la familia hijos, matrimonio, e incluso en muchos casos abuelos, tios.",
           "short_text": "[SUPPORT] \u00a1Pero Victor m t qu\u00e9 dices! Ni proporcinal ni leches: Estamos hablando de algo que es de alguien y deja a sus hijos o familiar un inmueble vivienda, etc. Para que disfrute de \u00e9l no para gana..."
         },
         {
           "name": "11",
-          "children": [
-            {
-              "name": "24576",
-              "value": 100,
-              "text": "[24576] Yo quitar\u00eda los impuestos de: 1- Plusval\u00eda por injusto por no contemplar las minusv\u00e1lidas 2- Donaci\u00f3n 3- Transmisi\u00f3n y para compensar subir\u00eda el Impuesto IBI para compensar la bajada en recaudaci\u00f3n.",
-              "short_text": "[24576] Yo quitar\u00eda los impuestos de: 1- Plusval\u00eda por injusto por no contemplar las minusv\u00e1lidas 2- Donaci\u00f3n 3- Transmisi\u00f3n y para compensar subir\u00eda el Impuesto IBI para compensar la bajada en recaud..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Yo quitar\u00eda los impuestos de: 1- Plusval\u00eda por injusto por no contemplar las minusv\u00e1lidas 2- Donaci\u00f3n 3- Transmisi\u00f3n y para compensar subir\u00eda el Impuesto IBI para compensar la bajada en recaudaci\u00f3n.",
           "short_text": "[ATTACK] Yo quitar\u00eda los impuestos de: 1- Plusval\u00eda por injusto por no contemplar las minusv\u00e1lidas 2- Donaci\u00f3n 3- Transmisi\u00f3n y para compensar subir\u00eda el Impuesto IBI para compensar la bajada en recau..."
         },
         {
           "name": "12",
-          "children": [
-            {
-              "name": "33570",
-              "value": 100,
-              "text": "[33570] Quiz\u00e1s habr\u00eda que explicar esto con m\u00e1s detalle para las personas que todav\u00eda no han pasado por esta situaci\u00f3n pero pasar\u00e1n Cuando alguien fallece, los herederos tienen que pagar dos veces: 1 Por un lado el impuesto de sucesiones Comunidad de Madrid 2 por otro lado la plusval\u00eda municipal ayuntamiento Pues bien, el ayuntamiento de Botella, para recaudar, ha multiplicado por varias veces las tablas del c\u00e1lculo de plusval\u00eda por transmisi\u00f3n por herencias. De forma que si heredas un bien inmueble, del que no has recibido ni un euro en efectivo, tienes que pagar una cantidad exorbitante al ayuntamiento. Ojo que eso os puede pasar a cualquier familia de clase media.",
-              "short_text": "[33570] Quiz\u00e1s habr\u00eda que explicar esto con m\u00e1s detalle para las personas que todav\u00eda no han pasado por esta situaci\u00f3n pero pasar\u00e1n Cuando alguien fallece, los herederos tienen que pagar dos veces: 1..."
-            }
-          ],
+          "children": [],
           "text": "[ATTACK] Que pague el IBI la Iglesia y todo el mundo, incluidos organismos p\u00fablicos. Quiz\u00e1s habr\u00eda que explicar esto con m\u00e1s detalle para las personas que todav\u00eda no han pasado por esta situaci\u00f3n pero pasar\u00e1n Cuando alguien fallece, los herederos tienen que pagar dos veces: 1 Por un lado el impuesto de sucesiones Comunidad de Madrid 2 por otro lado la plusval\u00eda municipal ayuntamiento.",
           "short_text": "[ATTACK] Que pague el IBI la Iglesia y todo el mundo, incluidos organismos p\u00fablicos. Quiz\u00e1s habr\u00eda que explicar esto con m\u00e1s detalle para las personas que todav\u00eda no han pasado por esta situaci\u00f3n pero..."
         }
@@ -200,6 +116,6 @@
       "short_text": "Justicia social"
     }
   ],
-  "text": "Quitar el impuesto sobre la plusvalia en las herencias. Pagar el impuesto municipal de plusvalia por la herencia de inmuebles es abusivo porque no hay transacci\u00f3n econ\u00f3mica y solo cambio de titularidad. Situaci\u00f3n diferente es cuando hay compra-venta. Cuando se recibe como herencia un inmueble o piso se paga un impuesto municipal de plusvalia que es incluso superior, en importe, al impuesto de sucesiones, con el agravante de que como solo se produce un cambio de titularidad no hay ning\u00fana transacci\u00f3n econ\u00f3mica por enmedio que te permita obtener alg\u00fan ingreso con el que pagar el impuesto, lo que supone un fuerte quebranto en los ahorros, sobre todo si estas jubilado o en desempleo, Cuando hay una compra-venta del inmueble, en la que el vendedor recibe el importe de la venta, el impuesto est\u00e1 m\u00e1s justificado y, al menos, se recibe un dinero que te permite pagar el impuesto.",
-  "short_text": "Quitar el impuesto sobre la plusvalia en las herencias. Pagar el impuesto municipal de plusvalia por la herencia de inmuebles es abusivo porque no hay transacci\u00f3n econ\u00f3mica y solo cambio de titularida..."
+  "text": "Quitar el impuesto sobre la plusvalia en las herencias",
+  "short_text": "Quitar el impuesto sobre la plusvalia en las herencias"
 }
