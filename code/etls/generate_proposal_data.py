@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
     Created by: Andrés Segura-Tinoco
-    Version: 0.3
+    Version: 0.4
     Created on: Nov 23, 2023
-    Updated on: Nov 27, 2023
-    Description: Generate proposal data.
+    Updated on: Dec 12, 2023
+    Description: Generate proposal data with identified arguments.
 """
 
 import util_libs as ul
@@ -13,7 +13,9 @@ import datetime
 MAX_TEXT_SIZE = 200
 
 
-def create_proposal_data(proposal_id: int, proposal_hierarchy: dict, comments: dict):
+def create_proposal_data(
+    proposal_id: int, proposal_hierarchy: dict, comments: dict, arg_data: dict
+):
     prop_text = get_comment_text(comments[proposal_id])
     prop_short_text = get_comment_short_text(prop_text)
 
@@ -26,7 +28,7 @@ def create_proposal_data(proposal_id: int, proposal_hierarchy: dict, comments: d
     parent_id = -1
 
     proposal_data["children"] = __create_proposal_data_inner(
-        proposal_data["children"], proposal_hierarchy, comments, parent_id
+        proposal_data["children"], proposal_hierarchy, comments, arg_data, parent_id
     )
 
     return proposal_data
@@ -36,6 +38,7 @@ def __create_proposal_data_inner(
     proposal_data: list,
     proposal_hierarchy: dict,
     comments: dict,
+    arg_data: dict,
     parent_id: int = -1,
 ):
     comment_ids = proposal_hierarchy["comment_ids"]
@@ -45,17 +48,30 @@ def __create_proposal_data_inner(
         if curr_parent_id == parent_id:
             prop_text = get_comment_text(comments[curr_comment_id])
             prop_short_text = get_comment_short_text(prop_text)
+            argument = arg_data.get(curr_comment_id, {})
+            arg_intent = (
+                {"A favor": "support", "En contra": "attack"}
+                .get(argument.get("arg_intent", ""), "")
+                .upper()
+            )
+            arg_category = argument.get("arg_cat", "")
 
             if curr_comment_id in parent_ids:
                 item = {
                     "name": str(curr_comment_id),
                     "children": [],
                     "text": prop_text,
-                    "short_text": prop_short_text,
+                    "short_text": f"[{arg_intent} - {arg_category}] {prop_short_text}"
+                    if arg_intent != ""
+                    else prop_short_text,
                 }
                 proposal_data.append(item)
                 __create_proposal_data_inner(
-                    item["children"], proposal_hierarchy, comments, curr_comment_id
+                    item["children"],
+                    proposal_hierarchy,
+                    comments,
+                    arg_data,
+                    curr_comment_id,
                 )
             else:
                 if len(prop_text) > 0:
@@ -63,7 +79,9 @@ def __create_proposal_data_inner(
                         "name": str(curr_comment_id),
                         "value": 100,
                         "text": prop_text,
-                        "short_text": prop_short_text,
+                        "short_text": f"[{arg_intent} - {arg_category}] {prop_short_text}"
+                        if arg_intent != ""
+                        else prop_short_text,
                     }
                     proposal_data.append(item)
 
@@ -98,6 +116,37 @@ def get_comment_short_text(comment: str):
     return short_comment
 
 
+def load_arguments(input_path: str):
+    arguments = {}
+    file_path = f"{input_path}/arguments.csv"
+    data = ul.read_csv_with_encoding(file_path)
+
+    for index, row in data.iterrows():
+        proposal_id = row["proposal_id"]
+        comment_id_str = row["comment_id"]
+        comment_ids = [
+            int(comment_id)
+            for comment_id in comment_id_str.replace("[", "")
+            .replace("]", "")
+            .replace(" ", "")
+            .split(",")
+        ]
+        arg_cat = row["arguments name"]
+        arg_desc = row["argument_description"]
+        arg_intent = row["argument types"]
+
+        proposal = arguments.get(proposal_id, {})
+        for comment_id in comment_ids:
+            proposal[comment_id] = {
+                "arg_cat": arg_cat,
+                "arg_description": arg_desc,
+                "arg_intent": arg_intent,
+            }
+        arguments[proposal_id] = proposal
+
+    return arguments
+
+
 def read_comment_hierarchy(input_path: str):
     hierarchy = {}
     file_path = f"{input_path}/comment_hierarchy.csv"
@@ -122,14 +171,26 @@ def main():
     input_path = f"{solution_path}/data/raw_data"
     proposals = ul.read_jsonl_data(input_path)
     hierarchy = read_comment_hierarchy(input_path)
+    input_path = f"{solution_path}/data/gpt_data"
+    arguments = load_arguments(input_path)
     print(f"Number of proposals: {len(proposals)}")
+    print(f"Number of arguments: {len(arguments)}")
 
     for prop_name, prop_data in proposals.items():
         prop_id = int(prop_name)
 
+        # Filters
+        if prop_id not in arguments:
+            continue
+
+        arg_data = arguments[prop_id]
+        print(f"Argument types: {len(arg_data)}")
+
         comments = get_proposal_comments(prop_data)
 
-        json_data = create_proposal_data(prop_id, hierarchy[prop_id], comments)
+        json_data = create_proposal_data(
+            prop_id, hierarchy[prop_id], comments, arg_data
+        )
         n_items = len(json_data["children"])
         print(f"Proposal: {prop_id} and number of items: {n_items}")
 
